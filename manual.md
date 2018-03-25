@@ -13,16 +13,15 @@
 13. Run *War Thunder*.
 14. For every nation
     1. Run `Java/WarThunderTreeTableManager`.
-    2. Open `table/%s.csv` with it, where `%s` is the nation.
+    2. Open `data/%s.csv` with it, where `%s` is the nation.
     3. Update the table with the new entries from `list diff %s %s.txt`.
-    4. Overwrite `table/%s.csv`.
+    4. Overwrite `data/%s.csv`.
 15. Close *War Thunder*.
-16. Copy the *CSV* files to the `Java` folder.
-17. Run `WarThunderGroundAttackTestRangeGenerator` and choose the `Java` folder.
-18. Copy the generated *BLK*s with names ending in `_screenshot` to *War Thunder*'s `UserMissions` folder.
-19. Run *War Thunder* with *Movie* graphic settings and 1366x768 resolution.
-20. For every mission
+16. Run `Java/WarThunderGroundAttackTestRangeGenerator` and choose the `data` folder.
+17. Copy the generated *BLK*s with names ending in `_screenshot` to *War Thunder*'s `UserMissions` folder.
+18. Run *War Thunder* with *Movie* graphic settings and 1366x768 resolution.
+19. For every mission
     1. Play the mission for a few seconds then exit it.
     2. Replay it.
     3. Take the screenshot with *Ansel* (*FOV* 90).
-21. Zip everything and publish it.
+20. Zip everything and publish it.
