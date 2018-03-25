@@ -1,0 +1,28 @@
+    unit_class:t="jp_type_95_ha_go"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t="jp_type_95_ha_go_default"
+    bullets0:t="37mm_type_94_APHE"
+    bullets1:t="art_support"
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=5
+    bulletsCount1:i=5
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=1
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="fire_at_will"
+      targetableByAi:b=no
+    }
+
+    way{
+    }
+  }

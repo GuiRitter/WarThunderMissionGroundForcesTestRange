@@ -1,0 +1,28 @@
+    unit_class:t="us_lvt_a_1"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t="us_lvt_a_1_default"
+    bullets0:t=""
+    bullets1:t="37mm_usa_m3_APC"
+    bullets2:t="37mm_usa_m3_HE"
+    bullets3:t="art_support"
+    bulletsCount0:i=5
+    bulletsCount1:i=5
+    bulletsCount2:i=5
+    bulletsCount3:i=5
+
+    props{
+      army:i=1
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="fire_at_will"
+      targetableByAi:b=no
+    }
+
+    way{
+    }
+  }

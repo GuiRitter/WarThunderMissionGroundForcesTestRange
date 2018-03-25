@@ -1,0 +1,309 @@
+selected_tag:t=""
+bin_dump_file:t=""
+
+mission_settings{
+  atmosphere{
+    pressure:r=760
+    temperature:r=15
+  }
+
+  stars{
+    latitude:r=48
+    longitude:r=44
+    year:i=1940
+    month:i=1
+    day:i=15
+    time:r=12
+  }
+
+  player{
+    army:i=1
+    wing:t="armada_player"
+  }
+
+  player_teamB{
+    army:i=2
+  }
+
+  mission{
+    name:t="Ground_Attack_Test_Range_UK"
+    level:t="levels/flatlands.bin"
+    type:t="singleMission"
+    restoreType:t="attempts"
+    optionalTakeOff:b=no
+    campaign:t="UserMissions"
+    environment:t="Noon"
+    weather:t="clear"
+    missionDebriefing:t=""
+    missionBriefing:t=""
+
+    tags{
+    }
+
+    missionType{
+      _Dom:b=no
+      _Conq:b=no
+      _Bttl:b=no
+      _Bto:b=no
+      _Flc:b=no
+      _v1_race_straight:b=no
+      _v1_race_inverted:b=no
+      _v2_race_straight:b=no
+      _v2_race_inverted:b=no
+      _Conq1:b=no
+      _Conq2:b=no
+      _Conq3:b=no
+      _Conq4:b=no
+      _Conq5:b=no
+      _Conq6:b=no
+    }
+  }
+
+  spectator_points{
+  }
+
+  cover_points{
+  }
+
+  aiParams{
+    aiEffectivenessViscosity:r=90
+    effectivenessDistances:p2=2500, 7000
+  }
+}
+
+imports{
+}
+
+triggers{
+  isCategory:b=yes
+  is_enabled:b=yes
+
+  trigger_unlimited_power{
+    is_enabled:b=yes
+    comments:t=""
+
+    props{
+      actionsType:t="PERFORM_ONE_BY_ONE"
+      conditionsType:t="ALL"
+      enableAfterComplete:b=yes
+    }
+
+    events{
+      periodicEvent{
+        time:r=0.1
+      }
+    }
+
+    conditions{
+    }
+
+    actions{
+      unitRestore{
+        ressurectIfDead:b=no
+        fullRestore:b=no
+        target:t="armada_player"
+        ammoRestore:b=yes
+      }
+    }
+
+    else_actions{
+    }
+  }
+
+  trigger_speed_boost_5{
+    is_enabled:b=yes
+    comments:t=""
+
+    props{
+      actionsType:t="PERFORM_ONE_BY_ONE"
+      conditionsType:t="ALL"
+      enableAfterComplete:b=yes
+    }
+
+    events{
+      periodicEvent{
+        time:r=0.1
+      }
+    }
+
+    conditions{
+      playerShortcutPressed{
+        control:t="ID_TOGGLE_1_ENGINE_CONTROL"
+        pressed:b=yes
+      }
+    }
+
+    actions{
+      unitSetProperties{
+        object:t="armada_player"
+        speed:r=200
+      }
+    }
+
+    else_actions{
+    }
+  }
+
+  trigger_speed_boost_6{
+    is_enabled:b=yes
+    comments:t=""
+
+    props{
+      actionsType:t="PERFORM_ONE_BY_ONE"
+      conditionsType:t="ALL"
+      enableAfterComplete:b=yes
+    }
+
+    events{
+      periodicEvent{
+        time:r=0.1
+      }
+    }
+
+    conditions{
+      playerShortcutPressed{
+        control:t="ID_TOGGLE_2_ENGINE_CONTROL"
+        pressed:b=yes
+      }
+    }
+
+    actions{
+      unitSetProperties{
+        object:t="armada_player"
+        speed:r=400
+      }
+    }
+
+    else_actions{
+    }
+  }
+
+  trigger_speed_boost_7{
+    is_enabled:b=yes
+    comments:t=""
+
+    props{
+      actionsType:t="PERFORM_ONE_BY_ONE"
+      conditionsType:t="ALL"
+      enableAfterComplete:b=yes
+    }
+
+    events{
+      periodicEvent{
+        time:r=0.1
+      }
+    }
+
+    conditions{
+      playerShortcutPressed{
+        control:t="ID_TOGGLE_3_ENGINE_CONTROL"
+        pressed:b=yes
+      }
+    }
+
+    actions{
+      unitSetProperties{
+        object:t="armada_player"
+        speed:r=700
+      }
+    }
+
+    else_actions{
+    }
+  }
+
+  trigger_speed_boost_8{
+    is_enabled:b=yes
+    comments:t=""
+
+    props{
+      actionsType:t="PERFORM_ONE_BY_ONE"
+      conditionsType:t="ALL"
+      enableAfterComplete:b=yes
+    }
+
+    events{
+      periodicEvent{
+        time:r=0.1
+      }
+    }
+
+    conditions{
+      playerShortcutPressed{
+        control:t="ID_TOGGLE_4_ENGINE_CONTROL"
+        pressed:b=yes
+      }
+    }
+
+    actions{
+      unitSetProperties{
+        object:t="armada_player"
+        speed:r=1500
+      }
+    }
+
+    else_actions{
+    }
+  }
+}
+
+mission_objectives{
+  isCategory:b=yes
+  is_enabled:b=yes
+}
+
+variables{
+}
+
+dialogs{
+}
+
+airfields{
+}
+
+effects{
+}
+
+units{
+  armada{
+    name:t="armada_player"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [0, 500, 0]]
+    unit_class:t="swordfish_mk1"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t="swordfish_mk1_4x250lb"
+    bullets0:t="303_all_tracers"
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=1
+      count:i=1
+      free_distance:r=70
+      floating_distance:r=50
+      minimum_distance_to_earth:r=20
+      altLimit:r=6000
+      attack_type:t="fire_at_will"
+      skill:i=4
+      player:b=yes
+
+      plane{
+        wing_formation:t="Diamond"
+        row_distances:r=3
+        col_distances:r=3
+        super_formation:t="Diamond"
+        super_row_distances:r=1.5
+        super_col_distances:r=1.5
+        ai_skill:t="NORMAL"
+        task:t="FLY_WAYPOINT"
+      }
+    }
+
+    way{
+    }
+  }

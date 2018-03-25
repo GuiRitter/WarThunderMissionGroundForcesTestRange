@@ -1,0 +1,30 @@
+    unit_class:t="fr_amc_34"
+    objLayer:i=1
+    closed_waypoints:b=no
+    isShipSpline:b=no
+    shipTurnRadius:r=100
+    weapons:t="fr_amc_34_default"
+    bullets0:t=""
+    bullets1:t="47mm_SA34_APHE"
+    bullets2:t="art_support"
+    bullets3:t="art_support"
+    bulletsCount0:i=5
+    bulletsCount1:i=5
+    bulletsCount2:i=5
+    bulletsCount3:i=5
+
+    props{
+      army:i=1
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="fire_at_will"
+      targetableByAi:b=no
+    }
+
+    way{
+    }
+  }
