@@ -12,10 +12,10 @@
 12. Open the most recent `list diff %s %s.txt`.
 13. Run *War Thunder*.
 14. For every nation
-    1. Open its *OpenDocument* spreadsheet.
-    2. Update the table with the new entries from `list diff %s %s.txt`.
-    3. Save the table as *CSV*, with a tab character as cell separator and nothing as text separator.
-    4. Open the *CSV* as a text file and remove the last empty line.
+    1. Run `Java/WarThunderTreeTableManager`.
+    2. Open `table/%s.csv` with it, where `%s` is the nation.
+    3. Update the table with the new entries from `list diff %s %s.txt`.
+    4. Overwrite `table/%s.csv`.
 15. Close *War Thunder*.
 16. Copy the *CSV* files to the `Java` folder.
 17. Run `WarThunderGroundAttackTestRangeGenerator` and choose the `Java` folder.
