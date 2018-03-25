@@ -1,0 +1,10 @@
+Type 95 Ha-Go	Type 98 Ke-Ni	Type 2 Ka-Mi	Light Tank M24 SDF	Medium Tank M4A3 (76) W HVSS Sherman	Light Tank M41 SDF	Type 60 Self-Propelled Recoilless Gun	Type 60 ATM
+jp_type_95_ha_go	jp_type_98_ke_ni	jp_type_2_ka_mi	jp_m24_chaffee	jp_m4a3e8_76w_sherman	jp_m41_walker_bulldog	jp_type_60_sprg	jp_type_60_atm
+Type 89b I-Go Ko	Type 97 Chi-Ha	Type 97 Chi-Ha Kai	Type 2 Ho-I	Type 1 Chi-He	Type 3 Chi-Nu	Type 4 Chi-To	Type 4 Chi-To Late	Type 5 Chi-Ri II	ST-A1	ST-A2	Type 61	STB-1	Type 74
+jp_type_89b_i_go_otsu	jp_type_97_chi_ha	jp_type_97_kai	jp_type_2_ho_i	jp_type_1_chi_he	jp_type_3_chi_nu	jp_type_4_chi_to	jp_type_4_chi_to_late	jp_type_5_chi_ri	jp_st_a1	jp_st_a2	jp_type_61	jp_st_b1	jp_type_74
+Type 4 Ho-Ro	Type 3 Ho-Ni I	Type 3 Ho-Ni III	Type 5 Na-To	Type 5 Ho-Ri Production
+jp_type_4_ho_ro	jp_type_3_ho_ni_i	jp_type_3_ho_ni_iii	jp_type_5_na_to	jp_type_5_ho_ri_production
+Isuzu Type 94	Ta-Se	So-Ki	Twin 40mm Self-Propelled Guns M42 Duster	Twin 35mm Self-Propelled Guns Type 87
+jp_type_94	jp_type_98_ta_se	jp_type_95_so_ki	jp_m42_duster	jp_type_87
+Type 95 Ha-Go Commander	Type 95 Ro-Go	Type 97 Chi-Ha Short Gun	Chi-Nu II	Heavy Tank No.6	Type 5 Ho-Ri Prototype
+jp_type_95_ha_go_commander	jp_type_95_heavy	jp_type_97_chi_ha_12cm	jp_type_3_chi_nu_75cm_type_5	jp_pzkpfw_VI_ausf_e_tiger	jp_type_5_ho_ri_prototype
