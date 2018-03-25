@@ -1,0 +1,17 @@
+aaa_dummy
+bigfoot
+germ_leopard_2a5
+germ_ru251
+germ_sturmpanzer_II
+jp_type_60_atm
+jp_type_87
+jp_type_95_heavy
+rf_t_90a
+uk_centurion_mk_1
+uk_fv4005
+us_m8_scott
+us_t14
+us_t34
+ussr_is_6
+ussr_su_5_1
+ussr_zsu_29k

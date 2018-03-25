@@ -1,0 +1,12 @@
+no lines only in old
+
+lines only in new:
+
+fr_amx_30
+fr_amx_30_b2_brenus
+germ_leopard_2k
+uk_challenger_1
+us_m1_abrams
+us_magach_3
+ussr_t_64_b_1984
+

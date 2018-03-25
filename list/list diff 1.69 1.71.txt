@@ -1,0 +1,23 @@
+no lines only in old
+
+lines only in new:
+
+germ_kpz_70
+germ_mkpz_m47
+germ_sdkfz_234_4
+germ_waffentrager_krupp_steyr
+jp_type_5_ho_ri_prototype
+uk_chieftain_mk_10
+uk_daimler_mk_2
+uk_fv102_striker
+us_m50_ontos
+us_m60a1_rise_passive_era
+us_mbt_70
+us_t114
+ussr_bmp_1
+ussr_btr_152a
+ussr_object_120
+ussr_su_100p
+ussr_t_64a_1971
+ussr_type_65_aa
+

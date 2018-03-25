@@ -1,0 +1,11 @@
+no lines only in old
+
+lines only in new:
+
+cn_is_2_1943_no402
+cn_type_86
+germ_begleitpanzer_57
+it_m26_ariete
+it_p_26_40
+jp_type_5_ho_ri_production
+us_m8_greyhound
