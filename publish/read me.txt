@@ -1,0 +1,9 @@
+Thanks for downloading!
+
+To install, drop all ".blk" files on War Thunder's User Missions folder,
+which is at
+C:\Program Files\WarThunder\UserMissions\
+on a default Windows 7 x32 installation and
+C:\Program Files (x86)\WarThunder\UserMissions\
+on a default Windows 7 x64 installation.
+
