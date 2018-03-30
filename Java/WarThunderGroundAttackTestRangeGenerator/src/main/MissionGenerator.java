@@ -107,17 +107,20 @@ public final class MissionGenerator {
                     for (int y = 0; y < height; y++) {
                         fields = inputList.get((2 * y) + 1).split("\t");
                         for (int x = 0; x < fields.length; x++) {
-                            /**/try{
-                            lines.add("  tankModels{");
-                            lines.add("    name:t=\"tank_" + y + "_" + x + "\"");
-                            lines.add("    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] ["
-                             + ((((x * 2) - width + 1) * distanceX) + centerX)
-                             + ", " + depth + ", "
-                             + ((((y * 2) - height + 1) * distanceZ) + centerZ)
-                             + "]]");
-                            lines.add("    unit_class:t=\"" + fields[x] + "\"");
-                            lines.addAll(tankModel);
-                            lines.add("");/**/}catch(Exception ex){ex.printStackTrace();}
+                            try{
+                                lines.add("  tankModels{");
+                                lines.add("    name:t=\"tank_" + y + "_" + x + "\"");
+                                lines.add("    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] ["
+                                 + ((((x * 2) - width + 1) * distanceX) + centerX)
+                                 + ", " + depth + ", "
+                                 + ((((y * 2) - height + 1) * distanceZ) + centerZ)
+                                 + "]]");
+                                lines.add("    unit_class:t=\"" + fields[x] + "\"");
+                                lines.addAll(tankModel);
+                                lines.add("");
+                            }catch(Exception ex){
+                                ex.printStackTrace();
+                            }
                         }
                     }
                     lines.addAll(Files.readAllLines(
