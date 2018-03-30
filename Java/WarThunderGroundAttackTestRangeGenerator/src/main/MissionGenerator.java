@@ -37,7 +37,7 @@ public final class MissionGenerator {
         int centerX;   // x measured range: 1760 – 2860 // ground center: 2310 // air center: 0
         int centerZ;   // z measured range: 1780 – 2100 // ground center: 1940 // air center: 0
         int distanceX; // x distance parallel to the tracks // close as possible: 5 // ground normal: 10 // air normal: 200
-        int distanceZ; // z distance perpendicular to the tracks // close as possible: 2 // ground normal: 10 // air normal: 200
+        double distanceZ; // z distance perpendicular to the tracks // close as possible: 2 // ground normal: 10 // air normal: 200
         List<String> tankModel = Files.readAllLines(inputFolder.toPath().resolve("tank model.txt"));
         for (boolean screenshot : new boolean[]{false, true}) {
             for (String faction : factions) {
@@ -56,7 +56,7 @@ public final class MissionGenerator {
                             centerX = 8192;//2310;//3200
                             centerZ = 8192;//1940;//200
                             distanceX = 6;
-                            distanceZ = 3;
+                            distanceZ = 2.5;
                             depth = "1";
                             lines.add("    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] ["
                              + 7168 + ", 1, " + centerZ + "]]");
@@ -107,18 +107,18 @@ public final class MissionGenerator {
                     for (int y = 0; y < height; y++) {
                         fields = inputList.get((2 * y) + 1).split("\t");
                         for (int x = 0; x < fields.length; x++) {
-                            try{
+                            try {
                                 lines.add("  tankModels{");
                                 lines.add("    name:t=\"tank_" + y + "_" + x + "\"");
                                 lines.add("    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] ["
                                  + ((((x * 2) - width + 1) * distanceX) + centerX)
                                  + ", " + depth + ", "
-                                 + ((((y * 2) - height + 1) * distanceZ) + centerZ)
+                                 + ((((double) ((y * 2) - height + 1)) * distanceZ) + ((double) centerZ)) // TODO BigDecimal
                                  + "]]");
                                 lines.add("    unit_class:t=\"" + fields[x] + "\"");
                                 lines.addAll(tankModel);
                                 lines.add("");
-                            }catch(Exception ex){
+                            } catch(Exception ex) {
                                 ex.printStackTrace();
                             }
                         }

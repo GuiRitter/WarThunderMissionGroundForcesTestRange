@@ -8,12 +8,11 @@ mission_settings{
   }
 
   stars{
-    latitude:r=48
-    longitude:r=44
+    latitude:r=0
+    longitude:r=0
     year:i=1940
-    month:i=1
-    day:i=15
-    time:r=12
+    month:i=3
+    day:i=20
   }
 
   player{
@@ -32,7 +31,7 @@ mission_settings{
     restoreType:t="attempts"
     optionalTakeOff:b=no
     campaign:t="UserMissions"
-    environment:t="Noon"
+    environment:t="12"
     weather:t="clear"
     missionDebriefing:t=""
     missionBriefing:t=""
@@ -164,7 +163,7 @@ units{
 
   tankModels{
     name:t="tank_0_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7932, 1, 8192]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7932, 1, 8192.0]]
     unit_class:t="it_p_26_40"
     objLayer:i=1
     closed_waypoints:b=no
@@ -195,7 +194,7 @@ units{
 
   tankModels{
     name:t="tank_0_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7952, 1, 8192]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7952, 1, 8192.0]]
     unit_class:t="it_m26_ariete"
     objLayer:i=1
     closed_waypoints:b=no
