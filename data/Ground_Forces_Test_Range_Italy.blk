@@ -131,7 +131,7 @@ effects{
 units{
   tankModels{
     name:t="armada_player"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7922, 220, 8192]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7902, 220, 8192]]
     unit_class:t="ussr_bt_5"
     objLayer:i=1
     closed_waypoints:b=no
@@ -163,7 +163,7 @@ units{
 
   tankModels{
     name:t="tank_0_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7942, 1, 8192.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7922, 1, 8192.0]]
     unit_class:t="it_p_26_40"
     objLayer:i=1
     closed_waypoints:b=no
@@ -194,7 +194,7 @@ units{
 
   tankModels{
     name:t="tank_0_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7962, 1, 8192.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7942, 1, 8192.0]]
     unit_class:t="it_m26_ariete"
     objLayer:i=1
     closed_waypoints:b=no

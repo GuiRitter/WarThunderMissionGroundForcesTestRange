@@ -1,0 +1,20 @@
+no lines only in old
+
+lines only in new:
+
+fr_bat_chat_25t
+germ_leopard_a1a1_120
+germ_mkpz_m48a2ga2
+germ_sdkfz_234_3
+germ_thyssen_henschel_tam
+uk_fv510_isv
+us_m1_ip_abrams
+us_m247
+us_m551_football
+us_t54e1
+ussr_bmp_2
+ussr_is_7
+ussr_m551_football
+ussr_t_55_am
+ussr_t_80b
+
