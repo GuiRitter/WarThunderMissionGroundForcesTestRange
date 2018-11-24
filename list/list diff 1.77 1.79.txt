@@ -1,0 +1,21 @@
+lines only in old:
+
+ussr_gaz_4m_no_weapon
+
+lines only in new:
+
+fr_amx_40
+fr_lorraine_155
+germ_leopard_2a4
+germ_pzkpfw_VI_ausf_h1_tiger_animal_version
+germ_sdkfz_221_s_pz_b_41
+jp_type_90
+uk_centurion_mk_5_avre_era
+uk_chieftain_marksman
+uk_vickers_mk_6_aa_mk_1
+us_t18_e2
+us_xm1_chrysler
+us_xm1_gm
+us_xm_803
+ussr_t_62m1
+
