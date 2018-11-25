@@ -1284,7 +1284,7 @@ units{
   tankModels{
     name:t="tank_2_9"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8184.5]]
-    unit_class:t="us_m103"
+    unit_class:t="us_t32e1"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1315,7 +1315,7 @@ units{
   tankModels{
     name:t="tank_2_10"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8184.5]]
-    unit_class:t="us_t95e1"
+    unit_class:t="us_m103"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1346,7 +1346,7 @@ units{
   tankModels{
     name:t="tank_2_11"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8184.5]]
-    unit_class:t="us_xm_803"
+    unit_class:t="us_t95e1"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1377,7 +1377,7 @@ units{
   tankModels{
     name:t="tank_2_12"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8184.5]]
-    unit_class:t="us_mbt_70"
+    unit_class:t="us_xm_803"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1408,7 +1408,7 @@ units{
   tankModels{
     name:t="tank_2_13"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8184.5]]
-    unit_class:t="us_m1_abrams"
+    unit_class:t="us_mbt_70"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1439,6 +1439,37 @@ units{
   tankModels{
     name:t="tank_2_14"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8184.5]]
+    unit_class:t="us_m1_abrams"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_2_15"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8184.5]]
     unit_class:t="us_m1_ip_abrams"
     objLayer:i=1
     closed_waypoints:b=no

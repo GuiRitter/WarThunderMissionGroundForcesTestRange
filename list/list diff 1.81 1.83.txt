@@ -1,0 +1,27 @@
+no lines only in old
+
+lines only in new:
+
+germ_at_gun_flak36
+germ_at_gun_pak36
+germ_at_gun_pak38
+germ_at_gun_pak40
+germ_truck_sdkfz_6_2_tent
+jp_type_75_mlrs
+uk_at_gun_qf17pounder
+uk_at_gun_qf6pounder
+uk_truck_us6_studebaker_board
+uk_truck_us6_studebaker_tent
+us_at_gun_m1
+us_railway_boxcar_wagon
+us_railway_carriage
+us_railway_gondola_wagon
+us_railway_locomotive
+us_railway_passenger_wagon
+us_t32e1
+us_truck_us6_studebaker_board
+us_truck_us6_studebaker_tent
+ussr_at_gun_53k
+ussr_su_57b
+ussr_truck_gaz_aaa
+

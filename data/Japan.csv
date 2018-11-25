@@ -6,5 +6,5 @@ Type 4 Ho-Ro	Type 3 Ho-Ni I	Type 3 Ho-Ni III	Type 5 Na-To	Type 5 Ho-Ri Productio
 jp_type_4_ho_ro	jp_type_3_ho_ni_i	jp_type_3_ho_ni_iii	jp_type_5_na_to	jp_type_5_ho_ri_production
 Isuzu Type 94	Ta-Se	So-Ki	Twin 40mm Self-Propelled Guns M42 Duster	Twin 35mm Self-Propelled Guns Type 87
 jp_type_94	jp_type_98_ta_se	jp_type_95_so_ki	jp_m42_duster	jp_type_87
-Type 95 Ha-Go Commander	Type 95 Ro-Go	Type 97 Chi-Ha Short Gun	Chi-Nu II	Heavy Tank No.6	Type 5 Ho-Ri Prototype
-jp_type_95_ha_go_commander	jp_type_95_heavy	jp_type_97_chi_ha_12cm	jp_type_3_chi_nu_75cm_type_5	jp_pzkpfw_VI_ausf_e_tiger	jp_type_5_ho_ri_prototype
+Type 95 Ha-Go Commander	Type 95 Ro-Go	Type 97 Chi-Ha Short Gun	Chi-Nu II	Heavy Tank No.6	Type 5 Ho-Ri Prototype	Type 75 MLRS
+jp_type_95_ha_go_commander	jp_type_95_heavy	jp_type_97_chi_ha_12cm	jp_type_3_chi_nu_75cm_type_5	jp_pzkpfw_VI_ausf_e_tiger	jp_type_5_ho_ri_prototype	jp_type_75_mlrs
