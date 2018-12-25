@@ -5,11 +5,12 @@
     bullets0:t=""
     bullets1:t="45mm_ussr_AP_1942"
     bullets2:t="45mm_ussr_HE"
-    bullets3:t="art_support"
+    bullets3:t=""
     bulletsCount0:i=5
     bulletsCount1:i=5
     bulletsCount2:i=5
     bulletsCount3:i=5
+    modification:t="art_support"
 
     props{
       army:i=1

@@ -3,13 +3,14 @@
     closed_waypoints:b=no
     weapons:t="jp_type_95_ha_go_default"
     bullets0:t="37mm_type_94_APHE"
-    bullets1:t="art_support"
+    bullets1:t=""
     bullets2:t=""
     bullets3:t=""
     bulletsCount0:i=5
     bulletsCount1:i=5
     bulletsCount2:i=0
     bulletsCount3:i=0
+    modification:t="art_support"
 
     props{
       army:i=1
