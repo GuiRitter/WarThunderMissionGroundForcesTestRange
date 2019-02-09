@@ -12,6 +12,7 @@
 12. Open the most recent `list diff %s %s.txt`.
 13. Run *War Thunder*.
 14. For every nation
+    0. War Thunder Wiki now shows the complete tech tree! Update the table for the same positions.
     1. Run `Java/WarThunderTreeTableManager`.
     2. Open `data/%s.csv` with it, where `%s` is the nation.
     3. Update the table with the new entries from `list diff %s %s.txt`.
