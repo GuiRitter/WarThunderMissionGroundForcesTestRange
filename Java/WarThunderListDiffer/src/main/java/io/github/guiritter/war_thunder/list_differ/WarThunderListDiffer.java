@@ -1,4 +1,4 @@
-package io.github.guiritter.warthunderlistdiffer;
+package io.github.guiritter.war_thunder.list_differ;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
