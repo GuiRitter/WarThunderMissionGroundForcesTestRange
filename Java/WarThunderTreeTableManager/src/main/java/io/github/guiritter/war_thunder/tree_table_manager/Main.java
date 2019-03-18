@@ -1,4 +1,4 @@
-package war_thunder_tree_table_manager;
+package io.github.guiritter.war_thunder.tree_table_manager;
 
 import java.awt.event.ActionEvent;
 import java.io.BufferedWriter;
@@ -21,7 +21,6 @@ import static javax.swing.JOptionPane.ERROR_MESSAGE;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 
-@SuppressWarnings("CallToPrintStackTrace")
 public final class Main {
 
     private static final JFileChooser chooser;

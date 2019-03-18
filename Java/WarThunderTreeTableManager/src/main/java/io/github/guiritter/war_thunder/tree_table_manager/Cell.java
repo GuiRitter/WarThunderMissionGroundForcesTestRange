@@ -1,4 +1,4 @@
-package war_thunder_tree_table_manager;
+package io.github.guiritter.war_thunder.tree_table_manager;
 
 
 import java.awt.Dimension;
