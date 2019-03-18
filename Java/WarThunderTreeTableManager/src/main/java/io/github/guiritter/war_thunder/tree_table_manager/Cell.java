@@ -1,15 +1,17 @@
 package io.github.guiritter.war_thunder.tree_table_manager;
 
 
+import static javax.swing.BoxLayout.Y_AXIS;
+import static javax.swing.SwingConstants.CENTER;
+
 import java.awt.Dimension;
 import java.awt.FlowLayout;
+
 import javax.swing.BoxLayout;
-import static javax.swing.BoxLayout.Y_AXIS;
 import javax.swing.JCheckBox;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
-import static javax.swing.SwingConstants.CENTER;
 import javax.swing.border.EtchedBorder;
 
 public final class Cell {
@@ -34,6 +36,22 @@ public final class Cell {
 
     public void setChecked(boolean checked) {
         checkBox.setSelected(checked);
+    }
+
+    public static final void switchContent(Cell cell0, Cell cell1) {
+        switchContent(cell0, cell0.upperField.getText(), cell0.lowerField.getText(), cell1, cell1.upperField.getText(), cell1.lowerField.getText());
+    }
+
+    public static final void switchContent(Cell cell0, String upper0, String lower0, Cell cell1, String upper1, String lower1) {
+        cell0.lowerField.setText(lower1);
+        cell0.upperField.setText(upper1);
+        cell1.lowerField.setText(lower0);
+        cell1.upperField.setText(upper0);
+    }
+
+    @Override
+    public String toString() {
+        return String.format("{ class: Cell, upper: %s, lower: %s }", upperField.getText(), lowerField.getText());
     }
 
     public Cell(/*int y*/) {

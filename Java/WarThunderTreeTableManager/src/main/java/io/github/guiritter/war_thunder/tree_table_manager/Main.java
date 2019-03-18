@@ -1,23 +1,25 @@
 package io.github.guiritter.war_thunder.tree_table_manager;
 
+import static java.nio.file.StandardOpenOption.CREATE;
+import static java.nio.file.StandardOpenOption.TRUNCATE_EXISTING;
+import static javax.swing.JFileChooser.APPROVE_OPTION;
+import static javax.swing.JFileChooser.FILES_ONLY;
+import static javax.swing.JFrame.EXIT_ON_CLOSE;
+import static javax.swing.JOptionPane.ERROR_MESSAGE;
+
 import java.awt.event.ActionEvent;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
-import static java.nio.file.StandardOpenOption.CREATE;
-import static java.nio.file.StandardOpenOption.TRUNCATE_EXISTING;
 import java.util.List;
+
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JFileChooser;
-import static javax.swing.JFileChooser.APPROVE_OPTION;
-import static javax.swing.JFileChooser.FILES_ONLY;
 import javax.swing.JFrame;
-import static javax.swing.JFrame.EXIT_ON_CLOSE;
 import javax.swing.JOptionPane;
-import static javax.swing.JOptionPane.ERROR_MESSAGE;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 
@@ -78,6 +80,13 @@ public final class Main {
             frame.revalidate();
         });
         buttonPanel.add(addColumnLastButton);
+
+        JButton switchButton = new JButton("switch");
+        switchButton.addActionListener(e -> {
+            table.switchCell();
+            frame.revalidate();
+        });
+        buttonPanel.add(switchButton);
 
         JButton loadButton = new JButton("load");
         loadButton.addActionListener((ActionEvent e) -> {

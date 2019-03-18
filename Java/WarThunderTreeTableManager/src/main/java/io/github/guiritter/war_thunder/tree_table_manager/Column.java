@@ -1,9 +1,13 @@
 package io.github.guiritter.war_thunder.tree_table_manager;
 
+import static javax.swing.BoxLayout.Y_AXIS;
+
 import java.awt.FlowLayout;
 import java.util.LinkedList;
+import java.util.List;
+import java.util.stream.Collectors;
+
 import javax.swing.BoxLayout;
-import static javax.swing.BoxLayout.Y_AXIS;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
@@ -46,6 +50,10 @@ public final class Column {
     public void clear() {
         cellList.clear();
         panel.removeAll();
+    }
+
+    public List<Cell> getCheckedCellList() {
+        return cellList.stream().filter(cell -> cell.isChecked()).collect(Collectors.toList());
     }
 
     public String[][] getText() {
