@@ -1,4 +1,4 @@
-package main;
+package io.github.guiritter.war_thunder.ground_attack_test_range_generator;
 
 import java.io.File;
 import java.io.IOException;
@@ -10,14 +10,13 @@ import javax.swing.JDialog;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 
-@SuppressWarnings("CallToPrintStackTrace")
 public final class MissionGenerator {
 
     public static void main(String args[]) throws IOException {
         System.out.println(MissionGenerator.class.getName());
         JFrame.setDefaultLookAndFeelDecorated(true);
         JDialog.setDefaultLookAndFeelDecorated(true);
-        int FORCES_AIR = 0;
+        // int FORCES_AIR = 0;
         int FORCES_GROUND = 1;
         final JFileChooser chooser = new JFileChooser();
         chooser.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
