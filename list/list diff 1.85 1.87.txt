@@ -1,0 +1,15 @@
+lines only in old:
+
+it_semovente_m43_75_bersaglieri
+
+lines only in new:
+
+germ_leopard_2a5
+it_c1_ariete_preserie
+jp_type_74_mod_g_kai
+uk_challenger_II
+us_m1a1_abrams
+us_m901_itv
+ussr_t_80u
+ussr_zprk_2s6
+
