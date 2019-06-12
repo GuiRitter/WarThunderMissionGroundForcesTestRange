@@ -10,7 +10,7 @@
 10. Close the *CDK* and *SysExporter*.
 11. Run `Java/WarThunderListDiffer`, open the list file for the penultimate version, then the list file for the current version, and save as `list diff %s %s.txt`, where the first `%s` is the penultimate version and the second `%s` is the current version.
 12. Open the most recent `list diff %s %s.txt`.
-13. Run *War Thunder*.
+13. Access [Ground Vehicles - War Thunder Wiki](https://wiki.warthunder.com/Ground_vehicles).
 14. For every nation
     1. Run `Java/WarThunderTreeTableManager`.
     2. Open `data/%s.csv` with it, where `%s` is the nation.

@@ -1,14 +1,16 @@
 Automitrailleuse de Combat AMC.34 YR	Automitrailleuse de Combat Renault AMC.35 (ACG.1)	AMX-13 (FL11)	AMX-13	Batignolles-Chatillon Char de 25 tonnes	AMX-13-90	AMX-13 (HOT)
 fr_amc_34	fr_amc_35	fr_amx_13_fl_11	fr_amx_13_75	fr_bat_chat_25t	fr_amx_13_90	fr_amx_13_hot
-Char léger modèle 1935 H	Char léger modèle 1935 H modifiè 39	Char de cavalerie SOMUA 1935 S	⦿M4A1 Sherman	M4A4 (SA50)	Char de bataille de 40 tonnes	AMX-30 (1972)	AMX-30B2	AMX-30B2 BRENUS
-fr_hotchkiss_h35	fr_hotchkiss_h39	fr_somua_s35	fr_m4a1_sherman	fr_m4a4_cn_75_50	fr_lorraine_40t	fr_amx_30_1972	fr_amx_30_b2	fr_amx_30_b2_brenus
+Char léger modèle 1935 H	Char léger modèle 1935 H modifiè 39	Char de cavalerie SOMUA 1935 S	⦿M4A1 Sherman	M4A4 (SA50)	Char de bataille de 40 tonnes	AMX-30 (1972)	AMX-30B2	AMX-30B2 BRENUS	Leclerc Serie 1
+fr_hotchkiss_h35	fr_hotchkiss_h39	fr_somua_s35	fr_m4a1_sherman	fr_m4a4_cn_75_50	fr_lorraine_40t	fr_amx_30_1972	fr_amx_30_b2	fr_amx_30_b2_brenus	fr_leclerc_s1
 Char léger d'accompagnement FCM.36	Char léger d'accompagnement 1939 R	Char de bataille B1 bis	ARL-44 (ACL-1)	⦿Assault Tank M4A3E2 Jumbo	AMX M4	AMX-50	AMX-50 Surbaissé	AMX-40
 fr_fcm_36	fr_renault_r39	fr_b1_bis	fr_arl_44_acl1	fr_m4a3e2_sherman_jumbo	fr_amx_m4	fr_amx_50	fr_amx_50_surbaisse	fr_amx_40
-Citroen Kegresse P4T	GMC CCKW 353 (40 mm Bofors)	AMX-13 DCA 40	AMX-30 DCA
-fr_citroen_kegresse_p4t	fr_cckw_353_bofors	fr_amx_13_dca_40	fr_amx_30_dca
+Citroen Kegresse P4T	GMC CCKW 353 (40 mm Bofors)	AMX-13 DCA 40	AMX-30 DCA	AMX-30 Roland 1
+fr_citroen_kegresse_p4t	fr_cckw_353_bofors	fr_amx_13_dca_40	fr_amx_30_dca	fr_amx_30_roland
 Automitrailleuse de Reconnaissance AMR 35 ZT3	Canon Automoteur DE 75 mm SAu 40	⦿3-inch Gun Motor Carriage M10	ARL-44	Canon d'assault Lorraine de 100mm	Canon automoteur AMX-50 Foch	AMX-10RC
 fr_amr_35_zt3	fr_somua_sau40	fr_m10	fr_arl_44	fr_lorraine_100	fr_amx_50_foch	fr_amx_10rc
-H.39 «Cambronne» 14eBCC	Char de bataille B1 ter	Sherman M4A1 tourelle FL10	AMX-13 (SS.11)	AMX-30	
-fr_hotchkiss_h39_cambronne	fr_b1_ter	fr_m4a1_sherman_fl_10	fr_amx_13_75_ss11	fr_amx_30	
-Lorraine 155 Mle.50	
-fr_lorraine_155	
+H.39 «Cambronne» 14eBCC	Char de bataille B1 ter	Sherman M4A1 tourelle FL10	AMX-13 (SS.11)	AMX-30	AMX-30 Super
+fr_hotchkiss_h39_cambronne	fr_b1_ter	fr_m4a1_sherman_fl_10	fr_amx_13_75_ss11	fr_amx_30	fr_amx_30_super
+Lorraine 155 Mle.50
+fr_lorraine_155
+AMX 50 Surblindé
+fr_amx_50_surblinde

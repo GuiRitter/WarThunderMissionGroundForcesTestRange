@@ -4,13 +4,13 @@ T-26 mod. 1939	T-26-4	T-28	T-28E	KV-1 L11	KV-1S	KV-1 ZiS-5	KV-2 mod. 1939	KV-85	
 ussr_t_26_1940	ussr_t_26_4	ussr_t_28	ussr_t_28e	ussr_kv_1_l_11	ussr_kv_1s	ussr_kv_1_zis_5	ussr_kv_2_1939	ussr_kv_85	ussr_is_1	ussr_is_2_1943	ussr_is_2_1944	ussr_is_3	ussr_is_4m	ussr_t_10m	ussr_t_64a_1971	ussr_t_64_b_1984	ussr_t_80b	ussr_t_80u
 T-60	T-70	T-80	ASU-57	PT-76	ASU-85	SU-100P	BMP-1	BMP-2	Object 906
 ussr_t_60_1941	ussr_t_70_1942	ussr_t_80	ussr_asu_57	ussr_pt_76b	ussr_asu_85	ussr_su_100p	ussr_bmp_1	ussr_bmp_2	ussr_object_906
-SU-5-1	ZiS-30	SU-76M	SU-122	SU-57B	SU-85	SU-85M	SU-152	ISU-152	ISU-122	ISU-122S	SU-100	SU-122-54	Object 268	IT-1
-ussr_su_5_1	ussr_zis_30	ussr_su_76m_1943	ussr_su_122	ussr_su_57b	ussr_su_85_1943	ussr_su_85m	ussr_su_152	ussr_isu_152	ussr_isu_122	ussr_isu_122s	ussr_su_100_1945	ussr_su_122_54	ussr_object_268	ussr_it_1
+SU-5-1	ZiS-30	SU-76M	SU-122	SU-57B	SU-85	SU-85M	SU-152	ISU-152	ISU-122	ISU-122S	SU-100	SU-122-54	Object 268	IT-1	9P149 Shturm-S
+ussr_su_5_1	ussr_zis_30	ussr_su_76m_1943	ussr_su_122	ussr_su_57b	ussr_su_85_1943	ussr_su_85m	ussr_su_152	ussr_isu_152	ussr_isu_122	ussr_isu_122s	ussr_su_100_1945	ussr_su_122_54	ussr_object_268	ussr_it_1	ussr_9p149
 4M GAZ-AAA	DShK GAZ AAA	72-K GAZ MM	KB ZIS BTR-152A	94-KM ZIS-12	29-K	ZIS-43	ZSU-37	ZSU-57-2	ZSU-23-4 "Shilka"	ZPRK 2S6 'Tunguska'
 ussr_gaz_4m	ussr_gaz_dshk	ussr_gaz_mm_72k	ussr_btr_152a	ussr_zis_12_94KM_1945	ussr_zsu_29k	ussr_zis_43	ussr_zsu_37	ussr_zsu_57_2	ussr_zsu_23_4	ussr_zprk_2s6
 T-26E	T-35	T-126(SP)	RBT-5	BM-13N	★Tank MK-II «Matilda» (F-96)	T-34 1941 (1st Gv.T.Br.)	T-34E	SMK	SU-85A	T-34-57 mod. 1943	SU-100Y	KV-2(ZIS-6)	Type 65	KV-122	T-34-100	SU-122P	Type-62	Object 120 "Taran"
 ussr_t_26e	ussr_t_35	ussr_t_126sp	ussr_rbt_5	ussr_bm_13n	ussr_a_12_mk_2_matilda_2A_F96	ussr_t_34_1941_cast_turret	ussr_t_34e	ussr_smk	ussr_su_85a	ussr_t_34_57_1943	ussr_su_100y	ussr_kv_2_zis_6	ussr_type_65_aa	ussr_kv_122	ussr_t_34_100	ussr_su_122p	ussr_type_62	ussr_object_120
 T-26 (1st Gv.T.Br.)	SU-57	BM-8-24	★T-III	★M3 Medium	SU-76M (5th Guards Cavalry Corps)	T-34 (Prototype)	ZUT-37	KV-2 (1940)	★M4A2	KV-1E	KV-220	«Panther»	T-34-85E	T-44-122	IS-2 “Revenge for the Hero brother”	IS-6	IS-7	T-55AM-1
 ussr_t_26_1940_1st_gvtbr	ussr_su_57	ussr_bm_8_24	ussr_pzkpfw_iii_ausf_j_l42	ussr_m3c	ussr_su_76m_5st_kav_corps	ussr_t_34_1940_l_11	ussr_zut_37	ussr_kv_2_1940	ussr_m4a2_76w_sherman	ussr_kv_1e	ussr_kv_220	ussr_pzkpfw_v	ussr_t_34_85e	ussr_t_44_122	ussr_is_2_1944_revenge	ussr_is_6	ussr_is_7	ussr_t_55_am
-IS-2 No.402	Type 86	BT-7			72-K GAZ MM	IS-4M	SPS-225		ST-1	ST-1				T-50														
-cn_is_2_1943_no402	cn_type_86	ussr_bt_7_1937_race	ussr_bt_7a	ussr_bt_7m	ussr_gaz_mm_72k_without_crew	ussr_is_4m_tutorial	ussr_m4_sherman_tutorial	ussr_m551_football	ussr_sht_1	ussr_sht_1_2	ussr_su_76_1942	ussr_t_26_1938	ussr_t_40	ussr_t_50_for_tutorial														
+IS-2 No.402	Type 86	BT-7			72-K GAZ MM	IS-4M	SPS-225		ST-1	ST-1				T-50
+cn_is_2_1943_no402	cn_type_86	ussr_bt_7_1937_race	ussr_bt_7a	ussr_bt_7m	ussr_gaz_mm_72k_without_crew	ussr_is_4m_tutorial	ussr_m4_sherman_tutorial	ussr_m551_football	ussr_sht_1	ussr_sht_1_2	ussr_su_76_1942	ussr_t_26_1938	ussr_t_40	ussr_t_50_for_tutorial

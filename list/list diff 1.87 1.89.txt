@@ -1,0 +1,18 @@
+no lines only in old
+
+lines only in new:
+
+fr_amx_30_roland
+fr_amx_30_super
+fr_amx_50_surblinde
+fr_leclerc_s1
+germ_flarakpz_1
+germ_vsw_flak_41
+it_c1_ariete
+it_of_40_mtca
+jp_type_16
+uk_stormer_hvm
+us_adats_bradley
+us_merkava_mk_1
+ussr_9p149
+
