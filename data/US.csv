@@ -12,5 +12,5 @@ Light Armored Car M8	75 mm Gun Motor Carriage M8	Cruiser Tank Grant I	LVT(A)(4) 
 us_m8_greyhound	us_m8a1	us_mk1_grant	us_lvt_4_zis_2	us_m4a5_ram_2	us_m24_chaffee_tl	us_m18_hellcat_black_cat	us_m4_sherman_calliope	us_m26_t99	us_m18_super_hellcat	us_t29	us_t30	us_t114	us_t54e1	us_xm1_gm	us_xm1_chrysler
 Light Tank M2A4 (1st Arm.Div.)	Light Tank M3A1 Stuart (USMC)	M5A1 Stuart (5th Canadian Armored Division)	T18E2 "Boarhound"	Assault Tank T14	T20	Assault Tank M4A3E2 Jumbo “Cobra King”	Super Heavy Tank T28	Medium Tank M26E1	Medium Tank M46 Patton (73 Tank Batalion)	✡Magach 3	Merkava Mk.1
 us_m2a4_1st_armor_div	us_m3a1_stuart_usmc	us_m5a1_stuart_canadian_5st_arm	us_t18_e2	us_t14	us_t20	us_m4a3e2_sherman_jumbo_cobra_king	us_t28	us_m26e1_pershing	us_m46_patton_73_armor_bat	us_magach_3	us_merkava_mk_1
-“The Hellcat”	M22	M35	M35		SPS-255	M4A2 (1944)	✙M4 748 (a)			T32
-us_m18_hellcat_black_cat_race	us_m22_locust_race	us_m35	us_m35_2	us_m4_sherman_fake	us_m4_sherman_tutorial	us_m4a2_1944	us_m4a2_1944_germ	us_m551_football	us_m901_itv	us_t32_tutorial
+“The Hellcat”	M22	🏆M1A1	M35	M35	us_m4_sherman_fake	SPS-255	M4A2 (1944)	✙M4 748 (a)		M901	T32
+us_m18_hellcat_black_cat_race	us_m22_locust_race	us_m1a1_abrams_yt_cup_2019	us_m35	us_m35_2	us_m4_sherman_fake	us_m4_sherman_tutorial	us_m4a2_1944	us_m4a2_1944_germ	us_m551_football	us_m901_itv	us_t32_tutorial

@@ -1,0 +1,31 @@
+    unit_class:t="cn_m8_greyhound"
+    objLayer:i=1
+    closed_waypoints:b=no
+    isShipSpline:b=no
+    shipTurnRadius:r=100
+    weapons:t="us_m8_greyhound_default"
+    bullets0:t=""
+    bullets1:t="37mm_usa_m3_HE"
+    bullets2:t="37mm_usa_m3_APC"
+    bullets3:t="art_support"
+    bulletsCount0:i=5
+    bulletsCount1:i=5
+    bulletsCount2:i=5
+    bulletsCount3:i=5
+    modification:t="art_support"
+
+    props{
+      army:i=1
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="fire_at_will"
+      targetableByAi:b=no
+    }
+
+    way{
+    }
+  }

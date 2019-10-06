@@ -10,7 +10,5 @@ Automitrailleuse de Reconnaissance AMR 35 ZT3	Canon Automoteur DE 75 mm SAu 40	�
 fr_amr_35_zt3	fr_somua_sau40	fr_m10	fr_arl_44	fr_lorraine_100	fr_amx_50_foch	fr_amx_10rc
 H.39 «Cambronne» 14eBCC	Char de bataille B1 ter	Sherman M4A1 tourelle FL10	AMX-13 (SS.11)	AMX-30	AMX-30 Super
 fr_hotchkiss_h39_cambronne	fr_b1_ter	fr_m4a1_sherman_fl_10	fr_amx_13_75_ss11	fr_amx_30	fr_amx_30_super
-Lorraine 155 Mle.50
-fr_lorraine_155
-AMX 50 Surblindé
-fr_amx_50_surblinde
+Lorraine 155 Mle.50	Panther «Dauphine»	AMX 50 Surblindé
+fr_lorraine_155	fr_pzkpfw_V_panther_dauphine	fr_amx_50_surblinde

@@ -1,0 +1,37 @@
+lines only in old:
+
+cn_type_63_i
+
+lines only in new:
+
+cn_cm11
+cn_m10
+cn_m113a1_tow
+cn_m18_hellcat
+cn_m24_chaffee
+cn_m36
+cn_m48a1_patton_III
+cn_m4a1_76w_sherman
+cn_m4a4_sherman_1st_ptg
+cn_m60a3_tts
+cn_m8_greyhound
+cn_m8_scott
+cn_t_26_no531
+cn_t_34_85_zis_53_no215
+cn_t_62
+cn_type_63_I
+fr_pzkpfw_V_panther_dauphine
+germ_flakpanzer_IV_Ostwind_2
+germ_leopard_2a5_yt_cup_2019
+germ_mkpz_m48a2c
+germ_vt_1_2
+it_aubl_74_60_70m
+it_c1_ariete_pso
+it_otobreda_sidam_25_mistral
+jp_type_75
+uk_challenger_II_yt_cup_2019
+us_m1a1_abrams_yt_cup_2019
+ussr_bt_7a_f32
+ussr_object_685
+ussr_t_80u_yt_cup_2019
+

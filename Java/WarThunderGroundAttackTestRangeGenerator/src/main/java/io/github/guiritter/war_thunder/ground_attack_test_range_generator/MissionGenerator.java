@@ -26,7 +26,7 @@ public final class MissionGenerator {
         }
         final File inputFolder = chooser.getSelectedFile();
         final String forces[] = {"air", "ground"};
-        final String factions[] = {"USSR", "Germany", "US", "UK", "Japan", "Italy", "France"};
+        final String factions[] = {"USSR", "Germany", "US", "UK", "Japan", "Italy", "France", "China"};
         final LinkedList<String> lines = new LinkedList<>();
         LinkedList<String> inputList;
         String fields[];
@@ -123,7 +123,7 @@ public final class MissionGenerator {
                         }
                     }
                     lines.addAll(Files.readAllLines(
-                     inputFolder.toPath().resolve("footer.txt")));
+                     inputFolder.toPath().resolve(String.format("%s footer.txt", faction))));
                     Files.write(inputFolder.toPath().resolve("Ground_"
                      + (force.equals("air") ? "Attack" : "Forces")
                      + "_Test_Range_" + faction + (screenshot ? "_screenshot" : "") +".blk"), lines,

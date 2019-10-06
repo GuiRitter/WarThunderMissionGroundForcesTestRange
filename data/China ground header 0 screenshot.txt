@@ -25,7 +25,7 @@ mission_settings{
   }
 
   mission{
-    name:t="Ground_Forces_Test_Range_Germany_Screenshot"
+    name:t="Ground_Forces_Test_Range_China_Screenshot"
     level:t="levels/flatlands.bin"
     type:t="singleMission"
     restoreType:t="attempts"
