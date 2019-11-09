@@ -2,8 +2,8 @@ BT-5 mod. 1933	BT-7 mod. 1937	T-50	T-34 1940 L11	T-34 1941	T-34 1942	T-34E STZ	T
 ussr_bt_5	ussr_bt_7_1937	ussr_t_50	ussr_t_34_1941_l_11	ussr_t_34_1941	ussr_t_34_1942	ussr_t_34e_stz	ussr_t_34_1941_57	ussr_t_34_85_d_5t	ussr_t_34_85_zis_53	ussr_t_44	ussr_t_44_100	ussr_t_54_1947	ussr_t_54_1949	ussr_t_54_1951	ussr_t_62	ussr_t_55a	ussr_t_62m1	ussr_t_72a
 T-26 mod. 1939	T-26-4	T-28	T-28E	KV-1 L11	KV-1S	KV-1 ZiS-5	KV-2 mod. 1939	KV-85	IS-1	IS-2	IS-2 mod. 1944	IS-3	IS-4M	T-10M	T-64A (1971)	T-64B (1984)	T-80B	T-80U
 ussr_t_26_1940	ussr_t_26_4	ussr_t_28	ussr_t_28e	ussr_kv_1_l_11	ussr_kv_1s	ussr_kv_1_zis_5	ussr_kv_2_1939	ussr_kv_85	ussr_is_1	ussr_is_2_1943	ussr_is_2_1944	ussr_is_3	ussr_is_4m	ussr_t_10m	ussr_t_64a_1971	ussr_t_64_b_1984	ussr_t_80b	ussr_t_80u
-T-60	T-70	T-80	ASU-57	PT-76	ASU-85	SU-100P	BMP-1	BMP-2	Object 906	Object 685
-ussr_t_60_1941	ussr_t_70_1942	ussr_t_80	ussr_asu_57	ussr_pt_76b	ussr_asu_85	ussr_su_100p	ussr_bmp_1	ussr_bmp_2	ussr_object_906	ussr_object_685
+T-60	T-70	T-80	ASU-57	PT-76	ASU-85	SU-100P	BMP-1	BMP-2	Object 906	BMP-3	Object 685
+ussr_t_60_1941	ussr_t_70_1942	ussr_t_80	ussr_asu_57	ussr_pt_76b	ussr_asu_85	ussr_su_100p	ussr_bmp_1	ussr_bmp_2	ussr_object_906	ussr_bmp_3	ussr_object_685
 SU-5-1	ZiS-30	SU-76M	SU-122	SU-57B	SU-85	SU-85M	SU-152	ISU-152	ISU-122	ISU-122S	SU-100	SU-122-54	Object 268	IT-1	9P149 Shturm-S
 ussr_su_5_1	ussr_zis_30	ussr_su_76m_1943	ussr_su_122	ussr_su_57b	ussr_su_85_1943	ussr_su_85m	ussr_su_152	ussr_isu_152	ussr_isu_122	ussr_isu_122s	ussr_su_100_1945	ussr_su_122_54	ussr_object_268	ussr_it_1	ussr_9p149
 4M GAZ-AAA	DShK GAZ AAA	72-K GAZ MM	KB ZIS BTR-152A	94-KM ZIS-12	29-K	ZIS-43	ZSU-37	ZSU-57-2	ZSU-23-4 "Shilka"	ZPRK 2S6 'Tunguska'

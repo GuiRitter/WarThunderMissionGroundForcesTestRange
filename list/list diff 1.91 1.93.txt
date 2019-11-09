@@ -1,0 +1,14 @@
+no lines only in old
+
+lines only in new:
+
+cn_ztz_96
+fr_amd_35
+fr_amx_30_ACRA
+germ_bmp_1_ddr
+jp_truck_type_94_isuzu
+uk_centurion_action_x
+uk_vickers_mk7
+us_m1a2_abrams
+ussr_bmp_3
+

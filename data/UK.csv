@@ -1,14 +1,14 @@
 Mark IV A13 Mk.I	Mark IV A13 Mk.II	Mark VIII A27M Cromwell V	Mark VIII A27M Cromwell I	Sherman II	Sherman VC Firefly	A34 Comet I	A30 Challenger	Centurion Mk 1	Centurion Mk.3	Centurion Mk.10	Chieftain Mk.3	Chieftain Mk.5	Chieftain Mk.10	Tank, Combat, 120-mm Gun, Challenger Mk.2	Tank, Combat, 120-mm Gun Challenger Mk.3	Tank, Combat, 120-mm Gun, Challenger 2
 uk_a_13_mk1	uk_a_13_mk2	uk_a27m_cromwell_5	uk_a27m_cromwell_1	uk_sherman_II	uk_sherman_vc_firefly	uk_a_34_comet	uk_a30_challenger	uk_centurion_mk_1	uk_centurion_mk_3	uk_centurion_mk_10	uk_chieftain_mk_3	uk_chieftain_mk_5	uk_chieftain_mk_10	uk_challenger_1	uk_challenger_mk_3	uk_challenger_II
-Crusader Mk.II	Crusader Mk.III	A12 Mk.II Matilda II	3 inch Gun Carrier	Infantry Tank Mk IV A22 "Churchill" Mk I	Mark IV A22B Churchill Mk.III	A22 Churchill Mk.VII	FV4202	FV 221 Caernarvon	Vickers Battle Tank Mk.1	Tank Heavy Gun Conqueror Mk.2	Combat Vehicle, Personnel, Tracked, 30mm Gun, Warrior FV510
-uk_crusader_mk_2	uk_crusader_mk_3	uk_a_12_mk_2_matilda_2	uk_3_inch_gun_carrier	uk_a_22_mk_1_churchill_1941	uk_a_22b_mk_3_churchill_1942	uk_a_22f_mk_7_churchill_1944	uk_fv4202	uk_fv221_caernarvon	uk_vickers_mbt_mk_1	uk_conqueror_mk_2	uk_fv510_isv
+Crusader Mk.II	Crusader Mk.III	A12 Mk.II Matilda II	3 inch Gun Carrier	Infantry Tank Mk IV A22 "Churchill" Mk I	Mark IV A22B Churchill Mk.III	A22 Churchill Mk.VII	FV4202	FV 221 Caernarvon	Vickers Battle Tank Mk.1	Tank Heavy Gun Conqueror Mk.2	Combat Vehicle, Personnel, Tracked, 30mm Gun, Warrior FV510	Vickers Mk.7
+uk_crusader_mk_2	uk_crusader_mk_3	uk_a_12_mk_2_matilda_2	uk_3_inch_gun_carrier	uk_a_22_mk_1_churchill_1941	uk_a_22b_mk_3_churchill_1942	uk_a_22f_mk_7_churchill_1944	uk_fv4202	uk_fv221_caernarvon	uk_vickers_mbt_mk_1	uk_conqueror_mk_2	uk_fv510_isv	uk_vickers_mk7
 Mark VII A17 Tetrarch Mk.I	Daimler Armoured Car Mk.II	Valentine Mk.I	Valentine Mk.XI	Valentine Mk.IX	SP 17pdr. Valentine	17 pounder Self-Propelled M10	A30 SP Avenger	Tank Medium Gun Charioteer Mk.VII	A39 Tortoise	FV4005 Stage II	FV4004 Conway	FV438 Swingfire	FV-102 Striker
 uk_a17_mk_1_tetrarch	uk_daimler_mk_2	uk_valentine_mk_1	uk_valentine_mk_11	uk_valentine_mk_9	uk_sp_17_pdr_valentine	uk_17_pdr_m10_achilles	uk_a30_sp_avenger	uk_charioteer_mk_7	uk_a39_tortoise	uk_fv4005	uk_fv4004_conway	uk_fv438_swingfire	uk_fv102_striker
 Vickers Mk.VIA AA Mk.I	T17E2	Armored Car Mk.II AA	Crusader AA Mk.II	Crusader AA Mk.I	Falcon	Marconi Electronic Systems Chieftain Mk 5 Marksman	FV4333 Stormer HVM
 uk_vickers_mk_6_aa_mk_1	uk_t17e2	uk_armored_car_mk_2_aa	uk_crusader_aa_mk_2	uk_crusader_aa_mk_1	uk_falcon	uk_chieftain_marksman	uk_stormer_hvm
 Mark IV A13 Mk.II	Mark VIII A27M Cromwell RP-3	17pdr. M10 65th Anti-Tank Regt	Excelsior	Sherman IC 2nd «Warsaw» Armoured Division	A.43 Black Prince	Strv 81	Centurion Assault Vehicle, Royal Engineers Mk.5	✡Sho't Kal Dalet
 uk_a_13_mk2_1939	uk_a27m_cromwell_5_rp3	uk_17_pdr_m10_achilles_norfolk_yeomanry	uk_a_33_excelsior	uk_sherman_ic_firefly	uk_a_43_black_prince	uk_centurion_mk_3_ss11	uk_centurion_mk_5_avre_era	uk_centurion_shot_kal_d
-Mark IV A13 Mk.I 3rd Royal Tank Regiment	A1E1 Independent	Grant I	AEC Mk.II	AC IV Thunderbolt	Iron Duke IV
-uk_a_13_mk1_3rd_rtr	uk_a1e1_independent	uk_mk1_grant	uk_armored_car_aec_mk_2	uk_ac4_thunderbolt	uk_a_34_comet_iron_duke
+Mark IV A13 Mk.I 3rd Royal Tank Regiment	A1E1 Independent	Grant I	AEC Mk.II	AC IV Thunderbolt	Iron Duke IV	Centurion Action X
+uk_a_13_mk1_3rd_rtr	uk_a1e1_independent	uk_mk1_grant	uk_armored_car_aec_mk_2	uk_ac4_thunderbolt	uk_a_34_comet_iron_duke	uk_centurion_action_x
 Tetrarch Mk.I	Crusader AA Mk.I	Crusader AA Mk.II	🏆Challenger 2	RT-1
 uk_a17_mk_1_tetrarch_race	uk_centaur_aa_mk_1	uk_centaur_aa_mk_2	uk_challenger_II_yt_cup_2019	uk_t17e2_race
