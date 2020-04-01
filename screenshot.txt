@@ -1,0 +1,15 @@
+area_for_cutscene_0
+-x zoom out
++x zoom in
+-y compact
++y spread
+
+area_for_cutscene_1
+-x camera points down
++x camera points up
+
+zoom
+
+spread
+
+height

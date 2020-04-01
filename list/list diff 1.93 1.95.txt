@@ -1,0 +1,17 @@
+no lines only in old
+
+lines only in new:
+
+cn_m42_duster
+cn_wz_305
+fr_aml_90
+germ_le_kpz_m41
+jp_at_37mm_type_1
+jp_type_90b
+sw_sav_fm48
+sw_strv_103_0
+uk_ram_90mm_aa
+uk_rooikat_76
+us_m60a3_tts
+us_merkava_mk_2b_late
+
