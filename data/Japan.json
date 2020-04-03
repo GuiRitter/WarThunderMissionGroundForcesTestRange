@@ -1,0 +1,145 @@
+{
+  "columnList" : [ {
+    "cellList" : [ {
+      "lowerField" : "jp_type_95_ha_go",
+      "upperField" : "Type 95 Ha-Go"
+    }, {
+      "lowerField" : "jp_type_98_ke_ni",
+      "upperField" : "Type 98 Ke-Ni"
+    }, {
+      "lowerField" : "jp_type_2_ka_mi",
+      "upperField" : "Type 2 Ka-Mi"
+    }, {
+      "lowerField" : "jp_m24_chaffee",
+      "upperField" : "Light Tank M24 SDF"
+    }, {
+      "lowerField" : "jp_m4a3e8_76w_sherman",
+      "upperField" : "Medium Tank M4A3 (76) W HVSS Sherman"
+    }, {
+      "lowerField" : "jp_m41_walker_bulldog",
+      "upperField" : "Light Tank M41 SDF"
+    }, {
+      "lowerField" : "jp_type_60_sprg",
+      "upperField" : "Type 60 Self-Propelled Recoilless Gun"
+    }, {
+      "lowerField" : "jp_type_60_atm",
+      "upperField" : "Type 60 ATM"
+    }, {
+      "lowerField" : "jp_type_89",
+      "upperField" : "Type 89"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "jp_type_89b_i_go_otsu",
+      "upperField" : "Type 89b I-Go Ko"
+    }, {
+      "lowerField" : "jp_type_97_chi_ha",
+      "upperField" : "Type 97 Chi-Ha"
+    }, {
+      "lowerField" : "jp_type_97_kai",
+      "upperField" : "Type 97 Chi-Ha Kai"
+    }, {
+      "lowerField" : "jp_type_2_ho_i",
+      "upperField" : "Type 2 Ho-I"
+    }, {
+      "lowerField" : "jp_type_1_chi_he",
+      "upperField" : "Type 1 Chi-He"
+    }, {
+      "lowerField" : "jp_type_3_chi_nu",
+      "upperField" : "Type 3 Chi-Nu"
+    }, {
+      "lowerField" : "jp_type_4_chi_to",
+      "upperField" : "Type 4 Chi-To"
+    }, {
+      "lowerField" : "jp_type_4_chi_to_late",
+      "upperField" : "Type 4 Chi-To Late"
+    }, {
+      "lowerField" : "jp_type_5_chi_ri",
+      "upperField" : "Type 5 Chi-Ri II"
+    }, {
+      "lowerField" : "jp_st_a1",
+      "upperField" : "ST-A1"
+    }, {
+      "lowerField" : "jp_st_a2",
+      "upperField" : "ST-A2"
+    }, {
+      "lowerField" : "jp_type_61",
+      "upperField" : "Type 61"
+    }, {
+      "lowerField" : "jp_st_b1",
+      "upperField" : "STB-1"
+    }, {
+      "lowerField" : "jp_type_74",
+      "upperField" : "Type 74"
+    }, {
+      "lowerField" : "jp_type_90",
+      "upperField" : "Type 90"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "jp_type_4_ho_ro",
+      "upperField" : "Type 4 Ho-Ro"
+    }, {
+      "lowerField" : "jp_type_3_ho_ni_i",
+      "upperField" : "Type 3 Ho-Ni I"
+    }, {
+      "lowerField" : "jp_type_3_ho_ni_iii",
+      "upperField" : "Type 3 Ho-Ni III"
+    }, {
+      "lowerField" : "jp_type_5_na_to",
+      "upperField" : "Type 5 Na-To"
+    }, {
+      "lowerField" : "jp_type_5_ho_ri_production",
+      "upperField" : "Type 5 Ho-Ri Production"
+    }, {
+      "lowerField" : "jp_type_75",
+      "upperField" : "Type 75 SPH"
+    }, {
+      "lowerField" : "jp_type_16",
+      "upperField" : "Type 16"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "jp_type_94",
+      "upperField" : "Isuzu Type 94"
+    }, {
+      "lowerField" : "jp_type_98_ta_se",
+      "upperField" : "Ta-Se"
+    }, {
+      "lowerField" : "jp_type_95_so_ki",
+      "upperField" : "So-Ki"
+    }, {
+      "lowerField" : "jp_m42_duster",
+      "upperField" : "Twin 40mm Self-Propelled Guns M42 Duster"
+    }, {
+      "lowerField" : "jp_type_87",
+      "upperField" : "Twin 35mm Self-Propelled Guns Type 87"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "jp_type_95_ha_go_commander",
+      "upperField" : "Type 95 Ha-Go Commander"
+    }, {
+      "lowerField" : "jp_type_95_heavy",
+      "upperField" : "Type 95 Ro-Go"
+    }, {
+      "lowerField" : "jp_type_97_chi_ha_12cm",
+      "upperField" : "Type 97 Chi-Ha Short Gun"
+    }, {
+      "lowerField" : "jp_type_3_chi_nu_75cm_type_5",
+      "upperField" : "Chi-Nu II"
+    }, {
+      "lowerField" : "jp_pzkpfw_VI_ausf_e_tiger",
+      "upperField" : "Heavy Tank No.6"
+    }, {
+      "lowerField" : "jp_type_5_ho_ri_prototype",
+      "upperField" : "Type 5 Ho-Ri Prototype"
+    }, {
+      "lowerField" : "jp_type_75_mlrs",
+      "upperField" : "Type 75 MLRS"
+    }, {
+      "lowerField" : "jp_type_74_mod_g_kai",
+      "upperField" : "Type 74 mod G/Kai"
+    } ]
+  } ]
+}

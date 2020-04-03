@@ -1,0 +1,176 @@
+{
+  "columnList" : [ {
+    "cellList" : [ {
+      "lowerField" : "fr_amc_34",
+      "upperField" : "Automitrailleuse de Combat AMC.34 YR"
+    }, {
+      "lowerField" : "fr_amd_35",
+      "upperField" : "AMD.35"
+    }, {
+      "lowerField" : "fr_amc_35",
+      "upperField" : "Automitrailleuse de Combat Renault AMC.35 (ACG.1)"
+    }, {
+      "lowerField" : "fr_crusader_mk_2",
+      "upperField" : "⦿Crusader Mk.II"
+    }, {
+      "lowerField" : "fr_amx_13_fl_11",
+      "upperField" : "AMX-13 (FL11)"
+    }, {
+      "lowerField" : "fr_amx_13_75",
+      "upperField" : "AMX-13"
+    }, {
+      "lowerField" : "fr_bat_chat_25t",
+      "upperField" : "Batignolles-Chatillon Char de 25 tonnes"
+    }, {
+      "lowerField" : "fr_amx_13_90",
+      "upperField" : "AMX-13-90"
+    }, {
+      "lowerField" : "fr_amx_13_hot",
+      "upperField" : "AMX-13 (HOT)"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "fr_hotchkiss_h35",
+      "upperField" : "Char léger modèle 1935 H"
+    }, {
+      "lowerField" : "fr_hotchkiss_h39",
+      "upperField" : "Char léger modèle 1935 H modifiè 39"
+    }, {
+      "lowerField" : "fr_somua_s35",
+      "upperField" : "Char de cavalerie SOMUA 1935 S"
+    }, {
+      "lowerField" : "fr_m3a3_stuart",
+      "upperField" : "⦿Light Tank M3A3 Stuart"
+    }, {
+      "lowerField" : "fr_m4a1_sherman",
+      "upperField" : "⦿M4A1 Sherman"
+    }, {
+      "lowerField" : "fr_m4a4_cn_75_50",
+      "upperField" : "M4A4 (SA50)"
+    }, {
+      "lowerField" : "fr_lorraine_40t",
+      "upperField" : "Char de bataille de 40 tonnes"
+    }, {
+      "lowerField" : "fr_amx_30_1972",
+      "upperField" : "AMX-30 (1972)"
+    }, {
+      "lowerField" : "fr_amx_30_b2",
+      "upperField" : "AMX-30B2"
+    }, {
+      "lowerField" : "fr_amx_30_b2_brenus",
+      "upperField" : "AMX-30B2 BRENUS"
+    }, {
+      "lowerField" : "fr_leclerc_s1",
+      "upperField" : "Leclerc Serie 1"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "fr_fcm_36",
+      "upperField" : "Char léger d'accompagnement FCM.36"
+    }, {
+      "lowerField" : "fr_renault_r39",
+      "upperField" : "Char léger d'accompagnement 1939 R"
+    }, {
+      "lowerField" : "fr_b1_bis",
+      "upperField" : "Char de bataille B1 bis"
+    }, {
+      "lowerField" : "fr_m4a3_105_sherman",
+      "upperField" : "⦿Medium Tank M4A3 (105) HVSS Sherman"
+    }, {
+      "lowerField" : "fr_arl_44_acl1",
+      "upperField" : "ARL-44 (ACL-1)"
+    }, {
+      "lowerField" : "fr_m4a3e2_sherman_jumbo",
+      "upperField" : "⦿Assault Tank M4A3E2 Jumbo"
+    }, {
+      "lowerField" : "fr_amx_m4",
+      "upperField" : "AMX M4"
+    }, {
+      "lowerField" : "fr_amx_50",
+      "upperField" : "AMX-50"
+    }, {
+      "lowerField" : "fr_amx_50_surbaisse",
+      "upperField" : "AMX-50 Surbaissé"
+    }, {
+      "lowerField" : "fr_amx_32",
+      "upperField" : "AMX-32"
+    }, {
+      "lowerField" : "fr_amx_40",
+      "upperField" : "AMX-40"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "fr_citroen_kegresse_p4t",
+      "upperField" : "Citroen Kegresse P4T"
+    }, {
+      "lowerField" : "fr_cckw_353_bofors",
+      "upperField" : "GMC CCKW 353 (40 mm Bofors)"
+    }, {
+      "lowerField" : "fr_amx_13_dca_40",
+      "upperField" : "AMX-13 DCA 40"
+    }, {
+      "lowerField" : "fr_amx_30_dca",
+      "upperField" : "AMX-30 DCA"
+    }, {
+      "lowerField" : "fr_amx_30_roland",
+      "upperField" : "AMX-30 Roland 1"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "fr_amr_35_zt3",
+      "upperField" : "Automitrailleuse de Reconnaissance AMR 35 ZT3"
+    }, {
+      "lowerField" : "fr_somua_sau40",
+      "upperField" : "Canon Automoteur DE 75 mm SAu 40"
+    }, {
+      "lowerField" : "fr_m10",
+      "upperField" : "⦿3-inch Gun Motor Carriage M10"
+    }, {
+      "lowerField" : "fr_arl_44",
+      "upperField" : "ARL-44"
+    }, {
+      "lowerField" : "fr_lorraine_100",
+      "upperField" : "Canon d'assault Lorraine de 100mm"
+    }, {
+      "lowerField" : "fr_amx_50_foch",
+      "upperField" : "Canon automoteur AMX-50 Foch"
+    }, {
+      "lowerField" : "fr_amx_10rc",
+      "upperField" : "AMX-10RC"
+    }, {
+      "lowerField" : "fr_amx_30_ACRA",
+      "upperField" : "AMX-30 ACRA"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "fr_hotchkiss_h39_cambronne",
+      "upperField" : "H.39 «Cambronne» 14eBCC"
+    }, {
+      "lowerField" : "fr_b1_ter",
+      "upperField" : "Char de bataille B1 ter"
+    }, {
+      "lowerField" : "fr_m4a1_sherman_fl_10",
+      "upperField" : "Sherman M4A1 tourelle FL10"
+    }, {
+      "lowerField" : "fr_amx_13_75_ss11",
+      "upperField" : "AMX-13 (SS.11)"
+    }, {
+      "lowerField" : "fr_amx_30",
+      "upperField" : "AMX-30"
+    }, {
+      "lowerField" : "fr_amx_30_super",
+      "upperField" : "AMX-30 Super"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "fr_lorraine_155",
+      "upperField" : "Lorraine 155 Mle.50"
+    }, {
+      "lowerField" : "fr_pzkpfw_V_panther_dauphine",
+      "upperField" : "Panther «Dauphine»"
+    }, {
+      "lowerField" : "fr_amx_50_surblinde",
+      "upperField" : "AMX 50 Surblindé"
+    } ]
+  } ]
+}

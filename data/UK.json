@@ -1,0 +1,239 @@
+{
+  "columnList" : [ {
+    "cellList" : [ {
+      "lowerField" : "uk_a_13_mk1",
+      "upperField" : "Mark IV A13 Mk.I"
+    }, {
+      "lowerField" : "uk_a_13_mk2",
+      "upperField" : "Mark IV A13 Mk.II"
+    }, {
+      "lowerField" : "uk_a27m_cromwell_5",
+      "upperField" : "Mark VIII A27M Cromwell V"
+    }, {
+      "lowerField" : "uk_a27m_cromwell_1",
+      "upperField" : "Mark VIII A27M Cromwell I"
+    }, {
+      "lowerField" : "uk_sherman_II",
+      "upperField" : "Sherman II"
+    }, {
+      "lowerField" : "uk_sherman_vc_firefly",
+      "upperField" : "Sherman VC Firefly"
+    }, {
+      "lowerField" : "uk_a_34_comet",
+      "upperField" : "A34 Comet I"
+    }, {
+      "lowerField" : "uk_a30_challenger",
+      "upperField" : "A30 Challenger"
+    }, {
+      "lowerField" : "uk_centurion_mk_1",
+      "upperField" : "Centurion Mk 1"
+    }, {
+      "lowerField" : "uk_centurion_mk_3",
+      "upperField" : "Centurion Mk.3"
+    }, {
+      "lowerField" : "uk_centurion_mk_10",
+      "upperField" : "Centurion Mk.10"
+    }, {
+      "lowerField" : "uk_chieftain_mk_3",
+      "upperField" : "Chieftain Mk.3"
+    }, {
+      "lowerField" : "uk_chieftain_mk_5",
+      "upperField" : "Chieftain Mk.5"
+    }, {
+      "lowerField" : "uk_chieftain_mk_10",
+      "upperField" : "Chieftain Mk.10"
+    }, {
+      "lowerField" : "uk_challenger_1",
+      "upperField" : "Tank, Combat, 120-mm Gun, Challenger Mk.2"
+    }, {
+      "lowerField" : "uk_challenger_mk_3",
+      "upperField" : "Tank, Combat, 120-mm Gun Challenger Mk.3"
+    }, {
+      "lowerField" : "uk_challenger_II",
+      "upperField" : "Tank, Combat, 120-mm Gun, Challenger 2"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "uk_crusader_mk_2",
+      "upperField" : "Crusader Mk.II"
+    }, {
+      "lowerField" : "uk_crusader_mk_3",
+      "upperField" : "Crusader Mk.III"
+    }, {
+      "lowerField" : "uk_a_12_mk_2_matilda_2",
+      "upperField" : "A12 Mk.II Matilda II"
+    }, {
+      "lowerField" : "uk_3_inch_gun_carrier",
+      "upperField" : "3 inch Gun Carrier"
+    }, {
+      "lowerField" : "uk_a_22_mk_1_churchill_1941",
+      "upperField" : "Infantry Tank Mk IV A22 \"Churchill\" Mk I"
+    }, {
+      "lowerField" : "uk_a_22b_mk_3_churchill_1942",
+      "upperField" : "Mark IV A22B Churchill Mk.III"
+    }, {
+      "lowerField" : "uk_a_22f_mk_7_churchill_1944",
+      "upperField" : "A22 Churchill Mk.VII"
+    }, {
+      "lowerField" : "uk_fv4202",
+      "upperField" : "FV4202"
+    }, {
+      "lowerField" : "uk_fv221_caernarvon",
+      "upperField" : "FV 221 Caernarvon"
+    }, {
+      "lowerField" : "uk_vickers_mbt_mk_1",
+      "upperField" : "Vickers Battle Tank Mk.1"
+    }, {
+      "lowerField" : "uk_conqueror_mk_2",
+      "upperField" : "Tank Heavy Gun Conqueror Mk.2"
+    }, {
+      "lowerField" : "uk_fv510_isv",
+      "upperField" : "Combat Vehicle, Personnel, Tracked, 30mm Gun, Warrior FV510"
+    }, {
+      "lowerField" : "uk_vickers_mk7",
+      "upperField" : "Vickers Mk.7"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "uk_a17_mk_1_tetrarch",
+      "upperField" : "Mark VII A17 Tetrarch Mk.I"
+    }, {
+      "lowerField" : "uk_daimler_mk_2",
+      "upperField" : "Daimler Armoured Car Mk.II"
+    }, {
+      "lowerField" : "uk_valentine_mk_1",
+      "upperField" : "Valentine Mk.I"
+    }, {
+      "lowerField" : "uk_valentine_mk_11",
+      "upperField" : "Valentine Mk.XI"
+    }, {
+      "lowerField" : "uk_valentine_mk_9",
+      "upperField" : "Valentine Mk.IX"
+    }, {
+      "lowerField" : "uk_sp_17_pdr_valentine",
+      "upperField" : "SP 17pdr. Valentine"
+    }, {
+      "lowerField" : "uk_17_pdr_m10_achilles",
+      "upperField" : "17 pounder Self-Propelled M10"
+    }, {
+      "lowerField" : "uk_a30_sp_avenger",
+      "upperField" : "A30 SP Avenger"
+    }, {
+      "lowerField" : "uk_charioteer_mk_7",
+      "upperField" : "Tank Medium Gun Charioteer Mk.VII"
+    }, {
+      "lowerField" : "uk_a39_tortoise",
+      "upperField" : "A39 Tortoise"
+    }, {
+      "lowerField" : "uk_fv4005",
+      "upperField" : "FV4005 Stage II"
+    }, {
+      "lowerField" : "uk_fv4004_conway",
+      "upperField" : "FV4004 Conway"
+    }, {
+      "lowerField" : "uk_fv438_swingfire",
+      "upperField" : "FV438 Swingfire"
+    }, {
+      "lowerField" : "uk_fv102_striker",
+      "upperField" : "FV-102 Striker"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "uk_vickers_mk_6_aa_mk_1",
+      "upperField" : "Vickers Mk.VIA AA Mk.I"
+    }, {
+      "lowerField" : "uk_t17e2",
+      "upperField" : "T17E2"
+    }, {
+      "lowerField" : "uk_armored_car_mk_2_aa",
+      "upperField" : "Armored Car Mk.II AA"
+    }, {
+      "lowerField" : "uk_crusader_aa_mk_2",
+      "upperField" : "Crusader AA Mk.II"
+    }, {
+      "lowerField" : "uk_crusader_aa_mk_1",
+      "upperField" : "Crusader AA Mk.I"
+    }, {
+      "lowerField" : "uk_falcon",
+      "upperField" : "Falcon"
+    }, {
+      "lowerField" : "uk_chieftain_marksman",
+      "upperField" : "Marconi Electronic Systems Chieftain Mk 5 Marksman"
+    }, {
+      "lowerField" : "uk_stormer_hvm",
+      "upperField" : "FV4333 Stormer HVM"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "uk_a_13_mk2_1939",
+      "upperField" : "Mark IV A13 Mk.II"
+    }, {
+      "lowerField" : "uk_a27m_cromwell_5_rp3",
+      "upperField" : "Mark VIII A27M Cromwell RP-3"
+    }, {
+      "lowerField" : "uk_17_pdr_m10_achilles_norfolk_yeomanry",
+      "upperField" : "17pdr. M10 65th Anti-Tank Regt"
+    }, {
+      "lowerField" : "uk_a_33_excelsior",
+      "upperField" : "Excelsior"
+    }, {
+      "lowerField" : "uk_sherman_ic_firefly",
+      "upperField" : "Sherman IC 2nd «Warsaw» Armoured Division"
+    }, {
+      "lowerField" : "uk_a_43_black_prince",
+      "upperField" : "A.43 Black Prince"
+    }, {
+      "lowerField" : "uk_centurion_mk_3_ss11",
+      "upperField" : "Strv 81"
+    }, {
+      "lowerField" : "uk_centurion_mk_5_avre_era",
+      "upperField" : "Centurion Assault Vehicle, Royal Engineers Mk.5"
+    }, {
+      "lowerField" : "uk_centurion_shot_kal_d",
+      "upperField" : "✡Sho't Kal Dalet"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "uk_a_13_mk1_3rd_rtr",
+      "upperField" : "Mark IV A13 Mk.I 3rd Royal Tank Regiment"
+    }, {
+      "lowerField" : "uk_a1e1_independent",
+      "upperField" : "A1E1 Independent"
+    }, {
+      "lowerField" : "uk_mk1_grant",
+      "upperField" : "Grant I"
+    }, {
+      "lowerField" : "uk_armored_car_aec_mk_2",
+      "upperField" : "AEC Mk.II"
+    }, {
+      "lowerField" : "uk_ac4_thunderbolt",
+      "upperField" : "AC IV Thunderbolt"
+    }, {
+      "lowerField" : "uk_a_34_comet_iron_duke",
+      "upperField" : "Iron Duke IV"
+    }, {
+      "lowerField" : "uk_centurion_action_x",
+      "upperField" : "Centurion Action X"
+    }, {
+      "lowerField" : "uk_rooikat_105_td",
+      "upperField" : "Rooikat 105"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "uk_a17_mk_1_tetrarch_race",
+      "upperField" : "Tetrarch Mk.I"
+    }, {
+      "lowerField" : "uk_centaur_aa_mk_1",
+      "upperField" : "Crusader AA Mk.I"
+    }, {
+      "lowerField" : "uk_centaur_aa_mk_2",
+      "upperField" : "Crusader AA Mk.II"
+    }, {
+      "lowerField" : "uk_challenger_II_yt_cup_2019",
+      "upperField" : "🏆Challenger 2"
+    }, {
+      "lowerField" : "uk_t17e2_race",
+      "upperField" : "RT-1"
+    } ]
+  } ]
+}

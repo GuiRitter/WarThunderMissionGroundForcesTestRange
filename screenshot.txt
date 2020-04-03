@@ -1,3 +1,5 @@
+faction footer.txt
+
 area_for_cutscene_0
 -x zoom out
 +x zoom in

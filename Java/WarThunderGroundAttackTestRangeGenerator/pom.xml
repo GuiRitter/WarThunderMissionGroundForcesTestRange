@@ -4,7 +4,7 @@
 
   <groupId>io.github.guiritter</groupId>
   <artifactId>war-thunder-ground-attack-test-range-generator</artifactId> 
-  <version>1.0.1</version> 
+  <version>1.1.1</version> 
   <packaging>jar</packaging>
 
   <name>War Thunder Ground Attack Test Range Generator</name> 
@@ -27,12 +27,17 @@
 
   <properties> 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
-    <maven.compiler.source>1.8</maven.compiler.source> 
-    <maven.compiler.target>1.8</maven.compiler.target> 
+    <maven.compiler.source>14</maven.compiler.source> 
+    <maven.compiler.target>14</maven.compiler.target> 
     <exec.mainClass>io.github.guiritter.war_thunder.ground_attack_test_range_generator.MissionGenerator</exec.mainClass> 
   </properties>
 
   <dependencies>
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-databind</artifactId>
+      <version>[1.0.0,)</version>
+    </dependency>
   </dependencies>
 
   <build>
@@ -42,9 +47,9 @@
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.2</version>
-        <configuration> <!-- Compile java 8 compatible bytecode -->
-          <source>1.8</source>
-          <target>1.8</target>
+        <configuration> <!-- Compile java 14 compatible bytecode -->
+          <source>14</source>
+          <target>14</target>
         </configuration>
       </plugin>
 

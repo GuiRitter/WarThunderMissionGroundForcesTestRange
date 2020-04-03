@@ -1,0 +1,358 @@
+{
+  "columnList" : [ {
+    "cellList" : [ {
+      "lowerField" : "germ_sdkfz_221_s_pz_b_41",
+      "upperField" : "le.Pz.Sp.Wg. (s.Pz.B.41) Sd.Kfz.221"
+    }, {
+      "lowerField" : "germ_panzerjager_1",
+      "upperField" : "4,7 cm Pak(t) auf Pz.I Ausf.B"
+    }, {
+      "lowerField" : "germ_sturmpanzer_II",
+      "upperField" : "Sturmpanzer II"
+    }, {
+      "lowerField" : "germ_sdkfz_234_2",
+      "upperField" : "s.Pz.Sp.Wg. (5 cm 39/1 L60)"
+    }, {
+      "lowerField" : "germ_pzkpfw_38t_marder_iii",
+      "upperField" : "Marder III"
+    }, {
+      "lowerField" : "germ_pzkpfw_38t_marder_iii_ausf_h",
+      "upperField" : "PaK40/3 auf Sfl.38 Ausf. H"
+    }, {
+      "lowerField" : "germ_sdkfz_9_flak37",
+      "upperField" : "8.8cm Flak 37 Selbstfahrlafette auf 18 ton Zugkraftwagen"
+    }, {
+      "lowerField" : "germ_pzsfl_IVa_dickermax",
+      "upperField" : "10.5 cm K18 Pz.Sfl.IVa \"Dicker Max\""
+    }, {
+      "lowerField" : "germ_pzsflk40_sturer_emil",
+      "upperField" : "Pz.Sfl. fuer 12,8 cm K40 \"Sturer Emil\""
+    }, {
+      "lowerField" : "germ_panzerjager_nashorn",
+      "upperField" : "8,8 Pak 43/1 Sf.\"Nashorn\""
+    }, {
+      "lowerField" : "germ_waffentrager_krupp_steyr",
+      "upperField" : "Waffenträger Krupp-Steyr mit Pak 43"
+    }, {
+      "lowerField" : "germ_kanonenjagdpanzer",
+      "upperField" : "Hanomag-Henschel JPz 4-5"
+    }, {
+      "lowerField" : "germ_bmp_1_ddr",
+      "upperField" : "BMP-1 (DDR)"
+    }, {
+      "lowerField" : "germ_raketenjagdpanzer_2",
+      "upperField" : "Raketenjagdpanzer 2"
+    }, {
+      "lowerField" : "germ_raketenjagdpanzer_2_hot",
+      "upperField" : "Raketenjagdpanzer 2 HOT"
+    }, {
+      "lowerField" : "germ_radpanzer_90",
+      "upperField" : "Radkampfwagen 90"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "germ_pzkpfw_iii_ausf_b",
+      "upperField" : "Pz.Kpfw. III Ausf. B"
+    }, {
+      "lowerField" : "germ_pzkpfw_iii_ausf_e",
+      "upperField" : "Pz.Kpfw. III Ausf. E"
+    }, {
+      "lowerField" : "germ_pzkpfw_iii_ausf_f",
+      "upperField" : "Pz.Kpfw. III Ausf. F"
+    }, {
+      "lowerField" : "germ_pzkpfw_iii_ausf_j_l42",
+      "upperField" : "Pz.Kpfw. III Ausf. J"
+    }, {
+      "lowerField" : "germ_pzkpfw_iii_ausf_j",
+      "upperField" : "Pz.Kpfw. III Ausf. J1"
+    }, {
+      "lowerField" : "germ_pzkpfw_iii_ausf_l",
+      "upperField" : "Pz.Kpfw. III Ausf. L"
+    }, {
+      "lowerField" : "germ_pzkpfw_iii_ausf_m",
+      "upperField" : "Pz.Kpfw. III Ausf. M"
+    }, {
+      "lowerField" : "germ_pzkpfw_vi_ausf_h1_tiger",
+      "upperField" : "Pz.Kpfw. VI Tiger Ausf. H1"
+    }, {
+      "lowerField" : "germ_pzkpfw_vi_ausf_e_tiger",
+      "upperField" : "Pz.Kpfw. VI Tiger Ausf. E"
+    }, {
+      "lowerField" : "germ_pzkpfw_vi_ausf_b_tiger_iip",
+      "upperField" : "Pz.Kpfw. VI Ausf. B (P)"
+    }, {
+      "lowerField" : "germ_pzkpfw_vi_ausf_b_tiger_iih",
+      "upperField" : "Pz.Kpfw. VI Ausf. B (H)"
+    }, {
+      "lowerField" : "germ_mkpz_m48a2c",
+      "upperField" : "M48A2 C"
+    }, {
+      "lowerField" : "germ_mkpz_m48a2ga2",
+      "upperField" : "M48A2 G A2"
+    }, {
+      "lowerField" : "germ_kpz_70",
+      "upperField" : "KPz-70"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "germ_pzkpfw_ii_ausf_c",
+      "upperField" : "Pz.Kpfw. II Ausf. C"
+    }, {
+      "lowerField" : "germ_pzkpfw_ii_ausf_f",
+      "upperField" : "Pz.Kpfw. II Ausf. F"
+    }, {
+      "lowerField" : "germ_pzkpfw_iv_ausf_c",
+      "upperField" : "Pz.Kpfw. IV Ausf. C"
+    }, {
+      "lowerField" : "germ_pzkpfw_iv_ausf_e",
+      "upperField" : "Pz.Kpfw. IV Ausf. E"
+    }, {
+      "lowerField" : "germ_pzkpfw_iv_ausf_f",
+      "upperField" : "Pz.Kpfw. IV Ausf. F1"
+    }, {
+      "lowerField" : "germ_pzkpfw_iv_ausf_f2",
+      "upperField" : "Pz.Kpfw. IV Ausf. F2"
+    }, {
+      "lowerField" : "germ_pzkpfw_iv_ausf_g",
+      "upperField" : "Pz.Kpfw. IV Ausf. G"
+    }, {
+      "lowerField" : "germ_pzkpfw_iv_ausf_h",
+      "upperField" : "Pz.Kpfw. IV Ausf. H"
+    }, {
+      "lowerField" : "germ_pzkpfw_iv_ausf_j",
+      "upperField" : "Pz.Kpfw. IV Ausf. J"
+    }, {
+      "lowerField" : "germ_pzkpfw_v_ausf_d_panther",
+      "upperField" : "Pz.Kpfw. V Ausf. D"
+    }, {
+      "lowerField" : "germ_pzkpfw_v_ausf_a_panther",
+      "upperField" : "Pz.Kpfw. V Ausf. A"
+    }, {
+      "lowerField" : "germ_pzkpfw_v_ausf_g_panther",
+      "upperField" : "Pz.Kpfw. V Ausf. G"
+    }, {
+      "lowerField" : "germ_pzkpfw_v_ausf_f_panther",
+      "upperField" : "Pz.Kpfw. V Ausf. F"
+    }, {
+      "lowerField" : "germ_leopard_i",
+      "upperField" : "Leopard I"
+    }, {
+      "lowerField" : "germ_leopard_I_a1",
+      "upperField" : "Leopard A1A1"
+    }, {
+      "lowerField" : "germ_leopard_2k",
+      "upperField" : "Leopard 2K"
+    }, {
+      "lowerField" : "germ_leopard_2a4",
+      "upperField" : "Leopard 2A4"
+    }, {
+      "lowerField" : "germ_leopard_2a5",
+      "upperField" : "Leopard 2A5"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "germ_flakpanzer_i_ausf_a",
+      "upperField" : "Flakpanzer I Ausf. A"
+    }, {
+      "lowerField" : "germ_flakpanzer_38t_gepard",
+      "upperField" : "Pz.Kpfw.38 fur 2 cm Flak 38"
+    }, {
+      "lowerField" : "germ_sdkfz_6_2_flak36",
+      "upperField" : "3.7-cm Flak 36 auf Selbstfahrlafette Sd.Kfz. 6/2"
+    }, {
+      "lowerField" : "germ_flakpanzer_iv_wirbelwind",
+      "upperField" : "Flakpanzer IV Wirbelwind"
+    }, {
+      "lowerField" : "germ_flakpanzer_iv_ostwind",
+      "upperField" : "Flakpanzer IV Ostwind"
+    }, {
+      "lowerField" : "germ_flakpanzer_IV_Ostwind_2",
+      "upperField" : "Flakpanzer IV Ostwind II"
+    }, {
+      "lowerField" : "germ_flakpanzer_iv_kugelblitz",
+      "upperField" : "Flakpanzer IV Kugelblitz"
+    }, {
+      "lowerField" : "germ_flakpz_I_Gepard",
+      "upperField" : "Flakpanzer I Gepard"
+    }, {
+      "lowerField" : "germ_flarakpz_1",
+      "upperField" : "FlaRakPz 1 Roland 2"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "germ_pzkpfw_35t",
+      "upperField" : "Pz.Kpfw. 35(t)"
+    }, {
+      "lowerField" : "germ_pzkpfw_38t_ausf_a",
+      "upperField" : "Pz.Kpfw. 38(t) Ausf. A"
+    }, {
+      "lowerField" : "germ_pzkpfw_38t_ausf_f",
+      "upperField" : "Pz.Kpfw. 38(t) Ausf. F"
+    }, {
+      "lowerField" : "germ_stug_iii_ausf_a",
+      "upperField" : "Sturmgeschütz III Ausf. A"
+    }, {
+      "lowerField" : "germ_stuh_iii_ausf_g",
+      "upperField" : "Sturmhaubitze 42 Ausf. G"
+    }, {
+      "lowerField" : "germ_stug_iii_ausf_f",
+      "upperField" : "Sturmgeschütz III Ausf. F"
+    }, {
+      "lowerField" : "germ_stug_iii_ausf_g",
+      "upperField" : "Sturmgeschütz III Ausf. G"
+    }, {
+      "lowerField" : "germ_jgdpz_38t",
+      "upperField" : "Jagdpanzer 38(t) Hetzer"
+    }, {
+      "lowerField" : "germ_jgdpz_iv_l48",
+      "upperField" : "Jagdpanzer IV"
+    }, {
+      "lowerField" : "germ_pz_iv_l70",
+      "upperField" : "Panzer IV/70(V)"
+    }, {
+      "lowerField" : "germ_panzerjager_panther",
+      "upperField" : "Jagdpanzer V Jagdpanther"
+    }, {
+      "lowerField" : "germ_panzerjager_tiger_p_ferdinand",
+      "upperField" : "Panzerjäger Tiger (P) Ferdinand"
+    }, {
+      "lowerField" : "germ_panzerjager_tiger",
+      "upperField" : "Jagdpanzer VI Jagdtiger"
+    }, {
+      "lowerField" : "germ_begleitpanzer_57",
+      "upperField" : "Begleitpanzer 57"
+    }, {
+      "lowerField" : "germ_thyssen_henschel_tam",
+      "upperField" : "Tanque Argentino Mediano"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "germ_pzkpfw_ii_ausf_c_dak",
+      "upperField" : "Pz.Kpfw. II DAK"
+    }, {
+      "lowerField" : "germ_sdkfz_234_3",
+      "upperField" : "Sd.Kfz.234/3"
+    }, {
+      "lowerField" : "germ_sdkfz_234_4",
+      "upperField" : "s.Pz.Sp.Wg. (7,5 cm) Sd.Kfz.234/4"
+    }, {
+      "lowerField" : "germ_pzkpfw_iii_ausf_n",
+      "upperField" : "Pz.Kpfw. III Ausf. N"
+    }, {
+      "lowerField" : "germ_t_34_747",
+      "upperField" : "T-34-747(r)"
+    }, {
+      "lowerField" : "germ_panzerbefelhswagen_iv_ausf_j",
+      "upperField" : "Panzerbefehlswagen IV"
+    }, {
+      "lowerField" : "germ_kv_2_754r",
+      "upperField" : "✙KV-II 754r"
+    }, {
+      "lowerField" : "germ_pz_iv_l70_a",
+      "upperField" : "Panzer IV/70(A)"
+    }, {
+      "lowerField" : "germ_vsw_flak_41",
+      "upperField" : "Versuchsflakwagen"
+    }, {
+      "lowerField" : "germ_pzkpfw_V_ersatz_m10",
+      "upperField" : "Ersatz M10"
+    }, {
+      "lowerField" : "germ_pzkpfw_VI_ausf_h1_tiger_animal_version",
+      "upperField" : "🐾Tiger"
+    }, {
+      "lowerField" : "germ_panzerbefelhswagen_jagdpanther",
+      "upperField" : "Befehlswagen Jagdpanther"
+    }, {
+      "lowerField" : "germ_panzerbefelhswagen_vi_p",
+      "upperField" : "Panzerbefehlswagen VI (P)"
+    }, {
+      "lowerField" : "germ_panther_ii",
+      "upperField" : "Pz.Kpfw. Panther II"
+    }, {
+      "lowerField" : "germ_mkpz_m47",
+      "upperField" : "mKPz M47"
+    }, {
+      "lowerField" : "germ_pzkpfw_e_100",
+      "upperField" : "E-100"
+    }, {
+      "lowerField" : "germ_vt_1_2",
+      "upperField" : "Doppelrohr-Kasemattpanzer Versuchsträger VT1-2"
+    }, {
+      "lowerField" : "germ_leopard_a1a1_120",
+      "upperField" : "Leopard A1A1 (L/44)"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "germ_pzkpfw_38t_aufklarungspanzer",
+      "upperField" : "Aufklärungspanzer 38(t)"
+    }, {
+      "lowerField" : "germ_nbfz_vi",
+      "upperField" : "Neubaufahrzeug"
+    }, {
+      "lowerField" : "germ_pzkpfw_ii_ausf_h",
+      "upperField" : "Pz.Kpfw. II Ausf. H"
+    }, {
+      "lowerField" : "us_m4a2_1944_germ",
+      "upperField" : "✙Pz.Kpfw. M4 748 (a)"
+    }, {
+      "lowerField" : "germ_panzerwerfer_42",
+      "upperField" : "Panzerwerfer 42"
+    }, {
+      "lowerField" : "germ_kv_1b_finland",
+      "upperField" : "✙KV-IB"
+    }, {
+      "lowerField" : "germ_infanterie_kampfpanzer_churchill",
+      "upperField" : "Infanterie Kampfpanzer Churchill"
+    }, {
+      "lowerField" : "germ_sturmpanzer_iv_brummbar",
+      "upperField" : "15cm Sturm-Panzer 43(L/12) IV \"Brummbär\""
+    }, {
+      "lowerField" : "germ_kv_1_kwk_40",
+      "upperField" : "✙Pz.Kpfw. KV-1B 756(r)"
+    }, {
+      "lowerField" : "germ_pzkpfw_VI_tiger_P",
+      "upperField" : "VK 45.01 (P)"
+    }, {
+      "lowerField" : "germ_pzkpfw_VI_ausf_b_tiger_IIh_sla",
+      "upperField" : "Pz.Kpfw. VI Ausf. B (H) mit Simmering Sla.16"
+    }, {
+      "lowerField" : "germ_flakpanzer_v_coelian",
+      "upperField" : "3,7 cm Flakzwilling auf Panther Fahrgestell, Flakpanzer 341"
+    }, {
+      "lowerField" : "germ_ru251",
+      "upperField" : "Spähpanzer Ru 251"
+    }, {
+      "lowerField" : "germ_pzkpfw_vi_ausf_b_tiger_iih_kwk46",
+      "upperField" : "Pz.Kpfw. VI Ausf. B mit 10.5cm KwK L/68"
+    }, {
+      "lowerField" : "germ_pzkpfw_maus",
+      "upperField" : "Pz.Kpfw. Maus"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "germ_leopard_2a5_yt_cup_2019",
+      "upperField" : "🏆Leopard 2A5"
+    }, {
+      "lowerField" : "germ_m4_sherman_tutorial",
+      "upperField" : "SPS-255"
+    }, {
+      "lowerField" : "germ_panther_ii_tutorial",
+      "upperField" : "germ_panther_ii_tutorial"
+    }, {
+      "lowerField" : "germ_panzerjager_tiger_p_elefant",
+      "upperField" : "germ_panzerjager_tiger_p_elefant"
+    }, {
+      "lowerField" : "germ_panzerkampflaufer_565_r",
+      "upperField" : "PzKmpfLfr 565(r)"
+    }, {
+      "lowerField" : "germ_panzerkampflaufer_565_r_2",
+      "upperField" : "PzKmpfLfr 565(r)"
+    }, {
+      "lowerField" : "germ_pzkpfw_35t_romania_mare",
+      "upperField" : "Pz.35(t) RM"
+    }, {
+      "lowerField" : "germ_sdkfz_234_1",
+      "upperField" : "Sd.Kfz.234/1"
+    } ]
+  } ]
+}

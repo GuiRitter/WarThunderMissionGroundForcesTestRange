@@ -10,6 +10,8 @@ import javax.swing.JDialog;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 public final class MissionGenerator {
 
     public static void main(String args[]) throws IOException {
@@ -26,10 +28,9 @@ public final class MissionGenerator {
         }
         final File inputFolder = chooser.getSelectedFile();
         final String forces[] = {"air", "ground"};
-        final String factions[] = {"USSR", "Germany", "US", "UK", "Japan", "Italy", "France", "China"};
+        final String factions[] = {"USSR", "Germany", "US", "UK", "Japan", "Italy", "France", "China", "Sweden", "other"};
         final LinkedList<String> lines = new LinkedList<>();
-        LinkedList<String> inputList;
-        String fields[];
+        Cell fields[];
         int width = 0;
         int height;
         String depth; // was supposed to be height
@@ -38,13 +39,23 @@ public final class MissionGenerator {
         int distanceX; // x distance parallel to the tracks // close as possible: 5 // ground normal: 10 // air normal: 200
         double distanceZ; // z distance perpendicular to the tracks // close as possible: 2 // ground normal: 10 // air normal: 200
         List<String> tankModel = Files.readAllLines(inputFolder.toPath().resolve("tank model.txt"));
+        Table table;
         for (boolean screenshot : new boolean[]{false, true}) {
             for (String faction : factions) {
-                inputList = new LinkedList<>(Files.readAllLines(inputFolder.toPath().resolve(faction + ".csv")));
+                table = (new ObjectMapper()).readValue(inputFolder.toPath().resolve(faction + ".json").toFile(), Table.class);
+                /*
+                width = 0;
                 for (String input : inputList) {
                     width = Math.max(input.split("\t").length, width);
                 }
+                /**/
+                width = table.columnList
+                        .stream()
+                        .reduce(0, (previous, current) -> Math.max(previous, current.cellList.size()), (a, b) -> Math.max(a, b));
+                /*
                 height = inputList.size() / 2;
+                /**/
+                height = table.columnList.size();
                 for (String force : forces) {
                     lines.clear();
                     if (screenshot) {
@@ -87,7 +98,7 @@ public final class MissionGenerator {
                             depth = "1";//"220";
                             lines.add("    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] ["
                              + (((((-1) * 2) - width + 1) * distanceX) + centerX)
-                             + ", 220, " + centerZ + "]]");
+                             + ", " + depth + ", " + centerZ + "]]");
                             lines.addAll(Files.readAllLines(
                              inputFolder.toPath().resolve(
                               faction + " " + force + " header 1.txt")));
@@ -104,7 +115,10 @@ public final class MissionGenerator {
                     }
                     lines.add("");
                     for (int y = 0; y < height; y++) {
+                        /*
                         fields = inputList.get((2 * y) + 1).split("\t");
+                        /**/
+                        fields = table.columnList.get(y).cellList.toArray(new Cell[]{});
                         for (int x = 0; x < fields.length; x++) {
                             try {
                                 lines.add("  tankModels{");
@@ -114,7 +128,7 @@ public final class MissionGenerator {
                                  + ", " + depth + ", "
                                  + ((((double) ((y * 2) - height + 1)) * distanceZ) + ((double) centerZ)) // TODO BigDecimal
                                  + "]]");
-                                lines.add("    unit_class:t=\"" + fields[x] + "\"");
+                                lines.add("    unit_class:t=\"" + fields[x].lowerField + "\"");
                                 lines.addAll(tankModel);
                                 lines.add("");
                             } catch(Exception ex) {

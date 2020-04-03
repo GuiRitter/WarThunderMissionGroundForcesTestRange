@@ -1,12 +1,12 @@
-    unit_class:t="fr_amc_34"
+    unit_class:t="fr_amd_35"
     objLayer:i=1
     closed_waypoints:b=no
     isShipSpline:b=no
     shipTurnRadius:r=100
-    weapons:t="fr_amc_34_default"
+    weapons:t="fr_amd_35_default"
     bullets0:t=""
-    bullets1:t="47mm_SA34_APHE"
-    bullets2:t=""
+    bullets1:t="25mm_SA34_APC"
+    bullets2:t="art_support"
     bullets3:t=""
     bulletsCount0:i=5
     bulletsCount1:i=5

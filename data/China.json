@@ -1,0 +1,131 @@
+{
+  "columnList" : [ {
+    "cellList" : [ {
+      "lowerField" : "cn_m8_greyhound",
+      "upperField" : "✨Light Armored Car M8"
+    }, {
+      "lowerField" : "cn_m3a3_stuart",
+      "upperField" : "✨Light Tank M3A3 Stuart"
+    }, {
+      "lowerField" : "cn_m5a1_stuart",
+      "upperField" : "✨Light Tank M5A1 Stuart"
+    }, {
+      "lowerField" : "cn_m4a4_sherman",
+      "upperField" : "✨Medium Tank M4A4 Sherman"
+    }, {
+      "lowerField" : "cn_m4a1_76w_sherman",
+      "upperField" : "✨Medium Tank M4A1 (75) W Sherman"
+    }, {
+      "lowerField" : "cn_pt_76",
+      "upperField" : "✨PT-76"
+    }, {
+      "lowerField" : "cn_type_63_I",
+      "upperField" : "Type 63-I"
+    }, {
+      "lowerField" : "cn_type_62",
+      "upperField" : "Type 62"
+    }, {
+      "lowerField" : "cn_type_86",
+      "upperField" : "ZBD86"
+    }, {
+      "lowerField" : "cn_m48a1_patton_III",
+      "upperField" : "✨90 mm Gun Tank M48A1 Patton III"
+    }, {
+      "lowerField" : "cn_m60a3_tts",
+      "upperField" : "M60A3 TTS"
+    }, {
+      "lowerField" : "cn_cm11",
+      "upperField" : "CM11"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "cn_t_26_1940",
+      "upperField" : "✨T-26 mod. 1939"
+    }, {
+      "lowerField" : "cn_type_97_chi_ha",
+      "upperField" : "✨Type 97 Chi-Ha"
+    }, {
+      "lowerField" : "cn_type_97_kai",
+      "upperField" : "✨Type 97 Chi-Ha Kai"
+    }, {
+      "lowerField" : "cn_m24_chaffee",
+      "upperField" : "✨Light Tank M24 Chaffee"
+    }, {
+      "lowerField" : "cn_t_34_1942",
+      "upperField" : "✨T-34 (1943)"
+    }, {
+      "lowerField" : "cn_t_34_85_zis_53_no215",
+      "upperField" : "✨T-34-85 (S-53)"
+    }, {
+      "lowerField" : "cn_type_58",
+      "upperField" : "T-34-85 Gai"
+    }, {
+      "lowerField" : "cn_is_2_1943",
+      "upperField" : "✨IS-2"
+    }, {
+      "lowerField" : "cn_is_2_1944",
+      "upperField" : "✨IS-2 mod.1944"
+    }, {
+      "lowerField" : "cn_type_59",
+      "upperField" : "Type 59"
+    }, {
+      "lowerField" : "cn_type_69",
+      "upperField" : "Type 69"
+    }, {
+      "lowerField" : "cn_type_59d",
+      "upperField" : "ZTZ59D1"
+    }, {
+      "lowerField" : "cn_ztz_96",
+      "upperField" : "ZTZ96"
+    }, {
+      "lowerField" : "cn_ztz_96a",
+      "upperField" : "ZTZ96A"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "cn_m8_scott",
+      "upperField" : "✨75 mm Howitzer Motor Carriage M8"
+    }, {
+      "lowerField" : "cn_lvt_4_zis_2",
+      "upperField" : "✨LVT(A)(4) (ZiS-2)"
+    }, {
+      "lowerField" : "cn_su_76m_1943",
+      "upperField" : "✨SU-76M"
+    }, {
+      "lowerField" : "cn_m10",
+      "upperField" : "✨3-inch Gun Motor Carriage M10"
+    }, {
+      "lowerField" : "cn_m18_hellcat",
+      "upperField" : "✨M18 Gun Motor Carriage"
+    }, {
+      "lowerField" : "cn_type_65_aa",
+      "upperField" : "Type 65"
+    }, {
+      "lowerField" : "cn_isu_152",
+      "upperField" : "✨ISU-152"
+    }, {
+      "lowerField" : "cn_isu_122",
+      "upperField" : "✨ISU-122"
+    }, {
+      "lowerField" : "cn_m36",
+      "upperField" : "✨90-mm Gun Motor Carriage M36"
+    }, {
+      "lowerField" : "cn_su_100_1945",
+      "upperField" : "✨SU-100"
+    }, {
+      "lowerField" : "cn_m113a1_tow",
+      "upperField" : "✨M113A1 TOW"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "cn_t_26_no531",
+      "upperField" : "T-26 No.531"
+    }, {
+      "lowerField" : "cn_m4a4_sherman_1st_ptg",
+      "upperField" : "M4A4 (1st PTG)"
+    }, {
+      "lowerField" : "cn_t_62",
+      "upperField" : "T-62 Nº545"
+    } ]
+  } ]
+}

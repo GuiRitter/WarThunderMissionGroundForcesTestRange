@@ -1,0 +1,322 @@
+{
+  "columnList" : [ {
+    "cellList" : [ {
+      "lowerField" : "us_m2a4",
+      "upperField" : "Light Tank M2A4"
+    }, {
+      "lowerField" : "us_m3_stuart",
+      "upperField" : "Light Tank M3 Stuart"
+    }, {
+      "lowerField" : "us_m3a1_stuart",
+      "upperField" : "Light Tank M3A1 Stuart"
+    }, {
+      "lowerField" : "us_m5a1_stuart",
+      "upperField" : "Light Tank M5A1 Stuart"
+    }, {
+      "lowerField" : "us_m24_chaffee",
+      "upperField" : "Light Tank M24 Chaffee"
+    }, {
+      "lowerField" : "us_m41_walker_bulldog",
+      "upperField" : "Light Tank M41A1 Walker Bulldog"
+    }, {
+      "lowerField" : "us_m56_scorpion",
+      "upperField" : "90-mm, Full Tracked Self-Propelled Gun M56 Scorpion"
+    }, {
+      "lowerField" : "us_t92",
+      "upperField" : "76mm Gun Tank T92"
+    }, {
+      "lowerField" : "us_m50_ontos",
+      "upperField" : "106 mm Multiple Self-propelled Rifle M50"
+    }, {
+      "lowerField" : "us_m551",
+      "upperField" : "152-mm Gun / Launcher M551 Sheridan"
+    }, {
+      "lowerField" : "us_m3_bradley",
+      "upperField" : "Fighting Vehicle, Cavalry, M3"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "us_m2_medium",
+      "upperField" : "Medium Tank M2"
+    }, {
+      "lowerField" : "us_m3_lee",
+      "upperField" : "Medium Tank M3 Lee"
+    }, {
+      "lowerField" : "us_m4a1_1942_sherman",
+      "upperField" : "Medium Tank M4A1 Sherman"
+    }, {
+      "lowerField" : "us_m4_sherman",
+      "upperField" : "Medium Tank M4 Sherman"
+    }, {
+      "lowerField" : "us_m4a2_sherman",
+      "upperField" : "Medium Tank M4A2 Sherman"
+    }, {
+      "lowerField" : "us_m4a1_76w_sherman",
+      "upperField" : "Medium Tank M4A1 (76) W Sherman"
+    }, {
+      "lowerField" : "us_m4a2_76w_sherman",
+      "upperField" : "Medium Tank M4A2 (76) W Sherman"
+    }, {
+      "lowerField" : "us_m4a3e8_76w_sherman",
+      "upperField" : "Medium Tank M4A3 (76) W HVSS Sherman"
+    }, {
+      "lowerField" : "us_t25",
+      "upperField" : "Medium Tank T25"
+    }, {
+      "lowerField" : "us_m26_pershing",
+      "upperField" : "Medium Tank M26 Pershing"
+    }, {
+      "lowerField" : "us_m46_patton",
+      "upperField" : "Medium Tank M46 Patton"
+    }, {
+      "lowerField" : "us_m47_patton_ii",
+      "upperField" : "90 mm Gun Tank M47 Patton II"
+    }, {
+      "lowerField" : "us_m48a1_patton_iii",
+      "upperField" : "90 mm Gun Tank M48A1 Patton III"
+    }, {
+      "lowerField" : "us_m60",
+      "upperField" : "105 mm Gun Tank M60"
+    }, {
+      "lowerField" : "us_m60a1",
+      "upperField" : "105 mm Gun Tank M60A1"
+    }, {
+      "lowerField" : "us_m60a1_rise_passive_era",
+      "upperField" : "Tank, Combat, Full-Tracked 105-mm Gun M60A1 RISE (Passive)"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "us_lvt_a_1",
+      "upperField" : "LVT(A)(1)"
+    }, {
+      "lowerField" : "us_m22_locust",
+      "upperField" : "Light Tank M22 Locust"
+    }, {
+      "lowerField" : "us_m8_scott",
+      "upperField" : "M8 Scott"
+    }, {
+      "lowerField" : "us_m4a3_105_sherman",
+      "upperField" : "Medium Tank M4A3 (105) HVSS Sherman"
+    }, {
+      "lowerField" : "us_m6a1",
+      "upperField" : "Heavy Tank M6A1"
+    }, {
+      "lowerField" : "us_m4a3e2_sherman_jumbo",
+      "upperField" : "Assault Tank M4A3E2 Jumbo"
+    }, {
+      "lowerField" : "us_m4a3e2_76w_sherman_jumbo",
+      "upperField" : "Assault Tank M4A3E2 (76) W Jumbo"
+    }, {
+      "lowerField" : "us_t26e4_superpershing",
+      "upperField" : "Heavy Tank T26E1-1 \"Super Pershing\""
+    }, {
+      "lowerField" : "us_t34",
+      "upperField" : "Heavy Tank T34"
+    }, {
+      "lowerField" : "us_t32",
+      "upperField" : "Heavy Tank T32"
+    }, {
+      "lowerField" : "us_t32e1",
+      "upperField" : "Heavy Tank T32E1"
+    }, {
+      "lowerField" : "us_m103",
+      "upperField" : "120 mm Gun Tank M103"
+    }, {
+      "lowerField" : "us_t95e1",
+      "upperField" : "Medium Tank T95E1"
+    }, {
+      "lowerField" : "us_xm_803",
+      "upperField" : "Tank, Combat, Full-Tracked, 152-mm Gun/Launcher XM-803"
+    }, {
+      "lowerField" : "us_mbt_70",
+      "upperField" : "152-mm Gun-Launcher Main Battle Tank 70"
+    }, {
+      "lowerField" : "us_m1_abrams",
+      "upperField" : "Tank, Combat, Full Tracked, 105-mm Gun M1"
+    }, {
+      "lowerField" : "us_m1_ip_abrams",
+      "upperField" : "Tank, Combat, Full Tracked, 105-mm Gun IPM1"
+    }, {
+      "lowerField" : "us_m1a1_abrams",
+      "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A1"
+    }, {
+      "lowerField" : "us_m1a2_abrams",
+      "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A2"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "us_halftrack_m13",
+      "upperField" : "Multiple Gun Motor Carriage M13"
+    }, {
+      "lowerField" : "us_halftrack_m16",
+      "upperField" : "Multiple Gun Motor Carriage M16"
+    }, {
+      "lowerField" : "us_halftrack_m15",
+      "upperField" : "Combination Gun Motor Carriage M15"
+    }, {
+      "lowerField" : "us_m19",
+      "upperField" : "Twin Gun Motor Carriage M19"
+    }, {
+      "lowerField" : "us_m42_duster",
+      "upperField" : "Twin 40mm Self-Propelled Guns M42 Duster"
+    }, {
+      "lowerField" : "us_m163_vulcan",
+      "upperField" : "Gun Air Defence Artillery Self-Propelled 20-mm M163"
+    }, {
+      "lowerField" : "us_m247",
+      "upperField" : "Gun, Air Defense Artillery, Self-Propelled, 40-mm, M247"
+    }, {
+      "lowerField" : "us_adats_bradley",
+      "upperField" : "ADATS"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "us_m2a2",
+      "upperField" : "Light Tank M2A2"
+    }, {
+      "lowerField" : "us_halftrack_m3_75mm_gmc",
+      "upperField" : "75mm Gun Motor Carriage M3"
+    }, {
+      "lowerField" : "us_m10",
+      "upperField" : "3-inch Gun Motor Carriage M10"
+    }, {
+      "lowerField" : "us_m18_hellcat",
+      "upperField" : "M18 Gun Motor Carriage"
+    }, {
+      "lowerField" : "us_m36",
+      "upperField" : "90-mm Gun Motor Carriage M36"
+    }, {
+      "lowerField" : "us_t95",
+      "upperField" : "105mm Gun Motor Carriage T95"
+    }, {
+      "lowerField" : "us_m60a2",
+      "upperField" : "152 mm Gun Tank M60A2"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "us_m8_greyhound",
+      "upperField" : "Light Armored Car M8"
+    }, {
+      "lowerField" : "us_m8a1",
+      "upperField" : "75 mm Gun Motor Carriage M8"
+    }, {
+      "lowerField" : "us_mk1_grant",
+      "upperField" : "Cruiser Tank Grant I"
+    }, {
+      "lowerField" : "us_lvt_4_zis_2",
+      "upperField" : "LVT(A)(4) Zis-2"
+    }, {
+      "lowerField" : "us_m4a5_ram_2",
+      "upperField" : "M4A5 Ram II"
+    }, {
+      "lowerField" : "us_m24_chaffee_tl",
+      "upperField" : "Light Tank M24 Chaffee"
+    }, {
+      "lowerField" : "us_m18_hellcat_black_cat",
+      "upperField" : "M18 Gun Motor Carriage “Black Cat”"
+    }, {
+      "lowerField" : "us_m4_sherman_calliope",
+      "upperField" : "Rocket Launcher T34 Calliope"
+    }, {
+      "lowerField" : "us_m26_t99",
+      "upperField" : "Medium Tank M26 T99"
+    }, {
+      "lowerField" : "us_m18_super_hellcat",
+      "upperField" : "M18 90-mm Gun Motor Carriage"
+    }, {
+      "lowerField" : "us_t29",
+      "upperField" : "Heavy Tank T29"
+    }, {
+      "lowerField" : "us_t30",
+      "upperField" : "Heavy Tank T30"
+    }, {
+      "lowerField" : "us_t114",
+      "upperField" : "T114"
+    }, {
+      "lowerField" : "us_t54e1",
+      "upperField" : "T54E1"
+    }, {
+      "lowerField" : "us_xm1_gm",
+      "upperField" : "Tank, Combat, Full-Tracked, 105-mm Gun XM-1 (GM)"
+    }, {
+      "lowerField" : "us_xm1_chrysler",
+      "upperField" : "Tank, Combat, Full-Tracked, 105-mm Gun XM-1 (Chrysler)"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "us_m2a4_1st_armor_div",
+      "upperField" : "Light Tank M2A4 (1st Arm.Div.)"
+    }, {
+      "lowerField" : "us_m3a1_stuart_usmc",
+      "upperField" : "Light Tank M3A1 Stuart (USMC)"
+    }, {
+      "lowerField" : "us_m5a1_stuart_canadian_5st_arm",
+      "upperField" : "M5A1 Stuart (5th Canadian Armored Division)"
+    }, {
+      "lowerField" : "us_t18_e2",
+      "upperField" : "T18E2 \"Boarhound\""
+    }, {
+      "lowerField" : "us_t14",
+      "upperField" : "Assault Tank T14"
+    }, {
+      "lowerField" : "us_t20",
+      "upperField" : "T20"
+    }, {
+      "lowerField" : "us_m4a3e2_sherman_jumbo_cobra_king",
+      "upperField" : "Assault Tank M4A3E2 Jumbo “Cobra King”"
+    }, {
+      "lowerField" : "us_t28",
+      "upperField" : "Super Heavy Tank T28"
+    }, {
+      "lowerField" : "us_m26e1_pershing",
+      "upperField" : "Medium Tank M26E1"
+    }, {
+      "lowerField" : "us_m46_patton_73_armor_bat",
+      "upperField" : "Medium Tank M46 Patton (73 Tank Batalion)"
+    }, {
+      "lowerField" : "us_magach_3",
+      "upperField" : "✡Magach 3"
+    }, {
+      "lowerField" : "us_merkava_mk_1",
+      "upperField" : "Merkava Mk.1"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "us_m18_hellcat_black_cat_race",
+      "upperField" : "“The Hellcat”"
+    }, {
+      "lowerField" : "us_m22_locust_race",
+      "upperField" : "M22"
+    }, {
+      "lowerField" : "us_m1a1_abrams_yt_cup_2019",
+      "upperField" : "🏆M1A1"
+    }, {
+      "lowerField" : "us_m35",
+      "upperField" : "M35"
+    }, {
+      "lowerField" : "us_m35_2",
+      "upperField" : "M35"
+    }, {
+      "lowerField" : "us_m4_sherman_fake",
+      "upperField" : "us_m4_sherman_fake"
+    }, {
+      "lowerField" : "us_m4_sherman_tutorial",
+      "upperField" : "SPS-255"
+    }, {
+      "lowerField" : "us_m4a2_1944",
+      "upperField" : "M4A2 (1944)"
+    }, {
+      "lowerField" : "us_m4a2_1944_germ",
+      "upperField" : "✙M4 748 (a)"
+    }, {
+      "lowerField" : "us_m551_football",
+      "upperField" : ""
+    }, {
+      "lowerField" : "us_m901_itv",
+      "upperField" : "M901"
+    }, {
+      "lowerField" : "us_t32_tutorial",
+      "upperField" : "T32"
+    } ]
+  } ]
+}

@@ -10,80 +10,90 @@ import java.util.stream.Collectors;
 import javax.swing.BoxLayout;
 import javax.swing.JPanel;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public final class Table {
 
-    private final LinkedList<Column> columnList = new LinkedList<>();
+	@JsonProperty
+	private final LinkedList<Column> columnList = new LinkedList<>();
 
-    private int i;
+	@JsonIgnore
+	private int i;
 
-    public final JPanel panel;
+	@JsonIgnore
+	public final JPanel panel;
 
-    public void addCellBefore() {
-        columnList.stream().forEach((column) -> {
-            column.addCellBefore();
-        });
-    }
+	public void addCellBefore() {
+		columnList.stream().forEach((column) -> {
+			column.addCellBefore();
+		});
+	}
 
-    public void addCellLast() {
-        columnList.stream().forEach((column) -> {
-            column.addCellLast();
-        });
-    }
+	public void addCellLast() {
+		columnList.stream().forEach((column) -> {
+			column.addCellLast();
+		});
+	}
 
-    public void addCellLastColumnLast(String upper, String lower) {
-        columnList.getLast().addCellLast(upper, lower);
-    }
+	public void addCellLastColumnLast(String upper, String lower) {
+		columnList.getLast().addCellLast(upper, lower);
+	}
 
-    public void addColumnBefore() {
-        for (i = columnList.size() - 1; i > -1; i--) {
-            if (columnList.get(i).isChecked()) {
-                columnList.add(i, new Column());
-                panel.add(columnList.get(i).panel, i);
-                columnList.get(i + 1).setChecked(false);
-            }
-        }
-    }
+	public void addColumnBefore() {
+		for (i = columnList.size() - 1; i > -1; i--) {
+			if (columnList.get(i).isChecked()) {
+				columnList.add(i, new Column());
+				panel.add(columnList.get(i).panel, i);
+				columnList.get(i + 1).setChecked(false);
+			}
+		}
+	}
 
-    public void addColumnLast(boolean clear) {
-        columnList.addLast(new Column());
-        panel.add(columnList.getLast().panel);
+	public void addColumnLast(boolean clear) {
+		columnList.addLast(new Column());
+		panel.add(columnList.getLast().panel);
 
-        if (clear) {
-            columnList.getLast().clear();
-        }
-    }
+		if (clear) {
+			columnList.getLast().clear();
+		}
+	}
 
-    public void clear() {
-        columnList.clear();
-        panel.removeAll();
-    }
+	public void clear() {
+		columnList.clear();
+		panel.removeAll();
+	}
 
-    public List<Cell> getCheckedCellList() {
-        return columnList.stream().flatMap(column -> column.getCheckedCellList().stream()).collect(Collectors.toList());
-    }
+	@JsonIgnore
+	public List<Cell> getCheckedCellList() {
+		return columnList.stream().flatMap(column -> column.getCheckedCellList().stream()).collect(Collectors.toList());
+	}
 
-    public String[][][] getText() {
-        String[][][] returnArray = new String[columnList.size()][][];
-        for (i = 0; i < returnArray.length; i++) {
-            returnArray[i] = columnList.get(i).getText();
-        }
-        return returnArray;
-    }
+	@JsonIgnore
+	public String[][][] getText() {
+		String[][][] returnArray = new String[columnList.size()][][];
+		for (i = 0; i < returnArray.length; i++) {
+			returnArray[i] = columnList.get(i).getText();
 
-    public void switchCell() {
-        List<Cell> cellList = getCheckedCellList();
-        if (cellList.size() != 2) {
-            return;
-        }
-        switchContent(cellList.get(0), cellList.get(1));
-        cellList.forEach(cell -> cell.setChecked(false));
-    }
 
-    public Table() {
-        panel = new JPanel();
-        panel.setLayout(new BoxLayout(panel, X_AXIS));
+		}
+		return returnArray;
+	}
 
-        columnList.add(new Column());
-        panel.add(columnList.getLast().panel);
-    }
+	public void switchCell() {
+		List<Cell> cellList = getCheckedCellList();
+		if (cellList.size() != 2) {
+			return;
+		}
+		switchContent(cellList.get(0), cellList.get(1));
+		cellList.forEach(cell -> cell.setChecked(false));
+	}
+
+	public Table() {
+		panel = new JPanel();
+		panel.setLayout(new BoxLayout(panel, X_AXIS));
+
+		columnList.add(new Column());
+		panel.add(columnList.getLast().panel);
+	}
 }

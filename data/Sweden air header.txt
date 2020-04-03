@@ -267,10 +267,12 @@ units{
   armada{
     name:t="armada_player"
     tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [0, 500, 0]]
-    unit_class:t="bb-1"
+    unit_class:t="saab_b17b"
     objLayer:i=1
     closed_waypoints:b=no
-    weapons:t="bb-1_fab50_default"
+    isShipSpline:b=no
+    shipTurnRadius:r=100
+    weapons:t="saab_b17b_default"
     bullets0:t="shkas_all_tracers"
     bullets1:t=""
     bullets2:t=""

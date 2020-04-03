@@ -1,16 +1,17 @@
-    unit_class:t="ussr_bt_5"
+    unit_class:t="sw_strv_m38"
     objLayer:i=1
     closed_waypoints:b=no
-    weapons:t="ussr_bt_5_default"
+    isShipSpline:b=no
+    shipTurnRadius:r=100
+    weapons:t="sw_strv_m38_default"
     bullets0:t=""
-    bullets1:t="45mm_ussr_AP_1942"
-    bullets2:t="45mm_ussr_HE"
-    bullets3:t=""
+    bullets1:t="37mm_sw_m39_APHE"
+    bullets2:t="37mm_sw_kan_APDS"
+    bullets3:t="art_support"
     bulletsCount0:i=5
     bulletsCount1:i=5
     bulletsCount2:i=5
     bulletsCount3:i=5
-    modification:t="art_support"
 
     props{
       army:i=1

@@ -270,7 +270,9 @@ units{
     unit_class:t="bb-1"
     objLayer:i=1
     closed_waypoints:b=no
-    weapons:t="bb-1_fab50_default"
+    isShipSpline:b=no
+    shipTurnRadius:r=100
+    weapons:t="bb-1_fab50"
     bullets0:t="shkas_all_tracers"
     bullets1:t=""
     bullets2:t=""

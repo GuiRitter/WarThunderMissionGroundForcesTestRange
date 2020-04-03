@@ -11,87 +11,96 @@ import javax.swing.BoxLayout;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public final class Column {
 
-    private final LinkedList<Cell> cellList = new LinkedList<>();
+	@JsonProperty
+	private final LinkedList<Cell> cellList = new LinkedList<>();
 
-    private int i;
+	@JsonIgnore
+	private int i;
 
-    public final JPanel panel;
+	@JsonIgnore
+	public final JPanel panel;
 
 //    public int x;
 
-    public void addCellBefore() {
-        for (i = cellList.size() - 1; i > -1; i--) {
-            if (cellList.get(i).isChecked()) {
-                cellList.add(i, new Cell());
-                panel.add(cellList.get(i).panel, i);
-                cellList.get(i + 1).setChecked(false);
-            }
-        }
-    }
+	public void addCellBefore() {
+		for (i = cellList.size() - 1; i > -1; i--) {
+			if (cellList.get(i).isChecked()) {
+				cellList.add(i, new Cell());
+				panel.add(cellList.get(i).panel, i);
+				cellList.get(i + 1).setChecked(false);
+			}
+		}
+	}
 
-    public void addCellLast() {
-        for (Cell cell : cellList) {
-            if (cell.isChecked()) {
-                cellList.addLast(new Cell());
-                panel.add(cellList.getLast().panel);
-                setChecked(false);
-                return;
-            }
-        }
-    }
+	public void addCellLast() {
+		for (Cell cell : cellList) {
+			if (cell.isChecked()) {
+				cellList.addLast(new Cell());
+				panel.add(cellList.getLast().panel);
+				setChecked(false);
+				return;
+			}
+		}
+	}
 
-    public void addCellLast(String upper, String lower) {
-        cellList.addLast(new Cell(upper, lower));
-        panel.add(cellList.getLast().panel);
-    }
+	public void addCellLast(String upper, String lower) {
+		cellList.addLast(new Cell(upper, lower));
+		panel.add(cellList.getLast().panel);
+	}
 
-    public void clear() {
-        cellList.clear();
-        panel.removeAll();
-    }
+	public void clear() {
+		cellList.clear();
+		panel.removeAll();
+	}
 
-    public List<Cell> getCheckedCellList() {
-        return cellList.stream().filter(cell -> cell.isChecked()).collect(Collectors.toList());
-    }
+	@JsonIgnore
+	public List<Cell> getCheckedCellList() {
+		return cellList.stream().filter(cell -> cell.isChecked()).collect(Collectors.toList());
+	}
 
-    public String[][] getText() {
-        String[][] returnArray = new String[cellList.size()][];
-        for (i = 0; i < returnArray.length; i++) {
-            returnArray[i] = cellList.get(i).getText();
-        }
-        return returnArray;
-    }
+	@JsonIgnore
+	public String[][] getText() {
+		String[][] returnArray = new String[cellList.size()][];
+		for (i = 0; i < returnArray.length; i++) {
+			returnArray[i] = cellList.get(i).getText();
+		}
+		return returnArray;
+	}
 
-    public boolean isChecked() {
-        return cellList.stream().anyMatch((cell) -> (cell.isChecked()));
-    }
+	@JsonIgnore
+	public boolean isChecked() {
+		return cellList.stream().anyMatch((cell) -> (cell.isChecked()));
+	}
 
-    public void setChecked(boolean checked) {
-        cellList.stream().forEach((cell) -> {
-            cell.setChecked(checked);
-        });
-    }
+	public void setChecked(boolean checked) {
+		cellList.stream().forEach((cell) -> {
+			cell.setChecked(checked);
+		});
+	}
 
-    public Column(/*int x*/) {
+	public Column(/*int x*/) {
 //        this.x = x;
 
-        panel = new JPanel();
-        panel.setLayout(new BoxLayout(panel, Y_AXIS));
-        panel.setAlignmentY(0);
+		panel = new JPanel();
+		panel.setLayout(new BoxLayout(panel, Y_AXIS));
+		panel.setAlignmentY(0);
 
-        cellList.add(new Cell());
-        panel.add(cellList.getLast().panel);
-    }
+		cellList.add(new Cell());
+		panel.add(cellList.getLast().panel);
+	}
 
-    public static void main(String args[]) {
-        JFrame frame = new JFrame();
-        frame.getContentPane().setLayout(new FlowLayout());
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.getContentPane().add((new Column(/*5*/)).panel);
-        frame.pack();
-        frame.setLocationRelativeTo(null);
-        frame.setVisible(true);
-    }
+	public static void main(String args[]) {
+		JFrame frame = new JFrame();
+		frame.getContentPane().setLayout(new FlowLayout());
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.getContentPane().add((new Column(/*5*/)).panel);
+		frame.pack();
+		frame.setLocationRelativeTo(null);
+		frame.setVisible(true);
+	}
 }

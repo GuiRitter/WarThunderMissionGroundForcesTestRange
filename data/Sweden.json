@@ -1,0 +1,130 @@
+{
+  "columnList" : [ {
+    "cellList" : [ {
+      "lowerField" : "sw_strv_m31",
+      "upperField" : "Stridsvagn "
+    }, {
+      "lowerField" : "sw_ikv_72",
+      "upperField" : "Infanterikanonvagn 72"
+    }, {
+      "lowerField" : "sw_strv_m41_s2",
+      "upperField" : "Stridsvagn m/41 S-II"
+    }, {
+      "lowerField" : "sw_pvkv_II",
+      "upperField" : "Pansarvärnskanonvagn II"
+    }, {
+      "lowerField" : "sw_ikv_103",
+      "upperField" : "Infanterikanonvagn 103"
+    }, {
+      "lowerField" : "sw_landsverk_ush_405",
+      "upperField" : "Landsverk U-SH 405"
+    }, {
+      "lowerField" : "sw_ikv_91",
+      "upperField" : "Infanterikanonvagn 91"
+    }, {
+      "lowerField" : "sw_strf_90c",
+      "upperField" : "Stridsfordon 90C"
+    }, {
+      "lowerField" : "sw_cv_90120",
+      "upperField" : "Combat Vehicle 90120"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "sw_strv_m38",
+      "upperField" : "Stridsvagn m/38"
+    }, {
+      "lowerField" : "sw_strv_m40l",
+      "upperField" : "Stridsvagn m/40L"
+    }, {
+      "lowerField" : "sw_lago_1",
+      "upperField" : "Lago 1"
+    }, {
+      "lowerField" : "sw_strv_m42_eh",
+      "upperField" : "Stridsvagn m/42 EH"
+    }, {
+      "lowerField" : "sw_strv_m42_delat_torn",
+      "upperField" : "Stridsvagn m/42 Delat Torn"
+    }, {
+      "lowerField" : "sw_strv_74",
+      "upperField" : "Stridsvagn 74"
+    }, {
+      "lowerField" : "sw_strv_81",
+      "upperField" : "Stridsvagn 81"
+    }, {
+      "lowerField" : "sw_strv_101",
+      "upperField" : "Stridsvagn 101"
+    }, {
+      "lowerField" : "sw_strv_103a",
+      "upperField" : "Stridsvagn 103A"
+    }, {
+      "lowerField" : "sw_strv_103c",
+      "upperField" : "Stridsvagn 103C"
+    }, {
+      "lowerField" : "sw_strv_121",
+      "upperField" : "Stridsvagn 121"
+    }, {
+      "lowerField" : "sw_strv_122",
+      "upperField" : "Stridsvagn 122"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "sw_pvlvv_fm42",
+      "upperField" : "Pansarvärnslavettvagn fm/42"
+    }, {
+      "lowerField" : "sw_tgdgb_m40_lv",
+      "upperField" : "Luftvärnsterrängdragbil m/40"
+    }, {
+      "lowerField" : "sw_l_62_anti_II",
+      "upperField" : "Landsverk L-62 ANTI II"
+    }, {
+      "lowerField" : "sw_lvkv_42",
+      "upperField" : "Luftvärnskanonvagn 42"
+    }, {
+      "lowerField" : "sw_veak_40",
+      "upperField" : "Vagn Eldledning AutomatKanon 40"
+    }, {
+      "lowerField" : "sw_lvrbv_701",
+      "upperField" : "Luftvärnsrobotbandvagn 701"
+    }, {
+      "lowerField" : "sw_lvkv_90c",
+      "upperField" : "Luftvärnskanonvagn 90C"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "sw_stormpjas_fm43_44",
+      "upperField" : "Stormpjas fm/43-44"
+    }, {
+      "lowerField" : "sw_sav_m43_1944",
+      "upperField" : "Stormartillerivagn m/43 (1944) "
+    }, {
+      "lowerField" : "sw_sav_m43_1946",
+      "upperField" : "Stormartillerivagn m/43 (1946) "
+    }, {
+      "lowerField" : "sw_pvkv_m43_1946",
+      "upperField" : "Pansarvärnskanonvagn m/43 (1946)"
+    }, {
+      "lowerField" : "sw_pvkv_m43_1963",
+      "upperField" : "Pansarvärnskanonvagn m/43 (1963)"
+    }, {
+      "lowerField" : "sw_udes_33",
+      "upperField" : "Underlagsgrupp Direkt Eld Stridsfordon 33"
+    }, {
+      "lowerField" : "sw_pvrbv_551",
+      "upperField" : "Pansarvärnsrobotbandvagn 551"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "sw_strv_m39",
+      "upperField" : "Stridsvagn m/39"
+    }, {
+      "lowerField" : "sw_sav_fm48",
+      "upperField" : "Stormartillerivagn 20.11.48"
+    }, {
+      "lowerField" : "sw_strv_103_0",
+      "upperField" : "Stridsvagn 103-0"
+    }, {
+      "lowerField" : "sw_cv_90105_tml",
+      "upperField" : "Combat Vehicle 90105 TML"
+    } ]
+  } ]
+}
