@@ -1,18 +1,21 @@
 package io.github.guiritter.war_thunder.tree_table_manager;
 
 import static com.fasterxml.jackson.databind.SerializationFeature.INDENT_OUTPUT;
+import static java.nio.file.Files.newBufferedWriter;
+import static java.nio.file.Files.readString;
 import static java.nio.file.StandardOpenOption.CREATE;
 import static java.nio.file.StandardOpenOption.TRUNCATE_EXISTING;
+import static javax.swing.BoxLayout.Y_AXIS;
 import static javax.swing.JFileChooser.APPROVE_OPTION;
 import static javax.swing.JFileChooser.FILES_ONLY;
 import static javax.swing.JOptionPane.ERROR_MESSAGE;
+import static javax.swing.JOptionPane.showMessageDialog;
 import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
 
 import java.awt.event.ActionEvent;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.IOException;
-import java.nio.file.Files;
 import java.util.List;
 import java.util.Map;
 
@@ -21,7 +24,6 @@ import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
-import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 
@@ -45,7 +47,7 @@ public final class Main {
 		chooser.setFileSelectionMode(FILES_ONLY);
 
 		frame = new JFrame();
-		frame.getContentPane().setLayout(new BoxLayout(frame.getContentPane(), BoxLayout.Y_AXIS));
+		frame.getContentPane().setLayout(new BoxLayout(frame.getContentPane(), Y_AXIS));
 		frame.setDefaultCloseOperation(EXIT_ON_CLOSE);
 
 		pane = new JScrollPane();
@@ -92,6 +94,10 @@ public final class Main {
 		});
 		buttonPanel.add(switchButton);
 
+		JButton trimButtom = new JButton("trim");
+		trimButtom.addActionListener(e -> table.trim());
+		buttonPanel.add(trimButtom);
+
 		JButton loadButton = new JButton("load");
 		loadButton.addActionListener((ActionEvent e) -> {
 			if (chooser.showOpenDialog(frame) != APPROVE_OPTION) {
@@ -105,10 +111,10 @@ public final class Main {
 			Object object = null;
 			try {
 				object = mapper.readValue(
-						Files.readString(file.toPath()),
+						readString(file.toPath()),
 						Map.class);
 			} catch (IOException e1) {
-				JOptionPane.showMessageDialog(frame, "error reading file", "error", ERROR_MESSAGE);
+				showMessageDialog(frame, "error reading file", "error", ERROR_MESSAGE);
 			}
 			List<?> columnList = List.of();
 			if (object instanceof Map) {
@@ -163,10 +169,10 @@ public final class Main {
 			}
 			BufferedWriter writer;
 			try {
-				writer = Files.newBufferedWriter(file.toPath(), CREATE, TRUNCATE_EXISTING);
+				writer = newBufferedWriter(file.toPath(), CREATE, TRUNCATE_EXISTING);
 			} catch (IOException ex) {
 				ex.printStackTrace();
-				JOptionPane.showMessageDialog(frame, "error writing to file", "error", ERROR_MESSAGE);
+				showMessageDialog(frame, "error writing to file", "error", ERROR_MESSAGE);
 				return;
 			}
 			try {
@@ -174,7 +180,7 @@ public final class Main {
 				writer.flush();
 				writer.close();
 			} catch (IOException ex) {}
-			JOptionPane.showMessageDialog(frame, "table written to file successfully");
+			showMessageDialog(frame, "table written to file successfully");
 		});
 		buttonPanel.add(saveButton);
 	}

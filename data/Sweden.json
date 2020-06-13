@@ -111,6 +111,9 @@
     }, {
       "lowerField" : "sw_pvrbv_551",
       "upperField" : "Pansarvärnsrobotbandvagn 551"
+    }, {
+      "lowerField" : "sw_strf_9056",
+      "upperField" : "Stridsfordon 9056"
     } ]
   }, {
     "cellList" : [ {
@@ -125,6 +128,11 @@
     }, {
       "lowerField" : "sw_cv_90105_tml",
       "upperField" : "Combat Vehicle 90105 TML"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "sw_strv_m39_td",
+      "upperField" : "Strv m/39 TD"
     } ]
   } ]
 }

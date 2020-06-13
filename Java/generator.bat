@@ -1,0 +1,1 @@
+java -jar "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\Java\WarThunderGroundAttackTestRangeGenerator\target\war-thunder-ground-attack-test-range-generator-1.2.0-jar-with-dependencies.jar" "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data"

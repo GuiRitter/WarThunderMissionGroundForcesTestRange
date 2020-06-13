@@ -1,11 +1,13 @@
 package io.github.guiritter.war_thunder.tree_table_manager;
 
-
+import static java.util.Arrays.asList;
 import static javax.swing.BoxLayout.Y_AXIS;
 import static javax.swing.SwingConstants.CENTER;
+import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
 
 import java.awt.Dimension;
 import java.awt.FlowLayout;
+import java.util.List;
 
 import javax.swing.BoxLayout;
 import javax.swing.JCheckBox;
@@ -23,6 +25,9 @@ public final class Cell {
 	private final JCheckBox checkBox;
 
 	@JsonIgnore
+	private final List<JTextField> fieldList;
+
+	@JsonIgnore
 	private final JTextField lowerField;
 
 	@JsonIgnore
@@ -30,8 +35,6 @@ public final class Cell {
 
 	@JsonIgnore
 	private final JTextField upperField;
-
-//    public int y;
 
 	@JsonProperty("lowerField")
 	public String getLowerField() {
@@ -46,6 +49,11 @@ public final class Cell {
 	@JsonProperty("upperField")
 	public String getUpperField() {
 		return upperField.getText();
+	}
+
+	@JsonIgnore
+	public boolean isBlank() {
+		return fieldList.stream().allMatch(field -> field.getText().isBlank());
 	}
 
 	@JsonIgnore
@@ -73,8 +81,7 @@ public final class Cell {
 		return String.format("{ class: Cell, upper: %s, lower: %s }", upperField.getText(), lowerField.getText());
 	}
 
-	public Cell(/*int y*/) {
-//        this.y = y;
+	public Cell() {
 
 		panel = new JPanel();
 		panel.setLayout(new BoxLayout(panel, Y_AXIS));
@@ -104,6 +111,8 @@ public final class Cell {
 		lowerField.setMaximumSize(new Dimension(240, 20));
 		lowerField.setHorizontalAlignment(CENTER);
 		panel.add(lowerField);
+
+		fieldList = asList(upperField, lowerField);
 	}
 
 	public Cell(String upper, String lower) {
@@ -115,8 +124,8 @@ public final class Cell {
 	public static void main(String args[]) {
 		JFrame frame = new JFrame();
 		frame.getContentPane().setLayout(new FlowLayout());
-		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.getContentPane().add((new Cell(/*1*/)).panel);
+		frame.setDefaultCloseOperation(EXIT_ON_CLOSE);
+		frame.getContentPane().add((new Cell()).panel);
 		frame.pack();
 		frame.setLocationRelativeTo(null);
 		frame.setVisible(true);

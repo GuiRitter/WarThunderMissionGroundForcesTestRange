@@ -92,6 +92,9 @@
     }, {
       "lowerField" : "germ_kpz_70",
       "upperField" : "KPz-70"
+    }, {
+      "lowerField" : "germ_mkpz_super_m48",
+      "upperField" : "Kampfpanzer M48 Super"
     } ]
   }, {
     "cellList" : [ {
@@ -333,20 +336,11 @@
       "lowerField" : "germ_leopard_2a5_yt_cup_2019",
       "upperField" : "🏆Leopard 2A5"
     }, {
-      "lowerField" : "germ_m4_sherman_tutorial",
-      "upperField" : "SPS-255"
-    }, {
       "lowerField" : "germ_panther_ii_tutorial",
       "upperField" : "germ_panther_ii_tutorial"
     }, {
       "lowerField" : "germ_panzerjager_tiger_p_elefant",
       "upperField" : "germ_panzerjager_tiger_p_elefant"
-    }, {
-      "lowerField" : "germ_panzerkampflaufer_565_r",
-      "upperField" : "PzKmpfLfr 565(r)"
-    }, {
-      "lowerField" : "germ_panzerkampflaufer_565_r_2",
-      "upperField" : "PzKmpfLfr 565(r)"
     }, {
       "lowerField" : "germ_pzkpfw_35t_romania_mare",
       "upperField" : "Pz.35(t) RM"

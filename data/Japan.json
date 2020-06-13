@@ -74,6 +74,9 @@
     }, {
       "lowerField" : "jp_type_90",
       "upperField" : "Type 90"
+    }, {
+      "lowerField" : "jp_type_90b",
+      "upperField" : ""
     } ]
   }, {
     "cellList" : [ {
@@ -114,6 +117,9 @@
     }, {
       "lowerField" : "jp_type_87",
       "upperField" : "Twin 35mm Self-Propelled Guns Type 87"
+    }, {
+      "lowerField" : "jp_type_93",
+      "upperField" : "Type 93"
     } ]
   }, {
     "cellList" : [ {

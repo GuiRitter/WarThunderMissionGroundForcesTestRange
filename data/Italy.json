@@ -10,20 +10,29 @@
       "lowerField" : "it_ab_43",
       "upperField" : "Fiat-Ansaldo Autoblinda 43"
     }, {
+      "lowerField" : "it_m3a3_stuart",
+      "upperField" : "Carro leggero M3A3"
+    }, {
       "lowerField" : "it_semovente_m41m_90",
       "upperField" : "Semovente 90/53 M41M"
+    }, {
+      "lowerField" : "it_m24_chaffee",
+      "upperField" : "Carro leggero M24"
     }, {
       "lowerField" : "it_semovente_breda_501",
       "upperField" : "Semovente Ruotato da 90/52 Breda 501"
     }, {
+      "lowerField" : "it_m18_hellcat",
+      "upperField" : "Semovente controcarri M18 da 76/52"
+    }, {
       "lowerField" : "it_fiat_6614_106sr",
       "upperField" : "FIAT 6614 (M40A1)"
     }, {
-      "lowerField" : "it_oto_r3_106sr",
-      "upperField" : "OTO R3 T106 FA"
-    }, {
       "lowerField" : "it_fiat_6616_cockerill",
       "upperField" : "FIAT AUBL/74"
+    }, {
+      "lowerField" : "it_oto_r3_106sr",
+      "upperField" : "OTO R3 T106 FA"
     }, {
       "lowerField" : "it_b1_centauro",
       "upperField" : "Blindo Armata B1 Centauro"
@@ -51,8 +60,14 @@
       "lowerField" : "it_p_40",
       "upperField" : "Fiat-Ansaldo P40"
     }, {
+      "lowerField" : "it_m4a4_sherman",
+      "upperField" : "Carro Medio M4A4"
+    }, {
       "lowerField" : "it_sherman_VII",
       "upperField" : "M4 Tipo IC Composito"
+    }, {
+      "lowerField" : "it_sherman_vc_firefly",
+      "upperField" : "Carro Medio Sherman Vc"
     }, {
       "lowerField" : "it_m26a1_pershing",
       "upperField" : "Carro Armato M26A1"
@@ -137,6 +152,9 @@
     }, {
       "lowerField" : "it_p_26_40",
       "upperField" : "Fiat-Ansaldo P40 Gruppo Corazzato 'Leoncello'"
+    }, {
+      "lowerField" : "it_sherman_75_37",
+      "upperField" : "Carro Medio M4 Hybrid"
     }, {
       "lowerField" : "it_semovente_m43_105_leoncello",
       "upperField" : "Semovente 105/25 M43 G.C. 'Leoncello'"

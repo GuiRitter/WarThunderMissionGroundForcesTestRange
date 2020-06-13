@@ -20,8 +20,8 @@
 16. Run `Java/WarThunderGroundAttackTestRangeGenerator` and choose the `data` folder.
 17. Copy the generated *BLK*s with names ending in `_screenshot` to *War Thunder*'s `UserMissions` folder.
 18. Run *War Thunder* with *Movie* graphic settings and 1366x768 resolution.
-19. For every mission
-    1. Play the mission for a few seconds then exit it.
-    2. Replay it.
-    3. Take the screenshot with *Ansel* (*FOV* 90).
+19. For every mission that ends in `_screenshot.blk`.
+    1. Play the mission.
+    2. Wait for textures to load completely and for some animations to run.
+    3. Take the screenshot with *F12*.
 20. Zip everything and publish it.

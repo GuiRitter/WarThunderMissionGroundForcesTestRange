@@ -1238,6 +1238,37 @@ units{
   }
 
   tankModels{
+    name:t="tank_1_14"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [2200, 0.01, -1000.0]]
+    unit_class:t="germ_mkpz_super_m48"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
     name:t="tank_2_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-3400, 0.01, -600.0]]
     unit_class:t="germ_pzkpfw_ii_ausf_c"
@@ -3596,7 +3627,7 @@ units{
   tankModels{
     name:t="tank_7_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-3000, 0.01, 1400.0]]
-    unit_class:t="germ_m4_sherman_tutorial"
+    unit_class:t="germ_panther_ii_tutorial"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3627,7 +3658,7 @@ units{
   tankModels{
     name:t="tank_7_2"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-2600, 0.01, 1400.0]]
-    unit_class:t="germ_panther_ii_tutorial"
+    unit_class:t="germ_panzerjager_tiger_p_elefant"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3658,7 +3689,7 @@ units{
   tankModels{
     name:t="tank_7_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-2200, 0.01, 1400.0]]
-    unit_class:t="germ_panzerjager_tiger_p_elefant"
+    unit_class:t="germ_pzkpfw_35t_romania_mare"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3689,99 +3720,6 @@ units{
   tankModels{
     name:t="tank_7_4"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-1800, 0.01, 1400.0]]
-    unit_class:t="germ_panzerkampflaufer_565_r"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_7_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-1400, 0.01, 1400.0]]
-    unit_class:t="germ_panzerkampflaufer_565_r_2"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_7_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-1000, 0.01, 1400.0]]
-    unit_class:t="germ_pzkpfw_35t_romania_mare"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_7_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-600, 0.01, 1400.0]]
     unit_class:t="germ_sdkfz_234_1"
     objLayer:i=1
     closed_waypoints:b=no

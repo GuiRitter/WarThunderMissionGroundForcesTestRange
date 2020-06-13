@@ -5,10 +5,11 @@ import static javax.swing.BoxLayout.Y_AXIS;
 import java.awt.FlowLayout;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.stream.Collectors;
+import static java.util.stream.Collectors.toList;
 
 import javax.swing.BoxLayout;
 import javax.swing.JFrame;
+import static javax.swing.JFrame.EXIT_ON_CLOSE;
 import javax.swing.JPanel;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
@@ -24,8 +25,6 @@ public final class Column {
 
 	@JsonIgnore
 	public final JPanel panel;
-
-//    public int x;
 
 	public void addCellBefore() {
 		for (i = cellList.size() - 1; i > -1; i--) {
@@ -60,7 +59,7 @@ public final class Column {
 
 	@JsonIgnore
 	public List<Cell> getCheckedCellList() {
-		return cellList.stream().filter(cell -> cell.isChecked()).collect(Collectors.toList());
+		return cellList.stream().filter(cell -> cell.isChecked()).collect(toList());
 	}
 
 	@JsonIgnore
@@ -70,6 +69,11 @@ public final class Column {
 			returnArray[i] = cellList.get(i).getText();
 		}
 		return returnArray;
+	}
+
+	@JsonIgnore
+	public boolean isBlank() {
+		return cellList.isEmpty();
 	}
 
 	@JsonIgnore
@@ -83,8 +87,19 @@ public final class Column {
 		});
 	}
 
-	public Column(/*int x*/) {
-//        this.x = x;
+	public void trim(){
+		for (i = 0; i < cellList.size();){
+			if (cellList.get(i).isBlank()) {
+				cellList.remove(i);
+				panel.remove(i);
+			} else {
+				i++;
+			}
+		}
+		panel.validate();
+	}
+
+	public Column() {
 
 		panel = new JPanel();
 		panel.setLayout(new BoxLayout(panel, Y_AXIS));
@@ -97,8 +112,8 @@ public final class Column {
 	public static void main(String args[]) {
 		JFrame frame = new JFrame();
 		frame.getContentPane().setLayout(new FlowLayout());
-		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frame.getContentPane().add((new Column(/*5*/)).panel);
+		frame.setDefaultCloseOperation(EXIT_ON_CLOSE);
+		frame.getContentPane().add((new Column()).panel);
 		frame.pack();
 		frame.setLocationRelativeTo(null);
 		frame.setVisible(true);

@@ -7,6 +7,12 @@
       "lowerField" : "uk_a_13_mk2",
       "upperField" : "Mark IV A13 Mk.II"
     }, {
+      "lowerField" : "uk_crusader_mk_2",
+      "upperField" : "Crusader Mk.II"
+    }, {
+      "lowerField" : "uk_crusader_mk_3",
+      "upperField" : "Crusader Mk.III"
+    }, {
       "lowerField" : "uk_a27m_cromwell_5",
       "upperField" : "Mark VIII A27M Cromwell V"
     }, {
@@ -51,14 +57,17 @@
     }, {
       "lowerField" : "uk_challenger_II",
       "upperField" : "Tank, Combat, 120-mm Gun, Challenger 2"
+    }, {
+      "lowerField" : "uk_challenger_2_dorchester",
+      "upperField" : "Tank, Combat, 120-mm Gun, Challenger 2 (Dorchester Level 2F)"
     } ]
   }, {
     "cellList" : [ {
-      "lowerField" : "uk_crusader_mk_2",
-      "upperField" : "Crusader Mk.II"
+      "lowerField" : "uk_m3_stuart",
+      "upperField" : "Stuart I"
     }, {
-      "lowerField" : "uk_crusader_mk_3",
-      "upperField" : "Crusader Mk.III"
+      "lowerField" : "uk_m3a1_stuart",
+      "upperField" : "Stuart III"
     }, {
       "lowerField" : "uk_a_12_mk_2_matilda_2",
       "upperField" : "A12 Mk.II Matilda II"
@@ -136,6 +145,9 @@
     }, {
       "lowerField" : "uk_fv102_striker",
       "upperField" : "FV-102 Striker"
+    }, {
+      "lowerField" : "uk_rooikat_76",
+      "upperField" : "Rooikat Mk.1D"
     } ]
   }, {
     "cellList" : [ {
@@ -165,8 +177,11 @@
     } ]
   }, {
     "cellList" : [ {
-      "lowerField" : "uk_a_13_mk2_1939",
-      "upperField" : "Mark IV A13 Mk.II"
+      "lowerField" : "uk_a_13_mk1_3rd_rtr",
+      "upperField" : "Mark IV A13 Mk.I 3rd Royal Tank Regiment"
+    }, {
+      "lowerField" : "uk_a1e1_independent",
+      "upperField" : "A1E1 Independent"
     }, {
       "lowerField" : "uk_a27m_cromwell_5_rp3",
       "upperField" : "Mark VIII A27M Cromwell RP-3"
@@ -194,11 +209,8 @@
     } ]
   }, {
     "cellList" : [ {
-      "lowerField" : "uk_a_13_mk1_3rd_rtr",
-      "upperField" : "Mark IV A13 Mk.I 3rd Royal Tank Regiment"
-    }, {
-      "lowerField" : "uk_a1e1_independent",
-      "upperField" : "A1E1 Independent"
+      "lowerField" : "uk_a_13_mk2_1939",
+      "upperField" : "Mark IV A13 Mk.II"
     }, {
       "lowerField" : "uk_mk1_grant",
       "upperField" : "Grant I"
@@ -212,6 +224,9 @@
       "lowerField" : "uk_a_34_comet_iron_duke",
       "upperField" : "Iron Duke IV"
     }, {
+      "lowerField" : "uk_ram_90mm_aa",
+      "upperField" : "OQF 3.7-inch AA on Ram Mounting"
+    }, {
       "lowerField" : "uk_centurion_action_x",
       "upperField" : "Centurion Action X"
     }, {
@@ -222,12 +237,6 @@
     "cellList" : [ {
       "lowerField" : "uk_a17_mk_1_tetrarch_race",
       "upperField" : "Tetrarch Mk.I"
-    }, {
-      "lowerField" : "uk_centaur_aa_mk_1",
-      "upperField" : "Crusader AA Mk.I"
-    }, {
-      "lowerField" : "uk_centaur_aa_mk_2",
-      "upperField" : "Crusader AA Mk.II"
     }, {
       "lowerField" : "uk_challenger_II_yt_cup_2019",
       "upperField" : "🏆Challenger 2"

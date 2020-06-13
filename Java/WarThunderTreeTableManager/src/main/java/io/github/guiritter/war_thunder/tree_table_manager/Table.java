@@ -1,11 +1,11 @@
 package io.github.guiritter.war_thunder.tree_table_manager;
 
 import static io.github.guiritter.war_thunder.tree_table_manager.Cell.switchContent;
+import static java.util.stream.Collectors.toList;
 import static javax.swing.BoxLayout.X_AXIS;
 
 import java.util.LinkedList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 import javax.swing.BoxLayout;
 import javax.swing.JPanel;
@@ -66,7 +66,7 @@ public final class Table {
 
 	@JsonIgnore
 	public List<Cell> getCheckedCellList() {
-		return columnList.stream().flatMap(column -> column.getCheckedCellList().stream()).collect(Collectors.toList());
+		return columnList.stream().flatMap(column -> column.getCheckedCellList().stream()).collect(toList());
 	}
 
 	@JsonIgnore
@@ -87,6 +87,19 @@ public final class Table {
 		}
 		switchContent(cellList.get(0), cellList.get(1));
 		cellList.forEach(cell -> cell.setChecked(false));
+	}
+
+	public void trim(){
+		for (i = 0; i < columnList.size();){
+			columnList.get(i).trim();
+			if (columnList.get(i).isBlank()) {
+				columnList.remove(i);
+				panel.remove(i);
+			} else {
+				i++;
+			}
+		}
+		panel.validate();
 	}
 
 	public Table() {

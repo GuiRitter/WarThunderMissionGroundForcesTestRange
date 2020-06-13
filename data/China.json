@@ -54,7 +54,7 @@
       "lowerField" : "cn_t_34_1942",
       "upperField" : "✨T-34 (1943)"
     }, {
-      "lowerField" : "cn_t_34_85_zis_53_no215",
+      "lowerField" : "cn_t_34_85_d_5t",
       "upperField" : "✨T-34-85 (S-53)"
     }, {
       "lowerField" : "cn_type_58",
@@ -83,6 +83,20 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "cn_zsd63_pg87",
+      "upperField" : "ZSD63"
+    }, {
+      "lowerField" : "cn_type_65_aa",
+      "upperField" : "Xe tăng phòng không 37 mm"
+    }, {
+      "lowerField" : "cn_m42_duster",
+      "upperField" : "✨M42 Duster"
+    }, {
+      "lowerField" : "cn_wz_305",
+      "upperField" : "WZ305"
+    } ]
+  }, {
+    "cellList" : [ {
       "lowerField" : "cn_m8_scott",
       "upperField" : "✨75 mm Howitzer Motor Carriage M8"
     }, {
@@ -97,9 +111,6 @@
     }, {
       "lowerField" : "cn_m18_hellcat",
       "upperField" : "✨M18 Gun Motor Carriage"
-    }, {
-      "lowerField" : "cn_type_65_aa",
-      "upperField" : "Type 65"
     }, {
       "lowerField" : "cn_isu_152",
       "upperField" : "✨ISU-152"
@@ -124,8 +135,30 @@
       "lowerField" : "cn_m4a4_sherman_1st_ptg",
       "upperField" : "M4A4 (1st PTG)"
     }, {
+      "lowerField" : "cn_t_34_85_zis_53_no215",
+      "upperField" : "✨T-34-85 (S-53)"
+    }, {
+      "lowerField" : "cn_is_2_1943_no402",
+      "upperField" : "IS-2 No.402"
+    }, {
       "lowerField" : "cn_t_62",
       "upperField" : "T-62 Nº545"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "cn_type_69_2g",
+      "upperField" : "Medium Tank T-69 II G"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "cn_bt_5",
+      "upperField" : "BT-5"
+    }, {
+      "lowerField" : "cn_type_69_2a",
+      "upperField" : "Type 69-IIa"
+    }, {
+      "lowerField" : "cn_type_95_ha_go",
+      "upperField" : "Ha-Go"
     } ]
   } ]
 }

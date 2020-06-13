@@ -207,6 +207,9 @@
     }, {
       "lowerField" : "ussr_9p149",
       "upperField" : "9P149 Shturm-S"
+    }, {
+      "lowerField" : "ussr_9p157",
+      "upperField" : "9P157-2 Khrizantema-S"
     } ]
   }, {
     "cellList" : [ {
@@ -387,20 +390,11 @@
       "lowerField" : "ussr_is_4m_tutorial",
       "upperField" : "IS-4M"
     }, {
-      "lowerField" : "ussr_m4_sherman_tutorial",
-      "upperField" : "SPS-225"
-    }, {
       "lowerField" : "ussr_m551_football",
       "upperField" : ""
     }, {
       "lowerField" : "ussr_object_279",
       "upperField" : "Object 279"
-    }, {
-      "lowerField" : "ussr_sht_1",
-      "upperField" : "ST-1"
-    }, {
-      "lowerField" : "ussr_sht_1_2",
-      "upperField" : "ST-1"
     }, {
       "lowerField" : "ussr_su_76_1942",
       "upperField" : "ussr_su_76_1942"

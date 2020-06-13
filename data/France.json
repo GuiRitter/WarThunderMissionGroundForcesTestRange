@@ -45,6 +45,9 @@
       "lowerField" : "fr_m4a1_sherman",
       "upperField" : "⦿M4A1 Sherman"
     }, {
+      "lowerField" : "fr_m4a4_sherman",
+      "upperField" : "⦿M4A4 Sherman"
+    }, {
       "lowerField" : "fr_m4a4_cn_75_50",
       "upperField" : "M4A4 (SA50)"
     }, {
@@ -70,6 +73,9 @@
     }, {
       "lowerField" : "fr_renault_r39",
       "upperField" : "Char léger d'accompagnement 1939 R"
+    }, {
+      "lowerField" : "fr_renault_d2",
+      "upperField" : "Char D2"
     }, {
       "lowerField" : "fr_b1_bis",
       "upperField" : "Char de bataille B1 bis"
@@ -163,6 +169,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "fr_amx_13_chaffee",
+      "upperField" : "AMX-13-M24"
+    }, {
       "lowerField" : "fr_lorraine_155",
       "upperField" : "Lorraine 155 Mle.50"
     }, {
