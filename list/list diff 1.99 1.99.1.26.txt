@@ -1,0 +1,18 @@
+lines only in old:
+
+uk_a1e1_independent
+
+lines only in new:
+
+germ_apc_m113
+it_m14_41_47_40
+jp_type_1_chi_he_5th_regiment
+uk_crusader_mk_2_the_saint
+us_amx_13_90
+us_apc_m113
+us_at_m40
+us_m60a3_slep
+ussr_apc_bmp_1
+ussr_at_spg_9
+ussr_bmp_2m
+

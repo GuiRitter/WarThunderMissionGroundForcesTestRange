@@ -310,6 +310,9 @@
     }, {
       "lowerField" : "ussr_t_55_am",
       "upperField" : "T-55AM-1"
+    }, {
+      "lowerField" : "ussr_bmp_2m",
+      "upperField" : "BMP-2M"
     } ]
   }, {
     "cellList" : [ {
@@ -375,6 +378,12 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "ussr_apc_bmp_1",
+      "upperField" : "BMP-1"
+    }, {
+      "lowerField" : "ussr_at_spg_9",
+      "upperField" : "73 mm anti-tank gun SPG-9"
+    }, {
       "lowerField" : "ussr_bt_7_1937_race",
       "upperField" : "BT-7"
     }, {

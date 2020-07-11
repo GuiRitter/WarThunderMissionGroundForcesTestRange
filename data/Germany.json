@@ -333,6 +333,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "germ_apc_m113",
+      "upperField" : "M113"
+    }, {
       "lowerField" : "germ_leopard_2a5_yt_cup_2019",
       "upperField" : "🏆Leopard 2A5"
     }, {

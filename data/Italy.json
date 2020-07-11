@@ -13,9 +13,6 @@
       "lowerField" : "it_m3a3_stuart",
       "upperField" : "Carro leggero M3A3"
     }, {
-      "lowerField" : "it_semovente_m41m_90",
-      "upperField" : "Semovente 90/53 M41M"
-    }, {
       "lowerField" : "it_m24_chaffee",
       "upperField" : "Carro leggero M24"
     }, {
@@ -136,6 +133,9 @@
       "lowerField" : "it_semovente_m43_75_34",
       "upperField" : "Semovente 75/34 M43"
     }, {
+      "lowerField" : "it_semovente_m41m_90",
+      "upperField" : "Semovente 90/53 M41M"
+    }, {
       "lowerField" : "it_semovente_m43_75_46",
       "upperField" : "Semovente 75/46 M43"
     }, {
@@ -149,6 +149,9 @@
     "cellList" : [ {
       "lowerField" : "it_m13_40_serie_2",
       "upperField" : "M13/40 (II)"
+    }, {
+      "lowerField" : "it_m14_41_47_40",
+      "upperField" : "Fiat-Ansaldo M14/41 (47/40)"
     }, {
       "lowerField" : "it_p_26_40",
       "upperField" : "Fiat-Ansaldo P40 Gruppo Corazzato 'Leoncello'"

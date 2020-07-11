@@ -291,14 +291,23 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "us_amx_13_90",
+      "upperField" : "AMX-13-90"
+    }, {
+      "lowerField" : "us_apc_m113",
+      "upperField" : "M113"
+    }, {
+      "lowerField" : "us_at_m40",
+      "upperField" : "106 mm anti-tank gun M40"
+    }, {
       "lowerField" : "us_m18_hellcat_black_cat_race",
       "upperField" : "“The Hellcat”"
     }, {
-      "lowerField" : "us_m22_locust_race",
-      "upperField" : "M22"
-    }, {
       "lowerField" : "us_m1a1_abrams_yt_cup_2019",
       "upperField" : "🏆M1A1"
+    }, {
+      "lowerField" : "us_m22_locust_race",
+      "upperField" : "M22"
     }, {
       "lowerField" : "us_m4a2_1944",
       "upperField" : "M4A2 (1944)"
@@ -308,6 +317,9 @@
     }, {
       "lowerField" : "us_m551_football",
       "upperField" : ""
+    }, {
+      "lowerField" : "us_m60a3_slep",
+      "upperField" : "M60 AMBT"
     }, {
       "lowerField" : "us_t32_tutorial",
       "upperField" : "T32"

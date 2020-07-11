@@ -13,9 +13,9 @@
 13. Access [Ground Vehicles - War Thunder Wiki](https://wiki.warthunder.com/Ground_vehicles).
 14. For every nation
     1. Run `Java/WarThunderTreeTableManager`.
-    2. Open `data/%s.csv` with it, where `%s` is the nation.
+    2. Open `data/%s.json` with it, where `%s` is the nation.
     3. Update the table with the new entries from `list diff %s %s.txt`.
-    4. Overwrite `data/%s.csv`.
+    4. Overwrite `data/%s.json`.
 15. Close *War Thunder*.
 16. Run `Java/WarThunderGroundAttackTestRangeGenerator` and choose the `data` folder.
 17. Copy the generated *BLK*s with names ending in `_screenshot` to *War Thunder*'s `UserMissions` folder.

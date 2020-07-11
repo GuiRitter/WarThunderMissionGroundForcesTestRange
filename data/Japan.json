@@ -129,6 +129,9 @@
       "lowerField" : "jp_type_95_heavy",
       "upperField" : "Type 95 Ro-Go"
     }, {
+      "lowerField" : "jp_type_1_chi_he_5th_regiment",
+      "upperField" : "Type 1 Chi-He"
+    }, {
       "lowerField" : "jp_type_97_chi_ha_12cm",
       "upperField" : "Type 97 Chi-Ha Short Gun"
     }, {
