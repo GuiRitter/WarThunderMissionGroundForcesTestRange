@@ -126,6 +126,9 @@
     }, {
       "lowerField" : "cn_m113a1_tow",
       "upperField" : "✨M113A1 TOW"
+    }, {
+      "lowerField" : "cn_cm_25",
+      "upperField" : "CM25"
     } ]
   }, {
     "cellList" : [ {
@@ -159,6 +162,9 @@
     }, {
       "lowerField" : "cn_type_95_ha_go",
       "upperField" : "Ha-Go"
+    }, {
+      "lowerField" : "cn_ztz_96a_race",
+      "upperField" : "ZTZ96A"
     } ]
   } ]
 }

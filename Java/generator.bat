@@ -1,1 +1,29 @@
 java -jar "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\Java\WarThunderGroundAttackTestRangeGenerator\target\war-thunder-ground-attack-test-range-generator-1.2.0-jar-with-dependencies.jar" "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data"
+
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_China.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_France.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_Germany.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_Italy.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_Japan.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_Sweden.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_UK.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_US.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_USSR.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_China.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_China_screenshot.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_France.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_France_screenshot.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_Germany.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_Germany_screenshot.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_Italy.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_Italy_screenshot.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_Japan.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_Japan_screenshot.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_Sweden.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_Sweden_screenshot.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_UK.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_UK_screenshot.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_US.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_USSR.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_USSR_screenshot.blk" E:\WarThunder\UserMissions
+xcopy /Y "D:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_US_screenshot.blk" E:\WarThunder\UserMissions

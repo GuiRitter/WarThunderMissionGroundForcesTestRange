@@ -161,8 +161,8 @@
       "lowerField" : "fr_amx_13_75_ss11",
       "upperField" : "AMX-13 (SS.11)"
     }, {
-      "lowerField" : "fr_amx_30",
-      "upperField" : "AMX-30"
+      "lowerField" : "fr_amx_50_surblinde",
+      "upperField" : "AMX 50 Surblindé"
     }, {
       "lowerField" : "fr_amx_30_super",
       "upperField" : "AMX-30 Super"
@@ -178,8 +178,11 @@
       "lowerField" : "fr_pzkpfw_V_panther_dauphine",
       "upperField" : "Panther «Dauphine»"
     }, {
-      "lowerField" : "fr_amx_50_surblinde",
-      "upperField" : "AMX 50 Surblindé"
+      "lowerField" : "fr_somua_sm",
+      "upperField" : "Somua SM"
+    }, {
+      "lowerField" : "fr_amx_30",
+      "upperField" : "AMX-30"
     } ]
   } ]
 }

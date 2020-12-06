@@ -48,6 +48,9 @@
     }, {
       "lowerField" : "germ_radpanzer_90",
       "upperField" : "Radkampfwagen 90"
+    }, {
+      "lowerField" : "germ_thyssen_henschel_tam_2c",
+      "upperField" : "Tanque Argentino Mediano 2C"
     } ]
   }, {
     "cellList" : [ {
@@ -283,6 +286,9 @@
     }, {
       "lowerField" : "germ_leopard_a1a1_120",
       "upperField" : "Leopard A1A1 (L/44)"
+    }, {
+      "lowerField" : "germ_leopard_c2_mexas",
+      "upperField" : "C2A1"
     } ]
   }, {
     "cellList" : [ {

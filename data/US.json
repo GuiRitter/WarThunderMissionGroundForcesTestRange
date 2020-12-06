@@ -291,6 +291,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "us_amx_13_75",
+      "upperField" : "AMX-13"
+    }, {
       "lowerField" : "us_amx_13_90",
       "upperField" : "AMX-13-90"
     }, {

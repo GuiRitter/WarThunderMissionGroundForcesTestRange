@@ -60,6 +60,9 @@
       "lowerField" : "sw_strv_103c",
       "upperField" : "Stridsvagn 103C"
     }, {
+      "lowerField" : "sw_strv_104",
+      "upperField" : "Stridsvagn 104"
+    }, {
       "lowerField" : "sw_strv_121",
       "upperField" : "Stridsvagn 121"
     }, {
@@ -133,6 +136,9 @@
     "cellList" : [ {
       "lowerField" : "sw_strv_m39_td",
       "upperField" : "Strv m/39 TD"
+    }, {
+      "lowerField" : "sw_ikv_73",
+      "upperField" : "Ikv 73"
     } ]
   } ]
 }

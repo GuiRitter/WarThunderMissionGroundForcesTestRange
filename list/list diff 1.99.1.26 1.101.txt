@@ -1,0 +1,20 @@
+no lines only in old
+
+lines only in new:
+
+cn_cm_25
+cn_ztz_96a_race
+fr_somua_sm
+germ_leopard_c2_mexas
+germ_thyssen_henschel_tam_2c
+jp_navy_120mm_spg
+sw_ikv_73
+sw_strv_104
+uk_a1e1_independent
+us_amx_13_75
+ussr_t_34_85_zis_53_race
+ussr_t_72b3_2011
+ussr_t_72b3_2017_race
+ussr_t_72b_1989
+ussr_t_80u_race
+

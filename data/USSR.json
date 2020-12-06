@@ -60,6 +60,12 @@
     }, {
       "lowerField" : "ussr_t_72b",
       "upperField" : "T-72B"
+    }, {
+      "lowerField" : "ussr_t_72b_1989",
+      "upperField" : "T-72B (1989)"
+    }, {
+      "lowerField" : "ussr_t_72b3_2011",
+      "upperField" : "T-72B3"
     } ]
   }, {
     "cellList" : [ {
@@ -411,11 +417,20 @@
       "lowerField" : "ussr_t_26_1938",
       "upperField" : "ussr_t_26_1938"
     }, {
+      "lowerField" : "ussr_t_34_85_zis_53_race",
+      "upperField" : "ussr_t_34_85_zis_53_race"
+    }, {
       "lowerField" : "ussr_t_40",
       "upperField" : "ussr_t_40"
     }, {
       "lowerField" : "ussr_t_50_for_tutorial",
       "upperField" : "T-50"
+    }, {
+      "lowerField" : "ussr_t_72b3_2017_race",
+      "upperField" : "T-72B3"
+    }, {
+      "lowerField" : "ussr_t_80u_race",
+      "upperField" : "T-80U"
     }, {
       "lowerField" : "ussr_t_80u_yt_cup_2019",
       "upperField" : "🏆T-80U"
