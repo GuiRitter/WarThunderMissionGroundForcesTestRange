@@ -148,6 +148,9 @@
     }, {
       "lowerField" : "uk_rooikat_76",
       "upperField" : "Rooikat Mk.1D"
+    }, {
+      "lowerField" : "uk_vfm_5",
+      "upperField" : "Vickers/FMC VFM5"
     } ]
   }, {
     "cellList" : [ {
@@ -243,6 +246,9 @@
     }, {
       "lowerField" : "uk_challenger_II_yt_cup_2019",
       "upperField" : "🏆Challenger 2"
+    }, {
+      "lowerField" : "uk_matilda_hedgehog",
+      "upperField" : "Matilda Hedgehog"
     }, {
       "lowerField" : "uk_t17e2_race",
       "upperField" : "RT-1"

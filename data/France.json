@@ -65,6 +65,9 @@
     }, {
       "lowerField" : "fr_leclerc_s1",
       "upperField" : "Leclerc Serie 1"
+    }, {
+      "lowerField" : "fr_leclerc_s2",
+      "upperField" : "Leclerc Serie 2"
     } ]
   }, {
     "cellList" : [ {
@@ -125,6 +128,9 @@
     "cellList" : [ {
       "lowerField" : "fr_amr_35_zt3",
       "upperField" : "Automitrailleuse de Reconnaissance AMR 35 ZT3"
+    }, {
+      "lowerField" : "fr_lorraine_37l",
+      "upperField" : "Lorraine 37L"
     }, {
       "lowerField" : "fr_somua_sau40",
       "upperField" : "Canon Automoteur DE 75 mm SAu 40"

@@ -146,6 +146,9 @@
       "lowerField" : "germ_leopard_I_a1",
       "upperField" : "Leopard A1A1"
     }, {
+      "lowerField" : "germ_leopard_1a5",
+      "upperField" : "Leopard 1A5"
+    }, {
       "lowerField" : "germ_leopard_2k",
       "upperField" : "Leopard 2K"
     }, {
@@ -154,6 +157,9 @@
     }, {
       "lowerField" : "germ_leopard_2a5",
       "upperField" : "Leopard 2A5"
+    }, {
+      "lowerField" : "germ_leopard_2a6",
+      "upperField" : "Leopard 2A6"
     } ]
   }, {
     "cellList" : [ {
@@ -183,6 +189,9 @@
     }, {
       "lowerField" : "germ_flarakpz_1",
       "upperField" : "FlaRakPz 1 Roland 2"
+    }, {
+      "lowerField" : "germ_flarakrad",
+      "upperField" : "Flugabwehrraketensystem Roland auf Radkraftfahrzeug"
     } ]
   }, {
     "cellList" : [ {
@@ -236,14 +245,17 @@
       "lowerField" : "germ_pzkpfw_ii_ausf_c_dak",
       "upperField" : "Pz.Kpfw. II DAK"
     }, {
-      "lowerField" : "germ_sdkfz_234_3",
-      "upperField" : "Sd.Kfz.234/3"
+      "lowerField" : "germ_pzkpfw_38t_aufklarungspanzer",
+      "upperField" : "Aufklärungspanzer 38(t)"
     }, {
-      "lowerField" : "germ_sdkfz_234_4",
-      "upperField" : "s.Pz.Sp.Wg. (7,5 cm) Sd.Kfz.234/4"
+      "lowerField" : "germ_nbfz_vi",
+      "upperField" : "Neubaufahrzeug"
     }, {
       "lowerField" : "germ_pzkpfw_iii_ausf_n",
       "upperField" : "Pz.Kpfw. III Ausf. N"
+    }, {
+      "lowerField" : "germ_panzerwerfer_42",
+      "upperField" : "Panzerwerfer 42"
     }, {
       "lowerField" : "germ_t_34_747",
       "upperField" : "T-34-747(r)"
@@ -254,8 +266,55 @@
       "lowerField" : "germ_kv_2_754r",
       "upperField" : "✙KV-II 754r"
     }, {
+      "lowerField" : "germ_infanterie_kampfpanzer_churchill",
+      "upperField" : "Infanterie Kampfpanzer Churchill"
+    }, {
+      "lowerField" : "germ_sturmpanzer_iv_brummbar",
+      "upperField" : "15cm Sturm-Panzer 43(L/12) IV \"Brummbär\""
+    }, {
+      "lowerField" : "germ_kv_1_kwk_40",
+      "upperField" : "✙Pz.Kpfw. KV-1B 756(r)"
+    }, {
       "lowerField" : "germ_pz_iv_l70_a",
       "upperField" : "Panzer IV/70(A)"
+    }, {
+      "lowerField" : "germ_panzerbefelhswagen_vi_p",
+      "upperField" : "Panzerbefehlswagen VI (P)"
+    }, {
+      "lowerField" : "germ_panzerbefelhswagen_jagdpanther",
+      "upperField" : "Befehlswagen Jagdpanther"
+    }, {
+      "lowerField" : "germ_panther_ii",
+      "upperField" : "Pz.Kpfw. Panther II"
+    }, {
+      "lowerField" : "germ_mkpz_m47",
+      "upperField" : "mKPz M47"
+    }, {
+      "lowerField" : "germ_leopard_a1a1_120",
+      "upperField" : "Leopard A1A1 (L/44)"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "germ_sdkfz_251_10",
+      "upperField" : "m.Schütz.Pz.Wg. (Sd.Kfz.251/10)"
+    }, {
+      "lowerField" : "germ_sdkfz_234_1",
+      "upperField" : "Sd.Kfz.234/1"
+    }, {
+      "lowerField" : "germ_sdkfz_234_3",
+      "upperField" : "Sd.Kfz.234/3"
+    }, {
+      "lowerField" : "germ_sdkfz_234_4",
+      "upperField" : "s.Pz.Sp.Wg. (7,5 cm) Sd.Kfz.234/4"
+    }, {
+      "lowerField" : "germ_pzkpfw_ii_ausf_h",
+      "upperField" : "5 cm Pak38 auf Pz.Kpfw.II Sonderfahrgestell 901"
+    }, {
+      "lowerField" : "us_m4a2_1944_germ",
+      "upperField" : "✙Pz.Kpfw. M4 748 (a)"
+    }, {
+      "lowerField" : "germ_kv_1b_finland",
+      "upperField" : "✙KV-IB"
     }, {
       "lowerField" : "germ_vsw_flak_41",
       "upperField" : "Versuchsflakwagen"
@@ -265,59 +324,6 @@
     }, {
       "lowerField" : "germ_pzkpfw_VI_ausf_h1_tiger_animal_version",
       "upperField" : "🐾Tiger"
-    }, {
-      "lowerField" : "germ_panzerbefelhswagen_jagdpanther",
-      "upperField" : "Befehlswagen Jagdpanther"
-    }, {
-      "lowerField" : "germ_panzerbefelhswagen_vi_p",
-      "upperField" : "Panzerbefehlswagen VI (P)"
-    }, {
-      "lowerField" : "germ_panther_ii",
-      "upperField" : "Pz.Kpfw. Panther II"
-    }, {
-      "lowerField" : "germ_mkpz_m47",
-      "upperField" : "mKPz M47"
-    }, {
-      "lowerField" : "germ_pzkpfw_e_100",
-      "upperField" : "E-100"
-    }, {
-      "lowerField" : "germ_vt_1_2",
-      "upperField" : "Doppelrohr-Kasemattpanzer Versuchsträger VT1-2"
-    }, {
-      "lowerField" : "germ_leopard_a1a1_120",
-      "upperField" : "Leopard A1A1 (L/44)"
-    }, {
-      "lowerField" : "germ_leopard_c2_mexas",
-      "upperField" : "C2A1"
-    } ]
-  }, {
-    "cellList" : [ {
-      "lowerField" : "germ_pzkpfw_38t_aufklarungspanzer",
-      "upperField" : "Aufklärungspanzer 38(t)"
-    }, {
-      "lowerField" : "germ_nbfz_vi",
-      "upperField" : "Neubaufahrzeug"
-    }, {
-      "lowerField" : "germ_pzkpfw_ii_ausf_h",
-      "upperField" : "Pz.Kpfw. II Ausf. H"
-    }, {
-      "lowerField" : "us_m4a2_1944_germ",
-      "upperField" : "✙Pz.Kpfw. M4 748 (a)"
-    }, {
-      "lowerField" : "germ_panzerwerfer_42",
-      "upperField" : "Panzerwerfer 42"
-    }, {
-      "lowerField" : "germ_kv_1b_finland",
-      "upperField" : "✙KV-IB"
-    }, {
-      "lowerField" : "germ_infanterie_kampfpanzer_churchill",
-      "upperField" : "Infanterie Kampfpanzer Churchill"
-    }, {
-      "lowerField" : "germ_sturmpanzer_iv_brummbar",
-      "upperField" : "15cm Sturm-Panzer 43(L/12) IV \"Brummbär\""
-    }, {
-      "lowerField" : "germ_kv_1_kwk_40",
-      "upperField" : "✙Pz.Kpfw. KV-1B 756(r)"
     }, {
       "lowerField" : "germ_pzkpfw_VI_tiger_P",
       "upperField" : "VK 45.01 (P)"
@@ -334,8 +340,17 @@
       "lowerField" : "germ_pzkpfw_vi_ausf_b_tiger_iih_kwk46",
       "upperField" : "Pz.Kpfw. VI Ausf. B mit 10.5cm KwK L/68"
     }, {
+      "lowerField" : "germ_pzkpfw_e_100",
+      "upperField" : "E-100"
+    }, {
       "lowerField" : "germ_pzkpfw_maus",
       "upperField" : "Pz.Kpfw. Maus"
+    }, {
+      "lowerField" : "germ_vt_1_2",
+      "upperField" : "Doppelrohr-Kasemattpanzer Versuchsträger VT1-2"
+    }, {
+      "lowerField" : "germ_leopard_c2_mexas",
+      "upperField" : "C2A1"
     } ]
   }, {
     "cellList" : [ {
@@ -354,8 +369,8 @@
       "lowerField" : "germ_pzkpfw_35t_romania_mare",
       "upperField" : "Pz.35(t) RM"
     }, {
-      "lowerField" : "germ_sdkfz_234_1",
-      "upperField" : "Sd.Kfz.234/1"
+      "lowerField" : "germ_pzkpfw_III_ausf_J_td",
+      "upperField" : "Pz.III J1 TD"
     } ]
   } ]
 }

@@ -194,6 +194,9 @@
     }, {
       "lowerField" : "us_m60a2",
       "upperField" : "152 mm Gun Tank M60A2"
+    }, {
+      "lowerField" : "us_m1128_mgs",
+      "upperField" : "M1128"
     } ]
   }, {
     "cellList" : [ {
@@ -288,6 +291,12 @@
     }, {
       "lowerField" : "us_merkava_mk_1",
       "upperField" : "Merkava Mk.1"
+    }, {
+      "lowerField" : "us_merkava_mk_2b_late",
+      "upperField" : "Merkava Mk.2B"
+    }, {
+      "lowerField" : "us_merkava_mk_3d",
+      "upperField" : "Merkava Mk.3D"
     } ]
   }, {
     "cellList" : [ {

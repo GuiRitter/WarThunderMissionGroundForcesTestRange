@@ -129,6 +129,9 @@
     }, {
       "lowerField" : "cn_cm_25",
       "upperField" : "CM25"
+    }, {
+      "lowerField" : "cn_ptz_89",
+      "upperField" : "PTZ89"
     } ]
   }, {
     "cellList" : [ {

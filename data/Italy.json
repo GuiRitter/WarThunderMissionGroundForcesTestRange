@@ -78,6 +78,9 @@
       "lowerField" : "it_of_40_mk_2a",
       "upperField" : "Carro Armato OTO Melara OF-40 Mk.2A"
     }, {
+      "lowerField" : "it_leopard_1a5",
+      "upperField" : "✞Leopard 1A5"
+    }, {
       "lowerField" : "it_c1_ariete_preserie",
       "upperField" : "C1 Ariete (Preserie)"
     }, {
@@ -173,6 +176,11 @@
     }, {
       "lowerField" : "it_of_40_mtca",
       "upperField" : "Carro Armato OTO Melara OF-40 (MTCA)"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "it_sahariano",
+      "upperField" : "Carro Armato M Celere Sahariano"
     } ]
   } ]
 }

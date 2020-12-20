@@ -1,0 +1,28 @@
+lines only in old:
+
+aaa_dummy
+
+lines only in new:
+
+
+cn_ptz_89
+fr_leclerc_s2
+fr_lorraine_37l
+germ_flarakrad
+germ_leopard_1a5
+germ_leopard_2a6
+germ_pzkpfw_III_ausf_J_td
+germ_sdkfz_251_10
+it_leopard_1a5
+it_sahariano
+jp_type_74_f
+sw_strv_122b_plss
+sw_strv_81_rb52
+uk_matilda_hedgehog
+uk_vfm_5
+us_m1128_mgs
+us_merkava_mk_3d
+ussr_t_10a
+ussr_t_72av_turms
+ussr_t_90a
+

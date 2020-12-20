@@ -68,6 +68,9 @@
     }, {
       "lowerField" : "sw_strv_122",
       "upperField" : "Stridsvagn 122"
+    }, {
+      "lowerField" : "sw_strv_122b_plss",
+      "upperField" : "Stridsvagn 122B PLSS"
     } ]
   }, {
     "cellList" : [ {
@@ -125,6 +128,9 @@
     }, {
       "lowerField" : "sw_sav_fm48",
       "upperField" : "Stormartillerivagn 20.11.48"
+    }, {
+      "lowerField" : "sw_strv_81_rb52",
+      "upperField" : "Strv 81 (RB 52)"
     }, {
       "lowerField" : "sw_strv_103_0",
       "upperField" : "Stridsvagn 103-0"

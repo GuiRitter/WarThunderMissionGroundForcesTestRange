@@ -64,6 +64,9 @@
       "lowerField" : "ussr_t_72b_1989",
       "upperField" : "T-72B (1989)"
     }, {
+      "lowerField" : "ussr_t_90a",
+      "upperField" : "T-90A"
+    }, {
       "lowerField" : "ussr_t_72b3_2011",
       "upperField" : "T-72B3"
     } ]
@@ -317,6 +320,9 @@
       "lowerField" : "ussr_t_55_am",
       "upperField" : "T-55AM-1"
     }, {
+      "lowerField" : "ussr_t_72av_turms",
+      "upperField" : "T-72AV (TURMS-T)"
+    }, {
       "lowerField" : "ussr_bmp_2m",
       "upperField" : "BMP-2M"
     } ]
@@ -413,6 +419,9 @@
     }, {
       "lowerField" : "ussr_su_76_1942",
       "upperField" : "ussr_su_76_1942"
+    }, {
+      "lowerField" : "ussr_t_10a",
+      "upperField" : "T-10A"
     }, {
       "lowerField" : "ussr_t_26_1938",
       "upperField" : "ussr_t_26_1938"
