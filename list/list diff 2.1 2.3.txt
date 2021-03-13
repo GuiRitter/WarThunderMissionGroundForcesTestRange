@@ -1,0 +1,18 @@
+lines only in old:
+
+
+
+lines only in new:
+
+aaa_dummy
+cn_gmc_cckw_353_m45_quad
+cn_ztz_99
+fr_panhard_ebr_1954
+germ_sdkfz_251_21
+germ_th_800_bismark
+jp_st_a3
+sw_asrad_r
+uk_adats_m113a3
+ussr_bt_7_1937_td
+ussr_zsu_37_2
+

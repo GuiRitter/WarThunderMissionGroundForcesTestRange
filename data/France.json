@@ -190,5 +190,10 @@
       "lowerField" : "fr_amx_30",
       "upperField" : "AMX-30"
     } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "fr_panhard_ebr_1954",
+      "upperField" : "E.B.R. (1954)"
+    } ]
   } ]
 }

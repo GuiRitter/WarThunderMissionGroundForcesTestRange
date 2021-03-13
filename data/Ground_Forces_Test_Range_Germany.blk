@@ -1870,7 +1870,7 @@ units{
   tankModels{
     name:t="tank_3_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8062, 1, 8182.0]]
-    unit_class:t="germ_flakpanzer_iv_wirbelwind"
+    unit_class:t="germ_sdkfz_251_21"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1901,7 +1901,7 @@ units{
   tankModels{
     name:t="tank_3_4"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8082, 1, 8182.0]]
-    unit_class:t="germ_flakpanzer_iv_ostwind"
+    unit_class:t="germ_flakpanzer_iv_wirbelwind"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1932,7 +1932,7 @@ units{
   tankModels{
     name:t="tank_3_5"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8182.0]]
-    unit_class:t="germ_flakpanzer_IV_Ostwind_2"
+    unit_class:t="germ_flakpanzer_iv_ostwind"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1963,7 +1963,7 @@ units{
   tankModels{
     name:t="tank_3_6"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8122, 1, 8182.0]]
-    unit_class:t="germ_flakpanzer_iv_kugelblitz"
+    unit_class:t="germ_flakpanzer_IV_Ostwind_2"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1994,7 +1994,7 @@ units{
   tankModels{
     name:t="tank_3_7"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8142, 1, 8182.0]]
-    unit_class:t="germ_flakpz_I_Gepard"
+    unit_class:t="germ_flakpanzer_iv_kugelblitz"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2025,7 +2025,7 @@ units{
   tankModels{
     name:t="tank_3_8"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8182.0]]
-    unit_class:t="germ_flarakpz_1"
+    unit_class:t="germ_flakpz_I_Gepard"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2056,6 +2056,37 @@ units{
   tankModels{
     name:t="tank_3_9"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8182, 1, 8182.0]]
+    unit_class:t="germ_flarakpz_1"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_3_10"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8202, 1, 8182.0]]
     unit_class:t="germ_flarakrad"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3851,12 +3882,43 @@ units{
     }
   }
 
+  tankModels{
+    name:t="tank_7_6"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8122, 1, 8262.0]]
+    unit_class:t="germ_th_800_bismark"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
 }
 
 areas{
   area_for_cutscene_0{
     type:t="Point"
-    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7870, 35, 8192]]
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7850, 40, 8192]]
     objLayer:i=0
 
     props{

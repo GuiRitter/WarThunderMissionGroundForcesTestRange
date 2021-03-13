@@ -94,6 +94,9 @@
     }, {
       "lowerField" : "sw_lvkv_90c",
       "upperField" : "Luftvärnskanonvagn 90C"
+    }, {
+      "lowerField" : "sw_asrad_r",
+      "upperField" : "ASRAD-R"
     } ]
   }, {
     "cellList" : [ {

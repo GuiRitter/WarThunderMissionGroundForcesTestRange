@@ -172,6 +172,9 @@
       "lowerField" : "germ_sdkfz_6_2_flak36",
       "upperField" : "3.7-cm Flak 36 auf Selbstfahrlafette Sd.Kfz. 6/2"
     }, {
+      "lowerField" : "germ_sdkfz_251_21",
+      "upperField" : "m.Schütz.Pz.Wg. (Sd.Kfz.251/21)"
+    }, {
       "lowerField" : "germ_flakpanzer_iv_wirbelwind",
       "upperField" : "Flakpanzer IV Wirbelwind"
     }, {
@@ -371,6 +374,9 @@
     }, {
       "lowerField" : "germ_pzkpfw_III_ausf_J_td",
       "upperField" : "Pz.III J1 TD"
+    }, {
+      "lowerField" : "germ_th_800_bismark",
+      "upperField" : "Class 3 (P)"
     } ]
   } ]
 }

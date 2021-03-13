@@ -177,6 +177,9 @@
     }, {
       "lowerField" : "uk_stormer_hvm",
       "upperField" : "FV4333 Stormer HVM"
+    }, {
+      "lowerField" : "uk_adats_m113a3",
+      "upperField" : "ADATS (M113)"
     } ]
   }, {
     "cellList" : [ {

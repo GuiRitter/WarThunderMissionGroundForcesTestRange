@@ -80,9 +80,15 @@
     }, {
       "lowerField" : "cn_ztz_96a",
       "upperField" : "ZTZ96A"
+    }, {
+      "lowerField" : "cn_ztz_99",
+      "upperField" : "ZTZ99"
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "cn_gmc_cckw_353_m45_quad",
+      "upperField" : "CCKW 353 (M45)"
+    }, {
       "lowerField" : "cn_zsd63_pg87",
       "upperField" : "ZSD63"
     }, {

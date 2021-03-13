@@ -252,6 +252,9 @@
       "lowerField" : "ussr_zsu_23_4",
       "upperField" : "ZSU-23-4 \"Shilka\""
     }, {
+      "lowerField" : "ussr_zsu_37_2",
+      "upperField" : "ZSU-37-2"
+    }, {
       "lowerField" : "ussr_zprk_2s6",
       "upperField" : "ZPRK 2S6 'Tunguska'"
     } ]
@@ -398,6 +401,9 @@
     }, {
       "lowerField" : "ussr_bt_7_1937_race",
       "upperField" : "BT-7"
+    }, {
+      "lowerField" : "ussr_bt_7_1937_td",
+      "upperField" : "BT-7 TD"
     }, {
       "lowerField" : "ussr_bt_7a",
       "upperField" : "ussr_bt_7a"

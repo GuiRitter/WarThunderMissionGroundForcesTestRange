@@ -66,6 +66,9 @@
       "lowerField" : "jp_type_61",
       "upperField" : "Type 61"
     }, {
+      "lowerField" : "jp_st_a3",
+      "upperField" : "ST-A3"
+    }, {
       "lowerField" : "jp_st_b1",
       "upperField" : "STB-1"
     }, {
