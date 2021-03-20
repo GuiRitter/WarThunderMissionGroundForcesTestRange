@@ -34,6 +34,9 @@
       "lowerField" : "us_m3_bradley",
       "upperField" : "Fighting Vehicle, Cavalry, M3"
     }, {
+      "lowerField" : "us_m3a3_bradley",
+      "upperField" : "Fighting Vehicle, Cavalry, M3A3"
+    }, {
       "lowerField" : "us_hstv_l",
       "upperField" : "High Survivability Test Vehicle - Lightweight"
     } ]
@@ -221,6 +224,9 @@
       "lowerField" : "us_m24_chaffee_tl",
       "upperField" : "Light Tank M24 Chaffee"
     }, {
+      "lowerField" : "us_t14",
+      "upperField" : "Assault Tank T14"
+    }, {
       "lowerField" : "us_m18_hellcat_black_cat",
       "upperField" : "M18 Gun Motor Carriage “Black Cat”"
     }, {
@@ -233,11 +239,11 @@
       "lowerField" : "us_m18_super_hellcat",
       "upperField" : "M18 90-mm Gun Motor Carriage"
     }, {
-      "lowerField" : "us_t29",
-      "upperField" : "Heavy Tank T29"
+      "lowerField" : "us_m26e1_pershing",
+      "upperField" : "Medium Tank M26E1"
     }, {
-      "lowerField" : "us_t30",
-      "upperField" : "Heavy Tank T30"
+      "lowerField" : "us_m46_patton_73_armor_bat",
+      "upperField" : "Medium Tank M46 Patton (73 Tank Batalion)"
     }, {
       "lowerField" : "us_t114",
       "upperField" : "T114"
@@ -253,6 +259,9 @@
     }, {
       "lowerField" : "us_m901_itv",
       "upperField" : "Combat Vehicle, Anti-tank, Improved TOW Vehicle, M901"
+    }, {
+      "lowerField" : "us_m60a3_slep",
+      "upperField" : "M60 AMBT"
     } ]
   }, {
     "cellList" : [ {
@@ -262,29 +271,32 @@
       "lowerField" : "us_m8a1",
       "upperField" : "75 mm Gun Motor Carriage M8"
     }, {
+      "lowerField" : "us_m5a1_stuart_td",
+      "upperField" : "M5A1 TD"
+    }, {
       "lowerField" : "us_lvt_4_zis_2",
       "upperField" : "LVT(A)(4) Zis-2"
     }, {
       "lowerField" : "us_t18_e2",
       "upperField" : "T18E2 \"Boarhound\""
     }, {
-      "lowerField" : "us_t14",
-      "upperField" : "Assault Tank T14"
-    }, {
-      "lowerField" : "us_t20",
-      "upperField" : "T20"
+      "lowerField" : "us_t55e1",
+      "upperField" : "T55E1"
     }, {
       "lowerField" : "us_m4a3e2_sherman_jumbo_cobra_king",
       "upperField" : "Assault Tank M4A3E2 Jumbo “Cobra King”"
     }, {
+      "lowerField" : "us_t20",
+      "upperField" : "T20"
+    }, {
       "lowerField" : "us_t28",
       "upperField" : "Super Heavy Tank T28"
     }, {
-      "lowerField" : "us_m26e1_pershing",
-      "upperField" : "Medium Tank M26E1"
+      "lowerField" : "us_t29",
+      "upperField" : "Heavy Tank T29"
     }, {
-      "lowerField" : "us_m46_patton_73_armor_bat",
-      "upperField" : "Medium Tank M46 Patton (73 Tank Batalion)"
+      "lowerField" : "us_t30",
+      "upperField" : "Heavy Tank T30"
     }, {
       "lowerField" : "us_magach_3",
       "upperField" : "✡Magach 3"
@@ -329,9 +341,6 @@
     }, {
       "lowerField" : "us_m551_football",
       "upperField" : ""
-    }, {
-      "lowerField" : "us_m60a3_slep",
-      "upperField" : "M60 AMBT"
     }, {
       "lowerField" : "us_t32_tutorial",
       "upperField" : "T32"

@@ -133,6 +133,9 @@
       "lowerField" : "cn_m113a1_tow",
       "upperField" : "✨M113A1 TOW"
     }, {
+      "lowerField" : "cn_ptl_02",
+      "upperField" : "PTL02"
+    }, {
       "lowerField" : "cn_cm_25",
       "upperField" : "CM25"
     }, {

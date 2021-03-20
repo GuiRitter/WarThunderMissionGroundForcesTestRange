@@ -54,6 +54,9 @@
       "lowerField" : "it_m15_42",
       "upperField" : "Fiat-Ansaldo M15/42"
     }, {
+      "lowerField" : "it_pzkpfw_III_ausf_N",
+      "upperField" : "✞Pz.III N"
+    }, {
       "lowerField" : "it_p_40",
       "upperField" : "Fiat-Ansaldo P40"
     }, {
@@ -139,6 +142,9 @@
       "lowerField" : "it_semovente_m41m_90",
       "upperField" : "Semovente 90/53 M41M"
     }, {
+      "lowerField" : "it_stug_III_ausf_G",
+      "upperField" : "✞StuG III G"
+    }, {
       "lowerField" : "it_semovente_m43_75_46",
       "upperField" : "Semovente 75/46 M43"
     }, {
@@ -156,14 +162,14 @@
       "lowerField" : "it_m14_41_47_40",
       "upperField" : "Fiat-Ansaldo M14/41 (47/40)"
     }, {
-      "lowerField" : "it_p_26_40",
-      "upperField" : "Fiat-Ansaldo P40 Gruppo Corazzato 'Leoncello'"
-    }, {
       "lowerField" : "it_sherman_75_37",
       "upperField" : "Carro Medio M4 Hybrid"
     }, {
       "lowerField" : "it_semovente_m43_105_leoncello",
       "upperField" : "Semovente 105/25 M43 G.C. 'Leoncello'"
+    }, {
+      "lowerField" : "it_pzkpfw_IV_ausf_G",
+      "upperField" : "✞Pz.IV G"
     }, {
       "lowerField" : "it_m26_ariete",
       "upperField" : "M26 Pershing 132ª Divisione corazzata 'Ariete'"
@@ -181,6 +187,9 @@
     "cellList" : [ {
       "lowerField" : "it_sahariano",
       "upperField" : "Carro Armato M Celere Sahariano"
+    }, {
+      "lowerField" : "it_p_26_40",
+      "upperField" : "Fiat-Ansaldo P40 Gruppo Corazzato 'Leoncello'"
     } ]
   } ]
 }

@@ -16,11 +16,14 @@
       "lowerField" : "sw_ikv_103",
       "upperField" : "Infanterikanonvagn 103"
     }, {
+      "lowerField" : "sw_ikv_91",
+      "upperField" : "Infanterikanonvagn 91"
+    }, {
       "lowerField" : "sw_landsverk_ush_405",
       "upperField" : "Landsverk U-SH 405"
     }, {
-      "lowerField" : "sw_ikv_91",
-      "upperField" : "Infanterikanonvagn 91"
+      "lowerField" : "sw_ikv_91_105",
+      "upperField" : "Infanterikanonvagn 91-105"
     }, {
       "lowerField" : "sw_strf_90c",
       "upperField" : "Stridsfordon 90C"

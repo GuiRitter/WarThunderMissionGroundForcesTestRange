@@ -7,6 +7,9 @@
       "lowerField" : "ussr_bt_7_1937",
       "upperField" : "BT-7 mod. 1937"
     }, {
+      "lowerField" : "ussr_bt_7_m",
+      "upperField" : "BT-7M"
+    }, {
       "lowerField" : "ussr_t_50",
       "upperField" : "T-50"
     }, {
@@ -77,6 +80,9 @@
     }, {
       "lowerField" : "ussr_t_26_4",
       "upperField" : "T-26-4"
+    }, {
+      "lowerField" : "ussr_t_28_1938",
+      "upperField" : "T-28 (1938)"
     }, {
       "lowerField" : "ussr_t_28",
       "upperField" : "T-28"

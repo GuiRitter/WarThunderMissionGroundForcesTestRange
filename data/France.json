@@ -27,6 +27,9 @@
     }, {
       "lowerField" : "fr_amx_13_hot",
       "upperField" : "AMX-13 (HOT)"
+    }, {
+      "lowerField" : "fr_mars_15",
+      "upperField" : "MARS 15"
     } ]
   }, {
     "cellList" : [ {
@@ -152,6 +155,9 @@
     }, {
       "lowerField" : "fr_amx_30_ACRA",
       "upperField" : "AMX-30 ACRA"
+    }, {
+      "lowerField" : "fr_sk105_a2",
+      "upperField" : "SK-105A2"
     } ]
   }, {
     "cellList" : [ {

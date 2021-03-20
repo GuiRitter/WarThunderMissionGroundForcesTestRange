@@ -1,0 +1,32 @@
+no lines only in old
+
+lines only in new:
+
+cn_ptl_02
+fr_mars_15
+fr_sk105_a2
+germ_leopard_2pl
+germ_sk105_a2
+it_pzkpfw_III_ausf_N
+it_pzkpfw_IV_ausf_G
+it_stug_III_ausf_G
+jp_hiro_sha
+sw_ikv_91_105
+uk_centurion_mk_5_raac
+uk_eland_90_mk_7
+uk_marmon_herrington_mk_6_2pdr
+uk_marmon_herrington_mk_6_6pdr
+uk_olifant_mk_1a
+uk_olifant_mk_2
+uk_ratel_20
+uk_ratel_90
+uk_ratel_zt3
+uk_rooikat_mttd
+uk_rooikat_za_35
+uk_ttd
+us_m3a3_bradley
+us_m5a1_stuart_td
+us_t55e1
+ussr_bt_7_m
+ussr_t_28_1938
+

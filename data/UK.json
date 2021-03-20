@@ -146,8 +146,8 @@
       "lowerField" : "uk_fv102_striker",
       "upperField" : "FV-102 Striker"
     }, {
-      "lowerField" : "uk_rooikat_76",
-      "upperField" : "Rooikat Mk.1D"
+      "lowerField" : "uk_ratel_zt3",
+      "upperField" : "ZT3A2 Ratel"
     }, {
       "lowerField" : "uk_vfm_5",
       "upperField" : "Vickers/FMC VFM5"
@@ -175,11 +175,46 @@
       "lowerField" : "uk_chieftain_marksman",
       "upperField" : "Marconi Electronic Systems Chieftain Mk 5 Marksman"
     }, {
+      "lowerField" : "uk_rooikat_za_35",
+      "upperField" : "Rooikat ZA-35"
+    }, {
       "lowerField" : "uk_stormer_hvm",
       "upperField" : "FV4333 Stormer HVM"
     }, {
       "lowerField" : "uk_adats_m113a3",
       "upperField" : "ADATS (M113)"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "uk_marmon_herrington_mk_6_2pdr",
+      "upperField" : "SARC MkVI (2pdr)"
+    }, {
+      "lowerField" : "uk_marmon_herrington_mk_6_6pdr",
+      "upperField" : "SARC MkVI (6pdr)"
+    }, {
+      "lowerField" : "uk_ratel_90",
+      "upperField" : "Ratel 90"
+    }, {
+      "lowerField" : "uk_eland_90_mk_7",
+      "upperField" : "Eland 90 Mk.7"
+    }, {
+      "lowerField" : "uk_ratel_20",
+      "upperField" : "Ratel 20"
+    }, {
+      "lowerField" : "uk_rooikat_76",
+      "upperField" : "Rooikat Mk.1D"
+    }, {
+      "lowerField" : "uk_olifant_mk_1a",
+      "upperField" : "Olifant Mk.1A"
+    }, {
+      "lowerField" : "uk_rooikat_mttd",
+      "upperField" : "Rooikat MTTD"
+    }, {
+      "lowerField" : "uk_olifant_mk_2",
+      "upperField" : "Olifant Mk.2"
+    }, {
+      "lowerField" : "uk_ttd",
+      "upperField" : "TTD"
     } ]
   }, {
     "cellList" : [ {
@@ -189,23 +224,29 @@
       "lowerField" : "uk_a1e1_independent",
       "upperField" : "A1E1 Independent"
     }, {
+      "lowerField" : "uk_crusader_mk_2_the_saint",
+      "upperField" : "Tank, Cruiser, Mk VIA, Crusader II (A15)"
+    }, {
       "lowerField" : "uk_a27m_cromwell_5_rp3",
       "upperField" : "Mark VIII A27M Cromwell RP-3"
     }, {
       "lowerField" : "uk_17_pdr_m10_achilles_norfolk_yeomanry",
       "upperField" : "17pdr. M10 65th Anti-Tank Regt"
     }, {
-      "lowerField" : "uk_a_33_excelsior",
-      "upperField" : "Excelsior"
-    }, {
       "lowerField" : "uk_sherman_ic_firefly",
       "upperField" : "Sherman IC 2nd «Warsaw» Armoured Division"
+    }, {
+      "lowerField" : "uk_ac4_thunderbolt",
+      "upperField" : "AC IV Thunderbolt"
     }, {
       "lowerField" : "uk_a_43_black_prince",
       "upperField" : "A.43 Black Prince"
     }, {
       "lowerField" : "uk_centurion_mk_3_ss11",
       "upperField" : "Strv 81"
+    }, {
+      "lowerField" : "uk_centurion_action_x",
+      "upperField" : "Centurion Action X"
     }, {
       "lowerField" : "uk_centurion_mk_5_avre_era",
       "upperField" : "Centurion Assault Vehicle, Royal Engineers Mk.5"
@@ -218,8 +259,8 @@
       "lowerField" : "uk_a_13_mk2_1939",
       "upperField" : "Mark IV A13 Mk.II"
     }, {
-      "lowerField" : "uk_crusader_mk_2_the_saint",
-      "upperField" : "Tank, Cruiser, Mk VIA, Crusader II (A15)"
+      "lowerField" : "uk_matilda_hedgehog",
+      "upperField" : "Matilda Hedgehog"
     }, {
       "lowerField" : "uk_mk1_grant",
       "upperField" : "Grant I"
@@ -227,8 +268,8 @@
       "lowerField" : "uk_armored_car_aec_mk_2",
       "upperField" : "AEC Mk.II"
     }, {
-      "lowerField" : "uk_ac4_thunderbolt",
-      "upperField" : "AC IV Thunderbolt"
+      "lowerField" : "uk_a_33_excelsior",
+      "upperField" : "Excelsior"
     }, {
       "lowerField" : "uk_a_34_comet_iron_duke",
       "upperField" : "Iron Duke IV"
@@ -236,8 +277,8 @@
       "lowerField" : "uk_ram_90mm_aa",
       "upperField" : "OQF 3.7-inch AA on Ram Mounting"
     }, {
-      "lowerField" : "uk_centurion_action_x",
-      "upperField" : "Centurion Action X"
+      "lowerField" : "uk_centurion_mk_5_raac",
+      "upperField" : "Centurion Mk.5/1"
     }, {
       "lowerField" : "uk_rooikat_105_td",
       "upperField" : "Rooikat 105"
@@ -249,9 +290,6 @@
     }, {
       "lowerField" : "uk_challenger_II_yt_cup_2019",
       "upperField" : "🏆Challenger 2"
-    }, {
-      "lowerField" : "uk_matilda_hedgehog",
-      "upperField" : "Matilda Hedgehog"
     }, {
       "lowerField" : "uk_t17e2_race",
       "upperField" : "RT-1"

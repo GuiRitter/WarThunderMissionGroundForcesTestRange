@@ -89,6 +89,9 @@
       "lowerField" : "jp_type_4_ho_ro",
       "upperField" : "Type 4 Ho-Ro"
     }, {
+      "lowerField" : "jp_hiro_sha",
+      "upperField" : "Ji-Ro"
+    }, {
       "lowerField" : "jp_type_3_ho_ni_i",
       "upperField" : "Type 3 Ho-Ni I"
     }, {

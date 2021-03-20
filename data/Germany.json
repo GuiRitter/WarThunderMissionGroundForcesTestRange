@@ -4,11 +4,11 @@
       "lowerField" : "germ_sdkfz_221_s_pz_b_41",
       "upperField" : "le.Pz.Sp.Wg. (s.Pz.B.41) Sd.Kfz.221"
     }, {
-      "lowerField" : "germ_panzerjager_1",
-      "upperField" : "4,7 cm Pak(t) auf Pz.I Ausf.B"
-    }, {
       "lowerField" : "germ_sturmpanzer_II",
       "upperField" : "Sturmpanzer II"
+    }, {
+      "lowerField" : "germ_panzerjager_1",
+      "upperField" : "4,7 cm Pak(t) auf Pz.I Ausf.B"
     }, {
       "lowerField" : "germ_sdkfz_234_2",
       "upperField" : "s.Pz.Sp.Wg. (5 cm 39/1 L60)"
@@ -34,17 +34,20 @@
       "lowerField" : "germ_waffentrager_krupp_steyr",
       "upperField" : "Waffenträger Krupp-Steyr mit Pak 43"
     }, {
+      "lowerField" : "germ_le_kpz_m41",
+      "upperField" : "leKPz M41"
+    }, {
       "lowerField" : "germ_kanonenjagdpanzer",
       "upperField" : "Hanomag-Henschel JPz 4-5"
     }, {
       "lowerField" : "germ_bmp_1_ddr",
       "upperField" : "BMP-1 (DDR)"
     }, {
-      "lowerField" : "germ_raketenjagdpanzer_2",
-      "upperField" : "Raketenjagdpanzer 2"
+      "lowerField" : "germ_begleitpanzer_57",
+      "upperField" : "Begleitpanzer 57"
     }, {
-      "lowerField" : "germ_raketenjagdpanzer_2_hot",
-      "upperField" : "Raketenjagdpanzer 2 HOT"
+      "lowerField" : "germ_thyssen_henschel_tam",
+      "upperField" : "Tanque Argentino Mediano"
     }, {
       "lowerField" : "germ_radpanzer_90",
       "upperField" : "Radkampfwagen 90"
@@ -54,11 +57,11 @@
     } ]
   }, {
     "cellList" : [ {
-      "lowerField" : "germ_pzkpfw_iii_ausf_b",
-      "upperField" : "Pz.Kpfw. III Ausf. B"
-    }, {
       "lowerField" : "germ_pzkpfw_iii_ausf_e",
       "upperField" : "Pz.Kpfw. III Ausf. E"
+    }, {
+      "lowerField" : "germ_pzkpfw_iii_ausf_b",
+      "upperField" : "Pz.Kpfw. III Ausf. B"
     }, {
       "lowerField" : "germ_pzkpfw_iii_ausf_f",
       "upperField" : "Pz.Kpfw. III Ausf. F"
@@ -134,11 +137,11 @@
       "lowerField" : "germ_pzkpfw_v_ausf_a_panther",
       "upperField" : "Pz.Kpfw. V Ausf. A"
     }, {
-      "lowerField" : "germ_pzkpfw_v_ausf_g_panther",
-      "upperField" : "Pz.Kpfw. V Ausf. G"
-    }, {
       "lowerField" : "germ_pzkpfw_v_ausf_f_panther",
       "upperField" : "Pz.Kpfw. V Ausf. F"
+    }, {
+      "lowerField" : "germ_pzkpfw_v_ausf_g_panther",
+      "upperField" : "Pz.Kpfw. V Ausf. G"
     }, {
       "lowerField" : "germ_leopard_i",
       "upperField" : "Leopard I"
@@ -237,11 +240,14 @@
       "lowerField" : "germ_panzerjager_tiger",
       "upperField" : "Jagdpanzer VI Jagdtiger"
     }, {
-      "lowerField" : "germ_begleitpanzer_57",
-      "upperField" : "Begleitpanzer 57"
+      "lowerField" : "germ_raketenjagdpanzer_2",
+      "upperField" : "Raketenjagdpanzer 2"
     }, {
-      "lowerField" : "germ_thyssen_henschel_tam",
-      "upperField" : "Tanque Argentino Mediano"
+      "lowerField" : "germ_raketenjagdpanzer_2_hot",
+      "upperField" : "Raketenjagdpanzer 2 HOT"
+    }, {
+      "lowerField" : "germ_sk105_a2",
+      "upperField" : "JaPz.K A2"
     } ]
   }, {
     "cellList" : [ {
@@ -253,6 +259,9 @@
     }, {
       "lowerField" : "germ_nbfz_vi",
       "upperField" : "Neubaufahrzeug"
+    }, {
+      "lowerField" : "germ_pzkpfw_III_ausf_J_td",
+      "upperField" : "Pz.III J1 TD"
     }, {
       "lowerField" : "germ_pzkpfw_iii_ausf_n",
       "upperField" : "Pz.Kpfw. III Ausf. N"
@@ -295,6 +304,9 @@
     }, {
       "lowerField" : "germ_leopard_a1a1_120",
       "upperField" : "Leopard A1A1 (L/44)"
+    }, {
+      "lowerField" : "germ_leopard_2pl",
+      "upperField" : "Leopard 2 PL"
     } ]
   }, {
     "cellList" : [ {
@@ -307,14 +319,14 @@
       "lowerField" : "germ_sdkfz_234_3",
       "upperField" : "Sd.Kfz.234/3"
     }, {
-      "lowerField" : "germ_sdkfz_234_4",
-      "upperField" : "s.Pz.Sp.Wg. (7,5 cm) Sd.Kfz.234/4"
-    }, {
       "lowerField" : "germ_pzkpfw_ii_ausf_h",
       "upperField" : "5 cm Pak38 auf Pz.Kpfw.II Sonderfahrgestell 901"
     }, {
       "lowerField" : "us_m4a2_1944_germ",
       "upperField" : "✙Pz.Kpfw. M4 748 (a)"
+    }, {
+      "lowerField" : "germ_sdkfz_234_4",
+      "upperField" : "s.Pz.Sp.Wg. (7,5 cm) Sd.Kfz.234/4"
     }, {
       "lowerField" : "germ_kv_1b_finland",
       "upperField" : "✙KV-IB"
@@ -334,11 +346,11 @@
       "lowerField" : "germ_pzkpfw_VI_ausf_b_tiger_IIh_sla",
       "upperField" : "Pz.Kpfw. VI Ausf. B (H) mit Simmering Sla.16"
     }, {
-      "lowerField" : "germ_flakpanzer_v_coelian",
-      "upperField" : "3,7 cm Flakzwilling auf Panther Fahrgestell, Flakpanzer 341"
-    }, {
       "lowerField" : "germ_ru251",
       "upperField" : "Spähpanzer Ru 251"
+    }, {
+      "lowerField" : "germ_flakpanzer_v_coelian",
+      "upperField" : "3,7 cm Flakzwilling auf Panther Fahrgestell, Flakpanzer 341"
     }, {
       "lowerField" : "germ_pzkpfw_vi_ausf_b_tiger_iih_kwk46",
       "upperField" : "Pz.Kpfw. VI Ausf. B mit 10.5cm KwK L/68"
@@ -351,6 +363,9 @@
     }, {
       "lowerField" : "germ_vt_1_2",
       "upperField" : "Doppelrohr-Kasemattpanzer Versuchsträger VT1-2"
+    }, {
+      "lowerField" : "germ_th_800_bismark",
+      "upperField" : "Class 3 (P)"
     }, {
       "lowerField" : "germ_leopard_c2_mexas",
       "upperField" : "C2A1"
@@ -371,12 +386,6 @@
     }, {
       "lowerField" : "germ_pzkpfw_35t_romania_mare",
       "upperField" : "Pz.35(t) RM"
-    }, {
-      "lowerField" : "germ_pzkpfw_III_ausf_J_td",
-      "upperField" : "Pz.III J1 TD"
-    }, {
-      "lowerField" : "germ_th_800_bismark",
-      "upperField" : "Class 3 (P)"
     } ]
   } ]
 }
