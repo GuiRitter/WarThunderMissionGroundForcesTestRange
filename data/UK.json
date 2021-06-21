@@ -192,6 +192,9 @@
       "lowerField" : "uk_marmon_herrington_mk_6_6pdr",
       "upperField" : "SARC MkVI (6pdr)"
     }, {
+      "lowerField" : "uk_concept3_ngac",
+      "upperField" : "Concept 3, New Generation Armoured Car"
+    },{
       "lowerField" : "uk_ratel_90",
       "upperField" : "Ratel 90"
     }, {
@@ -285,14 +288,8 @@
     } ]
   }, {
     "cellList" : [ {
-      "lowerField" : "uk_a17_mk_1_tetrarch_race",
-      "upperField" : "Tetrarch Mk.I"
-    }, {
       "lowerField" : "uk_challenger_II_yt_cup_2019",
       "upperField" : "🏆Challenger 2"
-    }, {
-      "lowerField" : "uk_t17e2_race",
-      "upperField" : "RT-1"
     } ]
   } ]
 }

@@ -100,6 +100,12 @@
     }, {
       "lowerField" : "cn_wz_305",
       "upperField" : "WZ305"
+    }, {
+      "lowerField" : "cn_pgz_09",
+      "upperField" : "PGZ09"
+    }, {
+      "lowerField" : "cn_pgz_04a",
+      "upperField" : "PGZ04A"
     } ]
   }, {
     "cellList" : [ {
@@ -158,6 +164,9 @@
     }, {
       "lowerField" : "cn_t_62",
       "upperField" : "T-62 Nº545"
+    }, {
+      "lowerField" : "cn_wma_301",
+      "upperField" : "WMA301"
     } ]
   }, {
     "cellList" : [ {

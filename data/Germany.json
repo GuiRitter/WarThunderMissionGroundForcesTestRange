@@ -37,6 +37,9 @@
       "lowerField" : "germ_le_kpz_m41",
       "upperField" : "leKPz M41"
     }, {
+      "lowerField" : "germ_marder_1a1",
+      "upperField" : "SPz Marder A1-"
+    }, {
       "lowerField" : "germ_kanonenjagdpanzer",
       "upperField" : "Hanomag-Henschel JPz 4-5"
     }, {
@@ -145,6 +148,9 @@
     }, {
       "lowerField" : "germ_leopard_i",
       "upperField" : "Leopard I"
+    }, {
+      "lowerField" : "germ_thyssen_henschel_tam_2ip",
+      "upperField" : "Tanque Argentino Mediano 2IP"
     }, {
       "lowerField" : "germ_leopard_I_a1",
       "upperField" : "Leopard A1A1"
@@ -314,10 +320,13 @@
       "upperField" : "m.Schütz.Pz.Wg. (Sd.Kfz.251/10)"
     }, {
       "lowerField" : "germ_sdkfz_234_1",
-      "upperField" : "Sd.Kfz.234/1"
+      "upperField" : "s.Pz.Sp.Wg."
     }, {
       "lowerField" : "germ_sdkfz_234_3",
-      "upperField" : "Sd.Kfz.234/3"
+      "upperField" : "s.Pz.Sp.Wg. (7,5 cm) Sd.Kfz.234/3"
+    }, {
+      "lowerField" : "germ_sdkfz_234_2_td",
+      "upperField" : "s.Pz.Sp.Wg. (5 cm 39/1 L60)"
     }, {
       "lowerField" : "germ_pzkpfw_ii_ausf_h",
       "upperField" : "5 cm Pak38 auf Pz.Kpfw.II Sonderfahrgestell 901"
@@ -380,9 +389,6 @@
     }, {
       "lowerField" : "germ_panther_ii_tutorial",
       "upperField" : "germ_panther_ii_tutorial"
-    }, {
-      "lowerField" : "germ_panzerjager_tiger_p_elefant",
-      "upperField" : "germ_panzerjager_tiger_p_elefant"
     }, {
       "lowerField" : "germ_pzkpfw_35t_romania_mare",
       "upperField" : "Pz.35(t) RM"

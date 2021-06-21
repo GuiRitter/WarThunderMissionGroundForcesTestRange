@@ -297,6 +297,9 @@
     }, {
       "lowerField" : "us_t30",
       "upperField" : "Heavy Tank T30"
+    },{
+      "lowerField" : "us_m6a2e1",
+      "upperField" : "Heavy Tank M6A2E1"
     }, {
       "lowerField" : "us_magach_3",
       "upperField" : "✡Magach 3"
@@ -306,6 +309,9 @@
     }, {
       "lowerField" : "us_merkava_mk_2b_late",
       "upperField" : "Merkava Mk.2B"
+    },{
+      "lowerField" : "us_xm_8",
+      "upperField" : "105 mm Armored Gun System XM8"
     }, {
       "lowerField" : "us_merkava_mk_3d",
       "upperField" : "Merkava Mk.3D"
@@ -329,9 +335,6 @@
     }, {
       "lowerField" : "us_m1a1_abrams_yt_cup_2019",
       "upperField" : "🏆M1A1"
-    }, {
-      "lowerField" : "us_m22_locust_race",
-      "upperField" : "M22"
     }, {
       "lowerField" : "us_m4a2_1944",
       "upperField" : "M4A2 (1944)"

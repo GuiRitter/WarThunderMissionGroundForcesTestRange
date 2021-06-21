@@ -126,6 +126,9 @@
     }, {
       "lowerField" : "fr_amx_30_roland",
       "upperField" : "AMX-30 Roland 1"
+    }, {
+      "lowerField" : "fr_crotale_ng",
+      "upperField" : "⦿Ilmatorjuntaohjus 90M"
     } ]
   }, {
     "cellList" : [ {

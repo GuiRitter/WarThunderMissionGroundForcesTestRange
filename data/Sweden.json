@@ -100,6 +100,9 @@
     }, {
       "lowerField" : "sw_asrad_r",
       "upperField" : "ASRAD-R"
+    }, {
+      "lowerField" : "sw_crotale_ng",
+      "upperField" : "Ilmatorjuntaohjus 90M"
     } ]
   }, {
     "cellList" : [ {
@@ -148,6 +151,9 @@
     "cellList" : [ {
       "lowerField" : "sw_strv_m39_td",
       "upperField" : "Strv m/39 TD"
+    }, {
+      "lowerField" : "sw_strv_m41_s1",
+      "upperField" : "Stridsvagn m/41 S-I"
     }, {
       "lowerField" : "sw_ikv_73",
       "upperField" : "Ikv 73"
