@@ -203,6 +203,9 @@
     "cellList" : [ {
       "lowerField" : "fr_panhard_ebr_1954",
       "upperField" : "E.B.R. (1954)"
+    }, {
+      "lowerField" : "fr_panhard_ebr_1963",
+      "upperField" : "E.B.R. (1963)"
     } ]
   } ]
 }

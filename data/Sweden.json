@@ -80,6 +80,9 @@
       "lowerField" : "sw_pvlvv_fm42",
       "upperField" : "Pansarvärnslavettvagn fm/42"
     }, {
+      "lowerField" : "sw_pbv_301",
+      "upperField" : "Pansarbandvagn 301"
+    }, {
       "lowerField" : "sw_tgdgb_m40_lv",
       "upperField" : "Luftvärnsterrängdragbil m/40"
     }, {

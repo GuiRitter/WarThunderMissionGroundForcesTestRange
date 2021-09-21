@@ -175,6 +175,9 @@
     }, {
       "lowerField" : "ussr_object_685",
       "upperField" : "Object 685"
+    }, {
+      "lowerField" : "ussr_2s25",
+      "upperField" : "2S25 'Sprut-SD'"
     } ]
   }, {
     "cellList" : [ {
@@ -360,7 +363,7 @@
     }, {
       "lowerField" : "ussr_su_76d",
       "upperField" : "SU-76D"
-    },{
+    }, {
       "lowerField" : "ussr_bt_7a_f32",
       "upperField" : "BT-7 (F-32)"
     }, {
@@ -411,11 +414,17 @@
     }, {
       "lowerField" : "ussr_object_279",
       "upperField" : "Object 279"
+    }, {
+      "lowerField" : "ussr_bmd_4",
+      "upperField" : "BMD-4"
     } ]
   }, {
     "cellList" : [ {
       "lowerField" : "ussr_apc_bmp_1",
       "upperField" : "BMP-1"
+    }, {
+      "lowerField" : "ussr_apc_btr_152",
+      "upperField" : ""
     }, {
       "lowerField" : "ussr_at_spg_9",
       "upperField" : "73 mm anti-tank gun SPG-9"

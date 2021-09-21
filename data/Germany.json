@@ -40,11 +40,11 @@
       "lowerField" : "germ_marder_1a1",
       "upperField" : "SPz Marder A1-"
     }, {
-      "lowerField" : "germ_kanonenjagdpanzer",
-      "upperField" : "Hanomag-Henschel JPz 4-5"
-    }, {
       "lowerField" : "germ_bmp_1_ddr",
       "upperField" : "BMP-1 (DDR)"
+    }, {
+      "lowerField" : "germ_marder_1a3",
+      "upperField" : "Marder 1A3"
     }, {
       "lowerField" : "germ_begleitpanzer_57",
       "upperField" : "Begleitpanzer 57"
@@ -99,11 +99,11 @@
       "lowerField" : "germ_mkpz_m48a2ga2",
       "upperField" : "M48A2 G A2"
     }, {
-      "lowerField" : "germ_kpz_70",
-      "upperField" : "KPz-70"
-    }, {
       "lowerField" : "germ_mkpz_super_m48",
       "upperField" : "Kampfpanzer M48 Super"
+    }, {
+      "lowerField" : "germ_kpz_70",
+      "upperField" : "KPz-70"
     } ]
   }, {
     "cellList" : [ {
@@ -240,6 +240,9 @@
       "lowerField" : "germ_panzerjager_panther",
       "upperField" : "Jagdpanzer V Jagdpanther"
     }, {
+      "lowerField" : "germ_kanonenjagdpanzer",
+      "upperField" : "Hanomag-Henschel JPz 4-5"
+    }, {
       "lowerField" : "germ_panzerjager_tiger_p_ferdinand",
       "upperField" : "Panzerjäger Tiger (P) Ferdinand"
     }, {
@@ -331,11 +334,14 @@
       "lowerField" : "germ_pzkpfw_ii_ausf_h",
       "upperField" : "5 cm Pak38 auf Pz.Kpfw.II Sonderfahrgestell 901"
     }, {
-      "lowerField" : "us_m4a2_1944_germ",
-      "upperField" : "✙Pz.Kpfw. M4 748 (a)"
+      "lowerField" : "germ_sdkfz_251_22",
+      "upperField" : "Sd.Kfz.251/22"
     }, {
       "lowerField" : "germ_sdkfz_234_4",
       "upperField" : "s.Pz.Sp.Wg. (7,5 cm) Sd.Kfz.234/4"
+    }, {
+      "lowerField" : "us_m4a2_1944_germ",
+      "upperField" : "✙Pz.Kpfw. M4 748 (a)"
     }, {
       "lowerField" : "germ_kv_1b_finland",
       "upperField" : "✙KV-IB"

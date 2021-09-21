@@ -82,7 +82,10 @@
       "upperField" : "ZTZ96A"
     }, {
       "lowerField" : "cn_ztz_99",
-      "upperField" : "ZTZ99"
+      "upperField" : "ZTZ99 Stage II"
+    }, {
+      "lowerField" : "cn_ztz_99_w",
+      "upperField" : "ZTZ99 Stage III"
     } ]
   }, {
     "cellList" : [ {

@@ -98,9 +98,6 @@
       "lowerField" : "us_m22_locust",
       "upperField" : "Light Tank M22 Locust"
     }, {
-      "lowerField" : "us_m8_scott",
-      "upperField" : "M8 Scott"
-    }, {
       "lowerField" : "us_m4a3_105_sherman",
       "upperField" : "Medium Tank M4A3 (105) HVSS Sherman"
     }, {
@@ -146,6 +143,9 @@
       "lowerField" : "us_m1a1_abrams",
       "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A1"
     }, {
+      "lowerField" : "us_m1a1_hc_abrams",
+      "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC"
+    }, {
       "lowerField" : "us_m1a2_abrams",
       "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A2"
     } ]
@@ -179,6 +179,9 @@
     "cellList" : [ {
       "lowerField" : "us_m2a2",
       "upperField" : "Light Tank M2A2"
+    }, {
+      "lowerField" : "us_m8_scott",
+      "upperField" : "M8 Scott"
     }, {
       "lowerField" : "us_halftrack_m3_75mm_gmc",
       "upperField" : "75mm Gun Motor Carriage M3"
@@ -297,7 +300,7 @@
     }, {
       "lowerField" : "us_t30",
       "upperField" : "Heavy Tank T30"
-    },{
+    }, {
       "lowerField" : "us_m6a2e1",
       "upperField" : "Heavy Tank M6A2E1"
     }, {
@@ -309,7 +312,7 @@
     }, {
       "lowerField" : "us_merkava_mk_2b_late",
       "upperField" : "Merkava Mk.2B"
-    },{
+    }, {
       "lowerField" : "us_xm_8",
       "upperField" : "105 mm Armored Gun System XM8"
     }, {

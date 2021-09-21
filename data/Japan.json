@@ -25,6 +25,9 @@
       "lowerField" : "jp_type_60_atm",
       "upperField" : "Type 60 ATM"
     }, {
+      "lowerField" : "jp_type_87_rcv",
+      "upperField" : "Type 87 RCV"
+    }, {
       "lowerField" : "jp_type_89",
       "upperField" : "Type 89"
     } ]
@@ -75,6 +78,9 @@
       "lowerField" : "jp_st_b1",
       "upperField" : "STB-1"
     }, {
+      "lowerField" : "jp_type_74_c",
+      "upperField" : "Type 74 (C)"
+    }, {
       "lowerField" : "jp_type_74",
       "upperField" : "Type 74"
     }, {
@@ -124,8 +130,14 @@
       "lowerField" : "jp_type_98_ta_se",
       "upperField" : "Ta-Se"
     }, {
+      "lowerField" : "jp_halftrack_m16",
+      "upperField" : "Multiple Gun Motor Carriage M16"
+    }, {
       "lowerField" : "jp_type_95_so_ki",
       "upperField" : "So-Ki"
+    }, {
+      "lowerField" : "jp_m19",
+      "upperField" : "Twin Gun Motor Carriage M19A1"
     }, {
       "lowerField" : "jp_m42_duster",
       "upperField" : "Twin 40mm Self-Propelled Guns M42 Duster"
@@ -169,6 +181,9 @@
     "cellList" : [ {
       "lowerField" : "jp_type_97_kai_td",
       "upperField" : "Chi-Ha Kai TD"
+    }, {
+      "lowerField" : "jp_type_3_ka_chi",
+      "upperField" : "Ka-Chi"
     } ]
   } ]
 }

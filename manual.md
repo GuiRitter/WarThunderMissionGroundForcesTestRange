@@ -19,9 +19,24 @@
 15. Close *War Thunder*.
 16. Run `Java/WarThunderGroundAttackTestRangeGenerator` and choose the `data` folder.
 17. Copy the generated *BLK*s with names ending in `_screenshot` to *War Thunder*'s `UserMissions` folder.
-18. Run *War Thunder* with *Movie* graphic settings and 1366x768 resolution.
+18. Run *War Thunder* with 1280x675 resolution by altering `config.blk`.
 19. For every mission that ends in `_screenshot.blk`.
+    1. Play the mission.
+    2. Take the screenshot with *F12*.
+    3. Check that the tanks are all present in the image without being clipped and that the empty space at the borders are minimal.
+        1. If not, use `screenshot.txt` as a guide to adjust the camera.
+        2. Adjust the spread first.
+            1. Measure the length of the empty space on the left and on the right. Pick the smallest one.
+            2. Measure the length of the empty space on the top and on the bottom. Take the average.
+            3. Adjust the spread until both measures are close.
+        3. Adjust the camera height second.
+            1. Measure the length of the empty space on the top and on the bottom.
+            2. Adjust the camera height until both measures are close.
+        4. Adjust the camera zoom until the empty spaces on the borders are small enough.
+        5. This will impact on the spread and camera height, so more rounds might be needed.
+20. Run *War Thunder* with *Movie* graphic settings and 4096x2160 resolution.
+21. For every mission that ends in `_screenshot.blk`.
     1. Play the mission.
     2. Wait for textures to load completely and for some animations to run.
     3. Take the screenshot with *F12*.
-20. Zip everything and publish it.
+22. Zip everything and publish it.

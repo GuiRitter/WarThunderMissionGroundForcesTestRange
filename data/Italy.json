@@ -28,6 +28,9 @@
       "lowerField" : "it_fiat_6616_cockerill",
       "upperField" : "FIAT AUBL/74"
     }, {
+      "lowerField" : "it_c13_t90",
+      "upperField" : "C13 T90"
+    }, {
       "lowerField" : "it_oto_r3_106sr",
       "upperField" : "OTO R3 T106 FA"
     }, {
@@ -87,11 +90,11 @@
       "lowerField" : "it_c1_ariete_preserie",
       "upperField" : "C1 Ariete (Preserie)"
     }, {
-      "lowerField" : "it_c1_ariete",
-      "upperField" : "C1 Ariete"
-    }, {
       "lowerField" : "it_c1_ariete_pso",
       "upperField" : "C1 Ariete PSO"
+    }, {
+      "lowerField" : "it_c1_ariete",
+      "upperField" : "C1 Ariete"
     } ]
   }, {
     "cellList" : [ {

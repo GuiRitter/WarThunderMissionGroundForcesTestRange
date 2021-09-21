@@ -1005,7 +1005,7 @@ units{
   tankModels{
     name:t="tank_2_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8189.5]]
-    unit_class:t="sw_tgdgb_m40_lv"
+    unit_class:t="sw_pbv_301"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1036,7 +1036,7 @@ units{
   tankModels{
     name:t="tank_2_2"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8189.5]]
-    unit_class:t="sw_l_62_anti_II"
+    unit_class:t="sw_tgdgb_m40_lv"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1067,7 +1067,7 @@ units{
   tankModels{
     name:t="tank_2_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8189.5]]
-    unit_class:t="sw_lvkv_42"
+    unit_class:t="sw_l_62_anti_II"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1098,7 +1098,7 @@ units{
   tankModels{
     name:t="tank_2_4"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8189.5]]
-    unit_class:t="sw_veak_40"
+    unit_class:t="sw_lvkv_42"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1129,7 +1129,7 @@ units{
   tankModels{
     name:t="tank_2_5"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8189.5]]
-    unit_class:t="sw_lvrbv_701"
+    unit_class:t="sw_veak_40"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1160,7 +1160,7 @@ units{
   tankModels{
     name:t="tank_2_6"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8189.5]]
-    unit_class:t="sw_lvkv_90c"
+    unit_class:t="sw_lvrbv_701"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1191,7 +1191,7 @@ units{
   tankModels{
     name:t="tank_2_7"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8189.5]]
-    unit_class:t="sw_asrad_r"
+    unit_class:t="sw_lvkv_90c"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1222,6 +1222,37 @@ units{
   tankModels{
     name:t="tank_2_8"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8189.5]]
+    unit_class:t="sw_asrad_r"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_2_9"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8222, 1, 8189.5]]
     unit_class:t="sw_crotale_ng"
     objLayer:i=1
     closed_waypoints:b=no

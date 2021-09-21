@@ -1,0 +1,21 @@
+no lines only in old
+
+lines only in new:
+
+cn_ztz_99_w
+fr_panhard_ebr_1963
+germ_marder_1a3
+germ_sdkfz_251_22
+it_c13_t90
+jp_halftrack_m16
+jp_m19
+jp_type_3_ka_chi
+jp_type_74_c
+jp_type_87_rcv
+sw_pbv_301
+uk_vickers_mbt_mk_3
+us_m1a1_hc_abrams
+ussr_2s25
+ussr_apc_btr_152
+ussr_bmd_4
+
