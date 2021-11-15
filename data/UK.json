@@ -172,6 +172,9 @@
       "lowerField" : "uk_crusader_aa_mk_1",
       "upperField" : "Crusader AA Mk.I"
     }, {
+      "lowerField" : "uk_ystervark_spaa",
+      "upperField" : "Ystervark"
+    }, {
       "lowerField" : "uk_falcon",
       "upperField" : "Falcon"
     }, {

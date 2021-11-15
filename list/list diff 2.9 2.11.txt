@@ -1,0 +1,22 @@
+no lines only in old
+
+lines only in new:
+
+cn_dodge_m37
+cn_ztl_11
+cn_ztz_59a
+fr_amx_30_roland_ec
+fr_lvt_bofors
+fr_panhard_ebr_1951
+germ_leopard_2_pt14
+germ_wiesel_1_mk20
+germ_wiesel_1_tow
+germ_wiesel_2_adwc
+it_vcc_80_hitfist_30
+sw_pbil_m40
+sw_strf_90b
+uk_ystervark_spaa
+us_t26e5
+ussr_2s25m
+ussr_pt_76_57
+

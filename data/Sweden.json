@@ -25,8 +25,11 @@
       "lowerField" : "sw_ikv_91_105",
       "upperField" : "Infanterikanonvagn 91-105"
     }, {
+      "lowerField" : "sw_strf_90b",
+      "upperField" : "Stridsfordon 9040B"
+    }, {
       "lowerField" : "sw_strf_90c",
-      "upperField" : "Stridsfordon 90C"
+      "upperField" : "Stridsfordon 9040C"
     }, {
       "lowerField" : "sw_cv_90120",
       "upperField" : "Combat Vehicle 90120"
@@ -138,6 +141,9 @@
       "lowerField" : "sw_strv_m39",
       "upperField" : "Stridsvagn m/39"
     }, {
+      "lowerField" : "sw_strv_m41_s1",
+      "upperField" : "Stridsvagn m/41 S-I"
+    }, {
       "lowerField" : "sw_sav_fm48",
       "upperField" : "Stormartillerivagn 20.11.48"
     }, {
@@ -155,8 +161,8 @@
       "lowerField" : "sw_strv_m39_td",
       "upperField" : "Strv m/39 TD"
     }, {
-      "lowerField" : "sw_strv_m41_s1",
-      "upperField" : "Stridsvagn m/41 S-I"
+      "lowerField" : "sw_pbil_m40",
+      "upperField" : "Pbil m/40"
     }, {
       "lowerField" : "sw_ikv_73",
       "upperField" : "Ikv 73"

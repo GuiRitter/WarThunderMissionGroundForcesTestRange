@@ -159,6 +159,9 @@
     }, {
       "lowerField" : "it_dardo_vcc",
       "upperField" : "Veicolo Corazzato da Combattimento DARDO"
+    }, {
+      "lowerField" : "it_vcc_80_hitfist_30",
+      "upperField" : "VCC-80 (HITFIST 30)"
     } ]
   }, {
     "cellList" : [ {

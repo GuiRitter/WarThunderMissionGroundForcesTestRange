@@ -16,6 +16,9 @@
       "lowerField" : "fr_amx_13_fl_11",
       "upperField" : "AMX-13 (FL11)"
     }, {
+      "lowerField" : "fr_panhard_ebr_1951",
+      "upperField" : "Panhard E.B.R (1951)"
+    }, {
       "lowerField" : "fr_amx_13_75",
       "upperField" : "AMX-13"
     }, {
@@ -170,6 +173,9 @@
       "lowerField" : "fr_b1_ter",
       "upperField" : "Char de bataille B1 ter"
     }, {
+      "lowerField" : "fr_amx_13_chaffee",
+      "upperField" : "AMX-13-M24"
+    }, {
       "lowerField" : "fr_m4a1_sherman_fl_10",
       "upperField" : "Sherman M4A1 tourelle FL10"
     }, {
@@ -184,8 +190,8 @@
     } ]
   }, {
     "cellList" : [ {
-      "lowerField" : "fr_amx_13_chaffee",
-      "upperField" : "AMX-13-M24"
+      "lowerField" : "fr_lvt_bofors",
+      "upperField" : "LVT-4/40"
     }, {
       "lowerField" : "fr_lorraine_155",
       "upperField" : "Lorraine 155 Mle.50"
@@ -201,6 +207,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "fr_amx_30_roland_ec",
+      "upperField" : "fr_amx_30_roland_ec"
+    }, {
       "lowerField" : "fr_panhard_ebr_1954",
       "upperField" : "E.B.R. (1954)"
     }, {

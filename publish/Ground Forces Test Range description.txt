@@ -1,0 +1,107 @@
+Ground Forces Test Range. Player controlled tank against all player controllable ground vehicles as targets. The initial description is up to date with 1.51, but see the version notes for the rest.
+
+<livecut>
+
+Hi everyone.
+
+Included in the ".zip" file are one mission for each nation with ground forces currently. In each mission, I've laid in a matrix all ground vehicles found in the tech tree, including the non limited premiums. They don't shoot you. You control a starter tank from each nation. I tried to add all possible shells and artillery strike when possible.
+
+The vehicles are more spaced than in the screenshot. I've used the Lancaster's Cookies to determine a distance that would avoid a light vehicle from being destroyed by being close to another light vehicle being bombed. I've set the distance to 200 m (100 m radius). Some of the vehicle's names are bugged, but this must be on War Thunder's end.
+
+I tried to make a mission with all three tech trees at once (when it was only USSR, Germany and US). My computer lagged on minimum settings. Not recommended.
+
+I've also included a trigger for easier testing. It reloads your tank every second.
+
+You need to have my Flatlands map installed (http://live.warthunder.com/post/204968/en/).
+
+You can use this mission and change things however you want, but please be kind and mention me if you do. If you find that there's a vehicle which is different from the vehicle that occupies that position in the tech tree, please inform me and I'll fix it.
+
+Good testing!
+
+PS.: I actually had this ready a few days back and only now I've learned that you can play as ground forces. If you want to edit this and enable that before I do, feel free.
+
+PPS.: I don't know why, but it's crashing for ground forces after a few seconds. I'll think on something.
+
+After 1.53: Since the E-100 is a limited time vehicle, I don't know it's position in the tree, so I placed it before the Maus, as they were developed at the same time, have the same turret and it's smaller than the Maus. There is no UK plane with 100 lb bombs, so I used the Swordfish with 250 lb bombs. Previously, I wanted the Il-28's 3 ton bomb to check if the spacing is good, but now I'm (slowly) working on the Pe-8 and it's 5 ton bomb.
+
+After 1.55: Spacing increased due to tests with FEB-5000. If someone tells me where the RBT-5 goes, I'll add it.
+
+After 1.59: Something changed regarding UK's premiums, including one vehicle that was present in the 1.57 version of this mission but no longer appears in the game. I've left it in a position I feel is rational.
+
+After 1.61: I've decided to include all the vehicles that can be selected in the CDK. I've placed the vehicles that are not in the Tech Trees and those I don't know where they go at an extra column in the right, in alphabetical order. Some vehicles only appear in the Tech Tree when you own them. I'll add them to their appropriate places once I learn where it is. If you can contribute, please do so. I've just kept the E-100 at the same place than before because I forgot about moving it. In the next update, I'll move it to the extra column, unless I learn where it goes before that.
+
+After 1.65: Banzai! Japan is finally here! Also, Ansel screenshots (I intend to keep them up to date now, as the automation tools I built are about as automated as it gets)!
+
+After 1.67: Couldn't update this in time. Thanks, Master's degree!
+
+After 1.69: My flatlands map have flooded for some reason. I'll be a long time before I can take a look into it. Doesn't keep planes from landing, though.
+
+After 1.71: Had to change some things in the Ground Forces Attack Range mission, so to standardize I made these changes here too.
+
+After 1.73: Italy added. For its screenshot, I used the same algorithm as for the other ones. Let's say it resulted in a degenerate case... JPz 4-5 changed position in the tree. Two Soviet/Russian tanks were added with prefix "cn_", so I added them to USSR's tree.
+
+After 1.75: France added. The reserve I selected is capable of destroying every French tank. The hardest ones are the Char B1 bis and ter. Their weakspot are in a cupola in the turret. Another tank with prefix "cn_" was added, but it crashes the game so I left it out. Changed Italy's plane because I now unlocked the one I wanted to use.
+
+After 1.77: M1 Abrams! Not that I liked it... Other than that, I expected to be able to release this sooner, but at least now the sun is back to the zenith (not pictured) and the screenshots are better, in my opinion. Also, just now I realized it's been a few versions since I forgot to update a version number in this description, so I just removed it now.
+
+After 1.83: Did not think that it would be possible to have even less free time than what I had, but here I am, sorry. Also, my CDK stopped working and Gaijin took quite a while to publish a new version, so that also left me a little less willing. Now that Italian tanks are coming in 1.85, I made some effort to get this up to date before that happens. And then, I'll try to not take so long to publish version 1.85 of this mission. Also, I finally changed my mind and included all files inside a folder inside the ZIP file, so you can safely "Extract here" and not have a mess. If you knew what you were doing before, it will take a few extra steps now, but safer is better at the end of the day.
+
+After 1.85: Italy added, this time in full. Actually didn't took that long to release it this time!
+
+After 1.87: Now that the tech trees are listed in full in the wiki, I've fixed the position of several vehicles.
+
+After 1.89: Sorry for the delay. I actually updated this quite quickly, but taking the pictures took a little longer...
+
+After 1.91: Sorry for the delay. I was in vacation but, despite the increase in free time, I had higher priorities to tend to. China added, but it's using USSR's plane because it's still in closed beta. Also, changed to use a cutscene in order to take the pictures. Using Ansel with FOV 10 was way too frustrating and exhausting because it lags and the minimal mouse movement makes the camera move by way too much. On the downside, resolution is lower. On the upside, taking pictures is now way faster.
+
+After 1.93: What!? Another update already? C'mon Gaijin, think of my free time... Anyway, as per tradition, all new tanks can be taken out by the reserves. The AMX-30 ACRA was a tough nut to crack, but I managed when I realized the existence of an 8 mm piece of armor in a sloped part of the hull roof, behind the turret. Instant ammo rack. Also, China aviation is now open so I replaced the player controlled plane by the earliest Chinese bomber. 
+
+After 1.95: Same feelings as last time. However, since Gaijin decided to Christmas rush an update, so I have Christmas rushed a new version of this user mission.
+
+After 1.97: Sweden fully added.
+
+I added the Combat Space Suits because, in the CDK, they are also "tankModels". Since they don't have a faction prefix like the others, I added a new "other" faction, as I believe there will be others in future April Fools events.
+
+Sorry for the screenshots, but I don't know for what reason War Thunder started crashing when I was adjusting the camera position. I only managed to stop the crashing by setting the graphics quality to Medium @ 1920×1080. High @ 1280×720 was enough to cause it to crash. I hope that the patches that will be released until the next major update will fix this.
+
+After 1.99: Sorry for the delay. I've been having even less free time during the pandemic, instead of more as a lot of people are saying.
+
+Several vehicles not available for research have been removed from the game, mostly vehicles from previous April Fools' events, such as the walkers, the inflatable Sherman, the Combat Space Suits (consequently, the whole "other" "faction"), etc.
+
+Also, several vehicles changed position within the tree, so I fixed some but I don't know whether there are more to fix. Next time maybe I'll take a better look into it.
+
+Also also, some vehicles that were not included have been included. The reason is because their names have been added before their models. When I tried to add them to this mission, the mission crashed, so I added these names to an "ignore list". But their models eventually got implemented. I'll have to do something to check this "ignore list" on every update.
+
+Regarding the issues I had with screenshots from last time, I managed to take the screenshots with graphics quality at Movie again, then my PC crashed after the very last one...
+
+After 1.99.1.26: Now brought to you in a more timely manner, courtesy of the murder of sleep hours. Besides the announced tanks, several hidden tanks were also added. Most notably, two AT guns that behave exactly like tanks. That is, they have a damage model for their gun and crew and can be destroyed just like a proper tank. Also fixed some positions in a couple of trees.
+
+After 1.101: Gaijin must have planned this update according to Brazilian's Independence Day to deny me the extra free time... Despite this, I couldn't finish it last week. Other than that, nothing interesting to comment on this one.
+
+After 2.1: Was a reset necessary? Couldn't they continue with 1.103? Anyway, because of elections in Brazil, Black Friday and, as always, the extra time that the pandemic makes me lose, I couldn't release this version in a timely manner. But better late than never. At least now the screenshots have been taken in 4K using an Intel NUC8i7HNK! Some more positions fixed.
+
+Also, yes, I know yet another War Thunder version has been released and I'm already 1 version too late. But this was almost completed when the new version came so I decided to finish it and release it. I'll finally have vacations after Christmas so I'll release the next version then.
+
+After 2.3: Here it is.
+
+After 2.5: Wow, that's a lot of vehicles to add at once! I sacrificed 2 half nights of sleep to get this done in a more timely manner. I also reorganized some trees a bit since some tanks have been moved around.
+
+After 2.7: this update caught me in a really bad time. On top of that, I had a power outage when I was working on it. That's why it was delayed this much.
+
+This update removed several vehicles that weren't normally part of the tech trees. However, it added another that doesn't belong to any, just like the Combat Space Suits of the previous April's Fools: space_rocket_launcher. I have no idea what it is. I tried to add it to a mission but the  vehicle doesn't load. I get an error message saying: sdi_hydra pack hasn't been downloaded yet. I wonder.
+
+All new additions can be destroyed by each tree starters, as usual, but a few stood out. The Japanese M47 could only be penned by the side, on those protusions on the side of the turret.
+
+As I was taking the screenshots I realized some tanks were being rendered with a smaller LOD (level of detail). Maybe my computer can't cope with rendering all tanks at the highest LOD and in 4K. I've lost enough time already so I'll fix it in the next version. I'll probably have to use a lower resolution, though.
+
+After 2.9: I actually had enough free time to do this quicker this time, but I failed to plan myself properly so it was delayed.
+
+Another special vehicle was added, an unarmed BTR 152. Also, I've updated some positions in the tech trees.
+
+The screenshots are still containing vehicles at lower LODs. I forgot I had already decided to lower the resolution for the screenshots. Will do that on the next one, if I remember.
+
+After 2.11: Late again. This time I wasn't in the mood to do it sooner. You can see a vehicle that was used in this year's Halloween event in China's tech tree. Screenshots now taken at lower resolutions. Still, some vehicles are being rendered at lower LODs. I don't know what to do about it.
+
+Also, something happened with the description for the Ground Forces mission which overwrote it with the description for the Ground Attack mission. I have no idea what I wrote previously so I wrote something new.
+
+#GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

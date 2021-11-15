@@ -467,7 +467,7 @@ units{
   tankModels{
     name:t="tank_0_5"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-400, 0.01, -1400.0]]
-    unit_class:t="fr_amx_13_75"
+    unit_class:t="fr_panhard_ebr_1951"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -498,7 +498,7 @@ units{
   tankModels{
     name:t="tank_0_6"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [0, 0.01, -1400.0]]
-    unit_class:t="fr_bat_chat_25t"
+    unit_class:t="fr_amx_13_75"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -529,7 +529,7 @@ units{
   tankModels{
     name:t="tank_0_7"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [400, 0.01, -1400.0]]
-    unit_class:t="fr_amx_13_90"
+    unit_class:t="fr_bat_chat_25t"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -560,7 +560,7 @@ units{
   tankModels{
     name:t="tank_0_8"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [800, 0.01, -1400.0]]
-    unit_class:t="fr_amx_13_hot"
+    unit_class:t="fr_amx_13_90"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -591,6 +591,37 @@ units{
   tankModels{
     name:t="tank_0_9"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [1200, 0.01, -1400.0]]
+    unit_class:t="fr_amx_13_hot"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_0_10"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [1600, 0.01, -1400.0]]
     unit_class:t="fr_mars_15"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1955,7 +1986,7 @@ units{
   tankModels{
     name:t="tank_5_2"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-1600, 0.01, 600.0]]
-    unit_class:t="fr_m4a1_sherman_fl_10"
+    unit_class:t="fr_amx_13_chaffee"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1986,7 +2017,7 @@ units{
   tankModels{
     name:t="tank_5_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-1200, 0.01, 600.0]]
-    unit_class:t="fr_amx_13_75_ss11"
+    unit_class:t="fr_m4a1_sherman_fl_10"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2017,7 +2048,7 @@ units{
   tankModels{
     name:t="tank_5_4"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-800, 0.01, 600.0]]
-    unit_class:t="fr_amx_50_surblinde"
+    unit_class:t="fr_amx_13_75_ss11"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2048,6 +2079,37 @@ units{
   tankModels{
     name:t="tank_5_5"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-400, 0.01, 600.0]]
+    unit_class:t="fr_amx_50_surblinde"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_5_6"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [0, 0.01, 600.0]]
     unit_class:t="fr_amx_30_super"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2079,7 +2141,7 @@ units{
   tankModels{
     name:t="tank_6_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-2400, 0.01, 1000.0]]
-    unit_class:t="fr_amx_13_chaffee"
+    unit_class:t="fr_lvt_bofors"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2234,7 +2296,7 @@ units{
   tankModels{
     name:t="tank_7_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-2400, 0.01, 1400.0]]
-    unit_class:t="fr_panhard_ebr_1954"
+    unit_class:t="fr_amx_30_roland_ec"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2265,6 +2327,37 @@ units{
   tankModels{
     name:t="tank_7_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-2000, 0.01, 1400.0]]
+    unit_class:t="fr_panhard_ebr_1954"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_7_2"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-1600, 0.01, 1400.0]]
     unit_class:t="fr_panhard_ebr_1963"
     objLayer:i=1
     closed_waypoints:b=no

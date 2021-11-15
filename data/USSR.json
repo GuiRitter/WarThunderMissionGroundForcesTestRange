@@ -177,7 +177,10 @@
       "upperField" : "Object 685"
     }, {
       "lowerField" : "ussr_2s25",
-      "upperField" : "2S25 'Sprut-SD'"
+      "upperField" : "2S25 \"Sprut-SD\""
+    }, {
+      "lowerField" : "ussr_2s25m",
+      "upperField" : "2S25M \"Sprut-SDM1\""
     } ]
   }, {
     "cellList" : [ {
@@ -405,6 +408,9 @@
     }, {
       "lowerField" : "ussr_type_62",
       "upperField" : "Type-62"
+    }, {
+      "lowerField" : "ussr_pt_76_57",
+      "upperField" : "PT-76-57"
     }, {
       "lowerField" : "ussr_t_10a",
       "upperField" : "T-10A"

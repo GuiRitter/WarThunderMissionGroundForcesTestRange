@@ -196,8 +196,14 @@
       "lowerField" : "germ_flakpanzer_iv_kugelblitz",
       "upperField" : "Flakpanzer IV Kugelblitz"
     }, {
+      "lowerField" : "germ_wiesel_1_mk20",
+      "upperField" : "Waffenträger Wiesel 1A4 MK"
+    }, {
       "lowerField" : "germ_flakpz_I_Gepard",
       "upperField" : "Flakpanzer I Gepard"
+    }, {
+      "lowerField" : "germ_wiesel_2_adwc",
+      "upperField" : "Leichtes Flugabwehrsystem Ozelot"
     }, {
       "lowerField" : "germ_flarakpz_1",
       "upperField" : "FlaRakPz 1 Roland 2"
@@ -257,6 +263,9 @@
     }, {
       "lowerField" : "germ_sk105_a2",
       "upperField" : "JaPz.K A2"
+    }, {
+      "lowerField" : "germ_wiesel_1_tow",
+      "upperField" : "Waffenträger Wiesel 1A2 TOW"
     } ]
   }, {
     "cellList" : [ {
@@ -384,6 +393,9 @@
     }, {
       "lowerField" : "germ_leopard_c2_mexas",
       "upperField" : "C2A1"
+    }, {
+      "lowerField" : "germ_leopard_2_pt14",
+      "upperField" : "PT-16/T14 mod."
     } ]
   }, {
     "cellList" : [ {
