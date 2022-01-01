@@ -63,6 +63,9 @@
     }, {
       "lowerField" : "uk_challenger_2_dorchester",
       "upperField" : "Tank, Combat, 120-mm Gun, Challenger 2 (Dorchester Level 2F)"
+    }, {
+      "lowerField" : "uk_challenger_2_tes",
+      "upperField" : "Challenger 2 TES (2008)"
     } ]
   }, {
     "cellList" : [ {
@@ -296,6 +299,9 @@
     "cellList" : [ {
       "lowerField" : "uk_challenger_II_yt_cup_2019",
       "upperField" : "🏆Challenger 2"
+    }, {
+      "lowerField" : "uk_ac1_sentinel",
+      "upperField" : "A.C.I"
     } ]
   } ]
 }

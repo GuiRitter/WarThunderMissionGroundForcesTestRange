@@ -91,7 +91,10 @@
       "upperField" : "Type 90"
     }, {
       "lowerField" : "jp_type_90b",
-      "upperField" : ""
+      "upperField" : "Type 90 (B)"
+    }, {
+      "lowerField" : "jp_type_10",
+      "upperField" : "Type 10"
     } ]
   }, {
     "cellList" : [ {

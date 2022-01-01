@@ -1,0 +1,11 @@
+{
+  "columnList" : [ {
+    "cellList" : [ {
+      "lowerField" : "il_m_51_w",
+      "upperField" : "M-51"
+    }, {
+      "lowerField" : "il_merkava_mk_2d",
+      "upperField" : "Merkava Mk.2D"
+    } ]
+  } ]
+}

@@ -1,0 +1,20 @@
+lines only in old:
+
+fr_amx_30_roland_ec
+
+lines only in new:
+
+cn_m_41d
+fr_leclerc_sxxi
+germ_marder_df_105
+il_m_51_w
+il_merkava_mk_2d
+it_vcc_80_hitfist_60
+jp_type_10
+sw_bkan_1c
+uk_ac1_sentinel
+uk_challenger_2_tes
+us_ags_teledyne
+us_xm_975_roland
+ussr_2s3m
+

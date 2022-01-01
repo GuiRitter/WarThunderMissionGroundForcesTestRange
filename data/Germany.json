@@ -255,6 +255,9 @@
       "lowerField" : "germ_panzerjager_tiger",
       "upperField" : "Jagdpanzer VI Jagdtiger"
     }, {
+      "lowerField" : "germ_marder_df_105",
+      "upperField" : "DF105"
+    }, {
       "lowerField" : "germ_raketenjagdpanzer_2",
       "upperField" : "Raketenjagdpanzer 2"
     }, {

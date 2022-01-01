@@ -175,6 +175,9 @@
       "lowerField" : "us_m247",
       "upperField" : "Gun, Air Defense Artillery, Self-Propelled, 40-mm, M247"
     }, {
+      "lowerField" : "us_xm_975_roland",
+      "upperField" : "XM975"
+    }, {
       "lowerField" : "us_adats_bradley",
       "upperField" : "ADATS"
     } ]
@@ -324,6 +327,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "us_ags_teledyne",
+      "upperField" : ""
+    }, {
       "lowerField" : "us_amx_13_75",
       "upperField" : "AMX-13"
     }, {

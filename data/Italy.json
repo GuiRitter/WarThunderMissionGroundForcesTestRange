@@ -35,13 +35,16 @@
       "upperField" : "OTO R3 T106 FA"
     }, {
       "lowerField" : "it_b1_centauro",
-      "upperField" : "Blindo Armata B1 Centauro"
+      "upperField" : "Blindo pesante Centauro, Preserie"
     }, {
       "lowerField" : "it_b1_centauro_romor",
-      "upperField" : "Blindo Armata B1 Centauro ROMOR"
+      "upperField" : "Blindo pesante Centauro, Serie 1, ROMOR"
+    }, {
+      "lowerField" : "it_vcc_80_hitfist_60",
+      "upperField" : "VCC-80 (HITFIST 60/70)"
     }, {
       "lowerField" : "it_centauro_mgs_120",
-      "upperField" : "Centauro MGS"
+      "upperField" : "Blindo Pesante Centauro, 120 mm"
     } ]
   }, {
     "cellList" : [ {
@@ -168,6 +171,12 @@
       "lowerField" : "it_m13_40_serie_2",
       "upperField" : "M13/40 (II)"
     }, {
+      "lowerField" : "it_toldi_II_a",
+      "upperField" : "Toldi IIA"
+    }, {
+      "lowerField" : "it_sahariano",
+      "upperField" : "Carro Armato M Celere Sahariano"
+    }, {
       "lowerField" : "it_m14_41_47_40",
       "upperField" : "Fiat-Ansaldo M14/41 (47/40)"
     }, {
@@ -186,22 +195,16 @@
       "lowerField" : "it_m60a1_ariete",
       "upperField" : "M60A1 132ª Divisione corazzata 'Ariete'"
     }, {
-      "lowerField" : "it_aubl_74_60_70m",
-      "upperField" : "AUBL/74 HVG"
-    }, {
       "lowerField" : "it_of_40_mtca",
       "upperField" : "Carro Armato OTO Melara OF-40 (MTCA)"
     } ]
   }, {
     "cellList" : [ {
-      "lowerField" : "it_toldi_II_a",
-      "upperField" : "Toldi IIA"
-    }, {
-      "lowerField" : "it_sahariano",
-      "upperField" : "Carro Armato M Celere Sahariano"
-    }, {
       "lowerField" : "it_p_26_40",
       "upperField" : "Fiat-Ansaldo P40 Gruppo Corazzato 'Leoncello'"
+    }, {
+      "lowerField" : "it_aubl_74_60_70m",
+      "upperField" : "AUBL/74 HVG"
     } ]
   } ]
 }

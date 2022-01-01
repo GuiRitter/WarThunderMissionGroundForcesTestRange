@@ -74,6 +74,9 @@
     }, {
       "lowerField" : "fr_leclerc_s2",
       "upperField" : "Leclerc Serie 2"
+    }, {
+      "lowerField" : "fr_leclerc_sxxi",
+      "upperField" : "Leclerc SXXI"
     } ]
   }, {
     "cellList" : [ {
@@ -199,22 +202,17 @@
       "lowerField" : "fr_pzkpfw_V_panther_dauphine",
       "upperField" : "Panther «Dauphine»"
     }, {
-      "lowerField" : "fr_somua_sm",
-      "upperField" : "Somua SM"
-    }, {
-      "lowerField" : "fr_amx_30",
-      "upperField" : "AMX-30"
-    } ]
-  }, {
-    "cellList" : [ {
-      "lowerField" : "fr_amx_30_roland_ec",
-      "upperField" : "fr_amx_30_roland_ec"
-    }, {
       "lowerField" : "fr_panhard_ebr_1954",
       "upperField" : "E.B.R. (1954)"
     }, {
       "lowerField" : "fr_panhard_ebr_1963",
       "upperField" : "E.B.R. (1963)"
+    }, {
+      "lowerField" : "fr_somua_sm",
+      "upperField" : "Somua SM"
+    }, {
+      "lowerField" : "fr_amx_30",
+      "upperField" : "AMX-30"
     } ]
   } ]
 }

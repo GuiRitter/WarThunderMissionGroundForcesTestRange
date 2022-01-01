@@ -127,6 +127,9 @@
       "lowerField" : "sw_pvkv_m43_1963",
       "upperField" : "Pansarvärnskanonvagn m/43 (1963)"
     }, {
+      "lowerField" : "sw_bkan_1c",
+      "upperField" : "Bandkanon 1C"
+    }, {
       "lowerField" : "sw_udes_33",
       "upperField" : "Underlagsgrupp Direkt Eld Stridsfordon 33"
     }, {

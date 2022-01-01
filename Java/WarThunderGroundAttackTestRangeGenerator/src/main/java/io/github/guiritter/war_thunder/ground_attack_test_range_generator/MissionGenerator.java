@@ -33,7 +33,7 @@ public final class MissionGenerator {
 			inputFolder = chooser.getSelectedFile();
 		}
 		final String forces[] = {"air", "ground"};
-		final String factions[] = {"USSR", "Germany", "US", "UK", "Japan", "Italy", "France", "China", "Sweden"};
+		final String factions[] = {"USSR", "Germany", "US", "UK", "Japan", "Italy", "France", "China", "Sweden", "Israel"};
 		final LinkedList<String> lines = new LinkedList<>();
 		Cell fields[];
 		int width = 0;

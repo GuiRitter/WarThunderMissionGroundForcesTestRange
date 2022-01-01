@@ -220,6 +220,9 @@
       "lowerField" : "ussr_su_100_1945",
       "upperField" : "SU-100"
     }, {
+      "lowerField" : "ussr_2s3m",
+      "upperField" : "2S3M"
+    }, {
       "lowerField" : "ussr_su_122_54",
       "upperField" : "SU-122-54"
     }, {
