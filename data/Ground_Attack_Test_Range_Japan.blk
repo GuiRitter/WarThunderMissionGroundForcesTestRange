@@ -682,7 +682,7 @@ units{
   tankModels{
     name:t="tank_1_2"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-3200, 0.01, -600.0]]
-    unit_class:t="jp_type_97_kai"
+    unit_class:t="jp_type_2_ho_i"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -713,7 +713,7 @@ units{
   tankModels{
     name:t="tank_1_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-2800, 0.01, -600.0]]
-    unit_class:t="jp_type_2_ho_i"
+    unit_class:t="jp_type_97_kai"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""

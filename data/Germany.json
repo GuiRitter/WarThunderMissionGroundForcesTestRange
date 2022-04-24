@@ -46,11 +46,14 @@
       "lowerField" : "germ_marder_1a3",
       "upperField" : "Marder 1A3"
     }, {
-      "lowerField" : "germ_begleitpanzer_57",
-      "upperField" : "Begleitpanzer 57"
+      "lowerField" : "germ_schutzenpanzer_puma",
+      "upperField" : "Schützenpanzer PUMA"
     }, {
       "lowerField" : "germ_thyssen_henschel_tam",
       "upperField" : "Tanque Argentino Mediano"
+    }, {
+      "lowerField" : "germ_begleitpanzer_57",
+      "upperField" : "Begleitpanzer 57"
     }, {
       "lowerField" : "germ_radpanzer_90",
       "upperField" : "Radkampfwagen 90"
@@ -148,9 +151,6 @@
     }, {
       "lowerField" : "germ_leopard_i",
       "upperField" : "Leopard I"
-    }, {
-      "lowerField" : "germ_thyssen_henschel_tam_2ip",
-      "upperField" : "Tanque Argentino Mediano 2IP"
     }, {
       "lowerField" : "germ_leopard_I_a1",
       "upperField" : "Leopard A1A1"
@@ -323,6 +323,12 @@
       "lowerField" : "germ_mkpz_m47",
       "upperField" : "mKPz M47"
     }, {
+      "lowerField" : "germ_erprobungstrager_3_achs_turm",
+      "upperField" : "Erprobungsträger mit 3-achs-stabilisiertem Turm"
+    }, {
+      "lowerField" : "germ_thyssen_henschel_tam_2ip",
+      "upperField" : "Tanque Argentino Mediano 2IP"
+    }, {
       "lowerField" : "germ_leopard_a1a1_120",
       "upperField" : "Leopard A1A1 (L/44)"
     }, {
@@ -405,6 +411,9 @@
       "lowerField" : "germ_apc_m113",
       "upperField" : "M113"
     }, {
+      "lowerField" : "germ_launcher_vertical",
+      "upperField" : ""
+    }, {
       "lowerField" : "germ_leopard_2a5_yt_cup_2019",
       "upperField" : "🏆Leopard 2A5"
     }, {
@@ -413,6 +422,9 @@
     }, {
       "lowerField" : "germ_pzkpfw_35t_romania_mare",
       "upperField" : "Pz.35(t) RM"
+    }, {
+      "lowerField" : "germ_pzkpfw_II_ausf_C_td",
+      "upperField" : ""
     } ]
   } ]
 }

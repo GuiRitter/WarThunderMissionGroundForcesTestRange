@@ -49,11 +49,14 @@
       "lowerField" : "ussr_t_54_1951",
       "upperField" : "T-54 mod. 1951"
     }, {
-      "lowerField" : "ussr_t_62",
-      "upperField" : "T-62"
-    }, {
       "lowerField" : "ussr_t_55a",
       "upperField" : "T-55A"
+    }, {
+      "lowerField" : "ussr_t_55_amd_1",
+      "upperField" : "T-55AMD-1"
+    }, {
+      "lowerField" : "ussr_t_62",
+      "upperField" : "T-62"
     }, {
       "lowerField" : "ussr_t_62m1",
       "upperField" : "T-62M-1"

@@ -39,11 +39,11 @@
       "lowerField" : "jp_type_97_chi_ha",
       "upperField" : "Type 97 Chi-Ha"
     }, {
-      "lowerField" : "jp_type_97_kai",
-      "upperField" : "Type 97 Chi-Ha Kai"
-    }, {
       "lowerField" : "jp_type_2_ho_i",
       "upperField" : "Type 2 Ho-I"
+    }, {
+      "lowerField" : "jp_type_97_kai",
+      "upperField" : "Type 97 Chi-Ha Kai"
     }, {
       "lowerField" : "jp_type_1_chi_he",
       "upperField" : "Type 1 Chi-He"

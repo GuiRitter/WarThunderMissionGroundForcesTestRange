@@ -156,6 +156,9 @@
       "lowerField" : "fr_lorraine_100",
       "upperField" : "Canon d'assault Lorraine de 100mm"
     }, {
+      "lowerField" : "fr_amx_elc_bis",
+      "upperField" : "AMX ELC bis (1961)"
+    }, {
       "lowerField" : "fr_amx_50_foch",
       "upperField" : "Canon automoteur AMX-50 Foch"
     }, {

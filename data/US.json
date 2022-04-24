@@ -140,11 +140,11 @@
       "lowerField" : "us_m1_abrams",
       "upperField" : "Tank, Combat, Full Tracked, 105-mm Gun M1"
     }, {
-      "lowerField" : "us_m1_ip_abrams",
-      "upperField" : "Tank, Combat, Full Tracked, 105-mm Gun IPM1"
-    }, {
       "lowerField" : "us_m1a1_abrams",
       "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A1"
+    }, {
+      "lowerField" : "us_m1_ip_abrams",
+      "upperField" : "Tank, Combat, Full Tracked, 105-mm Gun IPM1"
     }, {
       "lowerField" : "us_m1a1_hc_abrams",
       "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC"
@@ -174,6 +174,9 @@
     }, {
       "lowerField" : "us_m247",
       "upperField" : "Gun, Air Defense Artillery, Self-Propelled, 40-mm, M247"
+    }, {
+      "lowerField" : "us_lav_ad",
+      "upperField" : "LAV-AD"
     }, {
       "lowerField" : "us_xm_975_roland",
       "upperField" : "XM975"
@@ -348,11 +351,17 @@
       "lowerField" : "us_m1a1_abrams_yt_cup_2019",
       "upperField" : "🏆M1A1"
     }, {
+      "lowerField" : "us_m26_pershing_tutorial",
+      "upperField" : ""
+    }, {
       "lowerField" : "us_m4a2_1944",
       "upperField" : "M4A2 (1944)"
     }, {
       "lowerField" : "us_m4a2_1944_germ",
       "upperField" : "✙M4 748 (a)"
+    }, {
+      "lowerField" : "us_m4a2_76w_sherman_tutorial",
+      "upperField" : ""
     }, {
       "lowerField" : "us_m551_football",
       "upperField" : ""

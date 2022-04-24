@@ -66,6 +66,9 @@
     }, {
       "lowerField" : "uk_challenger_2_tes",
       "upperField" : "Challenger 2 TES (2008)"
+    }, {
+      "lowerField" : "uk_challenger_2_bn",
+      "upperField" : "Challenger 2, Black Night"
     } ]
   }, {
     "cellList" : [ {
@@ -169,11 +172,11 @@
       "lowerField" : "uk_armored_car_mk_2_aa",
       "upperField" : "Armored Car Mk.II AA"
     }, {
-      "lowerField" : "uk_crusader_aa_mk_2",
-      "upperField" : "Crusader AA Mk.II"
-    }, {
       "lowerField" : "uk_crusader_aa_mk_1",
       "upperField" : "Crusader AA Mk.I"
+    }, {
+      "lowerField" : "uk_crusader_aa_mk_2",
+      "upperField" : "Crusader AA Mk.II"
     }, {
       "lowerField" : "uk_ystervark_spaa",
       "upperField" : "Ystervark"
@@ -299,6 +302,9 @@
     "cellList" : [ {
       "lowerField" : "uk_challenger_II_yt_cup_2019",
       "upperField" : "🏆Challenger 2"
+    }, {
+      "lowerField" : "uk_crusader_aa_mk_2_tutorial",
+      "upperField" : ""
     }, {
       "lowerField" : "uk_ac1_sentinel",
       "upperField" : "A.C.I"

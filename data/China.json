@@ -36,9 +36,6 @@
     }, {
       "lowerField" : "cn_m60a3_tts",
       "upperField" : "M60A3 TTS"
-    }, {
-      "lowerField" : "cn_cm11",
-      "upperField" : "CM11"
     } ]
   }, {
     "cellList" : [ {
@@ -77,6 +74,9 @@
     }, {
       "lowerField" : "cn_type_59d",
       "upperField" : "ZTZ59D1"
+    }, {
+      "lowerField" : "cn_ztz_88a",
+      "upperField" : "ZTZ88A"
     }, {
       "lowerField" : "cn_ztz_96",
       "upperField" : "ZTZ96"
@@ -148,9 +148,6 @@
       "lowerField" : "cn_ptl_02",
       "upperField" : "PTL02"
     }, {
-      "lowerField" : "cn_cm_25",
-      "upperField" : "CM25"
-    }, {
       "lowerField" : "cn_ptz_89",
       "upperField" : "PTZ89"
     }, {
@@ -179,9 +176,18 @@
     }, {
       "lowerField" : "cn_type_69_2g",
       "upperField" : "Medium Tank T-69 II G"
+    }, {
+      "lowerField" : "cn_ztz_96a_prot",
+      "upperField" : "ZTZ96A, Prototype"
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "cn_m3a3_stuart_1st_ptg",
+      "upperField" : "M3A3 (1st PTG)"
+    }, {
+      "lowerField" : "cn_type_64",
+      "upperField" : "M64"
+    }, {
       "lowerField" : "cn_t_62",
       "upperField" : "T-62 Nº545"
     } ]

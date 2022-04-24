@@ -1,6 +1,72 @@
 {
   "columnList" : [ {
     "cellList" : [ {
+      "lowerField" : "il_m_51",
+      "upperField" : "M-51"
+    }, {
+      "lowerField" : "il_m48a1_patton_III",
+      "upperField" : "Magach 1"
+    }, {
+      "lowerField" : "il_magach_2",
+      "upperField" : "Magach 2"
+    }, {
+      "lowerField" : "il_magach_6",
+      "upperField" : "Magach 6"
+    }, {
+      "lowerField" : "il_magach_6a",
+      "upperField" : "Magach 6A"
+    }, {
+      "lowerField" : "il_magach_6b",
+      "upperField" : "Magach 6B"
+    }, {
+      "lowerField" : "il_magach_6b_gal_batash",
+      "upperField" : "Magach 6B Gal Batash"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "il_amx_13_75",
+      "upperField" : "AMX-13"
+    }, {
+      "lowerField" : "il_aml_90",
+      "upperField" : "AML-90"
+    }, {
+      "lowerField" : "il_centurion_mk_5_shot",
+      "upperField" : "Sho't"
+    }, {
+      "lowerField" : "il_tiran_4_sh",
+      "upperField" : "Tiran 4S"
+    }, {
+      "lowerField" : "il_centurion_shot_kal_alef",
+      "upperField" : "Sho't Kal Alef"
+    }, {
+      "lowerField" : "il_centurion_shot_kal_gimel",
+      "upperField" : "Sho't Kal Gimel"
+    }, {
+      "lowerField" : "il_merkava_mk_1b",
+      "upperField" : "Merkava Siman 1 Bet"
+    }, {
+      "lowerField" : "il_merkava_mk_2b_early",
+      "upperField" : "Merkava Siman 2 Bet"
+    }, {
+      "lowerField" : "il_merkava_mk_4b",
+      "upperField" : "Merkava Siman 4 Baz"
+    }, {
+      "lowerField" : "il_merkava_mk_4m",
+      "upperField" : "Merkava Siman 4M"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "il_ss_11_halftrack",
+      "upperField" : "Zachlam Tager"
+    }, {
+      "lowerField" : "il_m163_vulcan",
+      "upperField" : "Hover"
+    }, {
+      "lowerField" : "il_machbet",
+      "upperField" : "Machbet"
+    } ]
+  }, {
+    "cellList" : [ {
       "lowerField" : "il_m_51_w",
       "upperField" : "M-51"
     }, {

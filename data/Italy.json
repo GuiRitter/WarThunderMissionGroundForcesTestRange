@@ -200,6 +200,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "it_41m_turan_2",
+      "upperField" : "Turan II"
+    }, {
       "lowerField" : "it_p_26_40",
       "upperField" : "Fiat-Ansaldo P40 Gruppo Corazzato 'Leoncello'"
     }, {
