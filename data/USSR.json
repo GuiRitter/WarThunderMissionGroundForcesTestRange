@@ -117,6 +117,9 @@
       "lowerField" : "ussr_is_2_1944",
       "upperField" : "IS-2 mod. 1944"
     }, {
+      "lowerField" : "ussr_is_2_1944_321",
+      "upperField" : "IS-2 No.321"
+    }, {
       "lowerField" : "ussr_is_3",
       "upperField" : "IS-3"
     }, {
@@ -266,6 +269,9 @@
     }, {
       "lowerField" : "ussr_zsu_37",
       "upperField" : "ZSU-37"
+    }, {
+      "lowerField" : "ussr_btr_zd",
+      "upperField" : "BTR-ZD"
     }, {
       "lowerField" : "ussr_zsu_57_2",
       "upperField" : "ZSU-57-2"
@@ -429,6 +435,9 @@
     }, {
       "lowerField" : "ussr_bmd_4",
       "upperField" : "BMD-4"
+    }, {
+      "lowerField" : "ussr_t_72m2_moderna",
+      "upperField" : "T-72M2"
     } ]
   }, {
     "cellList" : [ {

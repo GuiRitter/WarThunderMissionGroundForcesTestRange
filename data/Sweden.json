@@ -10,6 +10,9 @@
       "lowerField" : "sw_strv_m41_s2",
       "upperField" : "Stridsvagn m/41 S-II"
     }, {
+      "lowerField" : "sw_pvkv_III",
+      "upperField" : "Pansarvärnskanonvagn III"
+    }, {
       "lowerField" : "sw_pvkv_II",
       "upperField" : "Pansarvärnskanonvagn II"
     }, {

@@ -102,4 +102,12 @@ The screenshots are still containing vehicles at lower LODs. I forgot I had alre
 
 After 2.11: Late again. This time I wasn't in the mood to do it sooner. You can see a vehicle that was used in this year's Halloween event in China's tech tree. Screenshots now taken at lower resolutions. Still, some vehicles are being rendered at lower LODs. I don't know what to do about it.
 
+After 2.13: Late again, I'm sorry. Got caught up in end of the year activities. I made a test and took the screenshots with the graphics on "Low". Still some vehicles are rendered at lower LODs.
+
+Anyway, Israel has been added. Because I couldn't use the same parameters as I use to take the screenshots of the other tech trees I took a different one. Also, fixed the position on the tech tree of some vehicles.
+
+After 2.15: Late again. One day I had to work overtime. The other days I simply had higher priority stuff do to. Israel now have its full tech tree. As it doesn't start at rank I, I used the default starter that I always use, the BB-1. Some other repositionings as it's becoming usual.
+
+After 2.17: Missed an update again. I had a holiday when this update was released but I had higher priority stuff to do which caused the middle priority stuff to accumulate and I have been trying to do these things ever since...
+
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

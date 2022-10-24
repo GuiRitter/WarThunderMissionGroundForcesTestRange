@@ -36,6 +36,9 @@
     }, {
       "lowerField" : "cn_m60a3_tts",
       "upperField" : "M60A3 TTS"
+    }, {
+      "lowerField" : "cn_cm11",
+      "upperField" : "CM11"
     } ]
   }, {
     "cellList" : [ {
@@ -89,6 +92,9 @@
     }, {
       "lowerField" : "cn_ztz_99_w",
       "upperField" : "ZTZ99 Stage III"
+    }, {
+      "lowerField" : "cn_ztz_99a",
+      "upperField" : "ZTZ99A"
     } ]
   }, {
     "cellList" : [ {
@@ -147,6 +153,9 @@
     }, {
       "lowerField" : "cn_ptl_02",
       "upperField" : "PTL02"
+    }, {
+      "lowerField" : "cn_cm_25",
+      "upperField" : "CM25"
     }, {
       "lowerField" : "cn_ptz_89",
       "upperField" : "PTZ89"

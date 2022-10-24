@@ -210,6 +210,9 @@
       "lowerField" : "uk_ratel_90",
       "upperField" : "Ratel 90"
     }, {
+      "lowerField" : "uk_g6_spg",
+      "upperField" : "G6"
+    }, {
       "lowerField" : "uk_eland_90_mk_7",
       "upperField" : "Eland 90 Mk.7"
     }, {
@@ -268,9 +271,15 @@
     }, {
       "lowerField" : "uk_centurion_shot_kal_d",
       "upperField" : "✡Sho't Kal Dalet"
+    }, {
+      "lowerField" : "uk_challenger_1_mk_3_gulf",
+      "upperField" : "Tank, Combat, 120-mm Gun, Challenger Mk.3, Desert Storm"
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "uk_alecto_mk_1",
+      "upperField" : "Alecto I"
+    }, {
       "lowerField" : "uk_a_13_mk2_1939",
       "upperField" : "Mark IV A13 Mk.II"
     }, {
@@ -300,9 +309,6 @@
     } ]
   }, {
     "cellList" : [ {
-      "lowerField" : "uk_challenger_II_yt_cup_2019",
-      "upperField" : "🏆Challenger 2"
-    }, {
       "lowerField" : "uk_crusader_aa_mk_2_tutorial",
       "upperField" : ""
     }, {

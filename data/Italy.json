@@ -4,8 +4,8 @@
       "lowerField" : "it_ab_41",
       "upperField" : "Fiat-Ansaldo Autoblinda 41"
     }, {
-      "lowerField" : "it_l6",
-      "upperField" : "Carro Armato modello L6"
+      "lowerField" : "it_m11_39",
+      "upperField" : "Fiat-Ansaldo M11/39"
     }, {
       "lowerField" : "it_ab_43",
       "upperField" : "Fiat-Ansaldo Autoblinda 43"
@@ -48,6 +48,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "it_l6",
+      "upperField" : "Carro Armato modello L6"
+    }, {
       "lowerField" : "it_m13_40_serie_1",
       "upperField" : "Fiat-Ansaldo M13/40 I Serie"
     }, {
@@ -113,22 +116,22 @@
       "lowerField" : "it_otobreda_sidam_25",
       "upperField" : "Sistema Italiano Difesa Aerea Mobile, 25mm"
     }, {
-      "lowerField" : "it_otomatic",
-      "upperField" : "OTO Main Anti-aircraft Tank for Intercept and Combat"
-    }, {
       "lowerField" : "it_otobreda_sidam_25_mistral",
       "upperField" : "Sistema Italiano Difesa Aerea Mobile, 25mm (Mistral)"
+    }, {
+      "lowerField" : "it_otomatic",
+      "upperField" : "OTO Main Anti-aircraft Tank for Intercept and Combat"
     } ]
   }, {
     "cellList" : [ {
       "lowerField" : "it_l3_cc",
       "upperField" : "Carro Armato L3 Contra Carro"
     }, {
-      "lowerField" : "it_m11_39",
-      "upperField" : "Fiat-Ansaldo M11/39"
-    }, {
       "lowerField" : "it_semovente_l40",
       "upperField" : "Fiat-Ansaldo Semovente L40 da 47/32"
+    }, {
+      "lowerField" : "it_lancia3ro_100",
+      "upperField" : "100/17 su Lancia 3Ro"
     }, {
       "lowerField" : "it_semovente_m41_75_18",
       "upperField" : "Semovente 75/18 M41"
@@ -160,6 +163,9 @@
       "lowerField" : "it_m113a1_tow",
       "upperField" : "OTO Melara VTC M113A1 TOW"
     }, {
+      "lowerField" : "it_vbc_pt2",
+      "upperField" : "Veicolo Blindato da Combattimento, Prototipo 2, «combat»"
+    }, {
       "lowerField" : "it_dardo_vcc",
       "upperField" : "Veicolo Corazzato da Combattimento DARDO"
     }, {
@@ -168,11 +174,11 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "it_l6_leone",
+      "upperField" : "Carro Armato modello L6, 31 Reggimento Carristi"
+    }, {
       "lowerField" : "it_m13_40_serie_2",
       "upperField" : "M13/40 (II)"
-    }, {
-      "lowerField" : "it_toldi_II_a",
-      "upperField" : "Toldi IIA"
     }, {
       "lowerField" : "it_sahariano",
       "upperField" : "Carro Armato M Celere Sahariano"
@@ -200,6 +206,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "it_toldi_II_a",
+      "upperField" : "Toldi IIA"
+    }, {
       "lowerField" : "it_41m_turan_2",
       "upperField" : "Turan II"
     }, {

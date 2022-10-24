@@ -116,11 +116,14 @@
       "lowerField" : "jp_type_5_na_to",
       "upperField" : "Type 5 Na-To"
     }, {
-      "lowerField" : "jp_type_5_ho_ri_production",
-      "upperField" : "Type 5 Ho-Ri Production"
+      "lowerField" : "jp_m36b2_jgsdf",
+      "upperField" : "☀M36B2"
     }, {
       "lowerField" : "jp_type_75",
       "upperField" : "Type 75 SPH"
+    }, {
+      "lowerField" : "jp_type_5_ho_ri_production",
+      "upperField" : "Type 5 Ho-Ri Production"
     }, {
       "lowerField" : "jp_type_16",
       "upperField" : "Type 16"
@@ -159,11 +162,11 @@
       "lowerField" : "jp_type_95_heavy",
       "upperField" : "Type 95 Ro-Go"
     }, {
-      "lowerField" : "jp_type_1_chi_he_5th_regiment",
-      "upperField" : "Type 1 Chi-He"
-    }, {
       "lowerField" : "jp_type_97_chi_ha_12cm",
       "upperField" : "Type 97 Chi-Ha Short Gun"
+    }, {
+      "lowerField" : "jp_type_1_chi_he_5th_regiment",
+      "upperField" : "Type 1 Chi-He"
     }, {
       "lowerField" : "jp_type_3_chi_nu_75cm_type_5",
       "upperField" : "Chi-Nu II"

@@ -272,8 +272,8 @@
       "lowerField" : "us_m901_itv",
       "upperField" : "Combat Vehicle, Anti-tank, Improved TOW Vehicle, M901"
     }, {
-      "lowerField" : "us_m60a3_slep",
-      "upperField" : "M60 AMBT"
+      "lowerField" : "us_m1a1_aim_abrams",
+      "upperField" : "Tank, Combat, Full Tracked, 120-Gun M1A1, AIM"
     } ]
   }, {
     "cellList" : [ {
@@ -324,6 +324,9 @@
     }, {
       "lowerField" : "us_xm_8",
       "upperField" : "105 mm Armored Gun System XM8"
+    }, {
+      "lowerField" : "us_m60a3_slep",
+      "upperField" : "M60 AMBT"
     }, {
       "lowerField" : "us_merkava_mk_3d",
       "upperField" : "Merkava Mk.3D"

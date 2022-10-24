@@ -16,6 +16,20 @@ import static javax.swing.JFileChooser.FILES_ONLY;
 
 public final class WarThunderListDiffer {
 
+    private static String line;
+
+    public static final void addLine(BufferedReader reader, List<String> list) throws IOException {
+        while ((line = reader.readLine()) != null) {
+            if (!line.startsWith("String")) {
+                continue;
+            }
+            line = line.substring(20);
+            if (!list.contains(line)) {
+                list.add(line);
+            }
+        }
+    }
+
     public static void main(String args[]) throws IOException {
         JFileChooser chooser = new JFileChooser();
         chooser.setFileSelectionMode(FILES_ONLY);
@@ -50,18 +64,9 @@ public final class WarThunderListDiffer {
             List<String> linesOld = new LinkedList<>();
             List<String> linesNew = new LinkedList<>();
             {
-                String line;
-                while ((line = readerOld.readLine()) != null) {
-                    if (line.startsWith("String")) {
-                        linesOld.add(line.substring(20));
-                    }
-                }
+                WarThunderListDiffer.addLine(readerOld, linesOld);
                 readerOld.close();
-                while ((line = readerNew.readLine()) != null) {
-                    if (line.startsWith("String")) {
-                        linesNew.add(line.substring(20));
-                    }
-                }
+                WarThunderListDiffer.addLine(readerNew, linesNew);
                 readerNew.close();
             }
             Collections.sort(linesOld);

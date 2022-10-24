@@ -33,6 +33,9 @@
     }, {
       "lowerField" : "fr_mars_15",
       "upperField" : "MARS 15"
+    }, {
+      "lowerField" : "fr_vcac_mephisto",
+      "upperField" : "MEPHISTO"
     } ]
   }, {
     "cellList" : [ {

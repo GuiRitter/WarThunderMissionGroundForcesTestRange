@@ -3472,7 +3472,7 @@ units{
   tankModels{
     name:t="tank_5_15"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [1600, 0.01, 600.0]]
-    unit_class:t="germ_panther_ii"
+    unit_class:t="germ_panzerjager_tiger_P_elefant"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3503,7 +3503,7 @@ units{
   tankModels{
     name:t="tank_5_16"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [2000, 0.01, 600.0]]
-    unit_class:t="germ_mkpz_m47"
+    unit_class:t="germ_panther_ii"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3534,7 +3534,7 @@ units{
   tankModels{
     name:t="tank_5_17"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [2400, 0.01, 600.0]]
-    unit_class:t="germ_erprobungstrager_3_achs_turm"
+    unit_class:t="germ_mkpz_m47"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3565,7 +3565,7 @@ units{
   tankModels{
     name:t="tank_5_18"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [2800, 0.01, 600.0]]
-    unit_class:t="germ_thyssen_henschel_tam_2ip"
+    unit_class:t="germ_erprobungstrager_3_achs_turm"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3596,7 +3596,7 @@ units{
   tankModels{
     name:t="tank_5_19"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [3200, 0.01, 600.0]]
-    unit_class:t="germ_leopard_a1a1_120"
+    unit_class:t="germ_thyssen_henschel_tam_2ip"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3627,6 +3627,68 @@ units{
   tankModels{
     name:t="tank_5_20"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [3600, 0.01, 600.0]]
+    unit_class:t="germ_leopard_a1a1_120"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_5_21"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [4000, 0.01, 600.0]]
+    unit_class:t="germ_leopard_2a4_pzbtl_123"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_5_22"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [4400, 0.01, 600.0]]
     unit_class:t="germ_leopard_2pl"
     objLayer:i=1
     closed_waypoints:b=no

@@ -1,0 +1,29 @@
+lines only in old:
+
+uk_challenger_II_yt_cup_2019
+
+lines only in new:
+
+cn_cm11
+cn_cm_25
+cn_ztz_99a
+fr_vcac_mephisto
+germ_leopard_2a4_pzbtl_123
+germ_panzerjager_tiger_P_elefant
+il_centurion_shot_kal_d
+il_magach_3
+il_merkava_mk_3b
+il_tiran_4
+it_l6_leone
+it_lancia3ro_100
+it_vbc_pt2
+jp_m36b2_jgsdf
+sw_pvkv_III
+uk_alecto_mk_1
+uk_challenger_1_mk_3_gulf
+uk_g6_spg
+us_m1a1_aim_abrams
+ussr_btr_zd
+ussr_is_2_1944_321
+ussr_t_72m2_moderna
+

@@ -2926,7 +2926,7 @@ units{
   tankModels{
     name:t="tank_5_19"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8306, 1, 8199.5]]
-    unit_class:t="us_m60a3_slep"
+    unit_class:t="us_m1a1_aim_abrams"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3453,6 +3453,37 @@ units{
   tankModels{
     name:t="tank_6_16"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8270, 1, 8204.5]]
+    unit_class:t="us_m60a3_slep"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_6_17"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8282, 1, 8204.5]]
     unit_class:t="us_merkava_mk_3d"
     objLayer:i=1
     closed_waypoints:b=no

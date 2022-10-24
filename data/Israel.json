@@ -33,6 +33,9 @@
       "lowerField" : "il_centurion_mk_5_shot",
       "upperField" : "Sho't"
     }, {
+      "lowerField" : "il_tiran_4",
+      "upperField" : "Tiran 4"
+    }, {
       "lowerField" : "il_tiran_4_sh",
       "upperField" : "Tiran 4S"
     }, {
@@ -47,6 +50,9 @@
     }, {
       "lowerField" : "il_merkava_mk_2b_early",
       "upperField" : "Merkava Siman 2 Bet"
+    }, {
+      "lowerField" : "il_merkava_mk_3b",
+      "upperField" : "Merkava Mk.3B"
     }, {
       "lowerField" : "il_merkava_mk_4b",
       "upperField" : "Merkava Siman 4 Baz"
@@ -69,6 +75,12 @@
     "cellList" : [ {
       "lowerField" : "il_m_51_w",
       "upperField" : "M-51"
+    }, {
+      "lowerField" : "il_magach_3",
+      "upperField" : "Magach 3"
+    }, {
+      "lowerField" : "il_centurion_shot_kal_d",
+      "upperField" : "Sho't Kal Dalet"
     }, {
       "lowerField" : "il_merkava_mk_2d",
       "upperField" : "Merkava Mk.2D"
