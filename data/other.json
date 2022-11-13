@@ -1,0 +1,28 @@
+{
+  "columnList" : [ {
+    "cellList" : [ {
+      "lowerField" : "germ_launcher_vertical",
+      "upperField" : ""
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "",
+      "upperField" : ""
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "railway_covered_bcna",
+      "upperField" : ""
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "railway_hopper_bobr",
+      "upperField" : ""
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "railway_wam_4_locomotive",
+      "upperField" : ""
+    } ]
+  } ]
+}

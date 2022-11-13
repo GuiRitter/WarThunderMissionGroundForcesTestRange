@@ -6,6 +6,7 @@ xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\da
 xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_Israel.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions
 xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_Italy.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions
 xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_Japan.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions
+xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_other.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions
 xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_Sweden.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions
 xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_UK.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions
 xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Attack_Test_Range_US.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions
@@ -22,6 +23,8 @@ xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\da
 xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_Italy_screenshot.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions
 xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_Japan.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions
 xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_Japan_screenshot.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions
+xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_other.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions
+xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_other_screenshot.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions
 xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_Sweden.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions
 xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_Sweden_screenshot.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions
 xcopy /Y "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\Ground_Forces_Test_Range_UK.blk" C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\UserMissions

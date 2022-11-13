@@ -33,7 +33,7 @@ public final class MissionGenerator {
 			inputFolder = chooser.getSelectedFile();
 		}
 		final String forces[] = {"air", "ground"};
-		final String factions[] = {"USSR", "Germany", "US", "UK", "Japan", "Italy", "France", "China", "Sweden", "Israel"};
+		final String factions[] = {"USSR", "Germany", "US", "UK", "Japan", "Italy", "France", "China", "Sweden", "Israel", "other"};
 		final LinkedList<String> lines = new LinkedList<>();
 		Cell fields[];
 		int width = 0;
@@ -126,6 +126,9 @@ public final class MissionGenerator {
 						fields = table.columnList.get(y).cellList.toArray(new Cell[]{});
 						for (int x = 0; x < fields.length; x++) {
 							try {
+								if (fields[x].lowerField.isBlank()) {
+									continue;
+								}
 								lines.add("  tankModels{");
 								lines.add("    name:t=\"tank_" + y + "_" + x + "\"");
 								lines.add("    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] ["

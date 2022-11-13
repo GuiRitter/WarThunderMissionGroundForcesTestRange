@@ -142,6 +142,9 @@
       "lowerField" : "sw_pvrbv_551",
       "upperField" : "Pansarvärnsrobotbandvagn 551"
     }, {
+      "lowerField" : "sw_pbv_302_bill",
+      "upperField" : "Pansarbandvagn 302 BILL"
+    }, {
       "lowerField" : "sw_strf_9056",
       "upperField" : "Stridsfordon 9056"
     } ]
@@ -161,6 +164,9 @@
     }, {
       "lowerField" : "sw_strv_103_0",
       "upperField" : "Stridsvagn 103-0"
+    }, {
+      "lowerField" : "sw_leopard_1a5no",
+      "upperField" : "Leopard 1A5NO"
     }, {
       "lowerField" : "sw_cv_90105_tml",
       "upperField" : "Combat Vehicle 90105 TML"

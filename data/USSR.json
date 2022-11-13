@@ -355,6 +355,9 @@
     }, {
       "lowerField" : "ussr_bmp_2m",
       "upperField" : "BMP-2M"
+    }, {
+      "lowerField" : "ussr_t_80uk",
+      "upperField" : "T-80UK"
     } ]
   }, {
     "cellList" : [ {
@@ -414,6 +417,9 @@
     }, {
       "lowerField" : "ussr_is_2_1944_revenge",
       "upperField" : "IS-2 “Revenge for the Hero brother”"
+    }, {
+      "lowerField" : "ussr_object_248",
+      "upperField" : "Object 248"
     }, {
       "lowerField" : "ussr_is_6",
       "upperField" : "IS-6"

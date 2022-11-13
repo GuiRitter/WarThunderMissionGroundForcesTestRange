@@ -204,6 +204,9 @@
       "lowerField" : "us_m36",
       "upperField" : "90-mm Gun Motor Carriage M36"
     }, {
+      "lowerField" : "us_m36b2",
+      "upperField" : "90-mm Gun Motor Carriage M36B2 "
+    }, {
       "lowerField" : "us_t95",
       "upperField" : "105mm Gun Motor Carriage T95"
     }, {
@@ -325,6 +328,12 @@
       "lowerField" : "us_xm_8",
       "upperField" : "105 mm Armored Gun System XM8"
     }, {
+      "lowerField" : "us_ags_teledyne",
+      "upperField" : "TCM AGS"
+    }, {
+      "lowerField" : "us_ccvl",
+      "upperField" : "Close Combat Vehicle Light"
+    }, {
       "lowerField" : "us_m60a3_slep",
       "upperField" : "M60 AMBT"
     }, {
@@ -333,9 +342,6 @@
     } ]
   }, {
     "cellList" : [ {
-      "lowerField" : "us_ags_teledyne",
-      "upperField" : ""
-    }, {
       "lowerField" : "us_amx_13_75",
       "upperField" : "AMX-13"
     }, {

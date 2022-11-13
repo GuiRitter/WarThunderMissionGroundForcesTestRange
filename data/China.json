@@ -157,6 +157,9 @@
       "lowerField" : "cn_cm_25",
       "upperField" : "CM25"
     }, {
+      "lowerField" : "cn_hj_9",
+      "upperField" : "AFT09"
+    }, {
       "lowerField" : "cn_ptz_89",
       "upperField" : "PTZ89"
     }, {
@@ -179,6 +182,9 @@
     }, {
       "lowerField" : "cn_ztz_59a",
       "upperField" : "ZTZ59A"
+    }, {
+      "lowerField" : "cn_object_122tm",
+      "upperField" : "Object 122 Medium Tank \"Mechanical Controls\""
     }, {
       "lowerField" : "cn_wma_301",
       "upperField" : "WMA301"

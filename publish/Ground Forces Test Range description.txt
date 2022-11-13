@@ -114,4 +114,16 @@ After 2.17: Missed an update again. I had a holiday when this update was release
 
 Tests with the new vehicles: the Elefant took several APCR shots to the back, and only in a small line where it penetrated, to be destroyed by loss of crew. The IS-2 No.321 could only be penned in the wedge in the rear armor, and all that is does is destroy the transmission. The T-72 Moderna required several shots to the turret roof to be destroyed.
 
+After 2.19: Missed an update again. It's a shame, but maybe that's how it has to be. The most interesting thing in this update (actually it may be from 2.21) is the addition of a Soyuz rocket. Actually it was added in 2.15, but then it simply looked like a Flakpanzer I. In one of the last updates they must've updated its model to include the actual rocket.
+
+Also very interesting is the addition of a locomotive and 2 box cars. They are not added to any nation's tech tree, but they are ground vehicles like all others. Only the locomotive, though, has a crew member, and it will get destroyed if he's killed, with fire and a custom damage model to boot.
+
+The other box cars require explosives to be destroyed. One of them stops shells while the other does not. Shots just go straight through.
+
+Because of these atypical additions I've restored the tech tree for vehicles that don't belong to any tech tree. The Soyuz technically is a German vehicle because it's called "germ_launcher_vertical" but it breaks the screenshot so I've separated it from the rest of the German vehicles.
+
+As for the regular tanks added, the Object 248 was the toughest to destroy. I managed to land a lucky shot in the side from behind that exploded its ammo.
+
+Also, because there are now 11 "tech trees" and WT Live limits posts to 10 images, I've grouped some tech trees screenshots in order to fit everyone.
+
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

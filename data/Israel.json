@@ -10,14 +10,29 @@
       "lowerField" : "il_magach_2",
       "upperField" : "Magach 2"
     }, {
+      "lowerField" : "il_magach_3_idf",
+      "upperField" : "Magach 3"
+    }, {
       "lowerField" : "il_magach_6",
       "upperField" : "Magach 6"
     }, {
       "lowerField" : "il_magach_6a",
       "upperField" : "Magach 6A"
     }, {
+      "lowerField" : "il_magach_5",
+      "upperField" : "Magach 5"
+    }, {
+      "lowerField" : "il_magach_6r",
+      "upperField" : "Magach 6R"
+    }, {
       "lowerField" : "il_magach_6b",
       "upperField" : "Magach 6B"
+    }, {
+      "lowerField" : "il_magach_6m",
+      "upperField" : "Magach 6M"
+    }, {
+      "lowerField" : "il_magach_6c",
+      "upperField" : "Magach 6C"
     }, {
       "lowerField" : "il_magach_6b_gal_batash",
       "upperField" : "Magach 6B Gal Batash"
@@ -53,6 +68,9 @@
     }, {
       "lowerField" : "il_merkava_mk_3b",
       "upperField" : "Merkava Mk.3B"
+    }, {
+      "lowerField" : "il_merkava_mk_3c",
+      "upperField" : "Merkava Siman 3 Bet Baz"
     }, {
       "lowerField" : "il_merkava_mk_4b",
       "upperField" : "Merkava Siman 4 Baz"

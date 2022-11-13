@@ -203,6 +203,9 @@
     }, {
       "lowerField" : "it_of_40_mtca",
       "upperField" : "Carro Armato OTO Melara OF-40 (MTCA)"
+    }, {
+      "lowerField" : "it_vrcc_centauro",
+      "upperField" : "Vehículos de Reconocimiento y Combate de Caballería Centauro"
     } ]
   }, {
     "cellList" : [ {
@@ -214,6 +217,9 @@
     }, {
       "lowerField" : "it_p_26_40",
       "upperField" : "Fiat-Ansaldo P40 Gruppo Corazzato 'Leoncello'"
+    }, {
+      "lowerField" : "it_44m_zrinyi_1",
+      "upperField" : "Zrinyi I"
     }, {
       "lowerField" : "it_aubl_74_60_70m",
       "upperField" : "AUBL/74 HVG"

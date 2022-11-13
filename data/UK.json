@@ -181,6 +181,9 @@
       "lowerField" : "uk_ystervark_spaa",
       "upperField" : "Ystervark"
     }, {
+      "lowerField" : "uk_skink_aa",
+      "upperField" : "Skink, Tank, Anti-Aircraft, 20mm, Quad"
+    }, {
       "lowerField" : "uk_falcon",
       "upperField" : "Falcon"
     }, {
@@ -309,6 +312,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "uk_challenger_II_yt_cup_2019",
+      "upperField" : "🏆Challenger 2"
+    }, {
       "lowerField" : "uk_crusader_aa_mk_2_tutorial",
       "upperField" : ""
     }, {
