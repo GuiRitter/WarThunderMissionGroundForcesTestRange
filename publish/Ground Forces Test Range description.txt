@@ -114,7 +114,7 @@ After 2.17: Missed an update again. I had a holiday when this update was release
 
 Tests with the new vehicles: the Elefant took several APCR shots to the back, and only in a small line where it penetrated, to be destroyed by loss of crew. The IS-2 No.321 could only be penned in the wedge in the rear armor, and all that is does is destroy the transmission. The T-72 Moderna required several shots to the turret roof to be destroyed.
 
-After 2.19: Missed an update again. It's a shame, but maybe that's how it has to be. The most interesting thing in this update (actually it may be from 2.21) is the addition of a Soyuz rocket. Actually it was added in 2.15, but then it simply looked like a Flakpanzer I. In one of the last updates they must've updated its model to include the actual rocket.
+After 2.19: Missed an update again. It's a shame, but maybe that's how it has to be. The most interesting thing in this update (actually it may be from 2.21) is the addition of a Soyuz rocket. Actually it was added in 2.15, but then it simply looked like a Flakpanzer I. In one of the last updates they must've updated its model to include the actual rocket. It's weird in that it doesn't render depending on how you look at it and doesn't render at all in the CDK.
 
 Also very interesting is the addition of a locomotive and 2 box cars. They are not added to any nation's tech tree, but they are ground vehicles like all others. Only the locomotive, though, has a crew member, and it will get destroyed if he's killed, with fire and a custom damage model to boot.
 
@@ -125,5 +125,13 @@ Because of these atypical additions I've restored the tech tree for vehicles tha
 As for the regular tanks added, the Object 248 was the toughest to destroy. I managed to land a lucky shot in the side from behind that exploded its ammo.
 
 Also, because there are now 11 "tech trees" and WT Live limits posts to 10 images, I've grouped some tech trees screenshots in order to fit everyone.
+
+After 2.21: several models from previous April Fools' events came back because they're displayed in the hangar. Just in time too, as I previously created an "other" tech tree where they will fit right in. They are the Combat Space Suits, the tank from the Dune event, the stealth tank, the inflatable Sherman and the bipedal tank (mecha). The Combat Space Suits, however, don't render when playing the mission.
+
+Also, the remote controlled mine that is used in the Sturmtiger event has been placed there as well. And the Churchill Crocodile's fuel trailer is treated as a separate model. It's funny because the Churchill Crocodile's model comes with the trailer, but only in the game, not in the CDK. Still, I'll leave it behind the tank that it belongs to.
+
+And, do you remember the space_rocket_launcher? Now it works and it's just like the other Soyuz rocket, except that its base is a stealth tank.
+
+I've made a huge effort to release this before the next update hits. I imagined they would release a new update before Christmas but I though they would skip this year because 2.21 (Fire and Ice) was released about 6 weeks after 2.19 (Drone Age). I really hope this doesn't become a trend...
 
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

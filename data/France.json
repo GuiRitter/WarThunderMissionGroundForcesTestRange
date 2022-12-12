@@ -133,6 +133,9 @@
       "lowerField" : "fr_amx_30_dca",
       "upperField" : "AMX-30 DCA"
     }, {
+      "lowerField" : "fr_vab_santal",
+      "upperField" : "Véhicule de L'Avant Blindé, SANTAL"
+    }, {
       "lowerField" : "fr_amx_30_roland",
       "upperField" : "AMX-30 Roland 1"
     }, {

@@ -2108,7 +2108,7 @@ units{
   tankModels{
     name:t="tank_3_6"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-2000, 0.01, -200.0]]
-    unit_class:t="uk_skink_aa"
+    unit_class:t="uk_bosvark"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2139,7 +2139,7 @@ units{
   tankModels{
     name:t="tank_3_7"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-1600, 0.01, -200.0]]
-    unit_class:t="uk_falcon"
+    unit_class:t="uk_skink_aa"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2170,7 +2170,7 @@ units{
   tankModels{
     name:t="tank_3_8"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-1200, 0.01, -200.0]]
-    unit_class:t="uk_chieftain_marksman"
+    unit_class:t="uk_falcon"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2201,7 +2201,7 @@ units{
   tankModels{
     name:t="tank_3_9"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-800, 0.01, -200.0]]
-    unit_class:t="uk_rooikat_za_35"
+    unit_class:t="uk_chieftain_marksman"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2232,7 +2232,7 @@ units{
   tankModels{
     name:t="tank_3_10"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-400, 0.01, -200.0]]
-    unit_class:t="uk_stormer_hvm"
+    unit_class:t="uk_rooikat_za_35"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2263,6 +2263,37 @@ units{
   tankModels{
     name:t="tank_3_11"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [0, 0.01, -200.0]]
+    unit_class:t="uk_stormer_hvm"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_3_12"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [400, 0.01, -200.0]]
     unit_class:t="uk_adats_m113a3"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3131,7 +3162,7 @@ units{
   tankModels{
     name:t="tank_6_2"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-3600, 0.01, 1000.0]]
-    unit_class:t="uk_matilda_hedgehog"
+    unit_class:t="uk_ac1_sentinel"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3162,7 +3193,7 @@ units{
   tankModels{
     name:t="tank_6_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-3200, 0.01, 1000.0]]
-    unit_class:t="uk_mk1_grant"
+    unit_class:t="uk_matilda_hedgehog"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3193,7 +3224,7 @@ units{
   tankModels{
     name:t="tank_6_4"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-2800, 0.01, 1000.0]]
-    unit_class:t="uk_armored_car_aec_mk_2"
+    unit_class:t="uk_mk1_grant"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3224,7 +3255,7 @@ units{
   tankModels{
     name:t="tank_6_5"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-2400, 0.01, 1000.0]]
-    unit_class:t="uk_a_33_excelsior"
+    unit_class:t="uk_armored_car_aec_mk_2"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3255,7 +3286,7 @@ units{
   tankModels{
     name:t="tank_6_6"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-2000, 0.01, 1000.0]]
-    unit_class:t="uk_a_34_comet_iron_duke"
+    unit_class:t="uk_a_33_excelsior"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3286,7 +3317,7 @@ units{
   tankModels{
     name:t="tank_6_7"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-1600, 0.01, 1000.0]]
-    unit_class:t="uk_ram_90mm_aa"
+    unit_class:t="uk_a_22f_mk_7_churchill_crocodile"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3317,7 +3348,7 @@ units{
   tankModels{
     name:t="tank_6_8"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-1200, 0.01, 1000.0]]
-    unit_class:t="uk_centurion_mk_5_raac"
+    unit_class:t="uk_a_22f_mk_7_churchill_crocodile_trailer"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3348,6 +3379,99 @@ units{
   tankModels{
     name:t="tank_6_9"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-800, 0.01, 1000.0]]
+    unit_class:t="uk_a_34_comet_iron_duke"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_6_10"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-400, 0.01, 1000.0]]
+    unit_class:t="uk_ram_90mm_aa"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_6_11"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [0, 0.01, 1000.0]]
+    unit_class:t="uk_centurion_mk_5_raac"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_6_12"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [400, 0.01, 1000.0]]
     unit_class:t="uk_rooikat_105_td"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3411,37 +3535,6 @@ units{
     name:t="tank_7_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-4000, 0.01, 1400.0]]
     unit_class:t="uk_crusader_aa_mk_2_tutorial"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_7_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-3600, 0.01, 1400.0]]
-    unit_class:t="uk_ac1_sentinel"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""

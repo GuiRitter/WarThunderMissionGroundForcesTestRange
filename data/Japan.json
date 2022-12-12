@@ -93,6 +93,9 @@
       "lowerField" : "jp_type_90b",
       "upperField" : "Type 90 (B)"
     }, {
+      "lowerField" : "jp_tkx_prot",
+      "upperField" : "TKX"
+    }, {
       "lowerField" : "jp_type_10",
       "upperField" : "Type 10"
     } ]

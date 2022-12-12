@@ -181,6 +181,9 @@
       "lowerField" : "uk_ystervark_spaa",
       "upperField" : "Ystervark"
     }, {
+      "lowerField" : "uk_bosvark",
+      "upperField" : "Bosvark"
+    }, {
       "lowerField" : "uk_skink_aa",
       "upperField" : "Skink, Tank, Anti-Aircraft, 20mm, Quad"
     }, {
@@ -286,6 +289,9 @@
       "lowerField" : "uk_a_13_mk2_1939",
       "upperField" : "Mark IV A13 Mk.II"
     }, {
+      "lowerField" : "uk_ac1_sentinel",
+      "upperField" : "A.C.I"
+    }, {
       "lowerField" : "uk_matilda_hedgehog",
       "upperField" : "Matilda Hedgehog"
     }, {
@@ -297,6 +303,12 @@
     }, {
       "lowerField" : "uk_a_33_excelsior",
       "upperField" : "Excelsior"
+    }, {
+      "lowerField" : "uk_a_22f_mk_7_churchill_crocodile",
+      "upperField" : ""
+    }, {
+      "lowerField" : "uk_a_22f_mk_7_churchill_crocodile_trailer",
+      "upperField" : ""
     }, {
       "lowerField" : "uk_a_34_comet_iron_duke",
       "upperField" : "Iron Duke IV"
@@ -317,9 +329,6 @@
     }, {
       "lowerField" : "uk_crusader_aa_mk_2_tutorial",
       "upperField" : ""
-    }, {
-      "lowerField" : "uk_ac1_sentinel",
-      "upperField" : "A.C.I"
     } ]
   } ]
 }

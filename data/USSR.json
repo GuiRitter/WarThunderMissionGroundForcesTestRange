@@ -293,11 +293,11 @@
       "lowerField" : "ussr_t_35",
       "upperField" : "T-35"
     }, {
-      "lowerField" : "ussr_pzkpfw_iii_ausf_j_l42",
-      "upperField" : "★T-III"
-    }, {
       "lowerField" : "ussr_su_57",
       "upperField" : "SU-57"
+    }, {
+      "lowerField" : "ussr_pzkpfw_iii_ausf_j_l42",
+      "upperField" : "★T-III"
     }, {
       "lowerField" : "ussr_bm_8_24",
       "upperField" : "BM-8-24"
@@ -352,6 +352,9 @@
     }, {
       "lowerField" : "ussr_t_72av_turms",
       "upperField" : "T-72AV (TURMS-T)"
+    }, {
+      "lowerField" : "ussr_2s38",
+      "upperField" : "2S38"
     }, {
       "lowerField" : "ussr_bmp_2m",
       "upperField" : "BMP-2M"

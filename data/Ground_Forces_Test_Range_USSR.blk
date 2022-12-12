@@ -3079,7 +3079,7 @@ units{
   tankModels{
     name:t="tank_5_2"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7962, 1, 8222.0]]
-    unit_class:t="ussr_pzkpfw_iii_ausf_j_l42"
+    unit_class:t="ussr_su_57"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3110,7 +3110,7 @@ units{
   tankModels{
     name:t="tank_5_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7982, 1, 8222.0]]
-    unit_class:t="ussr_su_57"
+    unit_class:t="ussr_pzkpfw_iii_ausf_j_l42"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3699,7 +3699,7 @@ units{
   tankModels{
     name:t="tank_5_22"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8362, 1, 8222.0]]
-    unit_class:t="ussr_bmp_2m"
+    unit_class:t="ussr_2s38"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3730,6 +3730,37 @@ units{
   tankModels{
     name:t="tank_5_23"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8382, 1, 8222.0]]
+    unit_class:t="ussr_bmp_2m"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_5_24"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8402, 1, 8222.0]]
     unit_class:t="ussr_t_80uk"
     objLayer:i=1
     closed_waypoints:b=no

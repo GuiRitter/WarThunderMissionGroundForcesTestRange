@@ -151,6 +151,9 @@
     }, {
       "lowerField" : "us_m1a2_abrams",
       "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A2"
+    }, {
+      "lowerField" : "us_m1a2_sep_abrams",
+      "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A2 SEP"
     } ]
   }, {
     "cellList" : [ {

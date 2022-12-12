@@ -1,28 +1,104 @@
 {
-  "columnList" : [ {
-    "cellList" : [ {
-      "lowerField" : "germ_launcher_vertical",
-      "upperField" : ""
-    } ]
-  }, {
-    "cellList" : [ {
-      "lowerField" : "",
-      "upperField" : ""
-    } ]
-  }, {
-    "cellList" : [ {
-      "lowerField" : "railway_covered_bcna",
-      "upperField" : ""
-    } ]
-  }, {
-    "cellList" : [ {
-      "lowerField" : "railway_hopper_bobr",
-      "upperField" : ""
-    } ]
-  }, {
-    "cellList" : [ {
-      "lowerField" : "railway_wam_4_locomotive",
-      "upperField" : ""
-    } ]
-  } ]
+  "columnList": [
+    {
+      "cellList": [
+        {
+          "lowerField": "",
+          "upperField": ""
+        },
+        {
+          "lowerField": "germ_leichter_ladungstrager_303a",
+          "upperField": "Goliath 303a"
+        }
+      ]
+    },
+    {
+      "cellList": [
+        {
+          "lowerField": "space_rocket_launcher",
+          "upperField": ""
+        }
+      ]
+    },
+    {
+      "cellList": [
+        {
+          "lowerField": "",
+          "upperField": ""
+        },
+        {
+          "lowerField": "germ_launcher_vertical",
+          "upperField": ""
+        }
+      ]
+    },
+    {
+      "cellList": [
+        {
+          "lowerField": "destroyer_heavy_tank_h",
+          "upperField": ""
+        }
+      ]
+    },
+    {
+      "cellList": [
+        {
+          "lowerField": "sdi_minotaur",
+          "upperField": ""
+        },
+        {
+          "lowerField": "railway_covered_bcna",
+          "upperField": ""
+        }
+      ]
+    },
+    {
+      "cellList": [
+        {
+          "lowerField": "us_m4_sherman_fake",
+          "upperField": ""
+        },
+        {
+          "lowerField": "railway_hopper_bobr",
+          "upperField": ""
+        }
+      ]
+    },
+    {
+      "cellList": [
+        {
+          "lowerField": "ussr_sht_1_2",
+          "upperField": ""
+        },
+        {
+          "lowerField": "railway_wam_4_locomotive",
+          "upperField": ""
+        }
+      ]
+    },
+    {
+      "cellList": [
+        {
+          "lowerField": "assault_combat_space_suit",
+          "upperField": ""
+        },
+        {
+          "lowerField": "close_combat_space_suit",
+          "upperField": ""
+        }
+      ]
+    },
+    {
+      "cellList": [
+        {
+          "lowerField": "fire_support_combat_space_suit",
+          "upperField": ""
+        },
+        {
+          "lowerField": "scout_combat_space_suit",
+          "upperField": ""
+        }
+      ]
+    }
+  ]
 }

@@ -10,6 +10,9 @@
       "lowerField" : "germ_panzerjager_1",
       "upperField" : "4,7 cm Pak(t) auf Pz.I Ausf.B"
     }, {
+      "lowerField" : "germ_sdkfz_251_9",
+      "upperField" : "m.Schütz.Pz.Wg. (Sd.Kfz.251/9)"
+    }, {
       "lowerField" : "germ_sdkfz_234_2",
       "upperField" : "s.Pz.Sp.Wg. (5 cm 39/1 L60)"
     }, {
@@ -307,6 +310,12 @@
     }, {
       "lowerField" : "germ_sturmpanzer_iv_brummbar",
       "upperField" : "15cm Sturm-Panzer 43(L/12) IV \"Brummbär\""
+    }, {
+      "lowerField" : "germ_sturmmorser_sturmtiger",
+      "upperField" : "38 cm Sturmmörser"
+    }, {
+      "lowerField" : "germ_sturmmorser_sturmtiger_event",
+      "upperField" : "38 cm Sturmmörser"
     }, {
       "lowerField" : "germ_kv_1_kwk_40",
       "upperField" : "✙Pz.Kpfw. KV-1B 756(r)"

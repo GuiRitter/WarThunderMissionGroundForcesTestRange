@@ -118,6 +118,9 @@
     }, {
       "lowerField" : "cn_pgz_04a",
       "upperField" : "PGZ04A"
+    }, {
+      "lowerField" : "cn_tor_m1",
+      "upperField" : "Tor-M1"
     } ]
   }, {
     "cellList" : [ {
