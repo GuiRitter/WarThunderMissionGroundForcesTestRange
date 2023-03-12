@@ -113,6 +113,9 @@
       "lowerField" : "fr_amx_50_surbaisse",
       "upperField" : "AMX-50 Surbaissé"
     }, {
+      "lowerField" : "fr_amx_32_105",
+      "upperField" : "AMX-32 (105)"
+    }, {
       "lowerField" : "fr_amx_32",
       "upperField" : "AMX-32"
     }, {
@@ -225,6 +228,17 @@
     }, {
       "lowerField" : "fr_amx_30",
       "upperField" : "AMX-30"
+    }, {
+      "lowerField" : "",
+      "upperField" : ""
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "fr_amx_50_1950",
+      "upperField" : "AMX-50 (T090/930)"
+    }, {
+      "lowerField" : "fr_char_2c_bis",
+      "upperField" : "2C bis"
     } ]
   } ]
 }

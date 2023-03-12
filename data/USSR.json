@@ -282,6 +282,9 @@
       "lowerField" : "ussr_zsu_37_2",
       "upperField" : "ZSU-37-2"
     }, {
+      "lowerField" : "ussr_9a35_m2",
+      "upperField" : "ZRK 9A35M2 'Strela-10M2'"
+    }, {
       "lowerField" : "ussr_zprk_2s6",
       "upperField" : "ZPRK 2S6 'Tunguska'"
     } ]
@@ -358,6 +361,9 @@
     }, {
       "lowerField" : "ussr_bmp_2m",
       "upperField" : "BMP-2M"
+    }, {
+      "lowerField" : "ussr_t_80um2",
+      "upperField" : "T-80UM2"
     }, {
       "lowerField" : "ussr_t_80uk",
       "upperField" : "T-80UK"

@@ -266,7 +266,7 @@
       "lowerField" : "us_t114",
       "upperField" : "T114"
     }, {
-      "lowerField" : "us_t54e1",
+      "lowerField" : "us_m728",
       "upperField" : "T54E1"
     }, {
       "lowerField" : "us_xm1_gm",
@@ -277,6 +277,9 @@
     }, {
       "lowerField" : "us_m901_itv",
       "upperField" : "Combat Vehicle, Anti-tank, Improved TOW Vehicle, M901"
+    }, {
+      "lowerField" : "us_m1128_wolfpack",
+      "upperField" : "M1128 Wolfpack"
     }, {
       "lowerField" : "us_m1a1_aim_abrams",
       "upperField" : "Tank, Combat, Full Tracked, 120-Gun M1A1, AIM"
@@ -321,6 +324,9 @@
     }, {
       "lowerField" : "us_magach_3",
       "upperField" : "✡Magach 3"
+    }, {
+      "lowerField" : "us_t54e1",
+      "upperField" : "T54E1"
     }, {
       "lowerField" : "us_merkava_mk_1",
       "upperField" : "Merkava Mk.1"

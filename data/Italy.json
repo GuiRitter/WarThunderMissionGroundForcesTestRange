@@ -110,6 +110,9 @@
       "lowerField" : "it_as_42_metropolitana",
       "upperField" : "Camionetta AS 42 Tipo II \"Metropolitana\""
     }, {
+      "lowerField" : "it_fiat_cm52",
+      "upperField" : "Complesso da 12.7mm su CM52"
+    }, {
       "lowerField" : "it_m15_42_contraereo",
       "upperField" : "Semovente M42 Contraereo"
     }, {

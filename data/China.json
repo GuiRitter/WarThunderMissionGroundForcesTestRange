@@ -95,6 +95,9 @@
     }, {
       "lowerField" : "cn_ztz_99a",
       "upperField" : "ZTZ99A"
+    }, {
+      "lowerField" : "cn_wz_1001",
+      "upperField" : "WZ1001(E) LCT"
     } ]
   }, {
     "cellList" : [ {

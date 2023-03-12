@@ -126,4 +126,6 @@ And, do you remember the space_rocket_launcher? Now it works and it's just like 
 
 I've made a huge effort to release this before the next update hits. I imagined they would release a new update before Christmas but I though they would skip this year because 2.21 (Fire and Ice) was released about 6 weeks after 2.19 (Drone Age). I really hope this doesn't become a trend...
 
+After 2.23: this time I missed releasing this before the next update. I've lost all hope of being able to do this on a timely manner as I just have too much on my plate. But I'm stubborn so I'll keep releasing it, no matter how delayed. Apart from that, nothing exceptional to report. Except that the mission for the "Other" tech tree is complaining about not having an "sdi_hydra" pack installed. Just wait and the mission will load.
+
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

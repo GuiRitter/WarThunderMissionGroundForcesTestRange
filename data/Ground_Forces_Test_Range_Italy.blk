@@ -1250,7 +1250,7 @@ units{
   tankModels{
     name:t="tank_2_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8042, 1, 8182.0]]
-    unit_class:t="it_m15_42_contraereo"
+    unit_class:t="it_fiat_cm52"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1281,7 +1281,7 @@ units{
   tankModels{
     name:t="tank_2_2"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8062, 1, 8182.0]]
-    unit_class:t="it_oto_r3_t20_fa"
+    unit_class:t="it_m15_42_contraereo"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1312,7 +1312,7 @@ units{
   tankModels{
     name:t="tank_2_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8082, 1, 8182.0]]
-    unit_class:t="it_otobreda_sidam_25"
+    unit_class:t="it_oto_r3_t20_fa"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1343,7 +1343,7 @@ units{
   tankModels{
     name:t="tank_2_4"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8182.0]]
-    unit_class:t="it_otobreda_sidam_25_mistral"
+    unit_class:t="it_otobreda_sidam_25"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1374,6 +1374,37 @@ units{
   tankModels{
     name:t="tank_2_5"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8122, 1, 8182.0]]
+    unit_class:t="it_otobreda_sidam_25_mistral"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_2_6"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8142, 1, 8182.0]]
     unit_class:t="it_otomatic"
     objLayer:i=1
     closed_waypoints:b=no

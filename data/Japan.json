@@ -154,6 +154,9 @@
       "lowerField" : "jp_m42_duster",
       "upperField" : "Twin 40mm Self-Propelled Guns M42 Duster"
     }, {
+      "lowerField" : "jp_sub_i_ii_20mm",
+      "upperField" : "Mitsubishi SUB-I-II"
+    }, {
       "lowerField" : "jp_type_87",
       "upperField" : "Twin 35mm Self-Propelled Guns Type 87"
     }, {

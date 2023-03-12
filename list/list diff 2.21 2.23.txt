@@ -1,0 +1,27 @@
+lines only in old:
+
+assault_combat_space_suit
+close_combat_space_suit
+destroyer_heavy_tank_h
+fire_support_combat_space_suit
+scout_combat_space_suit
+sdi_minotaur
+us_m4_sherman_fake
+ussr_sht_1_2
+
+lines only in new:
+
+cn_wz_1001
+fr_amx_32_105
+fr_amx_50_1950
+fr_char_2c_bis
+germ_flakpz_1a2_Gepard
+il_magach_7c
+it_fiat_cm52
+jp_sub_i_ii_20mm
+uk_khalid
+us_m1128_wolfpack
+us_m728
+ussr_9a35_m2
+ussr_t_80um2
+

@@ -321,6 +321,9 @@
     }, {
       "lowerField" : "uk_rooikat_105_td",
       "upperField" : "Rooikat 105"
+    }, {
+      "lowerField" : "uk_khalid",
+      "upperField" : "Khalid"
     } ]
   }, {
     "cellList" : [ {

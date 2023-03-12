@@ -35,15 +35,7 @@
     {
       "cellList": [
         {
-          "lowerField": "destroyer_heavy_tank_h",
-          "upperField": ""
-        }
-      ]
-    },
-    {
-      "cellList": [
-        {
-          "lowerField": "sdi_minotaur",
+          "lowerField": "",
           "upperField": ""
         },
         {
@@ -55,7 +47,7 @@
     {
       "cellList": [
         {
-          "lowerField": "us_m4_sherman_fake",
+          "lowerField": "",
           "upperField": ""
         },
         {
@@ -67,35 +59,11 @@
     {
       "cellList": [
         {
-          "lowerField": "ussr_sht_1_2",
+          "lowerField": "",
           "upperField": ""
         },
         {
           "lowerField": "railway_wam_4_locomotive",
-          "upperField": ""
-        }
-      ]
-    },
-    {
-      "cellList": [
-        {
-          "lowerField": "assault_combat_space_suit",
-          "upperField": ""
-        },
-        {
-          "lowerField": "close_combat_space_suit",
-          "upperField": ""
-        }
-      ]
-    },
-    {
-      "cellList": [
-        {
-          "lowerField": "fire_support_combat_space_suit",
-          "upperField": ""
-        },
-        {
-          "lowerField": "scout_combat_space_suit",
           "upperField": ""
         }
       ]
