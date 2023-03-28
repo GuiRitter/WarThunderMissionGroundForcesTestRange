@@ -199,6 +199,9 @@
     }, {
       "lowerField" : "jp_type_3_ka_chi",
       "upperField" : "Ka-Chi"
+    }, {
+      "lowerField" : "jp_type_16_mod",
+      "upperField" : "Type 16, First Production Serie"
     } ]
   } ]
 }

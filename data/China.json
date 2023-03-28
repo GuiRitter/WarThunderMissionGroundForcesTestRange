@@ -28,6 +28,9 @@
       "lowerField" : "cn_type_86",
       "upperField" : "ZBD86"
     }, {
+      "lowerField" : "cn_zts_63_1980",
+      "upperField" : "ZTS63"
+    }, {
       "lowerField" : "cn_m48a1_patton_III",
       "upperField" : "✨90 mm Gun Tank M48A1 Patton III"
     }, {
@@ -101,6 +104,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "cn_sdkfz_222_early",
+      "upperField" : "✨le.Pz.Sp.Wg (2 cm) Ausf.A 1.Serie"
+    }, {
       "lowerField" : "cn_gmc_cckw_353_m45_quad",
       "upperField" : "CCKW 353 (M45)"
     }, {
@@ -219,6 +225,9 @@
     }, {
       "lowerField" : "cn_dodge_m37",
       "upperField" : "cn_dodge_m37"
+    }, {
+      "lowerField" : "cn_pgz_88",
+      "upperField" : ""
     }, {
       "lowerField" : "cn_type_69_2a",
       "upperField" : "Type 69-IIa"

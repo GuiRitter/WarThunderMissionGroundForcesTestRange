@@ -273,6 +273,9 @@
       "lowerField" : "ussr_btr_zd",
       "upperField" : "BTR-ZD"
     }, {
+      "lowerField" : "ussr_m53_59",
+      "upperField" : "M53/59"
+    }, {
       "lowerField" : "ussr_zsu_57_2",
       "upperField" : "ZSU-57-2"
     }, {
@@ -287,6 +290,9 @@
     }, {
       "lowerField" : "ussr_zprk_2s6",
       "upperField" : "ZPRK 2S6 'Tunguska'"
+    }, {
+      "lowerField" : "ussr_pantsyr_s1",
+      "upperField" : "96K6 Pantsir-S1"
     } ]
   }, {
     "cellList" : [ {

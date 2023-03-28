@@ -95,6 +95,9 @@
       "lowerField" : "fr_b1_bis",
       "upperField" : "Char de bataille B1 bis"
     }, {
+      "lowerField" : "fr_char_2c",
+      "upperField" : "Char FCM 2C"
+    }, {
       "lowerField" : "fr_m4a3_105_sherman",
       "upperField" : "⦿Medium Tank M4A3 (105) HVSS Sherman"
     }, {

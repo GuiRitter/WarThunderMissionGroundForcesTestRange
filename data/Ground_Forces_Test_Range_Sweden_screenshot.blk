@@ -1253,7 +1253,7 @@ units{
   tankModels{
     name:t="tank_2_6"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8184.5]]
-    unit_class:t="sw_veak_40"
+    unit_class:t="sw_itpsv_90"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1284,7 +1284,7 @@ units{
   tankModels{
     name:t="tank_2_7"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8184.5]]
-    unit_class:t="sw_lvrbv_701"
+    unit_class:t="sw_veak_40"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1315,7 +1315,7 @@ units{
   tankModels{
     name:t="tank_2_8"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8184.5]]
-    unit_class:t="sw_lvkv_90c"
+    unit_class:t="sw_lvrbv_701"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1346,7 +1346,7 @@ units{
   tankModels{
     name:t="tank_2_9"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8184.5]]
-    unit_class:t="sw_asrad_r"
+    unit_class:t="sw_lvkv_90c"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1377,6 +1377,37 @@ units{
   tankModels{
     name:t="tank_2_10"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8228, 1, 8184.5]]
+    unit_class:t="sw_asrad_r"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_2_11"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8240, 1, 8184.5]]
     unit_class:t="sw_crotale_ng"
     objLayer:i=1
     closed_waypoints:b=no

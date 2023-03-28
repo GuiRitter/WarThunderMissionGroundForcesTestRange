@@ -1,0 +1,21 @@
+no lines only in old
+
+lines only in new:
+
+cn_pgz_88
+cn_sdkfz_222_early
+cn_zts_63_1980
+fr_char_2c
+germ_kpz_t72m1
+germ_sdkfz_222
+il_merkava_mk_4_lic
+it_ariete_amv_pt1
+jp_type_16_mod
+sw_itpsv_90
+uk_challenger_2e
+uk_churchill_na75
+us_lvt_a_1_trb
+us_t1e1
+ussr_m53_59
+ussr_pantsyr_s1
+

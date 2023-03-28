@@ -69,6 +69,9 @@
     }, {
       "lowerField" : "uk_challenger_2_bn",
       "upperField" : "Challenger 2, Black Night"
+    }, {
+      "lowerField" : "uk_challenger_2e",
+      "upperField" : "Challenger 2E"
     } ]
   }, {
     "cellList" : [ {
@@ -95,6 +98,9 @@
     }, {
       "lowerField" : "uk_a_22b_mk_3_churchill_1942",
       "upperField" : "Mark IV A22B Churchill Mk.III"
+    }, {
+      "lowerField" : "uk_churchill_na75",
+      "upperField" : "Tank, Infantry, Mk IV, Churchill NA75"
     }, {
       "lowerField" : "uk_a_22f_mk_7_churchill_1944",
       "upperField" : "A22 Churchill Mk.VII"

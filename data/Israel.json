@@ -78,6 +78,9 @@
       "lowerField" : "il_merkava_mk_4b",
       "upperField" : "Merkava Siman 4 Baz"
     }, {
+      "lowerField" : "il_merkava_mk_4_lic",
+      "upperField" : "Merkava Siman 4 LIC"
+    }, {
       "lowerField" : "il_merkava_mk_4m",
       "upperField" : "Merkava Siman 4M"
     } ]

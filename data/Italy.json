@@ -104,6 +104,9 @@
     }, {
       "lowerField" : "it_c1_ariete",
       "upperField" : "C1 Ariete"
+    }, {
+      "lowerField" : "it_ariete_amv_pt1",
+      "upperField" : "Ariete AMV PT1"
     } ]
   }, {
     "cellList" : [ {

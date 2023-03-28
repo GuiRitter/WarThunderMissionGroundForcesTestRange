@@ -110,6 +110,9 @@
     }, {
       "lowerField" : "germ_kpz_70",
       "upperField" : "KPz-70"
+    }, {
+      "lowerField" : "germ_kpz_t72m1",
+      "upperField" : "✙KPzT-72M1"
     } ]
   }, {
     "cellList" : [ {
@@ -183,6 +186,9 @@
     }, {
       "lowerField" : "germ_flakpanzer_38t_gepard",
       "upperField" : "Pz.Kpfw.38 fur 2 cm Flak 38"
+    }, {
+      "lowerField" : "germ_sdkfz_222",
+      "upperField" : "le.Pz.Sp.Wg. (2 cm) Ausf.B 5.Serie"
     }, {
       "lowerField" : "germ_sdkfz_6_2_flak36",
       "upperField" : "3.7-cm Flak 36 auf Selbstfahrlafette Sd.Kfz. 6/2"
