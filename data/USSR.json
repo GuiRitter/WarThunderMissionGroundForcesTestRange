@@ -129,6 +129,9 @@
       "lowerField" : "ussr_t_10m",
       "upperField" : "T-10M"
     }, {
+      "lowerField" : "ussr_object_435",
+      "upperField" : "Object 435"
+    }, {
       "lowerField" : "ussr_t_64a_1971",
       "upperField" : "T-64A (1971)"
     }, {
@@ -166,6 +169,9 @@
     }, {
       "lowerField" : "ussr_su_100p",
       "upperField" : "SU-100P"
+    }, {
+      "lowerField" : "ussr_btr_80a",
+      "upperField" : "BTR-80A"
     }, {
       "lowerField" : "ussr_bmp_1",
       "upperField" : "BMP-1"
@@ -328,6 +334,9 @@
     }, {
       "lowerField" : "ussr_t_34_1941_cast_turret",
       "upperField" : "T-34 1941 (1st Gv.T.Br.)"
+    }, {
+      "lowerField" : "ussr_bm_31_12",
+      "upperField" : "BM-31-12"
     }, {
       "lowerField" : "ussr_t_34_57_1943",
       "upperField" : "T-34-57 mod. 1943"

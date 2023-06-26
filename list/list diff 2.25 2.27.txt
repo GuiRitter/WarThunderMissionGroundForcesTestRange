@@ -1,0 +1,27 @@
+no lines only in old
+
+lines only in new:
+
+
+
+
+
+fr_amd_35_sa35
+fr_amx_30_auf_1
+fr_vbci2_mct30
+germ_pzkpfw_38t_na
+germ_spz_oerlikon_raketenautomat
+il_magach_6_rocket
+il_magach_6b_gal
+it_freccia
+jp_type_87_rcv_prot
+sw_sherman_3_4
+uk_centurion_mk_2
+uk_sarc_mk4_a
+uk_vijayanta
+us_m1_abrams_kvt
+us_m4_t26
+ussr_bm_31_12
+ussr_btr_80a
+ussr_object_435
+

@@ -210,6 +210,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "uk_sarc_mk4_a",
+      "upperField" : "SARC MkIVa"
+    }, {
       "lowerField" : "uk_marmon_herrington_mk_6_2pdr",
       "upperField" : "SARC MkVI (2pdr)"
     }, {
@@ -278,6 +281,9 @@
       "lowerField" : "uk_centurion_action_x",
       "upperField" : "Centurion Action X"
     }, {
+      "lowerField" : "uk_vijayanta",
+      "upperField" : "Vijayanta"
+    }, {
       "lowerField" : "uk_centurion_mk_5_avre_era",
       "upperField" : "Centurion Assault Vehicle, Royal Engineers Mk.5"
     }, {
@@ -321,6 +327,9 @@
     }, {
       "lowerField" : "uk_ram_90mm_aa",
       "upperField" : "OQF 3.7-inch AA on Ram Mounting"
+    }, {
+      "lowerField" : "uk_centurion_mk_2",
+      "upperField" : "Centurion Mk.2"
     }, {
       "lowerField" : "uk_centurion_mk_5_raac",
       "upperField" : "Centurion Mk.5/1"

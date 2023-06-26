@@ -25,6 +25,9 @@
       "lowerField" : "jp_type_60_atm",
       "upperField" : "Type 60 ATM"
     }, {
+      "lowerField" : "jp_type_87_rcv_prot",
+      "upperField" : "Type 87 RCV (P)"
+    }, {
       "lowerField" : "jp_type_87_rcv",
       "upperField" : "Type 87 RCV"
     }, {

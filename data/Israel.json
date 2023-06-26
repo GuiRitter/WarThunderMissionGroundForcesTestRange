@@ -25,6 +25,9 @@
       "lowerField" : "il_magach_6r",
       "upperField" : "Magach 6R"
     }, {
+      "lowerField" : "il_magach_6_rocket",
+      "upperField" : "Magach 6R Hydra"
+    }, {
       "lowerField" : "il_magach_6b",
       "upperField" : "Magach 6B"
     }, {
@@ -114,6 +117,9 @@
     }, {
       "lowerField" : "il_centurion_shot_kal_d",
       "upperField" : "Sho't Kal Dalet"
+    }, {
+      "lowerField" : "il_magach_6b_gal",
+      "upperField" : "Magach 6B Gal"
     }, {
       "lowerField" : "il_merkava_mk_2d",
       "upperField" : "Merkava Mk.2D"

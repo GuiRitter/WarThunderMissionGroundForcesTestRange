@@ -10,11 +10,11 @@
       "lowerField" : "cn_m5a1_stuart",
       "upperField" : "✨Light Tank M5A1 Stuart"
     }, {
-      "lowerField" : "cn_m4a4_sherman",
-      "upperField" : "✨Medium Tank M4A4 Sherman"
+      "lowerField" : "cn_m24_chaffee",
+      "upperField" : "✨Light Tank M24 Chaffee"
     }, {
-      "lowerField" : "cn_m4a1_76w_sherman",
-      "upperField" : "✨Medium Tank M4A1 (75) W Sherman"
+      "lowerField" : "cn_object_211",
+      "upperField" : "Object 211"
     }, {
       "lowerField" : "cn_pt_76",
       "upperField" : "✨PT-76"
@@ -54,11 +54,14 @@
       "lowerField" : "cn_type_97_kai",
       "upperField" : "✨Type 97 Chi-Ha Kai"
     }, {
-      "lowerField" : "cn_m24_chaffee",
-      "upperField" : "✨Light Tank M24 Chaffee"
-    }, {
       "lowerField" : "cn_t_34_1942",
       "upperField" : "✨T-34 (1943)"
+    }, {
+      "lowerField" : "cn_m4a4_sherman",
+      "upperField" : "✨Medium Tank M4A4 Sherman"
+    }, {
+      "lowerField" : "cn_m4a1_76w_sherman",
+      "upperField" : "✨Medium Tank M4A1 (75) W Sherman"
     }, {
       "lowerField" : "cn_t_34_85_d_5t",
       "upperField" : "✨T-34-85 (S-53)"
@@ -80,6 +83,9 @@
     }, {
       "lowerField" : "cn_type_59d",
       "upperField" : "ZTZ59D1"
+    }, {
+      "lowerField" : "cn_ztz_88b",
+      "upperField" : "ZTZ88B"
     }, {
       "lowerField" : "cn_ztz_88a",
       "upperField" : "ZTZ88A"
@@ -217,6 +223,9 @@
     }, {
       "lowerField" : "cn_t_62",
       "upperField" : "T-62 Nº545"
+    }, {
+      "lowerField" : "cn_qn506",
+      "upperField" : "QN506"
     } ]
   }, {
     "cellList" : [ {
@@ -234,6 +243,9 @@
     }, {
       "lowerField" : "cn_type_95_ha_go",
       "upperField" : "Ha-Go"
+    }, {
+      "lowerField" : "cn_vt_4",
+      "upperField" : ""
     }, {
       "lowerField" : "cn_ztz_96a_race",
       "upperField" : "ZTZ96A"

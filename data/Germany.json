@@ -5,13 +5,16 @@
       "upperField" : "le.Pz.Sp.Wg. (s.Pz.B.41) Sd.Kfz.221"
     }, {
       "lowerField" : "germ_sturmpanzer_II",
-      "upperField" : "Sturmpanzer II"
+      "upperField" : "26cm sIG 33 B Sfl"
     }, {
       "lowerField" : "germ_panzerjager_1",
       "upperField" : "4,7 cm Pak(t) auf Pz.I Ausf.B"
     }, {
       "lowerField" : "germ_sdkfz_251_9",
       "upperField" : "m.Schütz.Pz.Wg. (Sd.Kfz.251/9)"
+    }, {
+      "lowerField" : "germ_pzkpfw_38t_na",
+      "upperField" : "Pz.38(t) n.A."
     }, {
       "lowerField" : "germ_sdkfz_234_2",
       "upperField" : "s.Pz.Sp.Wg. (5 cm 39/1 L60)"
@@ -22,11 +25,11 @@
       "lowerField" : "germ_pzkpfw_38t_marder_iii_ausf_h",
       "upperField" : "PaK40/3 auf Sfl.38 Ausf. H"
     }, {
-      "lowerField" : "germ_sdkfz_9_flak37",
-      "upperField" : "8.8cm Flak 37 Selbstfahrlafette auf 18 ton Zugkraftwagen"
-    }, {
       "lowerField" : "germ_pzsfl_IVa_dickermax",
       "upperField" : "10.5 cm K18 Pz.Sfl.IVa \"Dicker Max\""
+    }, {
+      "lowerField" : "germ_sdkfz_9_flak37",
+      "upperField" : "8.8cm Flak 37 Selbstfahrlafette auf 18 ton Zugkraftwagen"
     }, {
       "lowerField" : "germ_pzsflk40_sturer_emil",
       "upperField" : "Pz.Sfl. fuer 12,8 cm K40 \"Sturer Emil\""
@@ -49,11 +52,11 @@
       "lowerField" : "germ_marder_1a3",
       "upperField" : "Marder 1A3"
     }, {
-      "lowerField" : "germ_schutzenpanzer_puma",
-      "upperField" : "Schützenpanzer PUMA"
-    }, {
       "lowerField" : "germ_thyssen_henschel_tam",
       "upperField" : "Tanque Argentino Mediano"
+    }, {
+      "lowerField" : "germ_schutzenpanzer_puma",
+      "upperField" : "Schützenpanzer PUMA"
     }, {
       "lowerField" : "germ_begleitpanzer_57",
       "upperField" : "Begleitpanzer 57"
@@ -269,6 +272,9 @@
     }, {
       "lowerField" : "germ_panzerjager_tiger",
       "upperField" : "Jagdpanzer VI Jagdtiger"
+    }, {
+      "lowerField" : "germ_spz_oerlikon_raketenautomat",
+      "upperField" : "Raketenautomat"
     }, {
       "lowerField" : "germ_marder_df_105",
       "upperField" : "DF105"

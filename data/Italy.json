@@ -180,6 +180,9 @@
     }, {
       "lowerField" : "it_vcc_80_hitfist_30",
       "upperField" : "VCC-80 (HITFIST 30)"
+    }, {
+      "lowerField" : "it_freccia",
+      "upperField" : "Veicolo Blindato Medio 8x8 Freccia, Combat c/c Spike"
     } ]
   }, {
     "cellList" : [ {

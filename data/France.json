@@ -174,6 +174,9 @@
       "lowerField" : "fr_amx_elc_bis",
       "upperField" : "AMX ELC bis (1961)"
     }, {
+      "lowerField" : "fr_amx_30_auf_1",
+      "upperField" : "Canon de 155 Automoteur Modèle F1"
+    }, {
       "lowerField" : "fr_amx_50_foch",
       "upperField" : "Canon automoteur AMX-50 Foch"
     }, {
@@ -208,9 +211,15 @@
     }, {
       "lowerField" : "fr_amx_30_super",
       "upperField" : "AMX-30 Super"
+    }, {
+      "lowerField" : "fr_vbci2_mct30",
+      "upperField" : "VBCI-2 (MCT30)"
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "fr_amd_35_sa35",
+      "upperField" : "AMD.35 (SA35)"
+    }, {
       "lowerField" : "fr_lvt_bofors",
       "upperField" : "LVT-4/40"
     }, {

@@ -28,6 +28,9 @@
       "lowerField" : "sw_ikv_91_105",
       "upperField" : "Infanterikanonvagn 91-105"
     }, {
+      "lowerField" : "sw_cv_9030_fin",
+      "upperField" : "Combat Vehicle 9030 Finland"
+    }, {
       "lowerField" : "sw_strf_90b",
       "upperField" : "Stridsfordon 9040B"
     }, {
@@ -186,6 +189,9 @@
       "lowerField" : "sw_t_54_1951",
       "upperField" : "⦿T-54"
     }, {
+      "lowerField" : "sw_t_55m",
+      "upperField" : "⦿T-55M"
+    }, {
       "lowerField" : "sw_t_72m1",
       "upperField" : "T-72M1"
     }, {
@@ -200,11 +206,17 @@
       "lowerField" : "sw_strv_m39",
       "upperField" : "Stridsvagn m/39"
     }, {
+      "lowerField" : "sw_vickers_mk_e_45",
+      "upperField" : "⦿T-26E"
+    }, {
       "lowerField" : "sw_strv_m41_s1",
       "upperField" : "Stridsvagn m/41 S-I"
     }, {
       "lowerField" : "sw_sav_fm48",
-      "upperField" : "Stormartillerivagn 20.11.48"
+      "upperField" : "Stormartillerivagn 20.12.48"
+    }, {
+      "lowerField" : "sw_sherman_3_4 ",
+      "upperField" : "Stridsvagn Sherman III/IV"
     }, {
       "lowerField" : "sw_strv_81_rb52",
       "upperField" : "Strv 81 (RB 52)"
@@ -231,17 +243,6 @@
     }, {
       "lowerField" : "sw_ikv_73",
       "upperField" : "Ikv 73"
-    } ]
-  }, {
-    "cellList" : [ {
-      "lowerField" : "sw_cv_9030_fin",
-      "upperField" : ""
-    }, {
-      "lowerField" : "sw_t_55m",
-      "upperField" : ""
-    }, {
-      "lowerField" : "sw_vickers_mk_e_45",
-      "upperField" : "⦿T-26E"
     } ]
   } ]
 }

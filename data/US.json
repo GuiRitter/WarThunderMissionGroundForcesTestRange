@@ -66,6 +66,9 @@
       "lowerField" : "us_m4a3e8_76w_sherman",
       "upperField" : "Medium Tank M4A3 (76) W HVSS Sherman"
     }, {
+      "lowerField" : "us_m4_t26",
+      "upperField" : "M4/T26"
+    }, {
       "lowerField" : "us_t25",
       "upperField" : "Medium Tank T25"
     }, {
@@ -283,6 +286,9 @@
     }, {
       "lowerField" : "us_m1128_wolfpack",
       "upperField" : "M1128 Wolfpack"
+    }, {
+      "lowerField" : "us_m1_abrams_kvt",
+      "upperField" : "M1 Krasnovian Variant Tank"
     }, {
       "lowerField" : "us_m1a1_aim_abrams",
       "upperField" : "Tank, Combat, Full Tracked, 120-Gun M1A1, AIM"
