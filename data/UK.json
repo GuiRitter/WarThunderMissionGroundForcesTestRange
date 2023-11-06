@@ -120,6 +120,9 @@
       "lowerField" : "uk_vickers_mbt_mk_3",
       "upperField" : "Vickers Battle Tank Mk.3"
     }, {
+      "lowerField" : "uk_vickers_mk_11",
+      "upperField" : "Vickers Mk.11"
+    }, {
       "lowerField" : "uk_vfm_5",
       "upperField" : "Vickers/FMC VFM5"
     }, {
@@ -148,6 +151,9 @@
     }, {
       "lowerField" : "uk_fv4005",
       "upperField" : "FV4005 Stage II"
+    }, {
+      "lowerField" : "uk_m109a1",
+      "upperField" : "✳M109A1"
     }, {
       "lowerField" : "uk_a39_tortoise",
       "upperField" : "A39 Tortoise"

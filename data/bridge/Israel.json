@@ -92,6 +92,9 @@
       "lowerField" : "il_tcm_20",
       "upperField" : "TCM-20"
     }, {
+      "lowerField" : "il_m109",
+      "upperField" : ""
+    }, {
       "lowerField" : "il_ss_11_halftrack",
       "upperField" : "Zachlam Tager"
     }, {

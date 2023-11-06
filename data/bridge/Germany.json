@@ -31,6 +31,9 @@
       "lowerField" : "germ_waffentrager_krupp_steyr",
       "upperField" : "Waffenträger Krupp-Steyr mit Pak 43"
     }, {
+      "lowerField" : "germ_m109g",
+      "upperField" : ""
+    }, {
       "lowerField" : "germ_le_kpz_m41",
       "upperField" : "leKPz M41"
     }, {
@@ -297,7 +300,7 @@
   }, {
     "cellList" : [ {
       "lowerField" : "germ_pzkpfw_II_ausf_C_td",
-      "upperField" : ""
+      "upperField" : "Pz.II C TD"
     }, {
       "lowerField" : "germ_pzkpfw_ii_ausf_c_dak",
       "upperField" : "Pz.Kpfw. II DAK"

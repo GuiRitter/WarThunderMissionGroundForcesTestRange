@@ -37,33 +37,101 @@
         {
           "lowerField": "",
           "upperField": ""
+        }
+      ]
+    },
+    {
+      "cellList": [
+        {
+          "lowerField": "",
+          "upperField": ""
         },
+        {
+          "lowerField": "destroyer_heavy_tank_h",
+          "upperField": ""
+        },
+        {
+          "lowerField": "railway_ diesel_locomotive_te1",
+          "upperField": ""
+        }
+      ]
+    },
+    {
+      "cellList": [
         {
           "lowerField": "railway_covered_bcna",
           "upperField": ""
+        },
+        {
+          "lowerField": "sdi_minotaur",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_freight_car_1926_a",
+          "upperField": ""
         }
       ]
     },
     {
       "cellList": [
-        {
-          "lowerField": "",
-          "upperField": ""
-        },
         {
           "lowerField": "railway_hopper_bobr",
           "upperField": ""
+        },
+        {
+          "lowerField": "us_m4_sherman_fake",
+          "upperField": ""
+        },
+        {
+          "lowerField": "germ_panzerzug_bp_44_wagon_c",
+          "upperField": ""
         }
       ]
     },
     {
       "cellList": [
         {
-          "lowerField": "",
+          "lowerField": "railway_wam_4_locomotive",
           "upperField": ""
         },
         {
-          "lowerField": "railway_wam_4_locomotive",
+          "lowerField": "ussr_sht_1_2",
+          "upperField": ""
+        },
+        {
+          "lowerField": "germ_panzerzug_bp_44_wagon_b",
+          "upperField": ""
+        }
+      ]
+    },
+    {
+      "cellList": [
+        {
+          "lowerField": "assault_combat_space_suit",
+          "upperField": ""
+        },
+        {
+          "lowerField": "close_combat_space_suit",
+          "upperField": ""
+        },
+        {
+          "lowerField": "germ_panzerzug_bp_44_wagon_a",
+          "upperField": ""
+        }
+      ]
+    },
+    {
+      "cellList": [
+        {
+          "lowerField": "fire_support_combat_space_suit",
+          "upperField": ""
+        },
+        {
+          "lowerField": "scout_combat_space_suit",
+          "upperField": ""
+        },
+        {
+          "lowerField": "germ_panzerzug_bp_44_locomotive",
           "upperField": ""
         }
       ]

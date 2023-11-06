@@ -1374,7 +1374,7 @@ units{
   tankModels{
     name:t="tank_1_14"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8232, 1, 8142.0]]
-    unit_class:t="uk_vfm_5"
+    unit_class:t="uk_vickers_mk_11"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1405,6 +1405,37 @@ units{
   tankModels{
     name:t="tank_1_15"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8252, 1, 8142.0]]
+    unit_class:t="uk_vfm_5"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_1_16"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8272, 1, 8142.0]]
     unit_class:t="uk_vickers_mk7"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1653,7 +1684,7 @@ units{
   tankModels{
     name:t="tank_2_7"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8092, 1, 8162.0]]
-    unit_class:t="uk_a39_tortoise"
+    unit_class:t="uk_m109a1"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1684,7 +1715,7 @@ units{
   tankModels{
     name:t="tank_2_8"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8112, 1, 8162.0]]
-    unit_class:t="uk_fv4004_conway"
+    unit_class:t="uk_a39_tortoise"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1715,7 +1746,7 @@ units{
   tankModels{
     name:t="tank_2_9"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8162.0]]
-    unit_class:t="uk_fv438_swingfire"
+    unit_class:t="uk_fv4004_conway"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1746,7 +1777,7 @@ units{
   tankModels{
     name:t="tank_2_10"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8152, 1, 8162.0]]
-    unit_class:t="uk_fv510_isv"
+    unit_class:t="uk_fv438_swingfire"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1777,7 +1808,7 @@ units{
   tankModels{
     name:t="tank_2_11"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8172, 1, 8162.0]]
-    unit_class:t="uk_ratel_zt3"
+    unit_class:t="uk_fv510_isv"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1808,6 +1839,37 @@ units{
   tankModels{
     name:t="tank_2_12"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8162.0]]
+    unit_class:t="uk_ratel_zt3"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_2_13"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8212, 1, 8162.0]]
     unit_class:t="uk_fv102_striker"
     objLayer:i=1
     closed_waypoints:b=no

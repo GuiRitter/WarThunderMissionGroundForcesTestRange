@@ -100,9 +100,9 @@
     "cellList" : [ {
       "lowerField" : "us_lvt_a_1",
       "upperField" : "LVT(A)(1)"
-      }, {
-        "lowerField" : "us_m22_locust",
-        "upperField" : "Light Tank M22 Locust"
+    }, {
+      "lowerField" : "us_m22_locust",
+      "upperField" : "Light Tank M22 Locust"
     }, {
       "lowerField" : "us_m6a1",
       "upperField" : "Heavy Tank M6A1"
@@ -215,6 +215,9 @@
     }, {
       "lowerField" : "us_m36b2",
       "upperField" : "90-mm Gun Motor Carriage M36B2 "
+    }, {
+      "lowerField" : "us_m109a1",
+      "upperField" : "M109A1"
     }, {
       "lowerField" : "us_m56_scorpion",
       "upperField" : "90-mm, Full Tracked Self-Propelled Gun M56 Scorpion"
@@ -346,6 +349,9 @@
       "lowerField" : "us_magach_3",
       "upperField" : "✡Magach 3"
     }, {
+      "lowerField" : "us_t54e2",
+      "upperField" : "T54E2"
+    }, {
       "lowerField" : "us_t54e1",
       "upperField" : "T54E1"
     }, {
@@ -357,6 +363,9 @@
     }, {
       "lowerField" : "us_xm_8",
       "upperField" : "105 mm Armored Gun System XM8"
+    }, {
+      "lowerField" : "us_losat_ccv",
+      "upperField" : "LOSAT-CCVL"
     }, {
       "lowerField" : "us_ags_teledyne",
       "upperField" : "TCM AGS"
@@ -386,9 +395,6 @@
     }, {
       "lowerField" : "us_at_m40",
       "upperField" : "106 mm anti-tank gun M40"
-    }, {
-      "lowerField" : "us_losat_ccv",
-      "upperField" : "LOSAT"
     }, {
       "lowerField" : "us_m18_hellcat_black_cat_race",
       "upperField" : "“The Hellcat”"

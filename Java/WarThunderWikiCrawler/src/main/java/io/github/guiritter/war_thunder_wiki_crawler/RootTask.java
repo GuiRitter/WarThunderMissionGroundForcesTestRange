@@ -1,6 +1,7 @@
 package io.github.guiritter.war_thunder_wiki_crawler;
 
 import static java.lang.System.out;
+import static java.lang.Thread.currentThread;
 import static org.springframework.beans.factory.config.ConfigurableBeanFactory.SCOPE_PROTOTYPE;
 
 import java.io.File;
@@ -69,6 +70,6 @@ public final class RootTask implements Runnable {
 			out.println("RootTask started after taskExecutor.execute");
 		});
 
-		Thread.currentThread().interrupt();
+		currentThread().interrupt();
 	}
 }

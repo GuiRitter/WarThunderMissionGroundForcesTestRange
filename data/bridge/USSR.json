@@ -253,6 +253,9 @@
       "lowerField" : "ussr_9p149",
       "upperField" : "9P149 Shturm-S"
     }, {
+      "lowerField" : "ussr_object_775",
+      "upperField" : ""
+    }, {
       "lowerField" : "ussr_9p157",
       "upperField" : "9P157-2 Khrizantema-S"
     } ]
@@ -278,6 +281,9 @@
     }, {
       "lowerField" : "ussr_zsu_37",
       "upperField" : "ZSU-37"
+    }, {
+      "lowerField" : "ussr_btr_152d",
+      "upperField" : ""
     }, {
       "lowerField" : "ussr_btr_zd",
       "upperField" : "BTR-ZD"
@@ -476,7 +482,7 @@
       "upperField" : "T-72M2"
     }, {
       "lowerField" : "ussr_t_80u_yt_cup_2019",
-      "upperField" : "T-80U"
+      "upperField" : "\uD83C\uDFC6T-80U"
     } ]
   } ]
 }

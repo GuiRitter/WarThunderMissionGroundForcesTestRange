@@ -1,5 +1,7 @@
 package io.github.guiritter.war_thunder_wiki_crawler;
 
+import static java.lang.System.out;
+import static java.lang.Thread.currentThread;
 import static org.springframework.beans.factory.config.ConfigurableBeanFactory.SCOPE_PROTOTYPE;
 
 import java.util.concurrent.ExecutionException;
@@ -9,7 +11,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
-import static java.lang.System.out;
 
 @Component
 @Scope(SCOPE_PROTOTYPE)
@@ -42,7 +43,7 @@ public class ColumnTask extends RowTask {
 			out.println("ColumnTask started after taskExecutor.execute");
 		});
 
-		Thread.currentThread().interrupt();
+		currentThread().interrupt();
 	}
 
 	public final void setColumnElement(WebElement element) {

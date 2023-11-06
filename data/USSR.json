@@ -253,6 +253,9 @@
       "lowerField" : "ussr_9p149",
       "upperField" : "9P149 Shturm-S"
     }, {
+      "lowerField" : "ussr_object_775",
+      "upperField" : "Object 775"
+    }, {
       "lowerField" : "ussr_9p157",
       "upperField" : "9P157-2 Khrizantema-S"
     } ]
@@ -278,6 +281,9 @@
     }, {
       "lowerField" : "ussr_zsu_37",
       "upperField" : "ZSU-37"
+    }, {
+      "lowerField" : "ussr_btr_152d",
+      "upperField" : "BTR-152D"
     }, {
       "lowerField" : "ussr_btr_zd",
       "upperField" : "BTR-ZD"

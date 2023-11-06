@@ -168,6 +168,9 @@
     }, {
       "lowerField" : "jp_type_93",
       "upperField" : "Type 93"
+    }, {
+      "lowerField" : "jp_type_81_tansam",
+      "upperField" : ""
     } ]
   }, {
     "cellList" : [ {

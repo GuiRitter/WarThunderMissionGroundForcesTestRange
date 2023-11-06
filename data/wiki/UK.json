@@ -238,6 +238,12 @@
       "title" : "Vickers Mk.3"
     }, {
       "blkBackground" : null,
+      "blkImg" : "uk_vickers_mk_11",
+      "span" : "Vickers Mk.11",
+      "href" : "https://wiki.warthunder.com/Vickers_Mk.11",
+      "title" : "Vickers Mk.11"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "uk_vfm_5",
       "span" : "VFM5",
       "href" : "https://wiki.warthunder.com/VFM5",
@@ -292,6 +298,12 @@
       "span" : "FV4005",
       "href" : "https://wiki.warthunder.com/FV4005",
       "title" : "FV4005"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "uk_m109a1",
+      "span" : "▄M109A1",
+      "href" : "https://wiki.warthunder.com/M109A1_(Great_Britain)",
+      "title" : "M109A1 (Great Britain)"
     }, {
       "blkBackground" : null,
       "blkImg" : "uk_a39_tortoise",

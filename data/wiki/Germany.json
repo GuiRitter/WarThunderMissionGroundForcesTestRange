@@ -62,6 +62,12 @@
       "title" : "Waffentrager"
     }, {
       "blkBackground" : null,
+      "blkImg" : "germ_m109g",
+      "span" : "M109G",
+      "href" : "https://wiki.warthunder.com/M109G",
+      "title" : "M109G"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "germ_le_kpz_m41",
       "span" : "leKPz M41",
       "href" : "https://wiki.warthunder.com/LeKPz_M41",

@@ -119,6 +119,9 @@
       "lowerField" : "it_m15_42_contraereo",
       "upperField" : "Semovente M42 Contraereo"
     }, {
+      "lowerField" : "it_leopard_bofors",
+      "upperField" : "Semovente contraereo da 40/70 su scafo Leopard 1A2"
+    }, {
       "lowerField" : "it_oto_r3_t20_fa",
       "upperField" : "OTO R3 T20 FA-HS"
     }, {
@@ -174,6 +177,9 @@
     }, {
       "lowerField" : "it_m36b1",
       "upperField" : "Semovente da 90/50 M36B1"
+    }, {
+      "lowerField" : "it_m109g",
+      "upperField" : "✞M109G"
     }, {
       "lowerField" : "it_m113a1_tow",
       "upperField" : "OTO Melara VTC M113A1 TOW"
@@ -267,6 +273,9 @@
     }, {
       "lowerField" : "it_44m_zrinyi_1",
       "upperField" : "Zrinyi I"
+    }, {
+      "lowerField" : "it_breda_52_autocannone",
+      "upperField" : "Breda 90/53"
     }, {
       "lowerField" : "it_aubl_74_60_70m",
       "upperField" : "AUBL/74 HVG"

@@ -1,0 +1,36 @@
+no lines only in old
+
+lines only in new:
+
+assault_combat_space_suit
+close_combat_space_suit
+cn_plz_83
+destroyer_heavy_tank_h
+fire_support_combat_space_suit
+fr_amx_10p
+fr_m26_pershing
+germ_m109g
+germ_panzerzug_bp_44_locomotive
+germ_panzerzug_bp_44_wagon_a
+germ_panzerzug_bp_44_wagon_b
+germ_panzerzug_bp_44_wagon_c
+il_m109
+it_breda_52_autocannone
+it_leopard_bofors
+it_m109g
+jp_type_81_tansam
+railway_ diesel_locomotive_te1
+scout_combat_space_suit
+sdi_minotaur
+sw_pbv_501
+uk_m109a1
+uk_vickers_mk_11
+us_m109a1
+us_m22_locust
+us_m4_sherman_fake
+us_t54e2
+ussr_btr_152d
+ussr_freight_car_1926_a
+ussr_object_775
+ussr_sht_1_2
+

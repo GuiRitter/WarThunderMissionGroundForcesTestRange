@@ -120,6 +120,9 @@
       "lowerField" : "uk_vickers_mbt_mk_3",
       "upperField" : "Vickers Battle Tank Mk.3"
     }, {
+      "lowerField" : "uk_vickers_mk_11",
+      "upperField" : ""
+    }, {
       "lowerField" : "uk_vfm_5",
       "upperField" : "Vickers/FMC VFM5"
     }, {
@@ -148,6 +151,9 @@
     }, {
       "lowerField" : "uk_fv4005",
       "upperField" : "FV4005 Stage II"
+    }, {
+      "lowerField" : "uk_m109a1",
+      "upperField" : ""
     }, {
       "lowerField" : "uk_a39_tortoise",
       "upperField" : "A39 Tortoise"
@@ -294,7 +300,7 @@
       "upperField" : "Tank, Combat, 120-mm Gun, Challenger Mk.3, Desert Storm"
     }, {
       "lowerField" : "uk_challenger_II_yt_cup_2019",
-      "upperField" : "Tank, Combat, 120-mm Gun, Challenger 2"
+      "upperField" : "\uD83C\uDFC6Challenger 2"
     } ]
   }, {
     "cellList" : [ {
@@ -317,7 +323,7 @@
       "upperField" : "Excelsior"
     }, {
       "lowerField" : "uk_a_22f_mk_7_churchill_crocodile",
-      "upperField" : ""
+      "upperField" : "Tank, Infantry, Mk IV, Churchill VII (A22F) Crocodile"
     }, {
       "lowerField" : "uk_a_34_comet_iron_duke",
       "upperField" : "Iron Duke IV"

@@ -180,6 +180,12 @@
       "title" : "TCM-20"
     }, {
       "blkBackground" : null,
+      "blkImg" : "il_m109",
+      "span" : "M109",
+      "href" : "https://wiki.warthunder.com/M109_(Israel)",
+      "title" : "M109 (Israel)"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "il_ss_11_halftrack",
       "span" : "Zachlam Tager",
       "href" : "https://wiki.warthunder.com/Zachlam_Tager",

@@ -500,6 +500,12 @@
       "title" : "Shturm-S"
     }, {
       "blkBackground" : null,
+      "blkImg" : "ussr_object_775",
+      "span" : "Object 775",
+      "href" : "https://wiki.warthunder.com/Object_775",
+      "title" : "Object 775"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "ussr_9p157",
       "span" : "Khrizantema-S",
       "href" : "https://wiki.warthunder.com/Khrizantema-S",
@@ -548,6 +554,12 @@
       "span" : "ZSU-37",
       "href" : "https://wiki.warthunder.com/ZSU-37",
       "title" : "ZSU-37"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "ussr_btr_152d",
+      "span" : "BTR-152D",
+      "href" : "https://wiki.warthunder.com/BTR-152D",
+      "title" : "BTR-152D"
     }, {
       "blkBackground" : null,
       "blkImg" : "ussr_btr_zd",

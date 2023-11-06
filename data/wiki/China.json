@@ -332,6 +332,12 @@
       "title" : "SU-100 (China)"
     }, {
       "blkBackground" : null,
+      "blkImg" : "cn_plz_83",
+      "span" : "PLZ83",
+      "href" : "https://wiki.warthunder.com/PLZ83",
+      "title" : "PLZ83"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "cn_m113a1_tow",
       "span" : "␗M113A1 (TOW)",
       "href" : "https://wiki.warthunder.com/M113A1_(TOW)_(China)",

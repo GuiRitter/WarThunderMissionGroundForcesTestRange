@@ -234,6 +234,12 @@
       "title" : "M42 (Italy)"
     }, {
       "blkBackground" : null,
+      "blkImg" : "it_leopard_bofors",
+      "span" : "Leopard 40/70",
+      "href" : "https://wiki.warthunder.com/Leopard_40/70",
+      "title" : "Leopard 40/70"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "it_oto_r3_t20_fa",
       "span" : "R3 T20 FA-HS",
       "href" : "https://wiki.warthunder.com/R3_T20_FA-HS",
@@ -342,6 +348,12 @@
       "span" : "M36B1",
       "href" : "https://wiki.warthunder.com/M36B1",
       "title" : "M36B1"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "it_m109g",
+      "span" : "▄M109G",
+      "href" : "https://wiki.warthunder.com/M109G_(Italy)",
+      "title" : "M109G (Italy)"
     }, {
       "blkBackground" : null,
       "blkImg" : "it_m113a1_tow",
@@ -522,6 +534,12 @@
       "span" : "Zrinyi I",
       "href" : "https://wiki.warthunder.com/Zrinyi_I",
       "title" : "Zrinyi I"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "it_breda_52_autocannone",
+      "span" : "Breda 90/53",
+      "href" : "https://wiki.warthunder.com/Breda_90/53",
+      "title" : "Breda 90/53"
     }, {
       "blkBackground" : null,
       "blkImg" : "it_aubl_74_60_70m",

@@ -124,6 +124,12 @@
       "title" : "M4A4 (SA50)"
     }, {
       "blkBackground" : null,
+      "blkImg" : "fr_m26_pershing",
+      "span" : "▄M26",
+      "href" : "https://wiki.warthunder.com/M26_(France)",
+      "title" : "M26 (France)"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "fr_lorraine_40t",
       "span" : "Lorraine 40t",
       "href" : "https://wiki.warthunder.com/Lorraine_40t",
@@ -276,6 +282,12 @@
       "span" : "AMX-13 DCA 40",
       "href" : "https://wiki.warthunder.com/AMX-13_DCA_40",
       "title" : "AMX-13 DCA 40"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "fr_amx_10p",
+      "span" : "AMX-10P",
+      "href" : "https://wiki.warthunder.com/AMX-10P",
+      "title" : "AMX-10P"
     }, {
       "blkBackground" : null,
       "blkImg" : "fr_amx_30_dca",

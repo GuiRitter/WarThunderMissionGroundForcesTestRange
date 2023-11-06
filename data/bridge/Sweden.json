@@ -16,6 +16,9 @@
       "lowerField" : "sw_pvkv_II",
       "upperField" : "Pansarvärnskanonvagn II"
     }, {
+      "lowerField" : "sw_pbv_501",
+      "upperField" : ""
+    }, {
       "lowerField" : "sw_ikv_91",
       "upperField" : "Infanterikanonvagn 91"
     }, {
@@ -219,7 +222,7 @@
       "upperField" : "Stormartillerivagn 20.12.48"
     }, {
       "lowerField" : "sw_sherman_3_4",
-      "upperField" : ""
+      "upperField" : "Stridsvagn Sherman III/IV"
     }, {
       "lowerField" : "sw_strv_81_rb52",
       "upperField" : "Strv 81 (RB 52)"

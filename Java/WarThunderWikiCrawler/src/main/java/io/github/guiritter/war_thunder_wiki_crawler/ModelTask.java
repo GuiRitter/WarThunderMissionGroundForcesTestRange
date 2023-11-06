@@ -1,24 +1,25 @@
 package io.github.guiritter.war_thunder_wiki_crawler;
 
+import static java.lang.System.out;
+import static java.lang.Thread.currentThread;
 import static org.springframework.beans.factory.config.ConfigurableBeanFactory.SCOPE_PROTOTYPE;
 
 import java.util.Map;
+import java.util.concurrent.ExecutionException;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
-import static java.lang.System.out;
-
 @Component
 @Scope(SCOPE_PROTOTYPE)
-public final class ModelTask extends ColumnTask {
+public class ModelTask extends ColumnTask {
 
 	@Autowired
 	private Map<String, String> fixMap;
 
-	private WebElement modelElement;
+	WebElement modelElement;
 
 	private Integer modelIndex;
 
@@ -36,30 +37,54 @@ public final class ModelTask extends ColumnTask {
 		var href = a.getAttribute("href");
 
 		var span = text.findElement(By.cssSelector("span")).getAttribute("textContent");
-		var blkImg = img.findElement(By.cssSelector("img")).getAttribute("alt").replace(".png", "");
+		var blkImgList = img.findElements(By.cssSelector("img"));
 
-		var tree = blkImg.substring(0, blkImg.indexOf("_"));
+		var blkBackground = fixMap.get(href);
 
-		var blkBackgound = fixMap.get(href);
+		if (blkImgList.isEmpty()) {
+			var task = applicationContext.getBean("modelDetailTask", ModelDetailTask.class);
 
-		out.format("%s %s %s %s %s, %s, %s, %s\n", tree, rowIndex, columnIndex, modelIndex, span, title, blkBackgound, blkImg);
+			task.setRowIndex(rowIndex);
+			task.setColumnIndex(columnIndex);
+			task.setModelIndex(modelIndex);
+			task.setModelElement(modelElement);
+			task.setHref(href);
+			task.setSpan(span);
+			task.setTitle(title);
+			task.setBlkBackground(blkBackground);
 
-		var table = tableMap.get(tree);
+			out.println("ModelTask started before taskExecutor.execute");
+			try {
+				taskExecutor.submit(task).get();
+			} catch (InterruptedException | ExecutionException e) {
+				e.printStackTrace();
+			}
+			out.println("ModelTask started after taskExecutor.execute");
+		} else {
+			var blkImg = blkImgList.get(0).getAttribute("alt").replace(".png", "");
 
-		if (table == null) {
-			table = new Table();
-			tableMap.put(tree, table);
+			var tree = blkImg.substring(0, blkImg.indexOf("_"));
+
+			out.format("%s %s %s %s %s, %s, %s, %s\n", tree, rowIndex, columnIndex, modelIndex, span, title,
+					blkBackground, blkImg);
+
+			var table = tableMap.get(tree);
+
+			if (table == null) {
+				table = new Table();
+				tableMap.put(tree, table);
+			}
+
+			if (table.columnList.size() < (columnIndex + 1)) {
+				table.columnList.add(new Column());
+			}
+
+			var column = table.columnList.get(columnIndex);
+
+			column.cellList.add(new Cell(title, span, blkBackground, blkImg, href));
 		}
 
-		if (table.columnList.size() < (columnIndex + 1)) {
-			table.columnList.add(new Column());
-		}
-
-		var column = table.columnList.get(columnIndex);
-
-		column.cellList.add(new Cell(title, span, blkBackgound, blkImg, href));
-
-		Thread.currentThread().interrupt();
+		currentThread().interrupt();
 	}
 
 	public final void setModelElement(WebElement element) {

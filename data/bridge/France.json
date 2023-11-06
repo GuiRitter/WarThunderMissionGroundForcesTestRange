@@ -63,6 +63,9 @@
       "lowerField" : "fr_m4a4_cn_75_50",
       "upperField" : "M4A4 (SA50)"
     }, {
+      "lowerField" : "fr_m26_pershing",
+      "upperField" : ""
+    }, {
       "lowerField" : "fr_lorraine_40t",
       "upperField" : "Char de bataille de 40 tonnes"
     }, {
@@ -141,6 +144,9 @@
     }, {
       "lowerField" : "fr_amx_13_dca_40",
       "upperField" : "AMX-13 DCA 40"
+    }, {
+      "lowerField" : "fr_amx_10p",
+      "upperField" : ""
     }, {
       "lowerField" : "fr_amx_30_dca",
       "upperField" : "AMX-30 DCA"

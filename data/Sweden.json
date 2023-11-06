@@ -16,6 +16,9 @@
       "lowerField" : "sw_pvkv_II",
       "upperField" : "Pansarvärnskanonvagn II"
     }, {
+      "lowerField" : "sw_pbv_501",
+      "upperField" : "Pansarbandvagn 501"
+    }, {
       "lowerField" : "sw_ikv_91",
       "upperField" : "Infanterikanonvagn 91"
     }, {

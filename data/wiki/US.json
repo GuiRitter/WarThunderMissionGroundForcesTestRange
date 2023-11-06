@@ -424,6 +424,12 @@
       "title" : "M36B2"
     }, {
       "blkBackground" : null,
+      "blkImg" : "us_m109a1",
+      "span" : "M109A1",
+      "href" : "https://wiki.warthunder.com/M109A1",
+      "title" : "M109A1"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "us_m56_scorpion",
       "span" : "M56",
       "href" : "https://wiki.warthunder.com/M56",
@@ -680,6 +686,12 @@
       "title" : "Magach 3 (ERA) (USA)"
     }, {
       "blkBackground" : null,
+      "blkImg" : "us_t54e2",
+      "span" : "T54E2",
+      "href" : "https://wiki.warthunder.com/T54E2",
+      "title" : "T54E2"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "us_t54e1",
       "span" : "T54E1",
       "href" : "https://wiki.warthunder.com/T54E1",
@@ -702,6 +714,12 @@
       "span" : "XM8",
       "href" : "https://wiki.warthunder.com/XM8",
       "title" : "XM8"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "us_losat_ccv",
+      "span" : "LOSAT",
+      "href" : "https://wiki.warthunder.com/LOSAT",
+      "title" : "LOSAT"
     }, {
       "blkBackground" : null,
       "blkImg" : "us_ags_teledyne",

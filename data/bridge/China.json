@@ -169,6 +169,9 @@
       "lowerField" : "cn_su_100_1945",
       "upperField" : "✨SU-100"
     }, {
+      "lowerField" : "cn_plz_83",
+      "upperField" : ""
+    }, {
       "lowerField" : "cn_m113a1_tow",
       "upperField" : "✨M113A1 TOW"
     }, {
