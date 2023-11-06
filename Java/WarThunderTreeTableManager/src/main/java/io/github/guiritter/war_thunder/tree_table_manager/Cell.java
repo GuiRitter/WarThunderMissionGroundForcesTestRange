@@ -1,15 +1,20 @@
 package io.github.guiritter.war_thunder.tree_table_manager;
 
 import static java.util.Arrays.asList;
+import static javax.swing.BoxLayout.X_AXIS;
 import static javax.swing.BoxLayout.Y_AXIS;
 import static javax.swing.SwingConstants.CENTER;
 import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
 
 import java.awt.Dimension;
 import java.awt.FlowLayout;
+import java.awt.Insets;
 import java.util.List;
+import java.util.UUID;
+import java.util.function.Consumer;
 
 import javax.swing.BoxLayout;
+import javax.swing.JButton;
 import javax.swing.JCheckBox;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
@@ -25,13 +30,31 @@ public final class Cell {
 	private final JCheckBox checkBox;
 
 	@JsonIgnore
+	public final JButton downButton;
+
+	@JsonIgnore
 	private final List<JTextField> fieldList;
+
+	@JsonIgnore
+	public final String id = UUID.randomUUID().toString();
 
 	@JsonIgnore
 	private final JTextField lowerField;
 
 	@JsonIgnore
+	private final Consumer<String> onDownPressed;
+
+	@JsonIgnore
+	private final Consumer<String> onUpPressed;
+
+	@JsonIgnore
 	public final JPanel panel;
+
+	@JsonIgnore
+	public final JPanel innerPanel;
+
+	@JsonIgnore
+	public final JButton upButton;
 
 	@JsonIgnore
 	private final JTextField upperField;
@@ -81,12 +104,19 @@ public final class Cell {
 		return String.format("{ class: Cell, upper: %s, lower: %s }", upperField.getText(), lowerField.getText());
 	}
 
-	public Cell() {
+	public Cell(Consumer<String> onDownPressedListener, Consumer<String> onUpPressedListener) {
+
+		onDownPressed = onDownPressedListener;
+		onUpPressed = onUpPressedListener;
 
 		panel = new JPanel();
 		panel.setLayout(new BoxLayout(panel, Y_AXIS));
 		panel.setBorder(new EtchedBorder());
 		panel.setAlignmentX(0.5f);
+
+		innerPanel = new JPanel();
+		innerPanel.setLayout(new BoxLayout(innerPanel, X_AXIS));
+		panel.add(innerPanel);
 
 		checkBox = new JCheckBox();
 		checkBox.setAlignmentX(0.5f);
@@ -94,7 +124,27 @@ public final class Cell {
 		checkBox.setPreferredSize(new Dimension(20, 20));
 		checkBox.setMaximumSize(new Dimension(20, 20));
 		checkBox.setOpaque(false);
-		panel.add(checkBox);
+		innerPanel.add(checkBox);
+
+		upButton = new JButton("^");
+		upButton.setAlignmentX(0.5f);
+		upButton.setMargin(new Insets(0, 0, 0, 0));
+		upButton.setMinimumSize(new Dimension(20, 20));
+		upButton.setPreferredSize(new Dimension(20, 20));
+		upButton.setMaximumSize(new Dimension(20, 20));
+		upButton.setOpaque(false);
+		upButton.addActionListener((event) -> onUpPressed.accept(id));
+		innerPanel.add(upButton);
+
+		downButton = new JButton("v");
+		downButton.setAlignmentX(0.5f);
+		downButton.setMargin(new Insets(0, 0, 0, 0));
+		downButton.setMinimumSize(new Dimension(20, 20));
+		downButton.setPreferredSize(new Dimension(20, 20));
+		downButton.setMaximumSize(new Dimension(20, 20));
+		downButton.setOpaque(false);
+		downButton.addActionListener((event) -> onDownPressed.accept(id));
+		innerPanel.add(downButton);
 
 		upperField = new JTextField();
 		upperField.setAlignmentX(0.5f);
@@ -115,8 +165,8 @@ public final class Cell {
 		fieldList = asList(upperField, lowerField);
 	}
 
-	public Cell(String upper, String lower) {
-		this();
+	public Cell(Consumer<String> onDownPressedListener, Consumer<String> onUpPressedListener, String upper, String lower) {
+		this(onDownPressedListener, onUpPressedListener);
 		upperField.setText(upper);
 		lowerField.setText(lower);
 	}
@@ -125,7 +175,7 @@ public final class Cell {
 		JFrame frame = new JFrame();
 		frame.getContentPane().setLayout(new FlowLayout());
 		frame.setDefaultCloseOperation(EXIT_ON_CLOSE);
-		frame.getContentPane().add((new Cell()).panel);
+		frame.getContentPane().add((new Cell(null, null)).panel);
 		frame.pack();
 		frame.setLocationRelativeTo(null);
 		frame.setVisible(true);

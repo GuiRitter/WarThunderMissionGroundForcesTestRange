@@ -1,0 +1,36 @@
+lines only in old:
+
+us_m22_locust
+
+lines only in new:
+
+cn_m41_a3_walker_bulldog
+cn_mbt2000
+fr_amx_10m_acra
+fr_leclerc_azur
+germ_amd_35_kwk
+germ_leopard_2a5_pso
+germ_spz_12_3
+il_mim_72_chaparral
+it_2s1
+it_39m_csaba
+it_40_43m_zrinyi_2
+it_40m_turan_1
+it_43m_turan_3
+it_btr_80a_hungary
+it_kf_41
+it_leopard_2a4
+it_t_72m1
+it_zsu_23_4
+it_zsu_57_2
+jp_type_10_prototype
+sw_k9_vidar
+sw_patria_amv_ctcv_105
+sw_pvkv_iv
+uk_t_90s_bheeshma
+us_losat_ccv
+us_m4_sherman_promo
+us_mim_72_chaparral
+ussr_2s1
+ussr_to_55
+

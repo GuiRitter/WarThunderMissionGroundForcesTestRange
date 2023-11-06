@@ -5,6 +5,8 @@ import static javax.swing.BoxLayout.Y_AXIS;
 import java.awt.FlowLayout;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.function.Consumer;
+
 import static java.util.stream.Collectors.toList;
 
 import javax.swing.BoxLayout;
@@ -24,12 +26,60 @@ public final class Column {
 	private int i;
 
 	@JsonIgnore
+	private final Consumer<String> onDownPressed = new Consumer<String>() {
+
+		@Override
+		public void accept(String id) {
+			int pressedIndex;
+
+			for (pressedIndex = 0; pressedIndex < cellList.size(); pressedIndex++) {
+				if (cellList.get(pressedIndex).id.compareToIgnoreCase(id) == 0) {
+					break;
+				}
+			}
+
+			if (pressedIndex == (cellList.size() - 1)) {
+				return;
+			}
+
+			var pressedCell = cellList.get(pressedIndex);
+			var otherCell = cellList.get(pressedIndex + 1);
+
+			Cell.switchContent(pressedCell, otherCell);
+		}
+	};
+
+	@JsonIgnore
+	private final Consumer<String> onUpPressed = new Consumer<String>() {
+
+		@Override
+		public void accept(String id) {
+			int pressedIndex;
+
+			for (pressedIndex = 0; pressedIndex < cellList.size(); pressedIndex++) {
+				if (cellList.get(pressedIndex).id.compareToIgnoreCase(id) == 0) {
+					break;
+				}
+			}
+
+			if (pressedIndex == 0) {
+				return;
+			}
+
+			var pressedCell = cellList.get(pressedIndex);
+			var otherCell = cellList.get(pressedIndex - 1);
+
+			Cell.switchContent(pressedCell, otherCell);
+		}
+	};
+
+	@JsonIgnore
 	public final JPanel panel;
 
 	public void addCellBefore() {
 		for (i = cellList.size() - 1; i > -1; i--) {
 			if (cellList.get(i).isChecked()) {
-				cellList.add(i, new Cell());
+				cellList.add(i, new Cell(onDownPressed, onUpPressed));
 				panel.add(cellList.get(i).panel, i);
 				cellList.get(i + 1).setChecked(false);
 			}
@@ -39,7 +89,7 @@ public final class Column {
 	public void addCellLast() {
 		for (Cell cell : cellList) {
 			if (cell.isChecked()) {
-				cellList.addLast(new Cell());
+				cellList.addLast(new Cell(onDownPressed, onUpPressed));
 				panel.add(cellList.getLast().panel);
 				setChecked(false);
 				return;
@@ -48,7 +98,7 @@ public final class Column {
 	}
 
 	public void addCellLast(String upper, String lower) {
-		cellList.addLast(new Cell(upper, lower));
+		cellList.addLast(new Cell(onDownPressed, onUpPressed, upper, lower));
 		panel.add(cellList.getLast().panel);
 	}
 
@@ -105,7 +155,7 @@ public final class Column {
 		panel.setLayout(new BoxLayout(panel, Y_AXIS));
 		panel.setAlignmentY(0);
 
-		cellList.add(new Cell());
+		cellList.add(new Cell(onDownPressed, onUpPressed));
 		panel.add(cellList.getLast().panel);
 	}
 

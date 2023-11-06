@@ -16,17 +16,14 @@
       "lowerField" : "us_m24_chaffee",
       "upperField" : "Light Tank M24 Chaffee"
     }, {
+      "lowerField" : "us_m18_hellcat",
+      "upperField" : "M18 Gun Motor Carriage"
+    }, {
       "lowerField" : "us_m41_walker_bulldog",
       "upperField" : "Light Tank M41A1 Walker Bulldog"
     }, {
-      "lowerField" : "us_m56_scorpion",
-      "upperField" : "90-mm, Full Tracked Self-Propelled Gun M56 Scorpion"
-    }, {
       "lowerField" : "us_t92",
       "upperField" : "76mm Gun Tank T92"
-    }, {
-      "lowerField" : "us_m50_ontos",
-      "upperField" : "106 mm Multiple Self-propelled Rifle M50"
     }, {
       "lowerField" : "us_m551",
       "upperField" : "152-mm Gun / Launcher M551 Sheridan"
@@ -92,17 +89,20 @@
     }, {
       "lowerField" : "us_m60a1_rise_passive_era",
       "upperField" : "Tank, Combat, Full-Tracked 105-mm Gun M60A1 RISE (Passive)"
+    }, {
+      "lowerField" : "us_m60a3_tts",
+      "upperField" : "105 mm Gun Tank M60A3 TTS"
+    }, {
+      "lowerField" : "us_m1a1_hc_abrams",
+      "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC"
     } ]
   }, {
     "cellList" : [ {
       "lowerField" : "us_lvt_a_1",
       "upperField" : "LVT(A)(1)"
-    }, {
-      "lowerField" : "us_m22_locust",
-      "upperField" : "Light Tank M22 Locust"
-    }, {
-      "lowerField" : "us_m4a3_105_sherman",
-      "upperField" : "Medium Tank M4A3 (105) HVSS Sherman"
+      }, {
+        "lowerField" : "us_m22_locust",
+        "upperField" : "Light Tank M22 Locust"
     }, {
       "lowerField" : "us_m6a1",
       "upperField" : "Heavy Tank M6A1"
@@ -152,9 +152,6 @@
       "lowerField" : "us_m1_ip_abrams",
       "upperField" : "Tank, Combat, Full Tracked, 105-mm Gun IPM1"
     }, {
-      "lowerField" : "us_m1a1_hc_abrams",
-      "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC"
-    }, {
       "lowerField" : "us_m1a2_abrams",
       "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A2"
     }, {
@@ -166,11 +163,11 @@
       "lowerField" : "us_halftrack_m13",
       "upperField" : "Multiple Gun Motor Carriage M13"
     }, {
-      "lowerField" : "us_halftrack_m16",
-      "upperField" : "Multiple Gun Motor Carriage M16"
-    }, {
       "lowerField" : "us_halftrack_m15",
       "upperField" : "Combination Gun Motor Carriage M15"
+    }, {
+      "lowerField" : "us_halftrack_m16",
+      "upperField" : "Multiple Gun Motor Carriage M16"
     }, {
       "lowerField" : "us_m19",
       "upperField" : "Twin Gun Motor Carriage M19"
@@ -183,6 +180,9 @@
     }, {
       "lowerField" : "us_m247",
       "upperField" : "Gun, Air Defense Artillery, Self-Propelled, 40-mm, M247"
+    }, {
+      "lowerField" : "us_mim_72_chaparral",
+      "upperField" : "Improved Chaparral"
     }, {
       "lowerField" : "us_lav_ad",
       "upperField" : "LAV-AD"
@@ -204,17 +204,23 @@
       "lowerField" : "us_halftrack_m3_75mm_gmc",
       "upperField" : "75mm Gun Motor Carriage M3"
     }, {
+      "lowerField" : "us_m4a3_105_sherman",
+      "upperField" : "Medium Tank M4A3 (105) HVSS Sherman"
+    }, {
       "lowerField" : "us_m10",
       "upperField" : "3-inch Gun Motor Carriage M10"
-    }, {
-      "lowerField" : "us_m18_hellcat",
-      "upperField" : "M18 Gun Motor Carriage"
     }, {
       "lowerField" : "us_m36",
       "upperField" : "90-mm Gun Motor Carriage M36"
     }, {
       "lowerField" : "us_m36b2",
       "upperField" : "90-mm Gun Motor Carriage M36B2 "
+    }, {
+      "lowerField" : "us_m56_scorpion",
+      "upperField" : "90-mm, Full Tracked Self-Propelled Gun M56 Scorpion"
+    }, {
+      "lowerField" : "us_m50_ontos",
+      "upperField" : "106 mm Multiple Self-propelled Rifle M50"
     }, {
       "lowerField" : "us_t95",
       "upperField" : "105mm Gun Motor Carriage T95"
@@ -257,11 +263,11 @@
       "lowerField" : "us_m4_sherman_calliope",
       "upperField" : "Rocket Launcher T34 Calliope"
     }, {
-      "lowerField" : "us_m26_t99",
-      "upperField" : "Medium Tank M26 T99"
-    }, {
       "lowerField" : "us_m18_super_hellcat",
       "upperField" : "M18 90-mm Gun Motor Carriage"
+    }, {
+      "lowerField" : "us_m26_t99",
+      "upperField" : "Medium Tank M26 T99"
     }, {
       "lowerField" : "us_m26e1_pershing",
       "upperField" : "Medium Tank M26E1"
@@ -295,6 +301,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "us_lvt_a_1_trb",
+      "upperField" : "☺LVT(A)(1)"
+    }, {
       "lowerField" : "us_m8_greyhound",
       "upperField" : "Light Armored Car M8"
     }, {
@@ -309,6 +318,9 @@
     }, {
       "lowerField" : "us_t18_e2",
       "upperField" : "T18E2 \"Boarhound\""
+    }, {
+        "lowerField" : "us_m4_sherman_promo",
+        "upperField" : "Medium Tank M4 Sherman"
     }, {
       "lowerField" : "us_t55e1",
       "upperField" : "T55E1"
@@ -357,6 +369,9 @@
     }, {
       "lowerField" : "us_merkava_mk_3d",
       "upperField" : "Merkava Mk.3D"
+    }, {
+      "lowerField" : "us_m1a1_abrams_yt_cup_2019",
+      "upperField" : "🏆M1A1"
     } ]
   }, {
     "cellList" : [ {
@@ -372,17 +387,14 @@
       "lowerField" : "us_at_m40",
       "upperField" : "106 mm anti-tank gun M40"
     }, {
-      "lowerField" : "us_lvt_a_1_trb",
-      "upperField" : "☺LVT(A)(1)"
+      "lowerField" : "us_losat_ccv",
+      "upperField" : "LOSAT"
     }, {
       "lowerField" : "us_m18_hellcat_black_cat_race",
       "upperField" : "“The Hellcat”"
     }, {
-      "lowerField" : "us_m1a1_abrams_yt_cup_2019",
-      "upperField" : "🏆M1A1"
-    }, {
       "lowerField" : "us_m26_pershing_tutorial",
-      "upperField" : ""
+      "upperField" : "M26"
     }, {
       "lowerField" : "us_m4a2_1944",
       "upperField" : "M4A2 (1944)"
@@ -391,7 +403,7 @@
       "upperField" : "✙M4 748 (a)"
     }, {
       "lowerField" : "us_m4a2_76w_sherman_tutorial",
-      "upperField" : ""
+      "upperField" : "M4A2 (76) W"
     }, {
       "lowerField" : "us_m551_football",
       "upperField" : ""

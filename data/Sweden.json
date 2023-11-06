@@ -4,8 +4,8 @@
       "lowerField" : "sw_strv_m31",
       "upperField" : "Stridsvagn "
     }, {
-      "lowerField" : "sw_ikv_72",
-      "upperField" : "Infanterikanonvagn 72"
+      "lowerField" : "sw_bt_42",
+      "upperField" : "BT-42"
     }, {
       "lowerField" : "sw_strv_m41_s2",
       "upperField" : "Stridsvagn m/41 S-II"
@@ -15,9 +15,6 @@
     }, {
       "lowerField" : "sw_pvkv_II",
       "upperField" : "Pansarvärnskanonvagn II"
-    }, {
-      "lowerField" : "sw_ikv_103",
-      "upperField" : "Infanterikanonvagn 103"
     }, {
       "lowerField" : "sw_ikv_91",
       "upperField" : "Infanterikanonvagn 91"
@@ -54,6 +51,9 @@
       "lowerField" : "sw_strv_m42_eh",
       "upperField" : "Stridsvagn m/42 EH"
     }, {
+      "lowerField" : "sw_pvkv_iv",
+      "upperField" : "Pansarvärnskanonvagn IV"
+    }, {
       "lowerField" : "sw_strv_m42_delat_torn",
       "upperField" : "Stridsvagn m/42 Delat Torn"
     }, {
@@ -69,11 +69,11 @@
       "lowerField" : "sw_strv_103a",
       "upperField" : "Stridsvagn 103A"
     }, {
-      "lowerField" : "sw_strv_103c",
-      "upperField" : "Stridsvagn 103C"
-    }, {
       "lowerField" : "sw_strv_104",
       "upperField" : "Stridsvagn 104"
+    }, {
+      "lowerField" : "sw_strv_103c",
+      "upperField" : "Stridsvagn 103C"
     }, {
       "lowerField" : "sw_strv_105",
       "upperField" : "Stridsvagn 105"
@@ -107,11 +107,11 @@
       "lowerField" : "sw_zsu_57_2",
       "upperField" : "⦿ZSU-57-2"
     }, {
-      "lowerField" : "sw_itpsv_90",
-      "upperField" : "ItPsV 90"
-    }, {
       "lowerField" : "sw_veak_40",
       "upperField" : "Vagn Eldledning AutomatKanon 40"
+    }, {
+      "lowerField" : "sw_itpsv_90",
+      "upperField" : "ItPsV 90"
     }, {
       "lowerField" : "sw_lvrbv_701",
       "upperField" : "Luftvärnsrobotbandvagn 701"
@@ -127,14 +127,14 @@
     } ]
   }, {
     "cellList" : [ {
-      "lowerField" : "sw_bt_42",
-      "upperField" : "BT-42"
-    }, {
-      "lowerField" : "sw_stormpjas_fm43_44",
-      "upperField" : "Stormpjas fm/43-44"
+      "lowerField" : "sw_ikv_72",
+      "upperField" : "Infanterikanonvagn 72"
     }, {
       "lowerField" : "sw_sav_m43_1944",
       "upperField" : "Stormartillerivagn m/43 (1944) "
+    }, {
+      "lowerField" : "sw_stormpjas_fm43_44",
+      "upperField" : "Stormpjas fm/43-44"
     }, {
       "lowerField" : "sw_sav_m43_1946",
       "upperField" : "Stormartillerivagn m/43 (1946) "
@@ -142,17 +142,20 @@
       "lowerField" : "sw_pvkv_m43_1946",
       "upperField" : "Pansarvärnskanonvagn m/43 (1946)"
     }, {
+      "lowerField" : "sw_ikv_103",
+      "upperField" : "Infanterikanonvagn 103"
+    }, {
       "lowerField" : "sw_pvkv_m43_1963",
       "upperField" : "Pansarvärnskanonvagn m/43 (1963)"
     }, {
       "lowerField" : "sw_bkan_1c",
       "upperField" : "Bandkanon 1C"
     }, {
-      "lowerField" : "sw_udes_33",
-      "upperField" : "Underlagsgrupp Direkt Eld Stridsfordon 33"
-    }, {
       "lowerField" : "sw_pvrbv_551",
       "upperField" : "Pansarvärnsrobotbandvagn 551"
+    }, {
+      "lowerField" : "sw_udes_33",
+      "upperField" : "Underlagsgrupp Direkt Eld Stridsfordon 33"
     }, {
       "lowerField" : "sw_pbv_302_bill",
       "upperField" : "Pansarbandvagn 302 BILL"
@@ -215,7 +218,7 @@
       "lowerField" : "sw_sav_fm48",
       "upperField" : "Stormartillerivagn 20.12.48"
     }, {
-      "lowerField" : "sw_sherman_3_4 ",
+      "lowerField" : "sw_sherman_3_4",
       "upperField" : "Stridsvagn Sherman III/IV"
     }, {
       "lowerField" : "sw_strv_81_rb52",
@@ -243,6 +246,12 @@
     }, {
       "lowerField" : "sw_ikv_73",
       "upperField" : "Ikv 73"
+    }, {
+      "lowerField" : "sw_k9_vidar",
+      "upperField" : "Versatile InDirect ARTillery"
+    }, {
+      "lowerField" : "sw_patria_amv_ctcv_105",
+      "upperField" : "Patria CT-CV 105HP"
     } ]
   } ]
 }

@@ -504,6 +504,37 @@ units{
   }
 
   tankModels{
+    name:t="tank_0_11"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8202, 1, 8142.0]]
+    unit_class:t="jp_type_10_prototype"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
     name:t="tank_1_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7982, 1, 8162.0]]
     unit_class:t="jp_type_89b_i_go_otsu"
@@ -1126,7 +1157,7 @@ units{
   tankModels{
     name:t="tank_1_20"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8382, 1, 8162.0]]
-    unit_class:t="jp_tkx_prot"
+    unit_class:t="jp_type_10"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1157,7 +1188,7 @@ units{
   tankModels{
     name:t="tank_1_21"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8402, 1, 8162.0]]
-    unit_class:t="jp_type_10"
+    unit_class:t="jp_tkx_prot"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2056,7 +2087,7 @@ units{
   tankModels{
     name:t="tank_4_8"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8142, 1, 8222.0]]
-    unit_class:t="jp_type_74_mod_g_kai"
+    unit_class:t="jp_type_16_mod"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2087,7 +2118,7 @@ units{
   tankModels{
     name:t="tank_5_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7982, 1, 8242.0]]
-    unit_class:t="jp_type_97_kai_td"
+    unit_class:t="jp_type_3_ka_chi"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2118,7 +2149,7 @@ units{
   tankModels{
     name:t="tank_5_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8002, 1, 8242.0]]
-    unit_class:t="jp_type_3_ka_chi"
+    unit_class:t="jp_type_97_kai_td"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2149,7 +2180,7 @@ units{
   tankModels{
     name:t="tank_5_2"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8022, 1, 8242.0]]
-    unit_class:t="jp_type_16_mod"
+    unit_class:t="jp_type_74_mod_g_kai"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""

@@ -1,0 +1,1 @@
+java -jar "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\Java\WarThunderWikiCrawler\target\war-thunder-wiki-crawler-1.0.0-jar-with-dependencies.jar" "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\data\wiki"

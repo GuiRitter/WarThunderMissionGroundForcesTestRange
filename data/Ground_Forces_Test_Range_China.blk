@@ -353,7 +353,7 @@ units{
   tankModels{
     name:t="tank_0_6"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8112, 1, 8132.0]]
-    unit_class:t="cn_type_63_I"
+    unit_class:t="cn_m18_hellcat"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -384,7 +384,7 @@ units{
   tankModels{
     name:t="tank_0_7"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8132.0]]
-    unit_class:t="cn_type_62"
+    unit_class:t="cn_type_63_I"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -415,7 +415,7 @@ units{
   tankModels{
     name:t="tank_0_8"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8152, 1, 8132.0]]
-    unit_class:t="cn_type_86"
+    unit_class:t="cn_type_62"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -477,7 +477,7 @@ units{
   tankModels{
     name:t="tank_0_10"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8132.0]]
-    unit_class:t="cn_m48a1_patton_III"
+    unit_class:t="cn_type_86"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -571,6 +571,68 @@ units{
     name:t="tank_0_13"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8252, 1, 8132.0]]
     unit_class:t="cn_cm11"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_0_14"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8272, 1, 8132.0]]
+    unit_class:t="cn_mbt2000"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_0_15"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8292, 1, 8132.0]]
+    unit_class:t="cn_wz_1001"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -694,7 +756,7 @@ units{
   tankModels{
     name:t="tank_1_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8052, 1, 8152.0]]
-    unit_class:t="cn_t_34_1942"
+    unit_class:t="cn_m4a4_sherman"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -725,7 +787,7 @@ units{
   tankModels{
     name:t="tank_1_4"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8072, 1, 8152.0]]
-    unit_class:t="cn_m4a4_sherman"
+    unit_class:t="cn_t_34_1942"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -911,7 +973,7 @@ units{
   tankModels{
     name:t="tank_1_10"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8152.0]]
-    unit_class:t="cn_type_59"
+    unit_class:t="cn_m48a1_patton_III"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -942,7 +1004,7 @@ units{
   tankModels{
     name:t="tank_1_11"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8212, 1, 8152.0]]
-    unit_class:t="cn_type_69"
+    unit_class:t="cn_type_59"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -973,7 +1035,7 @@ units{
   tankModels{
     name:t="tank_1_12"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8232, 1, 8152.0]]
-    unit_class:t="cn_type_59d"
+    unit_class:t="cn_type_69"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1004,7 +1066,7 @@ units{
   tankModels{
     name:t="tank_1_13"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8252, 1, 8152.0]]
-    unit_class:t="cn_ztz_88b"
+    unit_class:t="cn_type_59d"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1035,7 +1097,7 @@ units{
   tankModels{
     name:t="tank_1_14"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8272, 1, 8152.0]]
-    unit_class:t="cn_ztz_88a"
+    unit_class:t="cn_ztz_88b"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1066,7 +1128,7 @@ units{
   tankModels{
     name:t="tank_1_15"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8292, 1, 8152.0]]
-    unit_class:t="cn_ztz_96"
+    unit_class:t="cn_ztz_88a"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1097,7 +1159,7 @@ units{
   tankModels{
     name:t="tank_1_16"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8312, 1, 8152.0]]
-    unit_class:t="cn_ztz_96a"
+    unit_class:t="cn_ztz_96"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1128,7 +1190,7 @@ units{
   tankModels{
     name:t="tank_1_17"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8332, 1, 8152.0]]
-    unit_class:t="cn_ztz_99"
+    unit_class:t="cn_ztz_96a"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1159,7 +1221,7 @@ units{
   tankModels{
     name:t="tank_1_18"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8352, 1, 8152.0]]
-    unit_class:t="cn_ztz_99_w"
+    unit_class:t="cn_ztz_99"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1190,7 +1252,7 @@ units{
   tankModels{
     name:t="tank_1_19"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8372, 1, 8152.0]]
-    unit_class:t="cn_ztz_99a"
+    unit_class:t="cn_ztz_99_w"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1221,7 +1283,7 @@ units{
   tankModels{
     name:t="tank_1_20"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8392, 1, 8152.0]]
-    unit_class:t="cn_wz_1001"
+    unit_class:t="cn_ztz_99a"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1345,7 +1407,7 @@ units{
   tankModels{
     name:t="tank_2_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8052, 1, 8172.0]]
-    unit_class:t="cn_type_65_aa"
+    unit_class:t="cn_m42_duster"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1376,7 +1438,7 @@ units{
   tankModels{
     name:t="tank_2_4"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8072, 1, 8172.0]]
-    unit_class:t="cn_m42_duster"
+    unit_class:t="cn_type_65_aa"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1562,7 +1624,7 @@ units{
   tankModels{
     name:t="tank_3_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8012, 1, 8192.0]]
-    unit_class:t="cn_lvt_4_zis_2"
+    unit_class:t="cn_su_76m_1943"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1593,7 +1655,7 @@ units{
   tankModels{
     name:t="tank_3_2"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8032, 1, 8192.0]]
-    unit_class:t="cn_su_76m_1943"
+    unit_class:t="cn_lvt_4_zis_2"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1655,7 +1717,7 @@ units{
   tankModels{
     name:t="tank_3_4"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8072, 1, 8192.0]]
-    unit_class:t="cn_m18_hellcat"
+    unit_class:t="cn_isu_152"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1686,7 +1748,7 @@ units{
   tankModels{
     name:t="tank_3_5"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8092, 1, 8192.0]]
-    unit_class:t="cn_isu_152"
+    unit_class:t="cn_m36"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1748,7 +1810,7 @@ units{
   tankModels{
     name:t="tank_3_7"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8192.0]]
-    unit_class:t="cn_m36"
+    unit_class:t="cn_su_100_1945"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1779,7 +1841,7 @@ units{
   tankModels{
     name:t="tank_3_8"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8152, 1, 8192.0]]
-    unit_class:t="cn_su_100_1945"
+    unit_class:t="cn_m113a1_tow"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1810,7 +1872,7 @@ units{
   tankModels{
     name:t="tank_3_9"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8172, 1, 8192.0]]
-    unit_class:t="cn_m113a1_tow"
+    unit_class:t="cn_cm_25"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1841,7 +1903,7 @@ units{
   tankModels{
     name:t="tank_3_10"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8192.0]]
-    unit_class:t="cn_ptl_02"
+    unit_class:t="cn_ptz_89"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1872,7 +1934,7 @@ units{
   tankModels{
     name:t="tank_3_11"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8212, 1, 8192.0]]
-    unit_class:t="cn_cm_25"
+    unit_class:t="cn_ptl_02"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1934,37 +1996,6 @@ units{
   tankModels{
     name:t="tank_3_13"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8252, 1, 8192.0]]
-    unit_class:t="cn_ptz_89"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_3_14"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8272, 1, 8192.0]]
     unit_class:t="cn_ztl_11"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2027,7 +2058,7 @@ units{
   tankModels{
     name:t="tank_4_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8012, 1, 8212.0]]
-    unit_class:t="cn_m4a4_sherman_1st_ptg"
+    unit_class:t="cn_m3a3_stuart_1st_ptg"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2058,7 +2089,7 @@ units{
   tankModels{
     name:t="tank_4_2"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8032, 1, 8212.0]]
-    unit_class:t="cn_t_34_85_zis_53_no215"
+    unit_class:t="cn_m4a4_sherman_1st_ptg"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2089,7 +2120,7 @@ units{
   tankModels{
     name:t="tank_4_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8052, 1, 8212.0]]
-    unit_class:t="cn_is_2_1943_no402"
+    unit_class:t="cn_m41_a3_walker_bulldog"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2120,7 +2151,7 @@ units{
   tankModels{
     name:t="tank_4_4"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8072, 1, 8212.0]]
-    unit_class:t="cn_ztz_59a"
+    unit_class:t="cn_type_64"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2151,7 +2182,7 @@ units{
   tankModels{
     name:t="tank_4_5"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8092, 1, 8212.0]]
-    unit_class:t="cn_object_122tm"
+    unit_class:t="cn_t_34_85_zis_53_no215"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2182,7 +2213,7 @@ units{
   tankModels{
     name:t="tank_4_6"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8112, 1, 8212.0]]
-    unit_class:t="cn_wma_301"
+    unit_class:t="cn_is_2_1943_no402"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2213,7 +2244,7 @@ units{
   tankModels{
     name:t="tank_4_7"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8212.0]]
-    unit_class:t="cn_type_69_2g"
+    unit_class:t="cn_ztz_59a"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2244,6 +2275,130 @@ units{
   tankModels{
     name:t="tank_4_8"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8152, 1, 8212.0]]
+    unit_class:t="cn_type_69_2a"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_9"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8172, 1, 8212.0]]
+    unit_class:t="cn_object_122tm"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_10"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8212.0]]
+    unit_class:t="cn_wma_301"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_11"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8212, 1, 8212.0]]
+    unit_class:t="cn_type_69_2g"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_12"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8232, 1, 8212.0]]
     unit_class:t="cn_ztz_96a_prot"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2275,7 +2430,7 @@ units{
   tankModels{
     name:t="tank_5_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7992, 1, 8232.0]]
-    unit_class:t="cn_m3a3_stuart_1st_ptg"
+    unit_class:t="cn_t_62"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2306,68 +2461,6 @@ units{
   tankModels{
     name:t="tank_5_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8012, 1, 8232.0]]
-    unit_class:t="cn_type_64"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_5_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8032, 1, 8232.0]]
-    unit_class:t="cn_t_62"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_5_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8052, 1, 8232.0]]
     unit_class:t="cn_qn506"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2492,7 +2585,7 @@ units{
   tankModels{
     name:t="tank_6_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8052, 1, 8252.0]]
-    unit_class:t="cn_type_69_2a"
+    unit_class:t="cn_type_95_ha_go"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2523,7 +2616,7 @@ units{
   tankModels{
     name:t="tank_6_4"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8072, 1, 8252.0]]
-    unit_class:t="cn_type_95_ha_go"
+    unit_class:t="cn_vt_4"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2554,37 +2647,6 @@ units{
   tankModels{
     name:t="tank_6_5"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8092, 1, 8252.0]]
-    unit_class:t="cn_vt_4"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_6_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8112, 1, 8252.0]]
     unit_class:t="cn_ztz_96a_race"
     objLayer:i=1
     closed_waypoints:b=no

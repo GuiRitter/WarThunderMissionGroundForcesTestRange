@@ -132,4 +132,6 @@ After 2.25: Now also complaining about a "pgz_88" pack.
 
 After 2.27: This time, I actually managed to update this mission only one week after the update went live. I hope I can keep this up. Also, besides the fact it's still complaining about that pack, there are two tank models that are not rendering in the game. Nothing shows up, not even a name or a target. They are the Chinese cn_vt_4 and the Swedish Stridsvagn Sherman III/IV (sw_sherman_3_4).
 
+After 2.29: Late one week because of way too many social events at once and late another week because I got sick. Then catching up with all the tree reorganizing that they did took a lot of time. At least I found out that the French AML-90 was missing from my files for some reason. I had to lose some time (or rather, invest it) to build some more tools to make it possible to keep up with all of the tree changes. At least this should save me some time for the next updates. Then I got another slew of social events. Then I got COVID-19... At least I managed to avoid it when I was more dangerous and I actually got some more time due to quarantine. Missed releasing this before the next update by very little. Other than this, nothing interesting to note.
+
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

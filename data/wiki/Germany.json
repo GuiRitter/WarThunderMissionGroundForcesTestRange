@@ -1,0 +1,893 @@
+{
+  "columnList" : [ {
+    "cellList" : [ {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_35t",
+      "span" : "Pz.35(t)",
+      "href" : "https://wiki.warthunder.com/Pz.35(t)",
+      "title" : "Pz.35(t)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_38t_ausf_a",
+      "span" : "Pz.38(t) A",
+      "href" : "https://wiki.warthunder.com/Pz.38(t)_A",
+      "title" : "Pz.38(t) A"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_38t_ausf_f",
+      "span" : "Pz.38(t) F",
+      "href" : "https://wiki.warthunder.com/Pz.38(t)_F",
+      "title" : "Pz.38(t) F"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_38t_na",
+      "span" : "Pz.38(t) n.A.",
+      "href" : "https://wiki.warthunder.com/Pz.38(t)_n.A.",
+      "title" : "Pz.38(t) n.A."
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sdkfz_234_2",
+      "span" : "Sd.Kfz.234/2",
+      "href" : "https://wiki.warthunder.com/Sd.Kfz.234/2",
+      "title" : "Sd.Kfz.234/2"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzsfl_iva_dickermax",
+      "span" : "Dicker Max",
+      "href" : "https://wiki.warthunder.com/Dicker_Max",
+      "title" : "Dicker Max"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzsflk40_sturer_emil",
+      "span" : "Sturer Emil",
+      "href" : "https://wiki.warthunder.com/Sturer_Emil",
+      "title" : "Sturer Emil"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sdkfz_9_flak37",
+      "span" : "8,8 cm Flak 37 Sfl.",
+      "href" : "https://wiki.warthunder.com/8,8_cm_Flak_37_Sfl.",
+      "title" : "8,8 cm Flak 37 Sfl."
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_panzerjager_nashorn",
+      "span" : "Nashorn",
+      "href" : "https://wiki.warthunder.com/Nashorn",
+      "title" : "Nashorn"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_waffentrager_krupp_steyr",
+      "span" : "Waffenträger",
+      "href" : "https://wiki.warthunder.com/Waffentrager",
+      "title" : "Waffentrager"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_le_kpz_m41",
+      "span" : "leKPz M41",
+      "href" : "https://wiki.warthunder.com/LeKPz_M41",
+      "title" : "LeKPz M41"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_marder_1a1",
+      "span" : "Marder A1-",
+      "href" : "https://wiki.warthunder.com/Marder_A1-",
+      "title" : "Marder A1-"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_bmp_1_ddr",
+      "span" : "SPz BMP-1",
+      "href" : "https://wiki.warthunder.com/SPz_BMP-1",
+      "title" : "SPz BMP-1"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_marder_1a3",
+      "span" : "Marder 1A3",
+      "href" : "https://wiki.warthunder.com/Marder_1A3",
+      "title" : "Marder 1A3"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_marder_df_105",
+      "span" : "DF105",
+      "href" : "https://wiki.warthunder.com/DF105",
+      "title" : "DF105"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_thyssen_henschel_tam",
+      "span" : "TAM",
+      "href" : "https://wiki.warthunder.com/TAM",
+      "title" : "TAM"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sk105_a2",
+      "span" : "JaPz.K A2",
+      "href" : "https://wiki.warthunder.com/JaPz.K_A2",
+      "title" : "JaPz.K A2"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_begleitpanzer_57",
+      "span" : "Begleitpanzer 57",
+      "href" : "https://wiki.warthunder.com/Begleitpanzer_57",
+      "title" : "Begleitpanzer 57"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_radpanzer_90",
+      "span" : "Radkampfwagen 90",
+      "href" : "https://wiki.warthunder.com/Radkampfwagen_90",
+      "title" : "Radkampfwagen 90"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_thyssen_henschel_tam_2c",
+      "span" : "TAM 2C",
+      "href" : "https://wiki.warthunder.com/TAM_2C",
+      "title" : "TAM 2C"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_schutzenpanzer_puma",
+      "span" : "PUMA",
+      "href" : "https://wiki.warthunder.com/PUMA",
+      "title" : "PUMA"
+    } ]
+  }, {
+    "cellList" : [ {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iii_ausf_e",
+      "span" : "Pz.III E",
+      "href" : "https://wiki.warthunder.com/Pz.III_E",
+      "title" : "Pz.III E"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iii_ausf_b",
+      "span" : "Pz.III B",
+      "href" : "https://wiki.warthunder.com/Pz.III_B",
+      "title" : "Pz.III B"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iii_ausf_f",
+      "span" : "Pz.III F",
+      "href" : "https://wiki.warthunder.com/Pz.III_F",
+      "title" : "Pz.III F"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iii_ausf_j_l42",
+      "span" : "Pz.III J",
+      "href" : "https://wiki.warthunder.com/Pz.III_J",
+      "title" : "Pz.III J"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iii_ausf_j",
+      "span" : "Pz.III J1",
+      "href" : "https://wiki.warthunder.com/Pz.III_J1",
+      "title" : "Pz.III J1"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iii_ausf_l",
+      "span" : "Pz.III L",
+      "href" : "https://wiki.warthunder.com/Pz.III_L",
+      "title" : "Pz.III L"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iii_ausf_m",
+      "span" : "Pz.III M",
+      "href" : "https://wiki.warthunder.com/Pz.III_M",
+      "title" : "Pz.III M"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_vi_ausf_h1_tiger",
+      "span" : "Tiger H1",
+      "href" : "https://wiki.warthunder.com/Tiger_H1",
+      "title" : "Tiger H1"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_vi_ausf_e_tiger",
+      "span" : "Tiger E",
+      "href" : "https://wiki.warthunder.com/Tiger_E",
+      "title" : "Tiger E"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_vi_ausf_b_tiger_iip",
+      "span" : "Tiger II (P)",
+      "href" : "https://wiki.warthunder.com/Tiger_II_(P)",
+      "title" : "Tiger II (P)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_vi_ausf_b_tiger_iih",
+      "span" : "Tiger II (H)",
+      "href" : "https://wiki.warthunder.com/Tiger_II_(H)",
+      "title" : "Tiger II (H)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_mkpz_m48a2c",
+      "span" : "M48A2 C",
+      "href" : "https://wiki.warthunder.com/M48A2_C",
+      "title" : "M48A2 C"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_mkpz_m48a2ga2",
+      "span" : "M48A2 G A2",
+      "href" : "https://wiki.warthunder.com/M48A2_G_A2",
+      "title" : "M48A2 G A2"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_kpz_70",
+      "span" : "KPz-70",
+      "href" : "https://wiki.warthunder.com/KPz-70",
+      "title" : "KPz-70"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_mkpz_super_m48",
+      "span" : "M48 Super",
+      "href" : "https://wiki.warthunder.com/M48_Super",
+      "title" : "M48 Super"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_kpz_t72m1",
+      "span" : "◊T-72M1",
+      "href" : "https://wiki.warthunder.com/T-72M1_(Germany)",
+      "title" : "T-72M1 (Germany)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_leopard_2k",
+      "span" : "Leopard 2K",
+      "href" : "https://wiki.warthunder.com/Leopard_2K",
+      "title" : "Leopard 2K"
+    } ]
+  }, {
+    "cellList" : [ {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iv_ausf_c",
+      "span" : "Pz.IV C",
+      "href" : "https://wiki.warthunder.com/Pz.IV_C",
+      "title" : "Pz.IV C"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_ii_ausf_c",
+      "span" : "Pz.II C",
+      "href" : "https://wiki.warthunder.com/Pz.II_C",
+      "title" : "Pz.II C"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_ii_ausf_f",
+      "span" : "Pz.II F",
+      "href" : "https://wiki.warthunder.com/Pz.II_F",
+      "title" : "Pz.II F"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iv_ausf_e",
+      "span" : "Pz.IV E",
+      "href" : "https://wiki.warthunder.com/Pz.IV_E",
+      "title" : "Pz.IV E"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iv_ausf_f",
+      "span" : "Pz.IV F1",
+      "href" : "https://wiki.warthunder.com/Pz.IV_F1",
+      "title" : "Pz.IV F1"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iv_ausf_f2",
+      "span" : "Pz.IV F2",
+      "href" : "https://wiki.warthunder.com/Pz.IV_F2",
+      "title" : "Pz.IV F2"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iv_ausf_g",
+      "span" : "Pz.IV G",
+      "href" : "https://wiki.warthunder.com/Pz.IV_G",
+      "title" : "Pz.IV G"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iv_ausf_h",
+      "span" : "Pz.IV H",
+      "href" : "https://wiki.warthunder.com/Pz.IV_H",
+      "title" : "Pz.IV H"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iv_ausf_j",
+      "span" : "Pz.IV J",
+      "href" : "https://wiki.warthunder.com/Pz.IV_J",
+      "title" : "Pz.IV J"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_vk_3002m",
+      "span" : "VK 3002 (M)",
+      "href" : "https://wiki.warthunder.com/VK_3002_(M)",
+      "title" : "VK 3002 (M)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_v_ausf_d_panther",
+      "span" : "Panther D",
+      "href" : "https://wiki.warthunder.com/Panther_D",
+      "title" : "Panther D"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_v_ausf_a_panther",
+      "span" : "Panther A",
+      "href" : "https://wiki.warthunder.com/Panther_A",
+      "title" : "Panther A"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_v_ausf_g_panther",
+      "span" : "Panther G",
+      "href" : "https://wiki.warthunder.com/Panther_G",
+      "title" : "Panther G"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_v_ausf_f_panther",
+      "span" : "Panther F",
+      "href" : "https://wiki.warthunder.com/Panther_F",
+      "title" : "Panther F"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_leopard_i",
+      "span" : "Leopard I",
+      "href" : "https://wiki.warthunder.com/Leopard_I",
+      "title" : "Leopard I"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_leopard_i_a1",
+      "span" : "Leopard A1A1",
+      "href" : "https://wiki.warthunder.com/Leopard_A1A1",
+      "title" : "Leopard A1A1"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_leopard_1a5",
+      "span" : "Leopard 1A5",
+      "href" : "https://wiki.warthunder.com/Leopard_1A5",
+      "title" : "Leopard 1A5"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_leopard_2a4",
+      "span" : "Leopard 2A4",
+      "href" : "https://wiki.warthunder.com/Leopard_2A4",
+      "title" : "Leopard 2A4"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_leopard_2a5",
+      "span" : "Leopard 2A5",
+      "href" : "https://wiki.warthunder.com/Leopard_2A5",
+      "title" : "Leopard 2A5"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_leopard_2a6",
+      "span" : "Leopard 2A6",
+      "href" : "https://wiki.warthunder.com/Leopard_2A6",
+      "title" : "Leopard 2A6"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_leopard_2a5_pso",
+      "span" : "Leopard 2 PSO",
+      "href" : "https://wiki.warthunder.com/Leopard_2_PSO",
+      "title" : "Leopard 2 PSO"
+    } ]
+  }, {
+    "cellList" : [ {
+      "blkBackground" : null,
+      "blkImg" : "germ_flakpanzer_i_ausf_a",
+      "span" : "Flakpanzer I",
+      "href" : "https://wiki.warthunder.com/Flakpanzer_I",
+      "title" : "Flakpanzer I"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_flakpanzer_38t_gepard",
+      "span" : "Flakpanzer 38",
+      "href" : "https://wiki.warthunder.com/Flakpanzer_38",
+      "title" : "Flakpanzer 38"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sdkfz_222",
+      "span" : "Sd.Kfz.222",
+      "href" : "https://wiki.warthunder.com/Sd.Kfz.222",
+      "title" : "Sd.Kfz.222"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sdkfz_6_2_flak36",
+      "span" : "Sd.Kfz. 6/2",
+      "href" : "https://wiki.warthunder.com/Sd.Kfz._6/2",
+      "title" : "Sd.Kfz. 6/2"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sdkfz_251_21",
+      "span" : "Sd.Kfz.251/21",
+      "href" : "https://wiki.warthunder.com/Sd.Kfz.251/21",
+      "title" : "Sd.Kfz.251/21"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_flakpanzer_iv_wirbelwind",
+      "span" : "Wirbelwind",
+      "href" : "https://wiki.warthunder.com/Wirbelwind",
+      "title" : "Wirbelwind"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_flakpanzer_iv_ostwind",
+      "span" : "Ostwind",
+      "href" : "https://wiki.warthunder.com/Ostwind",
+      "title" : "Ostwind"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_flakpanzer_iv_ostwind_2",
+      "span" : "Ostwind II",
+      "href" : "https://wiki.warthunder.com/Ostwind_II",
+      "title" : "Ostwind II"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_flakpanzer_iv_kugelblitz",
+      "span" : "Kugelblitz",
+      "href" : "https://wiki.warthunder.com/Kugelblitz",
+      "title" : "Kugelblitz"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_wiesel_1_mk20",
+      "span" : "Wiesel 1A4",
+      "href" : "https://wiki.warthunder.com/Wiesel_1A4",
+      "title" : "Wiesel 1A4"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_flakpz_i_gepard",
+      "span" : "Gepard",
+      "href" : "https://wiki.warthunder.com/Gepard",
+      "title" : "Gepard"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_wiesel_2_adwc",
+      "span" : "Ozelot",
+      "href" : "https://wiki.warthunder.com/Ozelot",
+      "title" : "Ozelot"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_flakpz_1a2_gepard",
+      "span" : "Gepard 1A2",
+      "href" : "https://wiki.warthunder.com/Gepard_1A2",
+      "title" : "Gepard 1A2"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_flarakpz_1",
+      "span" : "FlaRakPz 1",
+      "href" : "https://wiki.warthunder.com/FlaRakPz_1",
+      "title" : "FlaRakPz 1"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_flarakrad",
+      "span" : "FlaRakRad",
+      "href" : "https://wiki.warthunder.com/FlaRakRad",
+      "title" : "FlaRakRad"
+    } ]
+  }, {
+    "cellList" : [ {
+      "blkBackground" : null,
+      "blkImg" : "germ_sturmpanzer_ii",
+      "span" : "15cm sIG 33 B Sfl",
+      "href" : "https://wiki.warthunder.com/15cm_sIG_33_B_Sfl",
+      "title" : "15cm sIG 33 B Sfl"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sdkfz_221_s_pz_b_41",
+      "span" : "Sd.Kfz.221 (s.Pz.B.41)",
+      "href" : "https://wiki.warthunder.com/Sd.Kfz.221_(s.Pz.B.41)",
+      "title" : "Sd.Kfz.221 (s.Pz.B.41)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_panzerjager_1",
+      "span" : "Panzerjäger I",
+      "href" : "https://wiki.warthunder.com/Panzerjager_I",
+      "title" : "Panzerjager I"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sdkfz_251_9",
+      "span" : "Sd.Kfz.251/9",
+      "href" : "https://wiki.warthunder.com/Sd.Kfz.251/9",
+      "title" : "Sd.Kfz.251/9"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_38t_marder_iii",
+      "span" : "Marder III",
+      "href" : "https://wiki.warthunder.com/Marder_III",
+      "title" : "Marder III"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_stug_iii_ausf_a",
+      "span" : "StuG III A",
+      "href" : "https://wiki.warthunder.com/StuG_III_A",
+      "title" : "StuG III A"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_38t_marder_iii_ausf_h",
+      "span" : "Marder III H",
+      "href" : "https://wiki.warthunder.com/Marder_III_H",
+      "title" : "Marder III H"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_stuh_iii_ausf_g",
+      "span" : "StuH 42 G",
+      "href" : "https://wiki.warthunder.com/StuH_42_G",
+      "title" : "StuH 42 G"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_stug_iii_ausf_f",
+      "span" : "StuG III F",
+      "href" : "https://wiki.warthunder.com/StuG_III_F",
+      "title" : "StuG III F"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_stug_iii_ausf_g",
+      "span" : "StuG III G",
+      "href" : "https://wiki.warthunder.com/StuG_III_G",
+      "title" : "StuG III G"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_jgdpz_iv_l48",
+      "span" : "Jagdpanzer IV",
+      "href" : "https://wiki.warthunder.com/Jagdpanzer_IV",
+      "title" : "Jagdpanzer IV"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_jgdpz_38t",
+      "span" : "Jagdpanzer 38(t)",
+      "href" : "https://wiki.warthunder.com/Jagdpanzer_38(t)",
+      "title" : "Jagdpanzer 38(t)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pz_iv_l70",
+      "span" : "Panzer IV/70(V)",
+      "href" : "https://wiki.warthunder.com/Panzer_IV/70(V)",
+      "title" : "Panzer IV/70(V)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_panzerjager_panther",
+      "span" : "Jagdpanther G1",
+      "href" : "https://wiki.warthunder.com/Jagdpanther_G1",
+      "title" : "Jagdpanther G1"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_kanonenjagdpanzer",
+      "span" : "JPz 4-5",
+      "href" : "https://wiki.warthunder.com/JPz_4-5",
+      "title" : "JPz 4-5"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_panzerjager_tiger_p_ferdinand",
+      "span" : "Ferdinand",
+      "href" : "https://wiki.warthunder.com/Ferdinand",
+      "title" : "Ferdinand"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_panzerjager_tiger",
+      "span" : "Jagdtiger",
+      "href" : "https://wiki.warthunder.com/Jagdtiger",
+      "title" : "Jagdtiger"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_spz_oerlikon_raketenautomat",
+      "span" : "Raketenautomat",
+      "href" : "https://wiki.warthunder.com/Raketenautomat",
+      "title" : "Raketenautomat"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_raketenjagdpanzer_2",
+      "span" : "RakJPz 2",
+      "href" : "https://wiki.warthunder.com/RakJPz_2",
+      "title" : "RakJPz 2"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_raketenjagdpanzer_2_hot",
+      "span" : "RakJPz 2 (HOT)",
+      "href" : "https://wiki.warthunder.com/RakJPz_2_(HOT)",
+      "title" : "RakJPz 2 (HOT)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_wiesel_1_tow",
+      "span" : "Wiesel 1A2",
+      "href" : "https://wiki.warthunder.com/Wiesel_1A2",
+      "title" : "Wiesel 1A2"
+    } ]
+  }, {
+    "cellList" : [ {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_ii_ausf_c_td",
+      "span" : "Pz.II C TD",
+      "href" : "https://wiki.warthunder.com/Pz.II_C_TD",
+      "title" : "Pz.II C TD"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_ii_ausf_c_dak",
+      "span" : "Pz.II C (DAK)",
+      "href" : "https://wiki.warthunder.com/Pz.II_C_(DAK)",
+      "title" : "Pz.II C (DAK)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_38t_aufklarungspanzer",
+      "span" : "Sd.Kfz. 140/1",
+      "href" : "https://wiki.warthunder.com/Sd.Kfz._140/1",
+      "title" : "Sd.Kfz. 140/1"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_nbfz_vi",
+      "span" : "Nb.Fz.",
+      "href" : "https://wiki.warthunder.com/Nb.Fz.",
+      "title" : "Nb.Fz."
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iii_ausf_j_td",
+      "span" : "Pz.III J1 TD",
+      "href" : "https://wiki.warthunder.com/Pz.III_J1_TD",
+      "title" : "Pz.III J1 TD"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_iii_ausf_n",
+      "span" : "Pz.III N",
+      "href" : "https://wiki.warthunder.com/Pz.III_N",
+      "title" : "Pz.III N"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_panzerwerfer_42",
+      "span" : "15 cm Pz.W.42",
+      "href" : "https://wiki.warthunder.com/15_cm_Pz.W.42",
+      "title" : "15 cm Pz.W.42"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_t_34_747",
+      "span" : "▀T 34 747 (r)",
+      "href" : "https://wiki.warthunder.com/T_34_747_(r)_(Germany)",
+      "title" : "T 34 747 (r) (Germany)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_kv_2_754r",
+      "span" : "▀KW II 754 (r)",
+      "href" : "https://wiki.warthunder.com/KW_II_754_(r)_(Germany)",
+      "title" : "KW II 754 (r) (Germany)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_panzerbefelhswagen_iv_ausf_j",
+      "span" : "Pz.Bef.Wg.IV J",
+      "href" : "https://wiki.warthunder.com/Pz.Bef.Wg.IV_J",
+      "title" : "Pz.Bef.Wg.IV J"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_infanterie_kampfpanzer_churchill",
+      "span" : "▀Pz.Kpfw. Churchill",
+      "href" : "https://wiki.warthunder.com/Pz.Kpfw._Churchill_(Germany)",
+      "title" : "Pz.Kpfw. Churchill (Germany)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sturmpanzer_iv_brummbar",
+      "span" : "Brummbär",
+      "href" : "https://wiki.warthunder.com/Brummbar",
+      "title" : "Brummbar"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pz_iv_l70_a",
+      "span" : "Panzer IV/70(A)",
+      "href" : "https://wiki.warthunder.com/Panzer_IV/70(A)",
+      "title" : "Panzer IV/70(A)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_kv_1_kwk_40",
+      "span" : "▀KW I C 756 (r)",
+      "href" : "https://wiki.warthunder.com/KW_I_C_756_(r)_(Germany)",
+      "title" : "KW I C 756 (r) (Germany)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_panzerbefelhswagen_vi_p",
+      "span" : "Pz.Bef.Wg.VI P",
+      "href" : "https://wiki.warthunder.com/Pz.Bef.Wg.VI_P",
+      "title" : "Pz.Bef.Wg.VI P"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_panzerbefelhswagen_jagdpanther",
+      "span" : "Bfw. Jagdpanther G1",
+      "href" : "https://wiki.warthunder.com/Bfw._Jagdpanther_G1",
+      "title" : "Bfw. Jagdpanther G1"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_panzerjager_tiger_p_elefant",
+      "span" : "Elefant",
+      "href" : "https://wiki.warthunder.com/Elefant",
+      "title" : "Elefant"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sturmmorser_sturmtiger",
+      "span" : "38 cm Sturmmörser",
+      "href" : "https://wiki.warthunder.com/38_cm_Sturmm%C3%B6rser",
+      "title" : "38 cm Sturmmörser"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_panther_ii",
+      "span" : "Panther II",
+      "href" : "https://wiki.warthunder.com/Panther_II",
+      "title" : "Panther II"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_mkpz_m47",
+      "span" : "mKPz M47 G",
+      "href" : "https://wiki.warthunder.com/MKPz_M47_G",
+      "title" : "MKPz M47 G"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_erprobungstrager_3_achs_turm",
+      "span" : "Turm III",
+      "href" : "https://wiki.warthunder.com/Turm_III",
+      "title" : "Turm III"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_thyssen_henschel_tam_2ip",
+      "span" : "TAM 2IP",
+      "href" : "https://wiki.warthunder.com/TAM_2IP",
+      "title" : "TAM 2IP"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_leopard_a1a1_120",
+      "span" : "Leopard A1A1 (L/44)",
+      "href" : "https://wiki.warthunder.com/Leopard_A1A1_(L/44)",
+      "title" : "Leopard A1A1 (L/44)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_leopard_2a4_pzbtl_123",
+      "span" : "Leopard 2 (PzBtl 123)",
+      "href" : "https://wiki.warthunder.com/Leopard_2_(PzBtl_123)",
+      "title" : "Leopard 2 (PzBtl 123)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_leopard_2pl",
+      "span" : "Leopard 2 PL",
+      "href" : "https://wiki.warthunder.com/Leopard_2_PL",
+      "title" : "Leopard 2 PL"
+    }, {
+      "blkBackground" : "germ_leopard_2a5_yt_cup_2019",
+      "blkImg" : "germ_leopard_2a5",
+      "span" : "␙Leopard 2A5",
+      "href" : "https://wiki.warthunder.com/Leopard_2A5_(YouTube_Cup)",
+      "title" : "Leopard 2A5 (YouTube Cup)"
+    } ]
+  }, {
+    "cellList" : [ {
+      "blkBackground" : null,
+      "blkImg" : "germ_sdkfz_251_10",
+      "span" : "Sd.Kfz.251/10",
+      "href" : "https://wiki.warthunder.com/Sd.Kfz.251/10",
+      "title" : "Sd.Kfz.251/10"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sdkfz_234_1",
+      "span" : "Sd.Kfz.234/1",
+      "href" : "https://wiki.warthunder.com/Sd.Kfz.234/1",
+      "title" : "Sd.Kfz.234/1"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sdkfz_234_3",
+      "span" : "Sd.Kfz.234/3",
+      "href" : "https://wiki.warthunder.com/Sd.Kfz.234/3",
+      "title" : "Sd.Kfz.234/3"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_amd_35_kwk",
+      "span" : "Pz.Sp.Wg.P204(f) KwK",
+      "href" : "https://wiki.warthunder.com/Pz.Sp.Wg.P204(f)_KwK",
+      "title" : "Pz.Sp.Wg.P204(f) KwK"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sdkfz_234_2_td",
+      "span" : "Sd.Kfz.234/2 TD",
+      "href" : "https://wiki.warthunder.com/Sd.Kfz.234/2_TD",
+      "title" : "Sd.Kfz.234/2 TD"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_ii_ausf_h",
+      "span" : "Pz.Sfl.Ic",
+      "href" : "https://wiki.warthunder.com/Pz.Sfl.Ic",
+      "title" : "Pz.Sfl.Ic"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sdkfz_251_22",
+      "span" : "Sd.Kfz.251/22",
+      "href" : "https://wiki.warthunder.com/Sd.Kfz.251/22",
+      "title" : "Sd.Kfz.251/22"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_sdkfz_234_4",
+      "span" : "Sd.Kfz.234/4",
+      "href" : "https://wiki.warthunder.com/Sd.Kfz.234/4",
+      "title" : "Sd.Kfz.234/4"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_kv_1b_finland",
+      "span" : "▀KV-IB",
+      "href" : "https://wiki.warthunder.com/KV-IB_(Germany)",
+      "title" : "KV-IB (Germany)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_vsw_flak_41",
+      "span" : "VFW",
+      "href" : "https://wiki.warthunder.com/VFW",
+      "title" : "VFW"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_vi_ausf_h1_tiger_animal_version",
+      "span" : "␠Tiger",
+      "href" : "https://wiki.warthunder.com/Tiger_(Germany)",
+      "title" : "Tiger (Germany)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_vi_tiger_p",
+      "span" : "VK 45.01 (P)",
+      "href" : "https://wiki.warthunder.com/VK_45.01_(P)",
+      "title" : "VK 45.01 (P)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_v_ersatz_m10",
+      "span" : "Ersatz M10",
+      "href" : "https://wiki.warthunder.com/Ersatz_M10",
+      "title" : "Ersatz M10"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_vi_ausf_b_tiger_iih_sla",
+      "span" : "Tiger II (H) Sla.16",
+      "href" : "https://wiki.warthunder.com/Tiger_II_(H)_Sla.16",
+      "title" : "Tiger II (H) Sla.16"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_ru251",
+      "span" : "Ru 251",
+      "href" : "https://wiki.warthunder.com/Ru_251",
+      "title" : "Ru 251"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_flakpanzer_v_coelian",
+      "span" : "Flakpanzer 341",
+      "href" : "https://wiki.warthunder.com/Flakpanzer_341",
+      "title" : "Flakpanzer 341"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_spz_12_3",
+      "span" : "SPz 12-3 LGS",
+      "href" : "https://wiki.warthunder.com/SPz_12-3_LGS",
+      "title" : "SPz 12-3 LGS"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_vi_ausf_b_tiger_iih_kwk46",
+      "span" : "Tiger II (10.5 cm Kw.K)",
+      "href" : "https://wiki.warthunder.com/Tiger_II_(10.5_cm_Kw.K)",
+      "title" : "Tiger II (10.5 cm Kw.K)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_e_100",
+      "span" : "E-100",
+      "href" : "https://wiki.warthunder.com/E-100",
+      "title" : "E-100"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_pzkpfw_maus",
+      "span" : "Maus",
+      "href" : "https://wiki.warthunder.com/Maus",
+      "title" : "Maus"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_vt_1_2",
+      "span" : "VT1-2",
+      "href" : "https://wiki.warthunder.com/VT1-2",
+      "title" : "VT1-2"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_th_800_bismark",
+      "span" : "Class 3 (P)",
+      "href" : "https://wiki.warthunder.com/Class_3_(P)",
+      "title" : "Class 3 (P)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_leopard_c2_mexas",
+      "span" : "C2A1",
+      "href" : "https://wiki.warthunder.com/C2A1",
+      "title" : "C2A1"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_leopard_2_pt14",
+      "span" : "PT-16/T14 mod.",
+      "href" : "https://wiki.warthunder.com/PT-16/T14_mod.",
+      "title" : "PT-16/T14 mod."
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_leopard_2av",
+      "span" : "Leopard 2AV",
+      "href" : "https://wiki.warthunder.com/Leopard_2AV",
+      "title" : "Leopard 2AV"
+    } ]
+  } ]
+}

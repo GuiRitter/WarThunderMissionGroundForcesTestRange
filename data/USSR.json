@@ -81,9 +81,6 @@
       "lowerField" : "ussr_t_26_1940",
       "upperField" : "T-26 mod. 1939"
     }, {
-      "lowerField" : "ussr_t_26_4",
-      "upperField" : "T-26-4"
-    }, {
       "lowerField" : "ussr_t_28_1938",
       "upperField" : "T-28 (1938)"
     }, {
@@ -96,14 +93,14 @@
       "lowerField" : "ussr_kv_1_l_11",
       "upperField" : "KV-1 L11"
     }, {
+      "lowerField" : "ussr_kv_2_1939",
+      "upperField" : "KV-2 mod. 1939"
+    }, {
       "lowerField" : "ussr_kv_1s",
       "upperField" : "KV-1S"
     }, {
       "lowerField" : "ussr_kv_1_zis_5",
       "upperField" : "KV-1 ZiS-5"
-    }, {
-      "lowerField" : "ussr_kv_2_1939",
-      "upperField" : "KV-2 mod. 1939"
     }, {
       "lowerField" : "ussr_kv_85",
       "upperField" : "KV-85"
@@ -149,6 +146,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "ussr_t_26_4",
+      "upperField" : "T-26-4"
+    }, {
       "lowerField" : "ussr_t_60_1941",
       "upperField" : "T-60"
     }, {
@@ -176,17 +176,17 @@
       "lowerField" : "ussr_bmp_1",
       "upperField" : "BMP-1"
     }, {
-      "lowerField" : "ussr_bmp_2",
-      "upperField" : "BMP-2"
-    }, {
       "lowerField" : "ussr_object_906",
       "upperField" : "Object 906"
     }, {
-      "lowerField" : "ussr_bmp_3",
-      "upperField" : "BMP-3"
+      "lowerField" : "ussr_bmp_2",
+      "upperField" : "BMP-2"
     }, {
       "lowerField" : "ussr_object_685",
       "upperField" : "Object 685"
+    }, {
+      "lowerField" : "ussr_bmp_3",
+      "upperField" : "BMP-3"
     }, {
       "lowerField" : "ussr_2s25",
       "upperField" : "2S25 \"Sprut-SD\""
@@ -199,29 +199,32 @@
       "lowerField" : "ussr_su_5_1",
       "upperField" : "SU-5-1"
     }, {
-      "lowerField" : "ussr_zis_30",
-      "upperField" : "ZiS-30"
-    }, {
       "lowerField" : "ussr_su_76m_1943",
       "upperField" : "SU-76M"
     }, {
-      "lowerField" : "ussr_su_122",
-      "upperField" : "SU-122"
+      "lowerField" : "ussr_zis_30",
+      "upperField" : "ZiS-30"
     }, {
       "lowerField" : "ussr_su_57b",
       "upperField" : "SU-57B"
     }, {
-      "lowerField" : "ussr_su_85_1943",
-      "upperField" : "SU-85"
+      "lowerField" : "ussr_su_122",
+      "upperField" : "SU-122"
     }, {
-      "lowerField" : "ussr_su_85m",
-      "upperField" : "SU-85M"
+      "lowerField" : "ussr_zsu_29k",
+      "upperField" : "29-K"
     }, {
       "lowerField" : "ussr_su_152",
       "upperField" : "SU-152"
     }, {
+      "lowerField" : "ussr_su_85_1943",
+      "upperField" : "SU-85"
+    }, {
       "lowerField" : "ussr_isu_152",
       "upperField" : "ISU-152"
+    }, {
+      "lowerField" : "ussr_su_85m",
+      "upperField" : "SU-85M"
     }, {
       "lowerField" : "ussr_isu_122",
       "upperField" : "ISU-122"
@@ -231,6 +234,9 @@
     }, {
       "lowerField" : "ussr_su_100_1945",
       "upperField" : "SU-100"
+    }, {
+      "lowerField" : "ussr_2s1",
+      "upperField" : "2S1"
     }, {
       "lowerField" : "ussr_2s3m",
       "upperField" : "2S3M"
@@ -267,9 +273,6 @@
       "lowerField" : "ussr_zis_12_94KM_1945",
       "upperField" : "94-KM ZIS-12"
     }, {
-      "lowerField" : "ussr_zsu_29k",
-      "upperField" : "29-K"
-    }, {
       "lowerField" : "ussr_zis_43",
       "upperField" : "ZIS-43"
     }, {
@@ -285,11 +288,11 @@
       "lowerField" : "ussr_zsu_57_2",
       "upperField" : "ZSU-57-2"
     }, {
-      "lowerField" : "ussr_zsu_23_4",
-      "upperField" : "ZSU-23-4 \"Shilka\""
-    }, {
       "lowerField" : "ussr_zsu_37_2",
       "upperField" : "ZSU-37-2"
+    }, {
+      "lowerField" : "ussr_zsu_23_4",
+      "upperField" : "ZSU-23-4 \"Shilka\""
     }, {
       "lowerField" : "ussr_9a35_m2",
       "upperField" : "ZRK 9A35M2 'Strela-10M2'"
@@ -329,11 +332,14 @@
       "lowerField" : "ussr_bm_13n",
       "upperField" : "BM-13N"
     }, {
-      "lowerField" : "ussr_valentine_mk_9",
-      "upperField" : "★MK-IX \"Valentine\""
-    }, {
       "lowerField" : "ussr_t_34_1941_cast_turret",
       "upperField" : "T-34 1941 (1st Gv.T.Br.)"
+    }, {
+      "lowerField" : "ussr_t_34e",
+      "upperField" : "T-34E"
+    }, {
+      "lowerField" : "ussr_t_34_1940_l_11",
+      "upperField" : "T-34 (Prototype)"
     }, {
       "lowerField" : "ussr_bm_31_12",
       "upperField" : "BM-31-12"
@@ -346,9 +352,6 @@
     }, {
       "lowerField" : "ussr_m4a2_76w_sherman",
       "upperField" : "★M4A2"
-    }, {
-      "lowerField" : "ussr_type_65_aa",
-      "upperField" : "Type 65"
     }, {
       "lowerField" : "ussr_t_34_85e",
       "upperField" : "T-34-85E"
@@ -364,6 +367,9 @@
     }, {
       "lowerField" : "ussr_object_120",
       "upperField" : "Object 120 \"Taran\""
+    }, {
+      "lowerField" : "ussr_to_55",
+      "upperField" : "TO-55"
     }, {
       "lowerField" : "ussr_t_55_am",
       "upperField" : "T-55AM-1"
@@ -412,14 +418,11 @@
       "lowerField" : "ussr_a_12_mk_2_matilda_2A_F96",
       "upperField" : "★Tank MK-II «Matilda» (F-96)"
     }, {
+      "lowerField" : "ussr_valentine_mk_9",
+      "upperField" : "★MK-IX \"Valentine\""
+    }, {
       "lowerField" : "ussr_su_85a",
       "upperField" : "SU-85A"
-    }, {
-      "lowerField" : "ussr_t_34e",
-      "upperField" : "T-34E"
-    }, {
-      "lowerField" : "ussr_t_34_1940_l_11",
-      "upperField" : "T-34 (Prototype)"
     }, {
       "lowerField" : "ussr_kv_2_1940",
       "upperField" : "KV-2 (1940)"
@@ -427,17 +430,20 @@
       "lowerField" : "ussr_kv_1e",
       "upperField" : "KV-1E"
     }, {
-      "lowerField" : "ussr_kv_220",
-      "upperField" : "KV-220"
-    }, {
       "lowerField" : "ussr_kv_2_zis_6",
       "upperField" : "KV-2(ZIS-6)"
     }, {
-      "lowerField" : "ussr_pzkpfw_v",
-      "upperField" : "«Panther»"
+      "lowerField" : "ussr_type_65_aa",
+      "upperField" : "Type 65"
     }, {
       "lowerField" : "ussr_kv_122",
       "upperField" : "KV-122"
+    }, {
+      "lowerField" : "ussr_kv_220",
+      "upperField" : "KV-220"
+    }, {
+      "lowerField" : "ussr_pzkpfw_v",
+      "upperField" : "«Panther»"
     }, {
       "lowerField" : "ussr_is_2_1944_revenge",
       "upperField" : "IS-2 “Revenge for the Hero brother”"
@@ -445,17 +451,17 @@
       "lowerField" : "ussr_object_248",
       "upperField" : "Object 248"
     }, {
-      "lowerField" : "ussr_is_6",
-      "upperField" : "IS-6"
-    }, {
       "lowerField" : "ussr_type_62",
       "upperField" : "Type-62"
     }, {
-      "lowerField" : "ussr_pt_76_57",
-      "upperField" : "PT-76-57"
+      "lowerField" : "ussr_is_6",
+      "upperField" : "IS-6"
     }, {
       "lowerField" : "ussr_t_10a",
       "upperField" : "T-10A"
+    }, {
+      "lowerField" : "ussr_pt_76_57",
+      "upperField" : "PT-76-57"
     }, {
       "lowerField" : "ussr_is_7",
       "upperField" : "IS-7"
@@ -468,6 +474,9 @@
     }, {
       "lowerField" : "ussr_t_72m2_moderna",
       "upperField" : "T-72M2"
+    }, {
+      "lowerField" : "ussr_t_80u_yt_cup_2019",
+      "upperField" : "🏆T-80U"
     } ]
   }, {
     "cellList" : [ {
@@ -497,9 +506,6 @@
     }, {
       "lowerField" : "ussr_t_80u_race",
       "upperField" : "T-80U"
-    }, {
-      "lowerField" : "ussr_t_80u_yt_cup_2019",
-      "upperField" : "🏆T-80U"
     } ]
   } ]
 }
