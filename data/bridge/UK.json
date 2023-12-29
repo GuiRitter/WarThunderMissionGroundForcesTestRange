@@ -77,7 +77,7 @@
       "upperField" : "Challenger 2E"
     }, {
       "lowerField" : "uk_challenger_2_lep",
-      "upperField" : ""
+      "upperField" : "Challenger 3 Technology Demonstrator"
     } ]
   }, {
     "cellList" : [ {
@@ -309,7 +309,7 @@
       "upperField" : "\uD83C\uDFC6Challenger 2"
     }, {
       "lowerField" : "uk_challenger_2_megatron",
-      "upperField" : ""
+      "upperField" : "Challenger 2 TES (OES)"
     } ]
   }, {
     "cellList" : [ {
@@ -335,7 +335,7 @@
       "upperField" : "Tank, Infantry, Mk IV, Churchill VII (A22F) Crocodile"
     }, {
       "lowerField" : "uk_tog_2",
-      "upperField" : ""
+      "upperField" : "TOG II"
     }, {
       "lowerField" : "uk_ram_90mm_aa",
       "upperField" : "OQF 3.7-inch AA on Ram Mounting"
