@@ -39,7 +39,7 @@ public final class ModelDetailTask extends ModelTask {
 
 		var tree = blkImg.substring(0, blkImg.indexOf("_"));
 
-		out.format("%s %s %s %s %s, %s, %s, %s\n", tree, rowIndex, columnIndex, modelIndex, span, title,
+		out.format("ModelDetailTask %s %s %s %s %s, %s, %s, %s\n", tree, rowIndex, columnIndex, modelIndex, span, title,
 				blkBackground, blkImg);
 
 		var table = tableMap.get(tree);

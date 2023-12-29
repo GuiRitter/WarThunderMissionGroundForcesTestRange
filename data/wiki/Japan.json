@@ -161,9 +161,9 @@
     }, {
       "blkBackground" : null,
       "blkImg" : "jp_st_b1",
-      "span" : "STB-1",
-      "href" : "https://wiki.warthunder.com/STB-1",
-      "title" : "STB-1"
+      "span" : "STB-2",
+      "href" : "https://wiki.warthunder.com/STB-2",
+      "title" : "STB-2"
     }, {
       "blkBackground" : null,
       "blkImg" : "jp_type_74_c",
@@ -256,6 +256,12 @@
       "span" : "Type 75 SPH",
       "href" : "https://wiki.warthunder.com/Type_75_SPH",
       "title" : "Type 75 SPH"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "jp_type_99",
+      "span" : "Type 99",
+      "href" : "https://wiki.warthunder.com/Type_99",
+      "title" : "Type 99"
     }, {
       "blkBackground" : null,
       "blkImg" : "jp_type_5_ho_ri_production",

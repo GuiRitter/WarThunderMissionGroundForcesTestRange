@@ -14,6 +14,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Scope;
 import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 import org.springframework.stereotype.Component;
+
 @Component
 @Scope(SCOPE_PROTOTYPE)
 public class RowTask implements Runnable {
@@ -28,26 +29,29 @@ public class RowTask implements Runnable {
 	@Autowired
 	ThreadPoolTaskExecutor taskExecutor;
 
+	String tree;
+
 	@Override
 	public void run() {
-		out.format("%s\n", rowIndex);
+		out.format("RowTask %s %s\n", tree, rowIndex);
 
 		var columnList = rowElement.findElements(By.cssSelector("td"));
 
 		IntStream.range(0, columnList.size()).forEach(columnIndex -> {
 			var task = applicationContext.getBean("columnTask", ColumnTask.class);
 
+			task.setTree(tree);
 			task.setRowIndex(rowIndex);
 			task.setColumnIndex(columnIndex);
 			task.setColumnElement(columnList.get(columnIndex));
 
-			out.println("RowTask started before taskExecutor.execute");
+			out.format("RowTask %s %s started before taskExecutor.execute\n", tree, rowIndex);
 			try {
 				taskExecutor.submit(task).get();
 			} catch (InterruptedException | ExecutionException e) {
 				e.printStackTrace();
 			}
-			out.println("RowTask started after taskExecutor.execute");
+			out.format("RowTask %s %s started after taskExecutor.execute\n", tree, rowIndex);
 		});
 
 		currentThread().interrupt();
@@ -62,6 +66,12 @@ public class RowTask implements Runnable {
 	public final void setRowIndex(int index) {
 		if (rowIndex == null) {
 			rowIndex = index;
+		}
+	}
+
+	public final void setTree(String tree) {
+		if (this.tree == null) {
+			this.tree = tree;
 		}
 	}
 }

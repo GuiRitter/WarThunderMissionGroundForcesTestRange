@@ -32,7 +32,7 @@
       "upperField" : "Waffenträger Krupp-Steyr mit Pak 43"
     }, {
       "lowerField" : "germ_m109g",
-      "upperField" : ""
+      "upperField" : "M109G"
     }, {
       "lowerField" : "germ_le_kpz_m41",
       "upperField" : "leKPz M41"
@@ -184,6 +184,9 @@
     }, {
       "lowerField" : "germ_leopard_2a5_pso",
       "upperField" : "Leopard 2 PSO"
+    }, {
+      "lowerField" : "germ_leopard_2a7v",
+      "upperField" : ""
     } ]
   }, {
     "cellList" : [ {

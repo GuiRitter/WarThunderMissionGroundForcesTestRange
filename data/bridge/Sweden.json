@@ -17,7 +17,7 @@
       "upperField" : "Pansarvärnskanonvagn II"
     }, {
       "lowerField" : "sw_pbv_501",
-      "upperField" : ""
+      "upperField" : "Pansarbandvagn 501"
     }, {
       "lowerField" : "sw_ikv_91",
       "upperField" : "Infanterikanonvagn 91"
@@ -89,6 +89,9 @@
     }, {
       "lowerField" : "sw_strv_122b_plss",
       "upperField" : "Stridsvagn 122B PLSS"
+    }, {
+      "lowerField" : "sw_strv_122b_plus",
+      "upperField" : ""
     } ]
   }, {
     "cellList" : [ {

@@ -146,4 +146,8 @@ After 2.31: On the other hand, the version for this update has been done on the 
 
 The last oddity is the biggest of them all. One of the train wagons that have been added is called "railway_ diesel_locomotive_te1". No, that's not a typo: there's a space in the name. And the mission works with it, except it doesn't render. I tested removing the space but that's when the game didn't recognize it. Other than that, no surprises for the new vehicles.
 
+After 2.33: I delayed this one until I was on vacation. Gaijin changed some stuff in the wiki which caused another small delay. As expected, most of the April's Fools vehicles were removed. Also, they fixed the "railway_diesel_locomotive_te1". Now there's no space in the name.
+
+Only the Italian "Tigris" took a little longer to defeat with reserve tanks. I had to aim at the roof of the engine compartment, right at the edge with the right side. There it was possible to set it on fire. The Challenger 3 TD also took some beating before biting it.
+
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

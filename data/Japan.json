@@ -131,6 +131,9 @@
       "lowerField" : "jp_type_75",
       "upperField" : "Type 75 SPH"
     }, {
+      "lowerField" : "jp_type_99",
+      "upperField" : "Type 99"
+    }, {
       "lowerField" : "jp_type_5_ho_ri_production",
       "upperField" : "Type 5 Ho-Ri Production"
     }, {

@@ -12,6 +12,7 @@ import org.openqa.selenium.WebElement;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
+
 @Component
 @Scope(SCOPE_PROTOTYPE)
 public class ModelTask extends ColumnTask {
@@ -41,7 +42,21 @@ public class ModelTask extends ColumnTask {
 
 		var blkBackground = fixMap.get(href);
 
-		if (blkImgList.isEmpty()) {
+		var isImgListEmpty = blkImgList.isEmpty();
+
+		Boolean isImageReused = null;
+		String blkImg = "";
+		String treeAlt = "";
+
+		if (!isImgListEmpty) {
+			blkImg = blkImgList.get(0).getAttribute("alt").replace(".png", "");
+
+			treeAlt = blkImg.substring(0, blkImg.indexOf("_"));
+
+			isImageReused = tree.compareToIgnoreCase(treeAlt) != 0;
+		}
+
+		if (isImgListEmpty || ((isImageReused != null) && (isImageReused == true))) {
 			var task = applicationContext.getBean("modelDetailTask", ModelDetailTask.class);
 
 			task.setRowIndex(rowIndex);
@@ -61,18 +76,14 @@ public class ModelTask extends ColumnTask {
 			}
 			out.println("ModelTask started after taskExecutor.execute");
 		} else {
-			var blkImg = blkImgList.get(0).getAttribute("alt").replace(".png", "");
-
-			var tree = blkImg.substring(0, blkImg.indexOf("_"));
-
-			out.format("%s %s %s %s %s, %s, %s, %s\n", tree, rowIndex, columnIndex, modelIndex, span, title,
+			out.format("ModelTask %s %s %s %s %s %s, %s, %s, %s\n", tree, treeAlt, rowIndex, columnIndex, modelIndex, span, title,
 					blkBackground, blkImg);
 
-			var table = tableMap.get(tree);
+			var table = tableMap.get(treeAlt);
 
 			if (table == null) {
 				table = new Table();
-				tableMap.put(tree, table);
+				tableMap.put(treeAlt, table);
 			}
 
 			if (table.columnList.size() < (columnIndex + 1)) {

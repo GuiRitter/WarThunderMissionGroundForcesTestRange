@@ -89,6 +89,9 @@
     }, {
       "lowerField" : "sw_strv_122b_plss",
       "upperField" : "Stridsvagn 122B PLSS"
+    }, {
+      "lowerField" : "sw_strv_122b_plus",
+      "upperField" : "Stridsvagn 122B+"
     } ]
   }, {
     "cellList" : [ {

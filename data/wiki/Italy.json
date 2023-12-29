@@ -480,6 +480,12 @@
       "title" : "Pz.IV G (Italy)"
     }, {
       "blkBackground" : null,
+      "blkImg" : "it_pzkpfw_vi_ausf_e_tiger",
+      "span" : "Tigris",
+      "href" : "https://wiki.warthunder.com/Tigris",
+      "title" : "Tigris"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "it_m26_ariete",
       "span" : "M26 \"D.C.Ariete\"",
       "href" : "https://wiki.warthunder.com/M26_%22D.C.Ariete%22",

@@ -48,6 +48,9 @@
     }, {
       "lowerField" : "cn_wz_1001",
       "upperField" : "WZ1001(E) LCT"
+    }, {
+      "lowerField" : "cn_vt_4b",
+      "upperField" : ""
     } ]
   }, {
     "cellList" : [ {
@@ -170,7 +173,7 @@
       "upperField" : "✨SU-100"
     }, {
       "lowerField" : "cn_plz_83",
-      "upperField" : ""
+      "upperField" : "PLZ83"
     }, {
       "lowerField" : "cn_m113a1_tow",
       "upperField" : "✨M113A1 TOW"

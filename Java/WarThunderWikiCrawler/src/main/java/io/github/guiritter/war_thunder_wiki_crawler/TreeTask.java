@@ -75,16 +75,19 @@ public final class TreeTask implements Runnable {
 
 	@Override
 	public void run() {
-		out.println(href);
+		out.println("TreeTask " + href);
 
 		var webDriver = buildWebDriver();
 		webDriver.get(href);
 
 		var rowList = webDriver.findElements(By.cssSelector("tr"));
 
+		var tree = hrefMap.get(href);
+
 		range(0, rowList.size()).forEach(rowIndex -> {
 			var task = applicationContext.getBean("rowTask", RowTask.class);
 
+			task.setTree(tree);
 			task.setRowIndex(rowIndex);
 			task.setRowElement(rowList.get(rowIndex));
 
@@ -96,8 +99,6 @@ public final class TreeTask implements Runnable {
 			}
 			out.println("TreeTask started after taskExecutor.execute");
 		});
-
-		var tree = hrefMap.get(href);
 
 		try {
 			var output = (new ObjectMapper()).enable(INDENT_OUTPUT).writeValueAsString(tableMap.get(tree));

@@ -284,6 +284,12 @@
       "title" : "AMX-13 DCA 40"
     }, {
       "blkBackground" : null,
+      "blkImg" : "fr_tpk_641_vpc",
+      "span" : "TPK 6.41",
+      "href" : "https://wiki.warthunder.com/TPK_6.41",
+      "title" : "TPK 6.41"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "fr_amx_10p",
       "span" : "AMX-10P",
       "href" : "https://wiki.warthunder.com/AMX-10P",

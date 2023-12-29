@@ -47,23 +47,7 @@
           "upperField": ""
         },
         {
-          "lowerField": "destroyer_heavy_tank_h",
-          "upperField": ""
-        },
-        {
-          "lowerField": "railway_ diesel_locomotive_te1",
-          "upperField": ""
-        }
-      ]
-    },
-    {
-      "cellList": [
-        {
-          "lowerField": "railway_covered_bcna",
-          "upperField": ""
-        },
-        {
-          "lowerField": "sdi_minotaur",
+          "lowerField": "",
           "upperField": ""
         },
         {
@@ -75,11 +59,11 @@
     {
       "cellList": [
         {
-          "lowerField": "railway_hopper_bobr",
+          "lowerField": "railway_covered_bcna",
           "upperField": ""
         },
         {
-          "lowerField": "us_m4_sherman_fake",
+          "lowerField": "",
           "upperField": ""
         },
         {
@@ -91,11 +75,11 @@
     {
       "cellList": [
         {
-          "lowerField": "railway_wam_4_locomotive",
+          "lowerField": "railway_diesel_locomotive_te1",
           "upperField": ""
         },
         {
-          "lowerField": "ussr_sht_1_2",
+          "lowerField": "",
           "upperField": ""
         },
         {
@@ -107,11 +91,11 @@
     {
       "cellList": [
         {
-          "lowerField": "assault_combat_space_suit",
+          "lowerField": "railway_hopper_bobr",
           "upperField": ""
         },
         {
-          "lowerField": "close_combat_space_suit",
+          "lowerField": "",
           "upperField": ""
         },
         {
@@ -123,11 +107,11 @@
     {
       "cellList": [
         {
-          "lowerField": "fire_support_combat_space_suit",
+          "lowerField": "railway_wam_4_locomotive",
           "upperField": ""
         },
         {
-          "lowerField": "scout_combat_space_suit",
+          "lowerField": "",
           "upperField": ""
         },
         {

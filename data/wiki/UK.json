@@ -150,6 +150,12 @@
       "span" : "Challenger 2E",
       "href" : "https://wiki.warthunder.com/Challenger_2E",
       "title" : "Challenger 2E"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "uk_challenger_2_lep",
+      "span" : "Challenger 3 TD",
+      "href" : "https://wiki.warthunder.com/Challenger_3_TD",
+      "title" : "Challenger 3 TD"
     } ]
   }, {
     "cellList" : [ {
@@ -552,6 +558,12 @@
       "title" : "A.C.IV"
     }, {
       "blkBackground" : null,
+      "blkImg" : "uk_a_34_comet_iron_duke",
+      "span" : "Comet I \"Iron Duke IV\"",
+      "href" : "https://wiki.warthunder.com/Comet_I_%22Iron_Duke_IV%22",
+      "title" : "Comet I \"Iron Duke IV\""
+    }, {
+      "blkBackground" : null,
       "blkImg" : "uk_centurion_mk_3_ss11",
       "span" : "▄Strv 81 (RB 52)",
       "href" : "https://wiki.warthunder.com/Strv_81_(RB_52)_(Great_Britain)",
@@ -592,6 +604,12 @@
       "span" : "␙Challenger 2",
       "href" : "https://wiki.warthunder.com/Challenger_2_(YouTube_Cup)",
       "title" : "Challenger 2 (YouTube Cup)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "uk_challenger_2_megatron",
+      "span" : "Challenger 2 OES",
+      "href" : "https://wiki.warthunder.com/Challenger_2_OES",
+      "title" : "Challenger 2 OES"
     } ]
   }, {
     "cellList" : [ {
@@ -638,10 +656,10 @@
       "title" : "Churchill Crocodile"
     }, {
       "blkBackground" : null,
-      "blkImg" : "uk_a_34_comet_iron_duke",
-      "span" : "Comet I \"Iron Duke IV\"",
-      "href" : "https://wiki.warthunder.com/Comet_I_%22Iron_Duke_IV%22",
-      "title" : "Comet I \"Iron Duke IV\""
+      "blkImg" : "uk_tog_2",
+      "span" : "TOG II",
+      "href" : "https://wiki.warthunder.com/TOG_II",
+      "title" : "TOG II"
     }, {
       "blkBackground" : null,
       "blkImg" : "uk_ram_90mm_aa",

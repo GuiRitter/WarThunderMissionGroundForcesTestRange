@@ -1,0 +1,31 @@
+lines only in old:
+
+assault_combat_space_suit
+close_combat_space_suit
+destroyer_heavy_tank_h
+fire_support_combat_space_suit
+railway_ diesel_locomotive_te1
+scout_combat_space_suit
+sdi_minotaur
+us_m4_sherman_fake
+ussr_sht_1_2
+
+lines only in new:
+
+cn_vt_4b
+fr_tpk_641_vpc
+germ_leopard_2a7v
+germ_vilkas
+il_m109a1
+il_m113a1_tow
+it_pzkpfw_VI_ausf_e_tiger
+jp_type_99
+railway_diesel_locomotive_te1
+sw_strv_122b_plus
+uk_challenger_2_lep
+uk_challenger_2_megatron
+uk_tog_2
+us_m1a1_hc_usmc
+us_m1a2_sep2_abrams
+ussr_t_90m_2020
+

@@ -310,6 +310,12 @@
       "span" : "M1A2 SEP",
       "href" : "https://wiki.warthunder.com/M1A2_SEP",
       "title" : "M1A2 SEP"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "us_m1a2_sep2_abrams",
+      "span" : "M1A2 SEP V2",
+      "href" : "https://wiki.warthunder.com/M1A2_SEP_V2",
+      "title" : "M1A2 SEP V2"
     } ]
   }, {
     "cellList" : [ {
@@ -592,6 +598,12 @@
       "span" : "M1A1 AIM",
       "href" : "https://wiki.warthunder.com/M1A1_AIM",
       "title" : "M1A1 AIM"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "us_m1a1_hc_usmc",
+      "span" : "M1A1 Click-Bait",
+      "href" : "https://wiki.warthunder.com/M1A1_Click-Bait",
+      "title" : "M1A1 Click-Bait"
     } ]
   }, {
     "cellList" : [ {

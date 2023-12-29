@@ -22,25 +22,26 @@ public class ColumnTask extends RowTask {
 
 	@Override
 	public void run() {
-		out.format("%s %s\n", rowIndex, columnIndex);
+		out.format("ColumnTask %s %s %s\n", tree, rowIndex, columnIndex);
 
 		var modelList = columnElement.findElements(By.cssSelector(".tree-item"));
 
 		IntStream.range(0, modelList.size()).forEach(modelIndex -> {
 			var task = applicationContext.getBean("modelTask", ModelTask.class);
 
+			task.setTree(tree);
 			task.setRowIndex(rowIndex);
 			task.setColumnIndex(columnIndex);
 			task.setModelIndex(modelIndex);
 			task.setModelElement(modelList.get(modelIndex));
 
-			out.println("ColumnTask started before taskExecutor.execute");
+			out.format("ColumnTask %s %s %s started before taskExecutor.execute", tree, rowIndex, columnIndex);
 			try {
 				taskExecutor.submit(task).get();
 			} catch (InterruptedException | ExecutionException e) {
 				e.printStackTrace();
 			}
-			out.println("ColumnTask started after taskExecutor.execute");
+			out.format("ColumnTask %s %s %s started after taskExecutor.execute", tree, rowIndex, columnIndex);
 		});
 
 		currentThread().interrupt();

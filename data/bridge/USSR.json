@@ -75,6 +75,9 @@
     }, {
       "lowerField" : "ussr_t_72b3_2011",
       "upperField" : "T-72B3"
+    }, {
+      "lowerField" : "ussr_t_90m_2020",
+      "upperField" : ""
     } ]
   }, {
     "cellList" : [ {
@@ -254,7 +257,7 @@
       "upperField" : "9P149 Shturm-S"
     }, {
       "lowerField" : "ussr_object_775",
-      "upperField" : ""
+      "upperField" : "Object 775"
     }, {
       "lowerField" : "ussr_9p157",
       "upperField" : "9P157-2 Khrizantema-S"
@@ -283,7 +286,7 @@
       "upperField" : "ZSU-37"
     }, {
       "lowerField" : "ussr_btr_152d",
-      "upperField" : ""
+      "upperField" : "BTR-152D"
     }, {
       "lowerField" : "ussr_btr_zd",
       "upperField" : "BTR-ZD"
@@ -323,9 +326,6 @@
       "lowerField" : "ussr_pzkpfw_iii_ausf_j_l42",
       "upperField" : "★T-III"
     }, {
-      "lowerField" : "ussr_bm_8_24",
-      "upperField" : "BM-8-24"
-    }, {
       "lowerField" : "ussr_t_126sp",
       "upperField" : "T-126(SP)"
     }, {
@@ -353,11 +353,14 @@
       "lowerField" : "ussr_t_34_57_1943",
       "upperField" : "T-34-57 mod. 1943"
     }, {
-      "lowerField" : "ussr_su_100y",
-      "upperField" : "SU-100Y"
-    }, {
       "lowerField" : "ussr_m4a2_76w_sherman",
       "upperField" : "★M4A2"
+    }, {
+      "lowerField" : "ussr_type_65_aa",
+      "upperField" : "Type 65"
+    }, {
+      "lowerField" : "ussr_kv_122",
+      "upperField" : "KV-122"
     }, {
       "lowerField" : "ussr_t_34_85e",
       "upperField" : "T-34-85E"
@@ -371,6 +374,9 @@
       "lowerField" : "ussr_t_34_100",
       "upperField" : "T-34-100"
     }, {
+      "lowerField" : "ussr_is_6",
+      "upperField" : "IS-6"
+    }, {
       "lowerField" : "ussr_object_120",
       "upperField" : "Object 120 \"Taran\""
     }, {
@@ -380,34 +386,34 @@
       "lowerField" : "ussr_t_55_am",
       "upperField" : "T-55AM-1"
     }, {
-      "lowerField" : "ussr_t_72av_turms",
-      "upperField" : "T-72AV (TURMS-T)"
-    }, {
-      "lowerField" : "ussr_2s38",
-      "upperField" : "2S38"
+      "lowerField" : "ussr_bmd_4",
+      "upperField" : "BMD-4"
     }, {
       "lowerField" : "ussr_bmp_2m",
       "upperField" : "BMP-2M"
     }, {
-      "lowerField" : "ussr_t_80um2",
-      "upperField" : "T-80UM2"
+      "lowerField" : "ussr_2s38",
+      "upperField" : "2S38"
     }, {
-      "lowerField" : "ussr_t_80uk",
-      "upperField" : "T-80UK"
+      "lowerField" : "ussr_t_72av_turms",
+      "upperField" : "T-72AV (TURMS-T)"
     } ]
   }, {
     "cellList" : [ {
       "lowerField" : "ussr_t_26e",
       "upperField" : "T-26E"
     }, {
-      "lowerField" : "ussr_bt_7_1937_td",
-      "upperField" : "BT-7 TD"
-    }, {
       "lowerField" : "ussr_rbt_5",
       "upperField" : "RBT-5"
     }, {
       "lowerField" : "ussr_ba_11",
       "upperField" : "BA-11"
+    }, {
+      "lowerField" : "ussr_bm_8_24",
+      "upperField" : "BM-8-24"
+    }, {
+      "lowerField" : "ussr_bt_7_1937_td",
+      "upperField" : "BT-7 TD"
     }, {
       "lowerField" : "ussr_m3c",
       "upperField" : "★M3 Medium"
@@ -436,14 +442,11 @@
       "lowerField" : "ussr_kv_1e",
       "upperField" : "KV-1E"
     }, {
+      "lowerField" : "ussr_su_100y",
+      "upperField" : "SU-100Y"
+    }, {
       "lowerField" : "ussr_kv_2_zis_6",
       "upperField" : "KV-2(ZIS-6)"
-    }, {
-      "lowerField" : "ussr_type_65_aa",
-      "upperField" : "Type 65"
-    }, {
-      "lowerField" : "ussr_kv_122",
-      "upperField" : "KV-122"
     }, {
       "lowerField" : "ussr_kv_220",
       "upperField" : "KV-220"
@@ -460,9 +463,6 @@
       "lowerField" : "ussr_type_62",
       "upperField" : "Type-62"
     }, {
-      "lowerField" : "ussr_is_6",
-      "upperField" : "IS-6"
-    }, {
       "lowerField" : "ussr_t_10a",
       "upperField" : "T-10A"
     }, {
@@ -475,14 +475,17 @@
       "lowerField" : "ussr_object_279",
       "upperField" : "Object 279"
     }, {
-      "lowerField" : "ussr_bmd_4",
-      "upperField" : "BMD-4"
-    }, {
       "lowerField" : "ussr_t_72m2_moderna",
       "upperField" : "T-72M2"
     }, {
       "lowerField" : "ussr_t_80u_yt_cup_2019",
       "upperField" : "\uD83C\uDFC6T-80U"
+    }, {
+      "lowerField" : "ussr_t_80um2",
+      "upperField" : "T-80UM2"
+    }, {
+      "lowerField" : "ussr_t_80uk",
+      "upperField" : "T-80UK"
     } ]
   } ]
 }

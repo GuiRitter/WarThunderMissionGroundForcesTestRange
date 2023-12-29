@@ -184,6 +184,9 @@
     }, {
       "lowerField" : "germ_leopard_2a5_pso",
       "upperField" : "Leopard 2 PSO"
+    }, {
+      "lowerField" : "germ_leopard_2a7v",
+      "upperField" : "Leopard 2A7V"
     } ]
   }, {
     "cellList" : [ {
@@ -467,6 +470,9 @@
     }, {
       "lowerField" : "germ_pzkpfw_35t_romania_mare",
       "upperField" : "Pz.35(t) RM"
+    }, {
+      "lowerField" : "germ_vilkas",
+      "upperField" : "Vilkas"
     } ]
   } ]
 }

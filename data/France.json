@@ -145,6 +145,9 @@
       "lowerField" : "fr_amx_13_dca_40",
       "upperField" : "AMX-13 DCA 40"
     }, {
+      "lowerField" : "fr_tpk_641_vpc",
+      "upperField" : "ACMAT TPK 6.41 VPC"
+    }, {
       "lowerField" : "fr_amx_10p",
       "upperField" : "AMX-10P"
     }, {

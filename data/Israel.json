@@ -92,12 +92,6 @@
       "lowerField" : "il_tcm_20",
       "upperField" : "TCM-20"
     }, {
-      "lowerField" : "il_m109",
-      "upperField" : "✡M109"
-    }, {
-      "lowerField" : "il_ss_11_halftrack",
-      "upperField" : "Zachlam Tager"
-    }, {
       "lowerField" : "il_zsu_57_2",
       "upperField" : "ZSU-57-2"
     }, {
@@ -112,6 +106,20 @@
     }, {
       "lowerField" : "il_mim_72_chaparral",
       "upperField" : "✡Improved Chaparral"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "il_m109",
+      "upperField" : "✡M109"
+    }, {
+      "lowerField" : "il_m109a1",
+      "upperField" : "M109A1 Rochev"
+    }, {
+      "lowerField" : "il_ss_11_halftrack",
+      "upperField" : "Zachlam Tager"
+    }, {
+      "lowerField" : "il_m113a1_tow",
+      "upperField" : "M113A1 TOW Giraf"
     } ]
   }, {
     "cellList" : [ {
