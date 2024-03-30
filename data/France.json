@@ -142,6 +142,9 @@
       "lowerField" : "fr_cckw_353_bofors",
       "upperField" : "GMC CCKW 353 (40 mm Bofors)"
     }, {
+      "lowerField" : "fr_amx_vtt_dca",
+      "upperField" : "AMX-13 VTT DCA"
+    }, {
       "lowerField" : "fr_amx_13_dca_40",
       "upperField" : "AMX-13 DCA 40"
     }, {

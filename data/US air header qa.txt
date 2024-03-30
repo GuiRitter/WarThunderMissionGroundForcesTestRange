@@ -25,7 +25,7 @@ mission_settings{
   }
 
   mission{
-    name:t="Ground_Attack_Test_Range_Israel_Screenshot"
+    name:t="Ground_Attack_Test_Range_US_QA"
     level:t="levels/flatlands.bin"
     type:t="singleMission"
     restoreType:t="attempts"
@@ -267,14 +267,12 @@ units{
   armada{
     name:t="armada_player"
     tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [0, 500, 0]]
-    unit_class:t="bb-1"
+    unit_class:t="sbd-3"
     objLayer:i=1
     closed_waypoints:b=no
-    isShipSpline:b=no
-    shipTurnRadius:r=100
-    weapons:t="bb-1_fab50"
-    bullets0:t="shkas_all_tracers"
-    bullets1:t=""
+    weapons:t="sbd_3_default"
+    bullets0:t="50cal_tracers"
+    bullets1:t="30cal_turret_ap"
     bullets2:t=""
     bullets3:t=""
     bulletsCount0:i=0

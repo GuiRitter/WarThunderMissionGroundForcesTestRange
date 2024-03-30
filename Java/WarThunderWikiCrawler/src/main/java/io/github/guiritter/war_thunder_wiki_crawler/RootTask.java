@@ -61,6 +61,11 @@ public final class RootTask implements Runnable {
 
 			task.setHref(element.getAttribute("href"));
 
+			// XXX debug
+			// if (task.href.compareToIgnoreCase("https://wiki.warthunder.com/Category:China_ground_vehicles") != 0) {
+			// 	return;
+			// }
+
 			out.println("RootTask started before taskExecutor.execute");
 			try {
 				taskExecutor.submit(task).get();

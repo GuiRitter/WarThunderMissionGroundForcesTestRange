@@ -25,7 +25,7 @@ mission_settings{
   }
 
   mission{
-    name:t="Ground_Attack_Test_Range_US_Screenshot"
+    name:t="Ground_Attack_Test_Range_US_QA"
     level:t="levels/flatlands.bin"
     type:t="singleMission"
     restoreType:t="attempts"
@@ -306,3 +306,108 @@ units{
     way{
     }
   }
+
+  tankModels{
+    name:t="tank_0_0"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-200, 0.01, 0.0]]
+    unit_class:t="us_m551_76"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_0_1"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [200, 0.01, 0.0]]
+    unit_class:t="us_m60_120s"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+}
+
+areas{
+  area_for_cutscene_0{
+    type:t="Point"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7810, 34.5, 8192]]
+    objLayer:i=0
+
+    props{
+    }
+  }
+
+  area_for_cutscene_1{
+    type:t="Point"
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [8135, 0, 8192]]
+    objLayer:i=0
+
+    props{
+    }
+  }
+}
+
+objLayers{
+  layer{
+    enabled:b=yes
+  }
+
+  layer{
+    enabled:b=yes
+  }
+
+  layer{
+    enabled:b=yes
+  }
+
+  layer{
+    enabled:b=yes
+  }
+}
+
+wayPoints{
+}

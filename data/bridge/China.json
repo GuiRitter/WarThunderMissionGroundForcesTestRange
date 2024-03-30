@@ -190,6 +190,9 @@
       "lowerField" : "cn_hj_9",
       "upperField" : "AFT09"
     }, {
+      "lowerField" : "cn_zbd_04a",
+      "upperField" : "ZhuangJia BuBing LÜDai 04A"
+    }, {
       "lowerField" : "cn_ztl_11",
       "upperField" : "ZLT11"
     } ]

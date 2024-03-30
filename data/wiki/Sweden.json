@@ -457,15 +457,21 @@
     }, {
       "blkBackground" : null,
       "blkImg" : "sw_leopard_1a5no",
-      "span" : "Leopard 1A5NO",
-      "href" : "https://wiki.warthunder.com/Leopard_1A5NO",
-      "title" : "Leopard 1A5NO"
+      "span" : "Leopard 1A5NO2",
+      "href" : "https://wiki.warthunder.com/Leopard_1A5NO2",
+      "title" : "Leopard 1A5NO2"
     }, {
       "blkBackground" : null,
       "blkImg" : "sw_cv_90105_tml",
       "span" : "CV 90105",
       "href" : "https://wiki.warthunder.com/CV_90105",
       "title" : "CV 90105"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "sw_strv121b_christian2",
+      "span" : "Christian II",
+      "href" : "https://wiki.warthunder.com/Christian_II",
+      "title" : "Christian II"
     }, {
       "blkBackground" : null,
       "blkImg" : "sw_t_80u",

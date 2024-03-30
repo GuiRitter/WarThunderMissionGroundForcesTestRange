@@ -73,13 +73,13 @@
       "upperField" : "Fiat-Ansaldo P40"
     }, {
       "lowerField" : "it_m4a4_sherman",
-      "upperField" : "Carro Medio M4A4"
+      "upperField" : "Carro Armato Medio «Sherman» Tipo V"
     }, {
       "lowerField" : "it_sherman_VII",
-      "upperField" : "M4 Tipo IC Composito"
+      "upperField" : "Carro Medio «Sherman» Tipo Ic (composito)"
     }, {
       "lowerField" : "it_sherman_vc_firefly",
-      "upperField" : "Carro Medio Sherman Vc"
+      "upperField" : "Carro Armato Medio «Sherman» Tipo Vc"
     }, {
       "lowerField" : "it_m26a1_pershing",
       "upperField" : "Carro Armato M26A1"
@@ -240,7 +240,7 @@
       "upperField" : "Carro Armato M Celere Sahariano"
     }, {
       "lowerField" : "it_sherman_75_37",
-      "upperField" : "Carro Medio M4 Hybrid"
+      "upperField" : "Carro Armato Medio «Sherman» Tipo I (Composito)"
     }, {
       "lowerField" : "it_pzkpfw_IV_ausf_G",
       "upperField" : "✞Pz.IV G"
@@ -259,6 +259,9 @@
     }, {
       "lowerField" : "it_vrcc_centauro",
       "upperField" : "Vehículos de Reconocimiento y Combate de Caballería Centauro"
+    }, {
+      "lowerField" : "it_centauro_rgo_120",
+      "upperField" : "Blindos pesante Centauro, Serie 3, HITFACT 120 RGO"
     } ]
   }, {
     "cellList" : [ {

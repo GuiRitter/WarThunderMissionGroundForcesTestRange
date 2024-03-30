@@ -478,6 +478,12 @@
       "title" : "Eland 90 Mk.7"
     }, {
       "blkBackground" : null,
+      "blkImg" : "uk_fv721_fox",
+      "span" : "Fox",
+      "href" : "https://wiki.warthunder.com/Fox",
+      "title" : "Fox"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "uk_rooikat_76",
       "span" : "Rooikat Mk.1D",
       "href" : "https://wiki.warthunder.com/Rooikat_Mk.1D",

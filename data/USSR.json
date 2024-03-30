@@ -303,6 +303,9 @@
       "lowerField" : "ussr_zsu_23_4",
       "upperField" : "ZSU-23-4 \"Shilka\""
     }, {
+      "lowerField" : "ussr_zsu_23_4m4",
+      "upperField" : "ZSU-23-4M4 \"Shilka-M4\""
+    }, {
       "lowerField" : "ussr_9a35_m2",
       "upperField" : "ZRK 9A35M2 'Strela-10M2'"
     }, {
@@ -397,6 +400,9 @@
     }, {
       "lowerField" : "ussr_t_72av_turms",
       "upperField" : "T-72AV (TURMS-T)"
+    }, {
+      "lowerField" : "ussr_object_292",
+      "upperField" : "Object 292"
     } ]
   }, {
     "cellList" : [ {
@@ -477,6 +483,9 @@
     }, {
       "lowerField" : "ussr_t_72m2_moderna",
       "upperField" : "T-72M2"
+    }, {
+      "lowerField" : "ussr_t_80ud",
+      "upperField" : "T-80UD"
     }, {
       "lowerField" : "ussr_t_80u_yt_cup_2019",
       "upperField" : "🏆T-80U"

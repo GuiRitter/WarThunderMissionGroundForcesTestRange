@@ -184,6 +184,12 @@
       "title" : "M60A3 TTS"
     }, {
       "blkBackground" : null,
+      "blkImg" : "us_m60_120s",
+      "span" : "120S",
+      "href" : "https://wiki.warthunder.com/120S",
+      "title" : "120S"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "us_m1a1_hc_abrams",
       "span" : "M1A1 HC",
       "href" : "https://wiki.warthunder.com/M1A1_HC",
@@ -271,9 +277,9 @@
     }, {
       "blkBackground" : null,
       "blkImg" : "us_xm_803",
-      "span" : "XM-803",
-      "href" : "https://wiki.warthunder.com/XM-803",
-      "title" : "XM-803"
+      "span" : "XM803",
+      "href" : "https://wiki.warthunder.com/XM803",
+      "title" : "XM803"
     }, {
       "blkBackground" : null,
       "blkImg" : "us_mbt_70",
@@ -381,9 +387,9 @@
     }, {
       "blkBackground" : null,
       "blkImg" : "us_adats_bradley",
-      "span" : "XM1069",
-      "href" : "https://wiki.warthunder.com/XM1069",
-      "title" : "XM1069"
+      "span" : "ADATS",
+      "href" : "https://wiki.warthunder.com/ADATS",
+      "title" : "ADATS"
     } ]
   }, {
     "cellList" : [ {
@@ -565,15 +571,15 @@
     }, {
       "blkBackground" : null,
       "blkImg" : "us_xm1_gm",
-      "span" : "XM-1 (GM)",
-      "href" : "https://wiki.warthunder.com/XM-1_(GM)",
-      "title" : "XM-1 (GM)"
+      "span" : "XM1 (GM)",
+      "href" : "https://wiki.warthunder.com/XM1_(GM)",
+      "title" : "XM1 (GM)"
     }, {
       "blkBackground" : null,
       "blkImg" : "us_xm1_chrysler",
-      "span" : "XM-1 (Chrysler)",
-      "href" : "https://wiki.warthunder.com/XM-1_(Chrysler)",
-      "title" : "XM-1 (Chrysler)"
+      "span" : "XM1 (Chrysler)",
+      "href" : "https://wiki.warthunder.com/XM1_(Chrysler)",
+      "title" : "XM1 (Chrysler)"
     }, {
       "blkBackground" : null,
       "blkImg" : "us_m901_itv",
@@ -690,6 +696,12 @@
       "span" : "M6A2E1",
       "href" : "https://wiki.warthunder.com/M6A2E1",
       "title" : "M6A2E1"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "us_m551_76",
+      "span" : "M551(76)",
+      "href" : "https://wiki.warthunder.com/M551(76)",
+      "title" : "M551(76)"
     }, {
       "blkBackground" : null,
       "blkImg" : "us_magach_3",

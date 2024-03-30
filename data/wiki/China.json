@@ -374,6 +374,12 @@
       "title" : "AFT09"
     }, {
       "blkBackground" : null,
+      "blkImg" : "cn_zbd_04a",
+      "span" : "ZBD04A",
+      "href" : "https://wiki.warthunder.com/ZBD04A",
+      "title" : "ZBD04A"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "cn_ztl_11",
       "span" : "ZLT11",
       "href" : "https://wiki.warthunder.com/ZLT11",

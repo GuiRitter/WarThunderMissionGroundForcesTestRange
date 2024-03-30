@@ -25,7 +25,7 @@ mission_settings{
   }
 
   mission{
-    name:t="Ground_Attack_Test_Range_Other_Screenshot"
+    name:t="Ground_Attack_Test_Range_Other_QA"
     level:t="levels/flatlands.bin"
     type:t="singleMission"
     restoreType:t="attempts"
@@ -272,7 +272,7 @@ units{
     closed_waypoints:b=no
     isShipSpline:b=no
     shipTurnRadius:r=100
-    weapons:t="bb-1_fab50"
+    weapons:t="bb-1_fab50_inner"
     bullets0:t="shkas_all_tracers"
     bullets1:t=""
     bullets2:t=""

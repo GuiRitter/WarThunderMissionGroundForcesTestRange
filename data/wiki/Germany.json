@@ -422,6 +422,12 @@
       "title" : "Ostwind II"
     }, {
       "blkBackground" : null,
+      "blkImg" : "germ_flakpanzer_zerstorer_45",
+      "span" : "Zerstörer 45",
+      "href" : "https://wiki.warthunder.com/Zerst%C3%B6rer_45",
+      "title" : "Zerstörer 45"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "germ_flakpanzer_iv_kugelblitz",
       "span" : "Kugelblitz",
       "href" : "https://wiki.warthunder.com/Kugelblitz",
@@ -736,6 +742,12 @@
       "span" : "Leopard 2 (PzBtl 123)",
       "href" : "https://wiki.warthunder.com/Leopard_2_(PzBtl_123)",
       "title" : "Leopard 2 (PzBtl 123)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_vilkas",
+      "span" : "Vilkas",
+      "href" : "https://wiki.warthunder.com/Vilkas",
+      "title" : "Vilkas"
     }, {
       "blkBackground" : null,
       "blkImg" : "germ_leopard_2pl",

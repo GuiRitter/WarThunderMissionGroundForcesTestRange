@@ -150,4 +150,8 @@ After 2.33: I delayed this one until I was on vacation. Gaijin changed some stuf
 
 Only the Italian "Tigris" took a little longer to defeat with reserve tanks. I had to aim at the roof of the engine compartment, right at the edge with the right side. There it was possible to set it on fire. The Challenger 3 TD also took some beating before biting it.
 
+After 2.35: I must be sounding repetitive by now but this must be the moment when I had the least amount of free time that I can remember. I have a lot of stuff from more than a month ago that piled up to be done. Despite of that, I almost managed to release this version without so much delay. I invested some time to develop some tools to save time but I had some issues in that process that made me lose some time.
+
+Personal issues aside, in Germany, the Vilkas now has been assigned a position in the tree. Other than that, nothing else worth mentioning.
+
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

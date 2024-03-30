@@ -25,7 +25,7 @@ mission_settings{
   }
 
   mission{
-    name:t="Ground_Attack_Test_Range_Sweden_Screenshot"
+    name:t="Ground_Attack_Test_Range_Japan_QA"
     level:t="levels/flatlands.bin"
     type:t="singleMission"
     restoreType:t="attempts"
@@ -267,14 +267,12 @@ units{
   armada{
     name:t="armada_player"
     tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [0, 500, 0]]
-    unit_class:t="saab_b17b"
+    unit_class:t="d3a1"
     objLayer:i=1
     closed_waypoints:b=no
-    isShipSpline:b=no
-    shipTurnRadius:r=100
-    weapons:t="saab_b17b_default"
-    bullets0:t="shkas_all_tracers"
-    bullets1:t=""
+    weapons:t="d3a1_mod25mark2"
+    bullets0:t="7_7_stealth"
+    bullets1:t="type92_turret_ap"
     bullets2:t=""
     bullets3:t=""
     bulletsCount0:i=0

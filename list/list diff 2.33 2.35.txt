@@ -1,0 +1,18 @@
+no lines only in old
+
+lines only in new:
+
+cn_zbd_04a
+fr_amx_vtt_dca
+germ_flakpanzer_zerstorer_45
+il_merkava_mk_3_raam_segol
+it_centauro_rgo_120
+jp_type_90b_camo
+sw_strv121b_christian2
+uk_fv721_fox
+us_m551_76
+us_m60_120s
+ussr_object_292
+ussr_t_80ud
+ussr_zsu_23_4m4
+

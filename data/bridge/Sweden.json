@@ -234,10 +234,13 @@
       "upperField" : "Stridsvagn 103-0"
     }, {
       "lowerField" : "sw_leopard_1a5no",
-      "upperField" : "Leopard 1A5NO"
+      "upperField" : "Leopard 1A5NO2"
     }, {
       "lowerField" : "sw_cv_90105_tml",
       "upperField" : "Combat Vehicle 90105 TML"
+    }, {
+      "lowerField" : "sw_strv121b_christian2",
+      "upperField" : "Stridsvagn 121B Christian II"
     }, {
       "lowerField" : "sw_t_80u",
       "upperField" : "T 80 U"

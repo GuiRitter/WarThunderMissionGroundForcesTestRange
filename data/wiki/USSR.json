@@ -598,6 +598,12 @@
       "title" : "ZSU-23-4"
     }, {
       "blkBackground" : null,
+      "blkImg" : "ussr_zsu_23_4m4",
+      "span" : "ZSU-23-4M4",
+      "href" : "https://wiki.warthunder.com/ZSU-23-4M4",
+      "title" : "ZSU-23-4M4"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "ussr_9a35_m2",
       "span" : "Strela-10M2",
       "href" : "https://wiki.warthunder.com/Strela-10M2",
@@ -784,6 +790,12 @@
       "span" : "T-72AV (TURMS-T)",
       "href" : "https://wiki.warthunder.com/T-72AV_(TURMS-T)",
       "title" : "T-72AV (TURMS-T)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "ussr_object_292",
+      "span" : "Object 292",
+      "href" : "https://wiki.warthunder.com/Object_292",
+      "title" : "Object 292"
     } ]
   }, {
     "cellList" : [ {
@@ -942,6 +954,12 @@
       "span" : "T-72M2 Moderna",
       "href" : "https://wiki.warthunder.com/T-72M2_Moderna",
       "title" : "T-72M2 Moderna"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "ussr_t_80ud",
+      "span" : "T-80UD",
+      "href" : "https://wiki.warthunder.com/T-80UD",
+      "title" : "T-80UD"
     }, {
       "blkBackground" : "ussr_t_80u_yt_cup_2019",
       "blkImg" : "ussr_t_80u",

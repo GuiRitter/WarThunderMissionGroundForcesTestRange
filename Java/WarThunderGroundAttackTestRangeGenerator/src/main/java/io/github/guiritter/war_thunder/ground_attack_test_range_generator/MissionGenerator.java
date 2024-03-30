@@ -6,19 +6,69 @@ import java.nio.file.Files;
 import java.nio.file.StandardOpenOption;
 import java.util.LinkedList;
 import java.util.List;
+
 import javax.swing.JDialog;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+/**
+ * Generates mission *.blk files for each mission, faction and scenario.
+ */
 public final class MissionGenerator {
 
+	/**
+	 * Scenario where end users will play in.
+	 */
+	public static final String SCENARIO_RELEASE = "release";
+
+	/**
+	 * Scenario with more tightly packed vehicles, just to take screenshots. Only used in ground forces.
+	 */
+	public static final String SCENARIO_SCREENSHOT = "screenshot";
+
+	/**
+	 * Scenario that only contains the vehicles added last. Used to test if the newly added vehicles work as intended.
+	 */
+	public static final String SCENARIO_QA = "quality assurance";
+
+	/**
+	 * Returns a suffix for the name of the mission file according to the scenario.
+	 * @param scenario the scenario
+	 * @return the suffix
+	 */
+	public static final String getScenarioSuffix(String scenario) {
+		return switch (scenario) {
+			case SCENARIO_SCREENSHOT -> "_screenshot";
+			case SCENARIO_QA -> "_qa";
+			default -> "";
+		};
+	}
+
+	/**
+	 * Returns a suffix for the name of the mission file according to the scenario.
+	 * @param scenario the scenario
+	 * @return the suffix
+	 */
+	public static final String getScenarioFileNamePart(String scenario) {
+		return switch (scenario) {
+			case SCENARIO_SCREENSHOT -> " screenshot";
+			case SCENARIO_QA -> " qa";
+			default -> "";
+		};
+	}
+
+	/**
+	 * Generates the missions and saves the files.
+	 * @param args optinal command line arguments that replace visual prompts
+	 * @throws IOException probably related to file IO
+	 */
 	public static void main(String args[]) throws IOException {
 		System.out.println(MissionGenerator.class.getName());
 		JFrame.setDefaultLookAndFeelDecorated(true);
 		JDialog.setDefaultLookAndFeelDecorated(true);
-		// int FORCES_AIR = 0;
+		int FORCES_AIR = 0;
 		int FORCES_GROUND = 1;
 		File inputFolder;
 		if (args.length > 0) {
@@ -34,6 +84,7 @@ public final class MissionGenerator {
 		}
 		final String forces[] = {"air", "ground"};
 		final String factions[] = {"USSR", "Germany", "US", "UK", "Japan", "Italy", "France", "China", "Sweden", "Israel", "other"};
+		final String scenarios[] = {SCENARIO_RELEASE, SCENARIO_SCREENSHOT, SCENARIO_QA};
 		final LinkedList<String> lines = new LinkedList<>();
 		Cell fields[];
 		int width = 0;
@@ -45,9 +96,9 @@ public final class MissionGenerator {
 		double distanceZ; // z distance perpendicular to the tracks // close as possible: 2 // ground normal: 10 // air normal: 200
 		List<String> tankModel = Files.readAllLines(inputFolder.toPath().resolve("tank model.txt"));
 		Table table;
-		for (boolean screenshot : new boolean[]{false, true}) {
+		for (var scenario : scenarios) {
 			for (String faction : factions) {
-				table = (new ObjectMapper()).readValue(inputFolder.toPath().resolve(faction + ".json").toFile(), Table.class);
+				table = (new ObjectMapper()).readValue(inputFolder.toPath().resolve(faction + ((scenario.equals(SCENARIO_QA)) ? "_qa" : "") + ".json").toFile(), Table.class);
 				/*
 				width = 0;
 				for (String input : inputList) {
@@ -63,11 +114,11 @@ public final class MissionGenerator {
 				height = table.columnList.size();
 				for (String force : forces) {
 					lines.clear();
-					if (screenshot) {
+					if (scenario.equals(SCENARIO_SCREENSHOT)) {
 						if (force.equals(forces[FORCES_GROUND])) {
 							lines.addAll(Files.readAllLines(
 							 inputFolder.toPath().resolve(
-							  faction + " " + force + " header 0 screenshot.txt")));
+							  faction + " " + force + " header 0" + getScenarioFileNamePart(scenario) + ".txt")));
 							centerX = 8192;//2310;//3200
 							centerZ = 8192;//1940;//200
 							distanceX = 6;
@@ -95,7 +146,7 @@ public final class MissionGenerator {
 						if (force.equals(forces[FORCES_GROUND])) {
 							lines.addAll(Files.readAllLines(
 							 inputFolder.toPath().resolve(
-							  faction + " " + force + " header 0.txt")));
+							  faction + " " + force + " header 0" + getScenarioFileNamePart(scenario) + ".txt")));
 							centerX = 8192;//2310;
 							centerZ = 8192;//1940;
 							distanceX = 10;
@@ -115,7 +166,7 @@ public final class MissionGenerator {
 							depth = "0.01";
 							lines.addAll(Files.readAllLines(
 							 inputFolder.toPath().resolve(
-							  faction + " " + force + " header.txt")));
+							  faction + " " + force + " header" + getScenarioFileNamePart(scenario) + ".txt")));
 						}
 					}
 					lines.add("");
@@ -147,8 +198,8 @@ public final class MissionGenerator {
 					lines.addAll(Files.readAllLines(
 					 inputFolder.toPath().resolve(String.format("%s footer.txt", faction))));
 					Files.write(inputFolder.toPath().resolve("Ground_"
-					 + (force.equals("air") ? "Attack" : "Forces")
-					 + "_Test_Range_" + faction + (screenshot ? "_screenshot" : "") +".blk"), lines,
+					 + (force.equals(forces[FORCES_AIR]) ? "Attack" : "Forces")
+					 + "_Test_Range_" + faction + getScenarioSuffix(scenario) +".blk"), lines,
 					 StandardOpenOption.CREATE,
 					 StandardOpenOption.TRUNCATE_EXISTING);
 				}

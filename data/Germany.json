@@ -214,6 +214,9 @@
       "lowerField" : "germ_flakpanzer_IV_Ostwind_2",
       "upperField" : "Flakpanzer IV Ostwind II"
     }, {
+      "lowerField" : "germ_flakpanzer_zerstorer_45",
+      "upperField" : "Zerstörer 45"
+    }, {
       "lowerField" : "germ_flakpanzer_iv_kugelblitz",
       "upperField" : "Flakpanzer IV Kugelblitz"
     }, {
@@ -377,6 +380,9 @@
       "lowerField" : "germ_leopard_2a4_pzbtl_123",
       "upperField" : "Leopard 2 (PzBtl 123)"
     }, {
+      "lowerField" : "germ_vilkas",
+      "upperField" : "Pėstininkų kovos mašina Vilkas"
+    }, {
       "lowerField" : "germ_leopard_2pl",
       "upperField" : "Leopard 2 PL"
     }, {
@@ -470,9 +476,6 @@
     }, {
       "lowerField" : "germ_pzkpfw_35t_romania_mare",
       "upperField" : "Pz.35(t) RM"
-    }, {
-      "lowerField" : "germ_vilkas",
-      "upperField" : "Vilkas"
     } ]
   } ]
 }

@@ -278,6 +278,12 @@
       "title" : "CCKW 353 AA"
     }, {
       "blkBackground" : null,
+      "blkImg" : "fr_amx_vtt_dca",
+      "span" : "VTT DCA",
+      "href" : "https://wiki.warthunder.com/VTT_DCA",
+      "title" : "VTT DCA"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "fr_amx_13_dca_40",
       "span" : "AMX-13 DCA 40",
       "href" : "https://wiki.warthunder.com/AMX-13_DCA_40",

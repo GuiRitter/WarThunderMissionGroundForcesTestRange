@@ -93,6 +93,9 @@
       "lowerField" : "us_m60a3_tts",
       "upperField" : "105 mm Gun Tank M60A3 TTS"
     }, {
+      "lowerField" : "us_m60_120s",
+      "upperField" : "M60 120S"
+    }, {
       "lowerField" : "us_m1a1_hc_abrams",
       "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC"
     } ]
@@ -138,7 +141,7 @@
       "upperField" : "Medium Tank T95E1"
     }, {
       "lowerField" : "us_xm_803",
-      "upperField" : "Tank, Combat, Full-Tracked, 152-mm Gun/Launcher XM-803"
+      "upperField" : "Tank, Combat, Full-Tracked, 152-mm Gun/Launcher XM803"
     }, {
       "lowerField" : "us_mbt_70",
       "upperField" : "152-mm Gun-Launcher Main Battle Tank 70"
@@ -194,7 +197,7 @@
       "upperField" : "XM975"
     }, {
       "lowerField" : "us_adats_bradley",
-      "upperField" : "ADATS"
+      "upperField" : "Missile, Air Defence Artillery, Self-Propelled, ADATS"
     } ]
   }, {
     "cellList" : [ {
@@ -288,10 +291,10 @@
       "upperField" : "T54E1"
     }, {
       "lowerField" : "us_xm1_gm",
-      "upperField" : "Tank, Combat, Full-Tracked, 105-mm Gun XM-1 (GM)"
+      "upperField" : "Tank, Combat, Full-Tracked, 105-mm Gun XM1 (GM)"
     }, {
       "lowerField" : "us_xm1_chrysler",
-      "upperField" : "Tank, Combat, Full-Tracked, 105-mm Gun XM-1 (Chrysler)"
+      "upperField" : "Tank, Combat, Full-Tracked, 105-mm Gun XM1 (Chrysler)"
     }, {
       "lowerField" : "us_m901_itv",
       "upperField" : "Combat Vehicle, Anti-tank, Improved TOW Vehicle, M901"
@@ -351,6 +354,9 @@
     }, {
       "lowerField" : "us_m6a2e1",
       "upperField" : "Heavy Tank M6A2E1"
+    }, {
+      "lowerField" : "us_m551_76",
+      "upperField" : "M551(76)"
     }, {
       "lowerField" : "us_magach_3",
       "upperField" : "✡Magach 3"

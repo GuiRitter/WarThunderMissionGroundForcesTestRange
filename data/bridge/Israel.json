@@ -137,6 +137,9 @@
     }, {
       "lowerField" : "il_merkava_mk_2d",
       "upperField" : "Merkava Mk.2D"
+    }, {
+      "lowerField" : "il_merkava_mk_3_raam_segol",
+      "upperField" : "Merkava Siman 3 Raam Segol"
     } ]
   } ]
 }

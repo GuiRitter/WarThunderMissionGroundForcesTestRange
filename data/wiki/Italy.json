@@ -143,15 +143,15 @@
     }, {
       "blkBackground" : null,
       "blkImg" : "it_m4a4_sherman",
-      "span" : "▄M4A4",
-      "href" : "https://wiki.warthunder.com/M4A4_(Italy)",
-      "title" : "M4A4 (Italy)"
+      "span" : "▄Sherman V",
+      "href" : "https://wiki.warthunder.com/Sherman_V_(Italy)",
+      "title" : "Sherman V (Italy)"
     }, {
       "blkBackground" : null,
       "blkImg" : "it_sherman_vii",
-      "span" : "M4 Tipo IC",
-      "href" : "https://wiki.warthunder.com/M4_Tipo_IC",
-      "title" : "M4 Tipo IC"
+      "span" : "Sherman Ic",
+      "href" : "https://wiki.warthunder.com/Sherman_Ic",
+      "title" : "Sherman Ic"
     }, {
       "blkBackground" : null,
       "blkImg" : "it_sherman_vc_firefly",
@@ -469,9 +469,9 @@
     }, {
       "blkBackground" : null,
       "blkImg" : "it_sherman_75_37",
-      "span" : "▄M4 Hybrid",
-      "href" : "https://wiki.warthunder.com/M4_Hybrid_(Italy)",
-      "title" : "M4 Hybrid (Italy)"
+      "span" : "▄Sherman I Composito",
+      "href" : "https://wiki.warthunder.com/Sherman_I_Composito_(Italy)",
+      "title" : "Sherman I Composito (Italy)"
     }, {
       "blkBackground" : null,
       "blkImg" : "it_pzkpfw_iv_ausf_g",
@@ -508,6 +508,12 @@
       "span" : "VRCC",
       "href" : "https://wiki.warthunder.com/VRCC",
       "title" : "VRCC"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "it_centauro_rgo_120",
+      "span" : "Centauro RGO",
+      "href" : "https://wiki.warthunder.com/Centauro_RGO",
+      "title" : "Centauro RGO"
     } ]
   }, {
     "cellList" : [ {

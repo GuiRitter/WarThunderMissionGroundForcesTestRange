@@ -266,6 +266,12 @@
       "span" : "Merkava Mk.2D",
       "href" : "https://wiki.warthunder.com/Merkava_Mk.2D",
       "title" : "Merkava Mk.2D"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "il_merkava_mk_3_raam_segol",
+      "span" : "Raam Segol",
+      "href" : "https://wiki.warthunder.com/Raam_Segol",
+      "title" : "Raam Segol"
     } ]
   } ]
 }
