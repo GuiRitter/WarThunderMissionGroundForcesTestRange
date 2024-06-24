@@ -312,7 +312,7 @@ units{
   tankModels{
     name:t="tank_0_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [0, 0.01, 0.0]]
-    unit_class:t="it_centauro_rgo_120"
+    unit_class:t="it_leopard_2a7_hungary"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""

@@ -78,6 +78,12 @@
       "span" : "SK-105A2",
       "href" : "https://wiki.warthunder.com/SK-105A2",
       "title" : "SK-105A2"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "fr_vextra_105",
+      "span" : "Vextra 105",
+      "href" : "https://wiki.warthunder.com/Vextra_105",
+      "title" : "Vextra 105"
     } ]
   }, {
     "cellList" : [ {
@@ -468,6 +474,12 @@
       "title" : "AMX-30"
     }, {
       "blkBackground" : null,
+      "blkImg" : "fr_amx_50_1950",
+      "span" : "AMX-50 (TO90/930)",
+      "href" : "https://wiki.warthunder.com/AMX-50_(TO90/930)",
+      "title" : "AMX-50 (TO90/930)"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "fr_amx_30_super",
       "span" : "AMX-30 Super",
       "href" : "https://wiki.warthunder.com/AMX-30_Super",
@@ -510,12 +522,6 @@
       "span" : "E.B.R. (1963)",
       "href" : "https://wiki.warthunder.com/E.B.R._(1963)",
       "title" : "E.B.R. (1963)"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_50_1950",
-      "span" : "AMX-50 (TO90/930)",
-      "href" : "https://wiki.warthunder.com/AMX-50_(TO90/930)",
-      "title" : "AMX-50 (TO90/930)"
     }, {
       "blkBackground" : null,
       "blkImg" : "fr_amx_50_surblinde",

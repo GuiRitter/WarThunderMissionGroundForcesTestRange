@@ -224,6 +224,9 @@
     }, {
       "lowerField" : "it_kf_41",
       "upperField" : "KF41"
+    }, {
+      "lowerField" : "it_leopard_2a7_hungary",
+      "upperField" : "Leopard 2A7HU"
     } ]
   }, {
     "cellList" : [ {
@@ -239,6 +242,9 @@
       "lowerField" : "it_sahariano",
       "upperField" : "Carro Armato M Celere Sahariano"
     }, {
+      "lowerField" : "it_semovente_m43_105_leoncello",
+      "upperField" : "Semovente 105/25 M43 G.C. 'Leoncello'"
+    }, {
       "lowerField" : "it_sherman_75_37",
       "upperField" : "Carro Armato Medio «Sherman» Tipo I (Composito)"
     }, {
@@ -253,6 +259,9 @@
     }, {
       "lowerField" : "it_m60a1_ariete",
       "upperField" : "M60A1 132ª Divisione corazzata 'Ariete'"
+    }, {
+      "lowerField" : "it_aubl_74_60_70m",
+      "upperField" : "AUBL/74 HVG"
     }, {
       "lowerField" : "it_of_40_mtca",
       "upperField" : "Carro Armato OTO Melara OF-40 (MTCA)"
@@ -274,17 +283,11 @@
       "lowerField" : "it_p_26_40",
       "upperField" : "Fiat-Ansaldo P40 Gruppo Corazzato 'Leoncello'"
     }, {
-      "lowerField" : "it_semovente_m43_105_leoncello",
-      "upperField" : "Semovente 105/25 M43 G.C. 'Leoncello'"
-    }, {
       "lowerField" : "it_44m_zrinyi_1",
       "upperField" : "Zrinyi I"
     }, {
       "lowerField" : "it_breda_52_autocannone",
       "upperField" : "Breda 90/53"
-    }, {
-      "lowerField" : "it_aubl_74_60_70m",
-      "upperField" : "AUBL/74 HVG"
     } ]
   } ]
 }

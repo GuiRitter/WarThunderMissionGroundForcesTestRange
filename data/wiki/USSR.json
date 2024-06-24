@@ -544,16 +544,16 @@
       "title" : "BTR-152A"
     }, {
       "blkBackground" : null,
-      "blkImg" : "ussr_zis_12_94km_1945",
-      "span" : "ZiS-12 (94-KM)",
-      "href" : "https://wiki.warthunder.com/ZiS-12_(94-KM)",
-      "title" : "ZiS-12 (94-KM)"
-    }, {
-      "blkBackground" : null,
       "blkImg" : "ussr_zis_43",
       "span" : "ZiS-43",
       "href" : "https://wiki.warthunder.com/ZiS-43",
       "title" : "ZiS-43"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "ussr_zis_12_94km_1945",
+      "span" : "ZiS-12 (94-KM)",
+      "href" : "https://wiki.warthunder.com/ZiS-12_(94-KM)",
+      "title" : "ZiS-12 (94-KM)"
     }, {
       "blkBackground" : null,
       "blkImg" : "ussr_zsu_37",
@@ -630,6 +630,12 @@
       "title" : "T-26 (1st Gv.T.Br.)"
     }, {
       "blkBackground" : null,
+      "blkImg" : "ussr_bt_7_1937_td",
+      "span" : "BT-7 TD",
+      "href" : "https://wiki.warthunder.com/BT-7_TD",
+      "title" : "BT-7 TD"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "ussr_t_35",
       "span" : "T-35",
       "href" : "https://wiki.warthunder.com/T-35",
@@ -648,28 +654,34 @@
       "title" : "T-III (USSR)"
     }, {
       "blkBackground" : null,
-      "blkImg" : "ussr_t_126sp",
-      "span" : "T-126",
-      "href" : "https://wiki.warthunder.com/T-126",
-      "title" : "T-126"
-    }, {
-      "blkBackground" : null,
       "blkImg" : "ussr_zut_37",
       "span" : "ZUT-37",
       "href" : "https://wiki.warthunder.com/ZUT-37",
       "title" : "ZUT-37"
     }, {
       "blkBackground" : null,
+      "blkImg" : "ussr_t_126sp",
+      "span" : "T-126",
+      "href" : "https://wiki.warthunder.com/T-126",
+      "title" : "T-126"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "ussr_t_34_1940_l_11",
+      "span" : "T-34 (Prototype)",
+      "href" : "https://wiki.warthunder.com/T-34_(Prototype)",
+      "title" : "T-34 (Prototype)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "ussr_bt_7a_f32",
+      "span" : "BT-7A (F-32)",
+      "href" : "https://wiki.warthunder.com/BT-7A_(F-32)",
+      "title" : "BT-7A (F-32)"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "ussr_smk",
       "span" : "SMK",
       "href" : "https://wiki.warthunder.com/SMK",
       "title" : "SMK"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_bm_13n",
-      "span" : "BM-13N",
-      "href" : "https://wiki.warthunder.com/BM-13N",
-      "title" : "BM-13N"
     }, {
       "blkBackground" : null,
       "blkImg" : "ussr_t_34_1941_cast_turret",
@@ -682,12 +694,6 @@
       "span" : "T-34E",
       "href" : "https://wiki.warthunder.com/T-34E",
       "title" : "T-34E"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_34_1940_l_11",
-      "span" : "T-34 (Prototype)",
-      "href" : "https://wiki.warthunder.com/T-34_(Prototype)",
-      "title" : "T-34 (Prototype)"
     }, {
       "blkBackground" : null,
       "blkImg" : "ussr_bm_31_12",
@@ -792,10 +798,16 @@
       "title" : "T-72AV (TURMS-T)"
     }, {
       "blkBackground" : null,
-      "blkImg" : "ussr_object_292",
-      "span" : "Object 292",
-      "href" : "https://wiki.warthunder.com/Object_292",
-      "title" : "Object 292"
+      "blkImg" : "ussr_t_80ud",
+      "span" : "T-80UD",
+      "href" : "https://wiki.warthunder.com/T-80UD",
+      "title" : "T-80UD"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "ussr_t_80ue1",
+      "span" : "Т-80U-Е1",
+      "href" : "https://wiki.warthunder.com/T-80U-E1",
+      "title" : "T-80U-E1"
     } ]
   }, {
     "cellList" : [ {
@@ -824,18 +836,6 @@
       "title" : "BM-8-24"
     }, {
       "blkBackground" : null,
-      "blkImg" : "ussr_bt_7_1937_td",
-      "span" : "BT-7 TD",
-      "href" : "https://wiki.warthunder.com/BT-7_TD",
-      "title" : "BT-7 TD"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_m3c",
-      "span" : "▂M3 Medium",
-      "href" : "https://wiki.warthunder.com/M3_Medium_(USSR)",
-      "title" : "M3 Medium (USSR)"
-    }, {
-      "blkBackground" : null,
       "blkImg" : "ussr_su_76m_5st_kav_corps",
       "span" : "SU-76M (5th Gv.Kav.Corps)",
       "href" : "https://wiki.warthunder.com/SU-76M_(5th_Gv.Kav.Corps)",
@@ -848,10 +848,16 @@
       "title" : "SU-76D"
     }, {
       "blkBackground" : null,
-      "blkImg" : "ussr_bt_7a_f32",
-      "span" : "BT-7A (F-32)",
-      "href" : "https://wiki.warthunder.com/BT-7A_(F-32)",
-      "title" : "BT-7A (F-32)"
+      "blkImg" : "ussr_m3c",
+      "span" : "▂M3 Medium",
+      "href" : "https://wiki.warthunder.com/M3_Medium_(USSR)",
+      "title" : "M3 Medium (USSR)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "ussr_bm_13n",
+      "span" : "BM-13N",
+      "href" : "https://wiki.warthunder.com/BM-13N",
+      "title" : "BM-13N"
     }, {
       "blkBackground" : null,
       "blkImg" : "ussr_a_12_mk_2_matilda_2a_f96",
@@ -950,16 +956,16 @@
       "title" : "Object 279"
     }, {
       "blkBackground" : null,
+      "blkImg" : "ussr_object_292",
+      "span" : "Object 292",
+      "href" : "https://wiki.warthunder.com/Object_292",
+      "title" : "Object 292"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "ussr_t_72m2_moderna",
       "span" : "T-72M2 Moderna",
       "href" : "https://wiki.warthunder.com/T-72M2_Moderna",
       "title" : "T-72M2 Moderna"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_80ud",
-      "span" : "T-80UD",
-      "href" : "https://wiki.warthunder.com/T-80UD",
-      "title" : "T-80UD"
     }, {
       "blkBackground" : "ussr_t_80u_yt_cup_2019",
       "blkImg" : "ussr_t_80u",

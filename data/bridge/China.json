@@ -125,14 +125,17 @@
       "lowerField" : "cn_gmc_cckw_353_m45_quad",
       "upperField" : "CCKW 353 (M45)"
     }, {
-      "lowerField" : "cn_zsd63_pg87",
-      "upperField" : "ZSD63/PG87, Dual-Barrel AA"
-    }, {
       "lowerField" : "cn_m42_duster",
       "upperField" : "✨M42 Duster"
     }, {
+      "lowerField" : "cn_zsd63_pg87",
+      "upperField" : "ZSD63/PG87, Dual-Barrel AA"
+    }, {
       "lowerField" : "cn_type_65_aa",
       "upperField" : "Xe tăng phòng không 37 mm"
+    }, {
+      "lowerField" : "cn_zsl_92",
+      "upperField" : "ZSL92"
     }, {
       "lowerField" : "cn_wz_305",
       "upperField" : "WZ305"
@@ -236,14 +239,17 @@
     }, {
       "lowerField" : "cn_ztz_96a_prot",
       "upperField" : "ZTZ96A, Prototype"
-    } ]
-  }, {
-    "cellList" : [ {
-      "lowerField" : "cn_t_62",
-      "upperField" : "T-62 Nº545"
     }, {
       "lowerField" : "cn_qn506",
       "upperField" : "QN506"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "cn_plz_83_130",
+      "upperField" : "HuoPao LiuDan ZiXing 83"
+    }, {
+      "lowerField" : "cn_t_62",
+      "upperField" : "T-62 Nº545"
     } ]
   } ]
 }

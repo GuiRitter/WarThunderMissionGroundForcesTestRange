@@ -110,6 +110,9 @@
       "lowerField" : "sw_lvkv_42",
       "upperField" : "Luftvärnskanonvagn 42"
     }, {
+      "lowerField" : "sw_landsverk_ush_204_gk",
+      "upperField" : "Landsverk U-SH 204 GK"
+    }, {
       "lowerField" : "sw_zsu_57_2",
       "upperField" : "⦿ZSU-57-2"
     }, {
@@ -221,11 +224,17 @@
       "lowerField" : "sw_strv_m41_s1",
       "upperField" : "Stridsvagn m/41 S-I"
     }, {
+      "lowerField" : "sw_ikv_73",
+      "upperField" : "Ikv 73"
+    }, {
       "lowerField" : "sw_sav_fm48",
       "upperField" : "Stormartillerivagn 20.12.48"
     }, {
       "lowerField" : "sw_sherman_3_4",
       "upperField" : "Stridsvagn Sherman III/IV"
+    }, {
+      "lowerField" : "sw_kungstiger",
+      "upperField" : "Kungstiger"
     }, {
       "lowerField" : "sw_strv_81_rb52",
       "upperField" : "Strv 81 (RB 52)"
@@ -235,6 +244,9 @@
     }, {
       "lowerField" : "sw_leopard_1a5no",
       "upperField" : "Leopard 1A5NO2"
+    }, {
+      "lowerField" : "sw_cv_9035_dk",
+      "upperField" : "Combat Vehicle 9035 Denmark"
     }, {
       "lowerField" : "sw_cv_90105_tml",
       "upperField" : "Combat Vehicle 90105 TML"
@@ -252,9 +264,6 @@
     }, {
       "lowerField" : "sw_pbil_m40",
       "upperField" : "Pbil m/40"
-    }, {
-      "lowerField" : "sw_ikv_73",
-      "upperField" : "Ikv 73"
     }, {
       "lowerField" : "sw_k9_vidar",
       "upperField" : "Versatile InDirect ARTillery"

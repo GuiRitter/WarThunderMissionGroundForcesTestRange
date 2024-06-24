@@ -1,8 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "uk_fv721_fox",
-      "upperField" : "uk_fv721_fox"
+      "lowerField" : "uk_churchill_avre",
+      "upperField" : "uk_churchill_avre"
+    },{
+      "lowerField" : "uk_desert_warrior",
+      "upperField" : "uk_desert_warrior"
     } ]
   } ]
 }

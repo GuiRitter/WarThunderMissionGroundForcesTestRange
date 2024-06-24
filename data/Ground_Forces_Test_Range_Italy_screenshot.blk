@@ -2459,6 +2459,37 @@ units{
   }
 
   tankModels{
+    name:t="tank_4_9"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8197.0]]
+    unit_class:t="it_leopard_2a7_hungary"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
     name:t="tank_5_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8202.0]]
     unit_class:t="it_l6_leone"
@@ -2585,7 +2616,7 @@ units{
   tankModels{
     name:t="tank_5_4"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8202.0]]
-    unit_class:t="it_sherman_75_37"
+    unit_class:t="it_semovente_m43_105_leoncello"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2616,7 +2647,7 @@ units{
   tankModels{
     name:t="tank_5_5"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8202.0]]
-    unit_class:t="it_pzkpfw_IV_ausf_G"
+    unit_class:t="it_sherman_75_37"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2647,7 +2678,7 @@ units{
   tankModels{
     name:t="tank_5_6"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8202.0]]
-    unit_class:t="it_pzkpfw_vi_ausf_e_tiger"
+    unit_class:t="it_pzkpfw_IV_ausf_G"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2678,7 +2709,7 @@ units{
   tankModels{
     name:t="tank_5_7"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8202.0]]
-    unit_class:t="it_m26_ariete"
+    unit_class:t="it_pzkpfw_vi_ausf_e_tiger"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2709,7 +2740,7 @@ units{
   tankModels{
     name:t="tank_5_8"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8202.0]]
-    unit_class:t="it_m60a1_ariete"
+    unit_class:t="it_m26_ariete"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2740,7 +2771,7 @@ units{
   tankModels{
     name:t="tank_5_9"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8202.0]]
-    unit_class:t="it_of_40_mtca"
+    unit_class:t="it_m60a1_ariete"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2771,7 +2802,7 @@ units{
   tankModels{
     name:t="tank_5_10"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8202.0]]
-    unit_class:t="it_vrcc_centauro"
+    unit_class:t="it_aubl_74_60_70m"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2802,6 +2833,68 @@ units{
   tankModels{
     name:t="tank_5_11"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8202.0]]
+    unit_class:t="it_of_40_mtca"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_5_12"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8228, 1, 8202.0]]
+    unit_class:t="it_vrcc_centauro"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_5_13"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8240, 1, 8202.0]]
     unit_class:t="it_centauro_rgo_120"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2926,7 +3019,7 @@ units{
   tankModels{
     name:t="tank_6_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8207.0]]
-    unit_class:t="it_semovente_m43_105_leoncello"
+    unit_class:t="it_44m_zrinyi_1"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2957,69 +3050,7 @@ units{
   tankModels{
     name:t="tank_6_4"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8207.0]]
-    unit_class:t="it_44m_zrinyi_1"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_6_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8207.0]]
     unit_class:t="it_breda_52_autocannone"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_6_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8207.0]]
-    unit_class:t="it_aubl_74_60_70m"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""

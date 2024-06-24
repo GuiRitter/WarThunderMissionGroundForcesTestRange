@@ -1,8 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "cn_zbd_04a",
-      "upperField" : "cn_zbd_04a"
+      "lowerField" : "cn_plz_83_130",
+      "upperField" : "cn_plz_83_130"
+    },{
+      "lowerField" : "cn_zsl_92",
+      "upperField" : "cn_zsl_92"
     } ]
   } ]
 }

@@ -203,6 +203,9 @@
     }, {
       "lowerField" : "jp_type_16_mod",
       "upperField" : "Type 16, First Production Serie"
+    }, {
+      "lowerField" : "jp_type_90b_camo",
+      "upperField" : "Type 90B Fuji School Brigade, Tank School Unit, 3rd Co."
     } ]
   }, {
     "cellList" : [ {
@@ -214,9 +217,6 @@
     }, {
       "lowerField" : "jp_type_74_mod_g_kai",
       "upperField" : "Type 74 mod G/Kai"
-    }, {
-      "lowerField" : "jp_type_90b_camo",
-      "upperField" : "Type 90B Fuji School Brigade, Tank School Unit, 3rd Co."
     } ]
   } ]
 }

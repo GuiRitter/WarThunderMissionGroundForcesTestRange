@@ -568,6 +568,37 @@ units{
   }
 
   tankModels{
+    name:t="tank_0_13"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8292, 1, 8132.0]]
+    unit_class:t="fr_vextra_105"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
     name:t="tank_1_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8032, 1, 8152.0]]
     unit_class:t="fr_hotchkiss_h35"
@@ -2523,7 +2554,7 @@ units{
   tankModels{
     name:t="tank_5_9"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8212, 1, 8232.0]]
-    unit_class:t="fr_amx_30_super"
+    unit_class:t="fr_amx_50_1950"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2554,6 +2585,37 @@ units{
   tankModels{
     name:t="tank_5_10"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8232, 1, 8232.0]]
+    unit_class:t="fr_amx_30_super"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_5_11"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8252, 1, 8232.0]]
     unit_class:t="fr_vbci2_mct30"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2740,37 +2802,6 @@ units{
   tankModels{
     name:t="tank_6_5"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8252.0]]
-    unit_class:t="fr_amx_50_1950"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_6_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8152, 1, 8252.0]]
     unit_class:t="fr_amx_50_surblinde"
     objLayer:i=1
     closed_waypoints:b=no

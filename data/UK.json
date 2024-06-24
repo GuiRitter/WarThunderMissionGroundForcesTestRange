@@ -175,6 +175,9 @@
     }, {
       "lowerField" : "uk_fv102_striker",
       "upperField" : "FV-102 Striker"
+    }, {
+      "lowerField" : "uk_desert_warrior",
+      "upperField" : "Desert Warrior / Farhis Infantry Fighting Vehicle"
     } ]
   }, {
     "cellList" : [ {
@@ -272,11 +275,11 @@
       "lowerField" : "uk_crusader_mk_2_the_saint",
       "upperField" : "Tank, Cruiser, Mk VIA, Crusader II (A15)"
     }, {
+      "lowerField" : "uk_armored_car_aec_mk_2",
+      "upperField" : "AEC Mk.II"
+    }, {
       "lowerField" : "uk_a27m_cromwell_5_rp3",
       "upperField" : "Mark VIII A27M Cromwell RP-3"
-    }, {
-      "lowerField" : "uk_ac1_sentinel",
-      "upperField" : "A.C.I"
     }, {
       "lowerField" : "uk_17_pdr_m10_achilles_norfolk_yeomanry",
       "upperField" : "17pdr. M10 65th Anti-Tank Regt"
@@ -287,8 +290,8 @@
       "lowerField" : "uk_ac4_thunderbolt",
       "upperField" : "AC IV Thunderbolt"
     }, {
-      "lowerField" : "uk_a_34_comet_iron_duke",
-      "upperField" : "Iron Duke IV"
+      "lowerField" : "uk_ram_90mm_aa",
+      "upperField" : "OQF 3.7-inch AA on Ram Mounting"
     }, {
       "lowerField" : "uk_centurion_mk_3_ss11",
       "upperField" : "Strv 81"
@@ -299,6 +302,9 @@
       "lowerField" : "uk_centurion_mk_5_avre_era",
       "upperField" : "Centurion Assault Vehicle, Royal Engineers Mk.5"
     }, {
+      "lowerField" : "uk_centurion_mk_5_raac",
+      "upperField" : "Centurion Mk.5/1"
+    }, {
       "lowerField" : "uk_vijayanta",
       "upperField" : "Vijayanta"
     }, {
@@ -308,28 +314,28 @@
       "lowerField" : "uk_challenger_1_mk_3_gulf",
       "upperField" : "Tank, Combat, 120-mm Gun, Challenger Mk.3, Desert Storm"
     }, {
-      "lowerField" : "uk_challenger_II_yt_cup_2019",
-      "upperField" : "🏆Challenger 2"
-    }, {
       "lowerField" : "uk_challenger_2_megatron",
       "upperField" : "Challenger 2 TES (OES)"
     } ]
   }, {
     "cellList" : [ {
-      "lowerField" : "uk_alecto_mk_1",
-      "upperField" : "Alecto I"
-    }, {
       "lowerField" : "uk_a_13_mk2_1939",
       "upperField" : "Mark IV A13 Mk.II"
     }, {
-      "lowerField" : "uk_matilda_hedgehog",
-      "upperField" : "Matilda Hedgehog"
+      "lowerField" : "uk_alecto_mk_1",
+      "upperField" : "Alecto I"
     }, {
       "lowerField" : "uk_mk1_grant",
       "upperField" : "Grant I"
     }, {
-      "lowerField" : "uk_armored_car_aec_mk_2",
-      "upperField" : "AEC Mk.II"
+      "lowerField" : "uk_matilda_hedgehog",
+      "upperField" : "Matilda Hedgehog"
+    }, {
+      "lowerField" : "uk_churchill_avre",
+      "upperField" : "Churchill AVRE Petard"
+    }, {
+      "lowerField" : "uk_ac1_sentinel",
+      "upperField" : "A.C.I"
     }, {
       "lowerField" : "uk_a_33_excelsior",
       "upperField" : "Excelsior"
@@ -337,14 +343,14 @@
       "lowerField" : "uk_a_22f_mk_7_churchill_crocodile",
       "upperField" : "Tank, Infantry, Mk IV, Churchill VII (A22F) Crocodile"
     }, {
+      "lowerField" : "uk_a_34_comet_iron_duke",
+      "upperField" : "Iron Duke IV"
+    }, {
       "lowerField" : "uk_a_22f_mk_7_churchill_crocodile_trailer",
       "upperField" : "uk_a_22f_mk_7_churchill_crocodile_trailer"
     }, {
       "lowerField" : "uk_tog_2",
       "upperField" : "TOG II"
-    }, {
-      "lowerField" : "uk_ram_90mm_aa",
-      "upperField" : "OQF 3.7-inch AA on Ram Mounting"
     }, {
       "lowerField" : "uk_a_43_black_prince",
       "upperField" : "A.43 Black Prince"
@@ -352,17 +358,17 @@
       "lowerField" : "uk_centurion_mk_2",
       "upperField" : "Centurion Mk.2"
     }, {
-      "lowerField" : "uk_centurion_mk_5_raac",
-      "upperField" : "Centurion Mk.5/1"
+      "lowerField" : "uk_centurion_shot_kal_d",
+      "upperField" : "✡Sho't Kal Dalet"
     }, {
       "lowerField" : "uk_rooikat_105_td",
       "upperField" : "Rooikat 105"
     }, {
-      "lowerField" : "uk_centurion_shot_kal_d",
-      "upperField" : "✡Sho't Kal Dalet"
-    }, {
       "lowerField" : "uk_t_90s_bheeshma",
       "upperField" : "T-90S Bhishma TWMP"
+    }, {
+      "lowerField" : "uk_challenger_II_yt_cup_2019",
+      "upperField" : "🏆Challenger 2"
     } ]
   }, {
     "cellList" : [ {

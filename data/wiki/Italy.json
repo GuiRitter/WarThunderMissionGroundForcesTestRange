@@ -440,6 +440,12 @@
       "span" : "KF41",
       "href" : "https://wiki.warthunder.com/KF41",
       "title" : "KF41"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "it_leopard_2a7_hungary",
+      "span" : "Leopard 2A7HU",
+      "href" : "https://wiki.warthunder.com/Leopard_2A7HU",
+      "title" : "Leopard 2A7HU"
     } ]
   }, {
     "cellList" : [ {
@@ -466,6 +472,12 @@
       "span" : "Celere Sahariano",
       "href" : "https://wiki.warthunder.com/Celere_Sahariano",
       "title" : "Celere Sahariano"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "it_semovente_m43_105_leoncello",
+      "span" : "M43 \"G.C.Leoncello\"",
+      "href" : "https://wiki.warthunder.com/M43_%22G.C.Leoncello%22",
+      "title" : "M43 \"G.C.Leoncello\""
     }, {
       "blkBackground" : null,
       "blkImg" : "it_sherman_75_37",
@@ -496,6 +508,12 @@
       "span" : "M60A1 \"D.C.Ariete\"",
       "href" : "https://wiki.warthunder.com/M60A1_%22D.C.Ariete%22",
       "title" : "M60A1 \"D.C.Ariete\""
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "it_aubl_74_60_70m",
+      "span" : "AUBL/74 HVG",
+      "href" : "https://wiki.warthunder.com/AUBL/74_HVG",
+      "title" : "AUBL/74 HVG"
     }, {
       "blkBackground" : null,
       "blkImg" : "it_of_40_mtca",
@@ -536,12 +554,6 @@
       "title" : "P40 \"G.C. Leoncello\""
     }, {
       "blkBackground" : null,
-      "blkImg" : "it_semovente_m43_105_leoncello",
-      "span" : "M43 \"G.C.Leoncello\"",
-      "href" : "https://wiki.warthunder.com/M43_%22G.C.Leoncello%22",
-      "title" : "M43 \"G.C.Leoncello\""
-    }, {
-      "blkBackground" : null,
       "blkImg" : "it_44m_zrinyi_1",
       "span" : "Zrinyi I",
       "href" : "https://wiki.warthunder.com/Zrinyi_I",
@@ -552,12 +564,6 @@
       "span" : "Breda 90/53",
       "href" : "https://wiki.warthunder.com/Breda_90/53",
       "title" : "Breda 90/53"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "it_aubl_74_60_70m",
-      "span" : "AUBL/74 HVG",
-      "href" : "https://wiki.warthunder.com/AUBL/74_HVG",
-      "title" : "AUBL/74 HVG"
     } ]
   } ]
 }

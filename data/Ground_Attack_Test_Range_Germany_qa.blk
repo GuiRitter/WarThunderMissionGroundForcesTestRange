@@ -310,7 +310,7 @@ units{
   tankModels{
     name:t="tank_0_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [0, 0.01, 0.0]]
-    unit_class:t="germ_flakpanzer_zerstorer_45"
+    unit_class:t="germ_leopard_2a4m_can"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -343,7 +343,7 @@ units{
 areas{
   area_for_cutscene_0{
     type:t="Point"
-    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7800, 36, 8192]]
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7800, 33.5, 8192]]
     objLayer:i=0
 
     props{
@@ -352,7 +352,7 @@ areas{
 
   area_for_cutscene_1{
     type:t="Point"
-    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [8132, 0, 8192]]
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [8128, 0, 8192]]
     objLayer:i=0
 
     props{

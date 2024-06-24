@@ -234,6 +234,12 @@
       "span" : "Giraf",
       "href" : "https://wiki.warthunder.com/Giraf",
       "title" : "Giraf"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "il_namer_rcws_30",
+      "span" : "Namer 30",
+      "href" : "https://wiki.warthunder.com/Namer_30",
+      "title" : "Namer 30"
     } ]
   }, {
     "cellList" : [ {
@@ -269,9 +275,9 @@
     }, {
       "blkBackground" : null,
       "blkImg" : "il_merkava_mk_3_raam_segol",
-      "span" : "Raam Segol",
-      "href" : "https://wiki.warthunder.com/Raam_Segol",
-      "title" : "Raam Segol"
+      "span" : "Ra'am Sagol",
+      "href" : "https://wiki.warthunder.com/Ra%27am_Sagol",
+      "title" : "Ra'am Sagol"
     } ]
   } ]
 }

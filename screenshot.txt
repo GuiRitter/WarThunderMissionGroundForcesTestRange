@@ -3,12 +3,12 @@ faction footer.txt
 area_for_cutscene_0
 -x zoom out
 +x zoom in
--y compact
-+y spread
+-y compact (vertical margin greater than horizontal margin)
++y spread (horizontal margin greater than vertical margin)
 
 area_for_cutscene_1
--x camera points down
-+x camera points up
+-x camera points down (bottom margin greater than top margin)
++x camera points up (top margin greater than bottom margin)
 
 zoom
 

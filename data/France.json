@@ -39,6 +39,9 @@
     }, {
       "lowerField" : "fr_sk105_a2",
       "upperField" : "SK-105A2"
+    }, {
+      "lowerField" : "fr_vextra_105",
+      "upperField" : "Véhicule d'EXperimentation de TRAnsmission 105"
     } ]
   }, {
     "cellList" : [ {
@@ -239,6 +242,9 @@
       "lowerField" : "fr_amx_30",
       "upperField" : "AMX-30"
     }, {
+      "lowerField" : "fr_amx_50_1950",
+      "upperField" : "AMX-50 (T090/930)"
+    }, {
       "lowerField" : "fr_amx_30_super",
       "upperField" : "AMX-30 Super"
     }, {
@@ -261,9 +267,6 @@
     }, {
       "lowerField" : "fr_panhard_ebr_1963",
       "upperField" : "E.B.R. (1963)"
-    }, {
-      "lowerField" : "fr_amx_50_1950",
-      "upperField" : "AMX-50 (T090/930)"
     }, {
       "lowerField" : "fr_amx_50_surblinde",
       "upperField" : "AMX 50 Surblindé"

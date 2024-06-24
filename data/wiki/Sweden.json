@@ -216,6 +216,12 @@
       "title" : "Lvkv 42"
     }, {
       "blkBackground" : null,
+      "blkImg" : "sw_landsverk_ush_204_gk",
+      "span" : "U-SH 204 GK",
+      "href" : "https://wiki.warthunder.com/U-SH_204_GK",
+      "title" : "U-SH 204 GK"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "sw_zsu_57_2",
       "span" : "▄ZSU-57-2",
       "href" : "https://wiki.warthunder.com/ZSU-57-2_(Sweden)",
@@ -229,9 +235,9 @@
     }, {
       "blkBackground" : null,
       "blkImg" : "sw_itpsv_90",
-      "span" : "ItPsV 90",
-      "href" : "https://wiki.warthunder.com/ItPsV_90",
-      "title" : "ItPsV 90"
+      "span" : "ItPsV Leopard",
+      "href" : "https://wiki.warthunder.com/ItPsV_Leopard",
+      "title" : "ItPsV Leopard"
     }, {
       "blkBackground" : null,
       "blkImg" : "sw_lvrbv_701",
@@ -432,6 +438,12 @@
       "title" : "Strv m/41 S-I"
     }, {
       "blkBackground" : null,
+      "blkImg" : "sw_ikv_73",
+      "span" : "Ikv 73",
+      "href" : "https://wiki.warthunder.com/Ikv_73",
+      "title" : "Ikv 73"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "sw_sav_fm48",
       "span" : "SAV 20.12.48",
       "href" : "https://wiki.warthunder.com/SAV_20.12.48",
@@ -442,6 +454,12 @@
       "span" : "Sherman III/IV",
       "href" : "https://wiki.warthunder.com/Sherman_III/IV",
       "title" : "Sherman III/IV"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "sw_kungstiger",
+      "span" : "Kungstiger",
+      "href" : "https://wiki.warthunder.com/Kungstiger",
+      "title" : "Kungstiger"
     }, {
       "blkBackground" : null,
       "blkImg" : "sw_strv_81_rb52",
@@ -460,6 +478,12 @@
       "span" : "Leopard 1A5NO2",
       "href" : "https://wiki.warthunder.com/Leopard_1A5NO2",
       "title" : "Leopard 1A5NO2"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "sw_cv_9035_dk",
+      "span" : "CV9035DK",
+      "href" : "https://wiki.warthunder.com/CV9035DK",
+      "title" : "CV9035DK"
     }, {
       "blkBackground" : null,
       "blkImg" : "sw_cv_90105_tml",
@@ -492,12 +516,6 @@
       "span" : "Pbil m/40",
       "href" : "https://wiki.warthunder.com/Pbil_m/40",
       "title" : "Pbil m/40"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "sw_ikv_73",
-      "span" : "Ikv 73",
-      "href" : "https://wiki.warthunder.com/Ikv_73",
-      "title" : "Ikv 73"
     }, {
       "blkBackground" : null,
       "blkImg" : "sw_k9_vidar",

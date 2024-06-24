@@ -25,6 +25,9 @@
       "lowerField" : "us_t92",
       "upperField" : "76mm Gun Tank T92"
     }, {
+      "lowerField" : "us_xm_800t",
+      "upperField" : "Armored Reconnaissance Scout Vehicle XM800T"
+    }, {
       "lowerField" : "us_m551",
       "upperField" : "152-mm Gun / Launcher M551 Sheridan"
     }, {
@@ -263,17 +266,23 @@
       "lowerField" : "us_m24_chaffee_tl",
       "upperField" : "Light Tank M24 Chaffee"
     }, {
-      "lowerField" : "us_t14",
-      "upperField" : "Assault Tank T14"
-    }, {
-      "lowerField" : "us_m18_hellcat_black_cat",
-      "upperField" : "M18 Gun Motor Carriage “Black Cat”"
+      "lowerField" : "us_m4_sherman_promo",
+      "upperField" : "Medium Tank M4 Sherman"
     }, {
       "lowerField" : "us_m4_sherman_calliope",
       "upperField" : "Rocket Launcher T34 Calliope"
     }, {
+      "lowerField" : "us_t14",
+      "upperField" : "Assault Tank T14"
+    }, {
+      "lowerField" : "us_m4a3e2_sherman_jumbo_cobra_king",
+      "upperField" : "Assault Tank M4A3E2 Jumbo “Cobra King”"
+    }, {
       "lowerField" : "us_m18_super_hellcat",
       "upperField" : "M18 90-mm Gun Motor Carriage"
+    }, {
+      "lowerField" : "us_t20",
+      "upperField" : "T20"
     }, {
       "lowerField" : "us_m26_t99",
       "upperField" : "Medium Tank M26 T99"
@@ -284,26 +293,32 @@
       "lowerField" : "us_m46_patton_73_armor_bat",
       "upperField" : "Medium Tank M46 Patton (73 Tank Batalion)"
     }, {
-      "lowerField" : "us_t114",
-      "upperField" : "T114"
-    }, {
       "lowerField" : "us_m728",
       "upperField" : "T54E1"
     }, {
-      "lowerField" : "us_xm1_gm",
-      "upperField" : "Tank, Combat, Full-Tracked, 105-mm Gun XM1 (GM)"
+      "lowerField" : "us_t54e2",
+      "upperField" : "T54E2"
+    }, {
+      "lowerField" : "us_t54e1",
+      "upperField" : "T54E1"
+    }, {
+      "lowerField" : "us_m901_itv",
+      "upperField" : "Combat Vehicle, Anti-tank, Improved TOW Vehicle, M901"
     }, {
       "lowerField" : "us_xm1_chrysler",
       "upperField" : "Tank, Combat, Full-Tracked, 105-mm Gun XM1 (Chrysler)"
     }, {
-      "lowerField" : "us_m901_itv",
-      "upperField" : "Combat Vehicle, Anti-tank, Improved TOW Vehicle, M901"
+      "lowerField" : "us_xm1_gm",
+      "upperField" : "Tank, Combat, Full-Tracked, 105-mm Gun XM1 (GM)"
     }, {
       "lowerField" : "us_m1128_wolfpack",
       "upperField" : "M1128 Wolfpack"
     }, {
       "lowerField" : "us_m1_abrams_kvt",
       "upperField" : "M1 Krasnovian Variant Tank"
+    }, {
+      "lowerField" : "us_m1a1_abrams_yt_cup_2019",
+      "upperField" : "\uD83C\uDFC6M1A1"
     }, {
       "lowerField" : "us_m1a1_aim_abrams",
       "upperField" : "Tank, Combat, Full Tracked, 120-Gun M1A1, AIM"
@@ -319,35 +334,29 @@
       "lowerField" : "us_m8_greyhound",
       "upperField" : "Light Armored Car M8"
     }, {
-      "lowerField" : "us_m8a1",
-      "upperField" : "75 mm Gun Motor Carriage M8"
+      "lowerField" : "us_lvt_4_zis_2",
+      "upperField" : "LVT(A)(4) Zis-2"
     }, {
       "lowerField" : "us_m5a1_stuart_td",
       "upperField" : "M5A1 TD"
     }, {
-      "lowerField" : "us_lvt_4_zis_2",
-      "upperField" : "LVT(A)(4) Zis-2"
+      "lowerField" : "us_m8a1",
+      "upperField" : "75 mm Gun Motor Carriage M8"
     }, {
       "lowerField" : "us_t18_e2",
       "upperField" : "T18E2 \"Boarhound\""
     }, {
-      "lowerField" : "us_m4_sherman_promo",
-      "upperField" : "Medium Tank M4 Sherman"
-    }, {
       "lowerField" : "us_t55e1",
       "upperField" : "T55E1"
     }, {
-      "lowerField" : "us_m4a3e2_sherman_jumbo_cobra_king",
-      "upperField" : "Assault Tank M4A3E2 Jumbo “Cobra King”"
-    }, {
-      "lowerField" : "us_t20",
-      "upperField" : "T20"
+      "lowerField" : "us_m18_hellcat_black_cat",
+      "upperField" : "M18 Gun Motor Carriage “Black Cat”"
     }, {
       "lowerField" : "us_t28",
       "upperField" : "Super Heavy Tank T28"
     }, {
-      "lowerField" : "us_t29",
-      "upperField" : "Heavy Tank T29"
+      "lowerField" : "us_m551_76",
+      "upperField" : "M551(76)"
     }, {
       "lowerField" : "us_t30",
       "upperField" : "Heavy Tank T30"
@@ -355,17 +364,14 @@
       "lowerField" : "us_m6a2e1",
       "upperField" : "Heavy Tank M6A2E1"
     }, {
-      "lowerField" : "us_m551_76",
-      "upperField" : "M551(76)"
+      "lowerField" : "us_t29",
+      "upperField" : "Heavy Tank T29"
+    }, {
+      "lowerField" : "us_t114",
+      "upperField" : "T114"
     }, {
       "lowerField" : "us_magach_3",
       "upperField" : "✡Magach 3"
-    }, {
-      "lowerField" : "us_t54e2",
-      "upperField" : "T54E2"
-    }, {
-      "lowerField" : "us_t54e1",
-      "upperField" : "T54E1"
     }, {
       "lowerField" : "us_merkava_mk_1",
       "upperField" : "Merkava Mk.1"
@@ -376,23 +382,20 @@
       "lowerField" : "us_xm_8",
       "upperField" : "105 mm Armored Gun System XM8"
     }, {
-      "lowerField" : "us_losat_ccv",
-      "upperField" : "LOSAT-CCVL"
-    }, {
-      "lowerField" : "us_ags_teledyne",
-      "upperField" : "TCM AGS"
-    }, {
       "lowerField" : "us_ccvl",
       "upperField" : "Close Combat Vehicle Light"
     }, {
       "lowerField" : "us_m60a3_slep",
       "upperField" : "M60 AMBT"
     }, {
+      "lowerField" : "us_losat_ccv",
+      "upperField" : "LOSAT-CCVL"
+    }, {
+      "lowerField" : "us_ags_teledyne",
+      "upperField" : "TCM AGS"
+    }, {
       "lowerField" : "us_merkava_mk_3d",
       "upperField" : "Merkava Mk.3D"
-    }, {
-      "lowerField" : "us_m1a1_abrams_yt_cup_2019",
-      "upperField" : "\uD83C\uDFC6M1A1"
     } ]
   } ]
 }

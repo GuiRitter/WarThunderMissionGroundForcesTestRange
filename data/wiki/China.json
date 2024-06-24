@@ -87,9 +87,9 @@
     }, {
       "blkBackground" : null,
       "blkImg" : "cn_mbt2000",
-      "span" : "MBT2000",
-      "href" : "https://wiki.warthunder.com/MBT2000",
-      "title" : "MBT2000"
+      "span" : "MBT-2000",
+      "href" : "https://wiki.warthunder.com/MBT-2000",
+      "title" : "MBT-2000"
     }, {
       "blkBackground" : null,
       "blkImg" : "cn_wz_1001",
@@ -99,9 +99,9 @@
     }, {
       "blkBackground" : null,
       "blkImg" : "cn_vt_4b",
-      "span" : "VT-4A1",
-      "href" : "https://wiki.warthunder.com/VT-4A1",
-      "title" : "VT-4A1"
+      "span" : "VT4A1",
+      "href" : "https://wiki.warthunder.com/VT4A1",
+      "title" : "VT4A1"
     } ]
   }, {
     "cellList" : [ {
@@ -246,22 +246,28 @@
       "title" : "CCKW 353 (M45)"
     }, {
       "blkBackground" : null,
-      "blkImg" : "cn_zsd63_pg87",
-      "span" : "ZSD63/PG87",
-      "href" : "https://wiki.warthunder.com/ZSD63/PG87",
-      "title" : "ZSD63/PG87"
-    }, {
-      "blkBackground" : null,
       "blkImg" : "cn_m42_duster",
       "span" : "␗M42",
       "href" : "https://wiki.warthunder.com/M42_(China)",
       "title" : "M42 (China)"
     }, {
       "blkBackground" : null,
+      "blkImg" : "cn_zsd63_pg87",
+      "span" : "ZSD63/PG87",
+      "href" : "https://wiki.warthunder.com/ZSD63/PG87",
+      "title" : "ZSD63/PG87"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "cn_type_65_aa",
       "span" : "Phòng không T-34",
       "href" : "https://wiki.warthunder.com/Ph%C3%B2ng_kh%C3%B4ng_T-34",
       "title" : "Phòng không T-34"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "cn_zsl_92",
+      "span" : "ZSL92",
+      "href" : "https://wiki.warthunder.com/ZSL92",
+      "title" : "ZSL92"
     }, {
       "blkBackground" : null,
       "blkImg" : "cn_wz_305",
@@ -464,20 +470,26 @@
       "span" : "ZTZ96A (P)",
       "href" : "https://wiki.warthunder.com/ZTZ96A_(P)",
       "title" : "ZTZ96A (P)"
-    } ]
-  }, {
-    "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "cn_t_62",
-      "span" : "Т-62 №545",
-      "href" : "https://wiki.warthunder.com/T-62_545_(China)",
-      "title" : "T-62 545 (China)"
     }, {
       "blkBackground" : null,
       "blkImg" : "cn_qn506",
       "span" : "QN506",
       "href" : "https://wiki.warthunder.com/QN506",
       "title" : "QN506"
+    } ]
+  }, {
+    "cellList" : [ {
+      "blkBackground" : null,
+      "blkImg" : "cn_plz_83_130",
+      "span" : "PLZ83-130",
+      "href" : "https://wiki.warthunder.com/PLZ83-130",
+      "title" : "PLZ83-130"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "cn_t_62",
+      "span" : "Т-62 №545",
+      "href" : "https://wiki.warthunder.com/T-62_545_(China)",
+      "title" : "T-62 545 (China)"
     } ]
   } ]
 }

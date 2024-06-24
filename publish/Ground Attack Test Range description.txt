@@ -144,4 +144,6 @@ After 2.35: I must be sounding repetitive by now but this must be the moment whe
 
 Personal issues aside, in Germany, the Vilkas now has been assigned a position in the tree. Other than that, nothing else worth mentioning.
 
+After 2.37: I made an effort to get this done as soon as possible this time. The Germany, UK, US and USSR trees had lots of vehicles switch places. The CV9035DK was surprisingly difficult to destroy with smaller bombs. I made two careless passes and it survived. Like Saitama, it required me to play seriously to do the deed. I suppose its t(h)anks to its internal layout and usage of spall liners.
+
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

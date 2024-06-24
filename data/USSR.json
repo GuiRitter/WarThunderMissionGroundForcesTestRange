@@ -145,7 +145,7 @@
       "upperField" : "T-80U"
     }, {
       "lowerField" : "ussr_t_80bvm",
-      "upperField" : ""
+      "upperField" : "T-80BVM"
     } ]
   }, {
     "cellList" : [ {
@@ -276,11 +276,11 @@
       "lowerField" : "ussr_btr_152a",
       "upperField" : "KB ZIS BTR-152A"
     }, {
-      "lowerField" : "ussr_zis_12_94KM_1945",
-      "upperField" : "94-KM ZIS-12"
-    }, {
       "lowerField" : "ussr_zis_43",
       "upperField" : "ZIS-43"
+    }, {
+      "lowerField" : "ussr_zis_12_94KM_1945",
+      "upperField" : "94-KM ZIS-12"
     }, {
       "lowerField" : "ussr_zsu_37",
       "upperField" : "ZSU-37"
@@ -320,6 +320,9 @@
       "lowerField" : "ussr_t_26_1940_1st_gvtbr",
       "upperField" : "T-26 (1st Gv.T.Br.)"
     }, {
+      "lowerField" : "ussr_bt_7_1937_td",
+      "upperField" : "BT-7 TD"
+    }, {
       "lowerField" : "ussr_t_35",
       "upperField" : "T-35"
     }, {
@@ -329,26 +332,26 @@
       "lowerField" : "ussr_pzkpfw_iii_ausf_j_l42",
       "upperField" : "★T-III"
     }, {
-      "lowerField" : "ussr_t_126sp",
-      "upperField" : "T-126(SP)"
-    }, {
       "lowerField" : "ussr_zut_37",
       "upperField" : "ZUT-37"
     }, {
+      "lowerField" : "ussr_t_126sp",
+      "upperField" : "T-126(SP)"
+    }, {
+      "lowerField" : "ussr_t_34_1940_l_11",
+      "upperField" : "T-34 (Prototype)"
+    }, {
+      "lowerField" : "ussr_bt_7a_f32",
+      "upperField" : "BT-7 (F-32)"
+    }, {
       "lowerField" : "ussr_smk",
       "upperField" : "SMK"
-    }, {
-      "lowerField" : "ussr_bm_13n",
-      "upperField" : "BM-13N"
     }, {
       "lowerField" : "ussr_t_34_1941_cast_turret",
       "upperField" : "T-34 1941 (1st Gv.T.Br.)"
     }, {
       "lowerField" : "ussr_t_34e",
       "upperField" : "T-34E"
-    }, {
-      "lowerField" : "ussr_t_34_1940_l_11",
-      "upperField" : "T-34 (Prototype)"
     }, {
       "lowerField" : "ussr_bm_31_12",
       "upperField" : "BM-31-12"
@@ -401,8 +404,11 @@
       "lowerField" : "ussr_t_72av_turms",
       "upperField" : "T-72AV (TURMS-T)"
     }, {
-      "lowerField" : "ussr_object_292",
-      "upperField" : "Object 292"
+      "lowerField" : "ussr_t_80ud",
+      "upperField" : "T-80UD"
+    }, {
+      "lowerField" : "ussr_t_80ue1",
+      "upperField" : "T-80U-E1"
     } ]
   }, {
     "cellList" : [ {
@@ -418,20 +424,17 @@
       "lowerField" : "ussr_bm_8_24",
       "upperField" : "BM-8-24"
     }, {
-      "lowerField" : "ussr_bt_7_1937_td",
-      "upperField" : "BT-7 TD"
-    }, {
-      "lowerField" : "ussr_m3c",
-      "upperField" : "★M3 Medium"
-    }, {
       "lowerField" : "ussr_su_76m_5st_kav_corps",
       "upperField" : "SU-76M (5th Guards Cavalry Corps)"
     }, {
       "lowerField" : "ussr_su_76d",
       "upperField" : "SU-76D"
     }, {
-      "lowerField" : "ussr_bt_7a_f32",
-      "upperField" : "BT-7 (F-32)"
+      "lowerField" : "ussr_m3c",
+      "upperField" : "★M3 Medium"
+    }, {
+      "lowerField" : "ussr_bm_13n",
+      "upperField" : "BM-13N"
     }, {
       "lowerField" : "ussr_a_12_mk_2_matilda_2A_F96",
       "upperField" : "★Tank MK-II «Matilda» (F-96)"
@@ -481,11 +484,11 @@
       "lowerField" : "ussr_object_279",
       "upperField" : "Object 279"
     }, {
+      "lowerField" : "ussr_object_292",
+      "upperField" : "Object 292"
+    }, {
       "lowerField" : "ussr_t_72m2_moderna",
       "upperField" : "T-72M2"
-    }, {
-      "lowerField" : "ussr_t_80ud",
-      "upperField" : "T-80UD"
     }, {
       "lowerField" : "ussr_t_80u_yt_cup_2019",
       "upperField" : "🏆T-80U"
@@ -502,7 +505,7 @@
       "upperField" : "BMP-1"
     }, {
       "lowerField" : "ussr_apc_btr_152",
-      "upperField" : ""
+      "upperField" : "BTR-152"
     }, {
       "lowerField" : "ussr_at_spg_9",
       "upperField" : "73 mm anti-tank gun SPG-9"

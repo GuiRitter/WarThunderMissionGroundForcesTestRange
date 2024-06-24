@@ -1,11 +1,8 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "us_m551_76",
-      "upperField" : "us_m551_76"
-    }, {
-      "lowerField" : "us_m60_120s",
-      "upperField" : "us_m60_120s"
+      "lowerField" : "us_xm_800t",
+      "upperField" : "us_xm_800t"
     } ]
   } ]
 }

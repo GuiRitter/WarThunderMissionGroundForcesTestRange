@@ -120,6 +120,9 @@
     }, {
       "lowerField" : "il_m113a1_tow",
       "upperField" : "M113A1 TOW Giraf"
+    }, {
+      "lowerField" : "il_namer_rcws_30",
+      "upperField" : "Namer RCWS-30"
     } ]
   }, {
     "cellList" : [ {

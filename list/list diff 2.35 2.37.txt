@@ -1,0 +1,18 @@
+no lines only in old
+
+lines only in new:
+
+cn_plz_83_130
+cn_zsl_92
+fr_vextra_105
+germ_leopard_2a4m_can
+il_namer_rcws_30
+it_leopard_2a7_hungary
+sw_cv_9035_dk
+sw_kungstiger
+sw_landsverk_ush_204_gk
+uk_churchill_avre
+uk_desert_warrior
+us_xm_800t
+ussr_t_80ue1
+
