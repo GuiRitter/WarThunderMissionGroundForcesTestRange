@@ -309,9 +309,9 @@
     }, {
       "blkBackground" : null,
       "blkImg" : "fr_amx_30_dca",
-      "span" : "AMX-30 DCA",
-      "href" : "https://wiki.warthunder.com/AMX-30_DCA",
-      "title" : "AMX-30 DCA"
+      "span" : "AMX-30 S DCA",
+      "href" : "https://wiki.warthunder.com/AMX-30_S_DCA",
+      "title" : "AMX-30 S DCA"
     }, {
       "blkBackground" : null,
       "blkImg" : "fr_vab_santal",
@@ -528,6 +528,12 @@
       "span" : "AMX-50 Surblindé",
       "href" : "https://wiki.warthunder.com/AMX-50_Surblinde",
       "title" : "AMX-50 Surblinde"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "fr_cv_9035_nl",
+      "span" : "CV 9035NL",
+      "href" : "https://wiki.warthunder.com/CV_9035NL",
+      "title" : "CV 9035NL"
     } ]
   } ]
 }

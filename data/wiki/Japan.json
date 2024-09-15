@@ -400,6 +400,12 @@
       "title" : "Type 16 (FPS)"
     }, {
       "blkBackground" : null,
+      "blkImg" : "jp_icv_prototype",
+      "span" : "CTWV RCV",
+      "href" : "https://wiki.warthunder.com/CTWV_RCV",
+      "title" : "CTWV RCV"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "jp_type_90b_camo",
       "span" : "Type 90 (B) \"Fuji\"",
       "href" : "https://wiki.warthunder.com/Type_90_(B)_%22Fuji%22",

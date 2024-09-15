@@ -462,12 +462,6 @@
       "title" : "Kungstiger"
     }, {
       "blkBackground" : null,
-      "blkImg" : "sw_strv_81_rb52",
-      "span" : "Strv 81 (RB 52)",
-      "href" : "https://wiki.warthunder.com/Strv_81_(RB_52)",
-      "title" : "Strv 81 (RB 52)"
-    }, {
-      "blkBackground" : null,
       "blkImg" : "sw_strv_103_0",
       "span" : "Strv 103-0",
       "href" : "https://wiki.warthunder.com/Strv_103-0",
@@ -516,6 +510,12 @@
       "span" : "Pbil m/40",
       "href" : "https://wiki.warthunder.com/Pbil_m/40",
       "title" : "Pbil m/40"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "sw_kv_1_1942_fin",
+      "span" : "▄KV-1 m1942",
+      "href" : "https://wiki.warthunder.com/KV-1_m1942_(Sweden)",
+      "title" : "KV-1 m1942 (Sweden)"
     }, {
       "blkBackground" : null,
       "blkImg" : "sw_k9_vidar",

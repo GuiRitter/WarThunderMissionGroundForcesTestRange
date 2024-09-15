@@ -1,11 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "cn_plz_83_130",
-      "upperField" : "cn_plz_83_130"
+      "lowerField" : "cn_al_khalid_1",
+      "upperField" : "cn_al_khalid_1"
     },{
-      "lowerField" : "cn_zsl_92",
-      "upperField" : "cn_zsl_92"
+      "lowerField" : "cn_antelope_tc_1l_ads",
+      "upperField" : "cn_antelope_tc_1l_ads"
     } ]
   } ]
 }

@@ -1,14 +1,8 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "sw_cv_9035_dk",
-      "upperField" : "sw_cv_9035_dk"
-    },{
-      "lowerField" : "sw_kungstiger",
-      "upperField" : "sw_kungstiger"
-    },{
-      "lowerField" : "sw_landsverk_ush_204_gk",
-      "upperField" : "sw_landsverk_ush_204_gk"
+      "lowerField" : "sw_kv_1_1942_fin",
+      "upperField" : "sw_kv_1_1942_fin"
     } ]
   } ]
 }

@@ -107,31 +107,37 @@ public class WarThunderWikiTreeBridger {
 	}
 
 	public static void main(String args[]) throws IOException {
-		JFileChooser chooser = new JFileChooser();
-		chooser.setFileSelectionMode(DIRECTORIES_ONLY);
-		chooser.setDialogTitle("Choose the wiki data folder");
-		if (chooser.showOpenDialog(null) != APPROVE_OPTION) {
-			return;
-		}
-		wikiFolder = chooser.getSelectedFile();
-		if (wikiFolder == null) {
-			return;
-		}
-		chooser.setDialogTitle("Choose the manager data folder");
-		if (chooser.showOpenDialog(null) != APPROVE_OPTION) {
-			return;
-		}
-		managerFolder = chooser.getSelectedFile();
-		if (managerFolder == null) {
-			return;
-		}
-		chooser.setDialogTitle("Choose the bridged data output folder");
-		if (chooser.showSaveDialog(null) != APPROVE_OPTION) {
-			return;
-		}
-		bridgeFolder = chooser.getSelectedFile();
-		if (bridgeFolder == null) {
-			return;
+		if (args.length > 0) {
+			wikiFolder = new File(args[0]);
+			managerFolder = new File(args[1]);
+			bridgeFolder = new File(args[2]);
+		} else {
+			JFileChooser chooser = new JFileChooser();
+			chooser.setFileSelectionMode(DIRECTORIES_ONLY);
+			chooser.setDialogTitle("Choose the wiki data folder");
+			if (chooser.showOpenDialog(null) != APPROVE_OPTION) {
+				return;
+			}
+			wikiFolder = chooser.getSelectedFile();
+			if (wikiFolder == null) {
+				return;
+			}
+			chooser.setDialogTitle("Choose the manager data folder");
+			if (chooser.showOpenDialog(null) != APPROVE_OPTION) {
+				return;
+			}
+			managerFolder = chooser.getSelectedFile();
+			if (managerFolder == null) {
+				return;
+			}
+			chooser.setDialogTitle("Choose the bridged data output folder");
+			if (chooser.showSaveDialog(null) != APPROVE_OPTION) {
+				return;
+			}
+			bridgeFolder = chooser.getSelectedFile();
+			if (bridgeFolder == null) {
+				return;
+			}
 		}
 
 		Stream.of(wikiFolder.listFiles()).forEach(WarThunderWikiTreeBridger::treatWikiFile);

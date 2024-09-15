@@ -288,6 +288,12 @@
       "title" : "PGZ04A"
     }, {
       "blkBackground" : null,
+      "blkImg" : "cn_antelope_tc_1l_ads",
+      "span" : "Antelope",
+      "href" : "https://wiki.warthunder.com/Antelope",
+      "title" : "Antelope"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "cn_tor_m1",
       "span" : "Tor-M1",
       "href" : "https://wiki.warthunder.com/Tor-M1",
@@ -490,6 +496,12 @@
       "span" : "Т-62 №545",
       "href" : "https://wiki.warthunder.com/T-62_545_(China)",
       "title" : "T-62 545 (China)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "cn_al_khalid_1",
+      "span" : "Al-Khalid-I",
+      "href" : "https://wiki.warthunder.com/Al-Khalid-I",
+      "title" : "Al-Khalid-I"
     } ]
   } ]
 }

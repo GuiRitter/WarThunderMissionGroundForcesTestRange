@@ -130,6 +130,12 @@
       "title" : "Sho't Kal Gimel"
     }, {
       "blkBackground" : null,
+      "blkImg" : "il_tiran_6",
+      "span" : "Tiran 6",
+      "href" : "https://wiki.warthunder.com/Tiran_6",
+      "title" : "Tiran 6"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "il_merkava_mk_1b",
       "span" : "Merkava Mk.1B",
       "href" : "https://wiki.warthunder.com/Merkava_Mk.1B",
@@ -248,6 +254,12 @@
       "span" : "M-51 (W)",
       "href" : "https://wiki.warthunder.com/M-51_(W)",
       "title" : "M-51 (W)"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "il_sholef",
+      "span" : "Sholef",
+      "href" : "https://wiki.warthunder.com/Sholef",
+      "title" : "Sholef"
     }, {
       "blkBackground" : null,
       "blkImg" : "il_magach_3",

@@ -270,6 +270,9 @@
     }, {
       "lowerField" : "fr_amx_50_surblinde",
       "upperField" : "AMX 50 Surblindé"
+    }, {
+      "lowerField" : "fr_cv_9035_nl",
+      "upperField" : "Infanteriegevechtsvoertuig CV 9035NL"
     } ]
   } ]
 }

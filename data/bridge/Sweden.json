@@ -236,9 +236,6 @@
       "lowerField" : "sw_kungstiger",
       "upperField" : "Kungstiger"
     }, {
-      "lowerField" : "sw_strv_81_rb52",
-      "upperField" : "Strv 81 (RB 52)"
-    }, {
       "lowerField" : "sw_strv_103_0",
       "upperField" : "Stridsvagn 103-0"
     }, {
@@ -264,6 +261,9 @@
     }, {
       "lowerField" : "sw_pbil_m40",
       "upperField" : "Pbil m/40"
+    }, {
+      "lowerField" : "sw_kv_1_1942_fin",
+      "upperField" : "⦿KV-1 m1942"
     }, {
       "lowerField" : "sw_k9_vidar",
       "upperField" : "Versatile InDirect ARTillery"

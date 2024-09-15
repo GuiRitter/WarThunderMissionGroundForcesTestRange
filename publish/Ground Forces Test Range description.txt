@@ -156,4 +156,8 @@ Personal issues aside, in Germany, the Vilkas now has been assigned a position i
 
 After 2.37: I made an effort to get this done as soon as possible this time. The Germany, UK, US and USSR trees had lots of vehicles switch places. The Kungstiger was surprisingly easy to destroy with Sweden's reserve: either it can be set alight from the rear or its crew members can be knocked out through the turret ring.
 
+After 2.39: This couldn't have arrived at a worse time, as I have months of pending work to do but, whatever, let's go. At least I managed to finish it in record time.
+
+Something weird: the us_m36b2 is no longer listed in the CDK for placement. However, you can still play a mission with it (either as you or as another player/PC). It used to be that the vehicles that could be placed in the CDK directly corresponded to the vehicles that are in the game, such that when you tried to play with a vehicle that has been removed, the game would crash. For example, the April's Fools vehicles. When they're no longer in the CDK and you try to play with them, the game crashes. When there's an event where they're back, you can select them again in the CDK. After the event, comes an update and they're gone. Which is why it's weird that the us_m36b2 is no longer in the CDK but still is in the game. It's still in the Wiki as well. That's a first.
+
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

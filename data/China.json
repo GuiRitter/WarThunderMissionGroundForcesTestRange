@@ -146,6 +146,9 @@
       "lowerField" : "cn_pgz_04a",
       "upperField" : "PGZ04A"
     }, {
+      "lowerField" : "cn_antelope_tc_1l_ads",
+      "upperField" : "Antelope Air Defence System"
+    }, {
       "lowerField" : "cn_tor_m1",
       "upperField" : "Tor-M1"
     } ]
@@ -250,6 +253,9 @@
     }, {
       "lowerField" : "cn_t_62",
       "upperField" : "T-62 Nº545"
+    }, {
+      "lowerField" : "cn_al_khalid_1",
+      "upperField" : "Al-Khalid-I"
     } ]
   }, {
     "cellList" : [ {

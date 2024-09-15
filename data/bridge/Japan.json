@@ -204,6 +204,9 @@
       "lowerField" : "jp_type_16_mod",
       "upperField" : "Type 16, First Production Serie"
     }, {
+      "lowerField" : "jp_icv_prototype",
+      "upperField" : "CTWV RCV"
+    }, {
       "lowerField" : "jp_type_90b_camo",
       "upperField" : "Type 90B Fuji School Brigade, Tank School Unit, 3rd Co."
     } ]

@@ -66,6 +66,9 @@
       "lowerField" : "il_centurion_shot_kal_gimel",
       "upperField" : "Sho't Kal Gimel"
     }, {
+      "lowerField" : "il_tiran_6",
+      "upperField" : "Tiran 6"
+    }, {
       "lowerField" : "il_merkava_mk_1b",
       "upperField" : "Merkava Siman 1 Bet"
     }, {
@@ -128,6 +131,9 @@
     "cellList" : [ {
       "lowerField" : "il_m_51_w",
       "upperField" : "M-51"
+    }, {
+      "lowerField" : "il_sholef",
+      "upperField" : "Sholef"
     }, {
       "lowerField" : "il_magach_3",
       "upperField" : "Magach 3"

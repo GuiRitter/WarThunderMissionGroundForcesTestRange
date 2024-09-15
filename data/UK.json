@@ -214,6 +214,9 @@
       "lowerField" : "uk_rooikat_za_35",
       "upperField" : "Rooikat ZA-35"
     }, {
+      "lowerField" : "uk_stormer_air_defence",
+      "upperField" : "Stormer Air Defence"
+    }, {
       "lowerField" : "uk_stormer_hvm",
       "upperField" : "FV4333 Stormer HVM"
     }, {

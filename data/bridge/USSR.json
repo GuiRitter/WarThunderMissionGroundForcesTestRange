@@ -297,6 +297,9 @@
       "lowerField" : "ussr_zsu_57_2",
       "upperField" : "ZSU-57-2"
     }, {
+      "lowerField" : "ussr_zsu_23_4m2",
+      "upperField" : "ZSU-23-4M2 \"Shilka-M2\""
+    }, {
       "lowerField" : "ussr_zsu_37_2",
       "upperField" : "ZSU-37-2"
     }, {
@@ -438,9 +441,6 @@
     }, {
       "lowerField" : "ussr_a_12_mk_2_matilda_2A_F96",
       "upperField" : "★Tank MK-II «Matilda» (F-96)"
-    }, {
-      "lowerField" : "ussr_valentine_mk_9",
-      "upperField" : "★MK-IX \"Valentine\""
     }, {
       "lowerField" : "ussr_su_85a",
       "upperField" : "SU-85A"

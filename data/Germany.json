@@ -66,6 +66,9 @@
     }, {
       "lowerField" : "germ_schutzenpanzer_puma",
       "upperField" : "Schützenpanzer PUMA"
+    }, {
+      "lowerField" : "germ_schutzenpanzer_puma_vjtf",
+      "upperField" : "Schützenpanzer PUMA VJTF"
     } ]
   }, {
     "cellList" : [ {

@@ -1,8 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "il_namer_rcws_30",
-      "upperField" : "il_namer_rcws_30"
+      "lowerField" : "il_sholef",
+      "upperField" : "il_sholef"
+    },{
+      "lowerField" : "il_tiran_6",
+      "upperField" : "il_tiran_6"
     } ]
   } ]
 }

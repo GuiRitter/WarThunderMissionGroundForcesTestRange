@@ -234,6 +234,12 @@
       "title" : "M4A3E2"
     }, {
       "blkBackground" : null,
+      "blkImg" : "us_t1e1_90",
+      "span" : "T1E1 (90)",
+      "href" : "https://wiki.warthunder.com/T1E1_(90)",
+      "title" : "T1E1 (90)"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "us_m4a3e2_76w_sherman_jumbo",
       "span" : "M4A3E2 (76) W",
       "href" : "https://wiki.warthunder.com/M4A3E2_(76)_W",

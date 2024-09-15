@@ -3205,7 +3205,7 @@ units{
   tankModels{
     name:t="tank_4_11"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8194.5]]
-    unit_class:t="ussr_zsu_37_2"
+    unit_class:t="ussr_zsu_23_4m2"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3236,7 +3236,7 @@ units{
   tankModels{
     name:t="tank_4_12"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8194.5]]
-    unit_class:t="ussr_zsu_23_4"
+    unit_class:t="ussr_zsu_37_2"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3267,7 +3267,7 @@ units{
   tankModels{
     name:t="tank_4_13"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8194.5]]
-    unit_class:t="ussr_zsu_23_4m4"
+    unit_class:t="ussr_zsu_23_4"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3298,7 +3298,7 @@ units{
   tankModels{
     name:t="tank_4_14"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8194.5]]
-    unit_class:t="ussr_9a35_m2"
+    unit_class:t="ussr_zsu_23_4m4"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3329,7 +3329,7 @@ units{
   tankModels{
     name:t="tank_4_15"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8194.5]]
-    unit_class:t="ussr_zprk_2s6"
+    unit_class:t="ussr_9a35_m2"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -3360,6 +3360,37 @@ units{
   tankModels{
     name:t="tank_4_16"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8194.5]]
+    unit_class:t="ussr_zprk_2s6"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_17"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8194.5]]
     unit_class:t="ussr_pantsyr_s1"
     objLayer:i=1
     closed_waypoints:b=no

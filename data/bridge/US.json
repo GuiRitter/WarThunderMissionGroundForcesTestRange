@@ -119,6 +119,9 @@
       "lowerField" : "us_m4a3e2_sherman_jumbo",
       "upperField" : "Assault Tank M4A3E2 Jumbo"
     }, {
+      "lowerField" : "us_t1e1_90",
+      "upperField" : "Heavy Tank T1E1 (90)"
+    }, {
       "lowerField" : "us_m4a3e2_76w_sherman_jumbo",
       "upperField" : "Assault Tank M4A3E2 (76) W Jumbo"
     }, {

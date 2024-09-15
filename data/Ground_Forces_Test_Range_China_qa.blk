@@ -167,7 +167,7 @@ units{
   tankModels{
     name:t="tank_0_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8182, 1, 8192.0]]
-    unit_class:t="cn_plz_83_130"
+    unit_class:t="cn_al_khalid_1"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -198,7 +198,7 @@ units{
   tankModels{
     name:t="tank_0_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8202, 1, 8192.0]]
-    unit_class:t="cn_zsl_92"
+    unit_class:t="cn_antelope_tc_1l_ads"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""

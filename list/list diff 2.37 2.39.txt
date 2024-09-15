@@ -1,0 +1,18 @@
+lines only in old:
+
+us_m36b2
+
+lines only in new:
+
+cn_al_khalid_1
+cn_antelope_tc_1l_ads
+fr_cv_9035_nl
+germ_schutzenpanzer_puma_vjtf
+il_sholef
+il_tiran_6
+jp_icv_prototype
+sw_kv_1_1942_fin
+uk_stormer_air_defence
+us_t1e1_90
+ussr_zsu_23_4m2
+

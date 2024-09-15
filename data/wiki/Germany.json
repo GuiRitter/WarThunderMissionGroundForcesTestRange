@@ -132,6 +132,12 @@
       "span" : "PUMA",
       "href" : "https://wiki.warthunder.com/PUMA",
       "title" : "PUMA"
+    }, {
+      "blkBackground" : null,
+      "blkImg" : "germ_schutzenpanzer_puma_vjtf",
+      "span" : "PUMA VJTF",
+      "href" : "https://wiki.warthunder.com/PUMA_VJTF",
+      "title" : "PUMA VJTF"
     } ]
   }, {
     "cellList" : [ {

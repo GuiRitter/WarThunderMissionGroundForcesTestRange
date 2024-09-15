@@ -586,6 +586,12 @@
       "title" : "ZSU-57-2"
     }, {
       "blkBackground" : null,
+      "blkImg" : "ussr_zsu_23_4m2",
+      "span" : "ZSU-23-4M2",
+      "href" : "https://wiki.warthunder.com/ZSU-23-4M2",
+      "title" : "ZSU-23-4M2"
+    }, {
+      "blkBackground" : null,
       "blkImg" : "ussr_zsu_37_2",
       "span" : "ZSU-37-2",
       "href" : "https://wiki.warthunder.com/ZSU-37-2",
@@ -864,12 +870,6 @@
       "span" : "▂MK-II \"Matilda\"",
       "href" : "https://wiki.warthunder.com/MK-II_%22Matilda%22_(USSR)",
       "title" : "MK-II \"Matilda\" (USSR)"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_valentine_mk_9",
-      "span" : "▂МК-IX \"Valentine\"",
-      "href" : "https://wiki.warthunder.com/MK-IX_%22Valentine%22_(USSR)",
-      "title" : "MK-IX \"Valentine\" (USSR)"
     }, {
       "blkBackground" : null,
       "blkImg" : "ussr_su_85a",
