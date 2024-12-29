@@ -309,6 +309,9 @@
       "lowerField" : "ussr_zsu_23_4m4",
       "upperField" : "ZSU-23-4M4 \"Shilka-M4\""
     }, {
+      "lowerField" : "ussr_9a33bm3",
+      "upperField" : "9A33BM3 \"Osa-AKM\""
+    }, {
       "lowerField" : "ussr_9a35_m2",
       "upperField" : "ZRK 9A35M2 'Strela-10M2'"
     }, {
@@ -392,11 +395,17 @@
       "lowerField" : "ussr_to_55",
       "upperField" : "TO-55"
     }, {
+      "lowerField" : "ussr_object_140",
+      "upperField" : "Object 140"
+    }, {
       "lowerField" : "ussr_t_55_am",
       "upperField" : "T-55AM-1"
     }, {
       "lowerField" : "ussr_bmd_4",
       "upperField" : "BMD-4"
+    }, {
+      "lowerField" : "ussr_bmd_4m",
+      "upperField" : "BMD-4M"
     }, {
       "lowerField" : "ussr_bmp_2m",
       "upperField" : "BMP-2M"
@@ -442,11 +451,17 @@
       "lowerField" : "ussr_a_12_mk_2_matilda_2A_F96",
       "upperField" : "★Tank MK-II «Matilda» (F-96)"
     }, {
+      "lowerField" : "ussr_valentine_mk_9",
+      "upperField" : "★MK-IX \"Valentine\""
+    }, {
       "lowerField" : "ussr_su_85a",
       "upperField" : "SU-85A"
     }, {
       "lowerField" : "ussr_kv_2_1940",
       "upperField" : "KV-2 (1940)"
+    }, {
+      "lowerField" : "ussr_kv_7_u13",
+      "upperField" : "KV-7 (U-13)"
     }, {
       "lowerField" : "ussr_kv_1e",
       "upperField" : "KV-1E"

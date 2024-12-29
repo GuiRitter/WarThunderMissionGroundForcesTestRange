@@ -40,6 +40,9 @@
       "lowerField" : "fr_sk105_a2",
       "upperField" : "SK-105A2"
     }, {
+      "lowerField" : "fr_vbci",
+      "upperField" : "VBCI (VCI)"
+    }, {
       "lowerField" : "fr_vextra_105",
       "upperField" : "Véhicule d'EXperimentation de TRAnsmission 105"
     } ]
@@ -116,6 +119,9 @@
       "lowerField" : "fr_arl_44_acl1",
       "upperField" : "ARL-44 (ACL-1)"
     }, {
+      "lowerField" : "fr_arl_44",
+      "upperField" : "ARL-44"
+    }, {
       "lowerField" : "fr_m4a3e2_sherman_jumbo",
       "upperField" : "⦿Assault Tank M4A3E2 Jumbo"
     }, {
@@ -136,6 +142,15 @@
     }, {
       "lowerField" : "fr_amx_40",
       "upperField" : "AMX-40"
+    }, {
+      "lowerField" : "fr_leopard_2a4nl",
+      "upperField" : "Leopard 2A4NL"
+    }, {
+      "lowerField" : "fr_leopard_2a5nl",
+      "upperField" : "Leopard 2A5NL"
+    }, {
+      "lowerField" : "fr_leopard_2a6nl",
+      "upperField" : "Leopard 2A6NL"
     } ]
   }, {
     "cellList" : [ {
@@ -186,8 +201,8 @@
       "lowerField" : "fr_m10",
       "upperField" : "⦿3-inch Gun Motor Carriage M10"
     }, {
-      "lowerField" : "fr_arl_44",
-      "upperField" : "ARL-44"
+      "lowerField" : "fr_m44",
+      "upperField" : "⦿Howitzer, Self-propelled, Full Tracked: 155-mm, M44"
     }, {
       "lowerField" : "fr_m36b2_cefeo",
       "upperField" : "⦿90 mm Gun Motor Carriage M36B2"

@@ -1,988 +1,517 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "ussr_bt_5",
-      "span" : "BT-5",
-      "href" : "https://wiki.warthunder.com/BT-5",
+      "blk" : "ussr_bt_5",
       "title" : "BT-5"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_bt_7_1937",
-      "span" : "BT-7",
-      "href" : "https://wiki.warthunder.com/BT-7",
+      "blk" : "ussr_bt_7_1937",
       "title" : "BT-7"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_bt_7_m",
-      "span" : "BT-7M",
-      "href" : "https://wiki.warthunder.com/BT-7M",
+      "blk" : "ussr_bt_7_m",
       "title" : "BT-7M"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_50",
-      "span" : "T-50",
-      "href" : "https://wiki.warthunder.com/T-50",
+      "blk" : "ussr_t_50",
       "title" : "T-50"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_34_1941_l_11",
-      "span" : "T-34 (1940)",
-      "href" : "https://wiki.warthunder.com/T-34_(1940)",
-      "title" : "T-34 (1940)"
+      "blk" : "ussr_t_34_1941_l_11",
+      "title" : "T-34 (1940)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_34_1941",
-      "span" : "T-34 (1941)",
-      "href" : "https://wiki.warthunder.com/T-34_(1941)",
-      "title" : "T-34 (1941)"
+      "blk" : "ussr_t_34_1941",
+      "title" : "T-34 (1941)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_34_1942",
-      "span" : "T-34 (1942)",
-      "href" : "https://wiki.warthunder.com/T-34_(1942)",
-      "title" : "T-34 (1942)"
+      "blk" : "ussr_t_34_1942",
+      "title" : "T-34 (1942)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_34e_stz",
-      "span" : "T-34E STZ",
-      "href" : "https://wiki.warthunder.com/T-34E_STZ",
-      "title" : "T-34E STZ"
+      "blk" : "ussr_t_34e_stz",
+      "title" : "T-34E STZ"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_34_1941_57",
-      "span" : "T-34-57",
-      "href" : "https://wiki.warthunder.com/T-34-57",
+      "blk" : "ussr_t_34_1941_57",
       "title" : "T-34-57"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_34_85_d_5t",
-      "span" : "T-34-85 (D-5T)",
-      "href" : "https://wiki.warthunder.com/T-34-85_(D-5T)",
-      "title" : "T-34-85 (D-5T)"
+      "blk" : "ussr_t_34_85_d_5t",
+      "title" : "T-34-85 (D-5T)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_34_85_zis_53",
-      "span" : "T-34-85",
-      "href" : "https://wiki.warthunder.com/T-34-85",
+      "blk" : "ussr_t_34_85_zis_53",
       "title" : "T-34-85"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_44",
-      "span" : "T-44",
-      "href" : "https://wiki.warthunder.com/T-44",
+      "blk" : "ussr_t_44",
       "title" : "T-44"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_44_100",
-      "span" : "T-44-100",
-      "href" : "https://wiki.warthunder.com/T-44-100",
+      "blk" : "ussr_t_44_100",
       "title" : "T-44-100"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_54_1947",
-      "span" : "T-54 (1947)",
-      "href" : "https://wiki.warthunder.com/T-54_(1947)",
-      "title" : "T-54 (1947)"
+      "blk" : "ussr_t_54_1947",
+      "title" : "T-54 (1947)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_54_1949",
-      "span" : "T-54 (1949)",
-      "href" : "https://wiki.warthunder.com/T-54_(1949)",
-      "title" : "T-54 (1949)"
+      "blk" : "ussr_t_54_1949",
+      "title" : "T-54 (1949)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_54_1951",
-      "span" : "T-54 (1951)",
-      "href" : "https://wiki.warthunder.com/T-54_(1951)",
-      "title" : "T-54 (1951)"
+      "blk" : "ussr_t_54_1951",
+      "title" : "T-54 (1951)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_55a",
-      "span" : "T-55A",
-      "href" : "https://wiki.warthunder.com/T-55A",
+      "blk" : "ussr_t_55a",
       "title" : "T-55A"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_55_amd_1",
-      "span" : "T-55AMD-1",
-      "href" : "https://wiki.warthunder.com/T-55AMD-1",
+      "blk" : "ussr_t_55_amd_1",
       "title" : "T-55AMD-1"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_62",
-      "span" : "T-62",
-      "href" : "https://wiki.warthunder.com/T-62",
+      "blk" : "ussr_t_62",
       "title" : "T-62"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_62m1",
-      "span" : "T-62M-1",
-      "href" : "https://wiki.warthunder.com/T-62M-1",
+      "blk" : "ussr_t_62m1",
       "title" : "T-62M-1"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_72a",
-      "span" : "T-72A",
-      "href" : "https://wiki.warthunder.com/T-72A",
+      "blk" : "ussr_t_72a",
       "title" : "T-72A"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_72b",
-      "span" : "T-72B",
-      "href" : "https://wiki.warthunder.com/T-72B",
+      "blk" : "ussr_t_72b",
       "title" : "T-72B"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_72b_1989",
-      "span" : "T-72B (1989)",
-      "href" : "https://wiki.warthunder.com/T-72B_(1989)",
-      "title" : "T-72B (1989)"
+      "blk" : "ussr_t_72b_1989",
+      "title" : "T-72B (1989)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_90a",
-      "span" : "Т-90А",
-      "href" : "https://wiki.warthunder.com/T-90A",
-      "title" : "T-90A"
+      "blk" : "ussr_t_90a",
+      "title" : "Т-90А"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_72b3_2011",
-      "span" : "T-72B3",
-      "href" : "https://wiki.warthunder.com/T-72B3",
+      "blk" : "ussr_t_72b3_2011",
       "title" : "T-72B3"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_90m_2020",
-      "span" : "T-90M",
-      "href" : "https://wiki.warthunder.com/T-90M",
+      "blk" : "ussr_t_90m_2020",
       "title" : "T-90M"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_26_1940",
-      "span" : "T-26",
-      "href" : "https://wiki.warthunder.com/T-26",
+      "blk" : "ussr_t_26_1940",
       "title" : "T-26"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_28_1938",
-      "span" : "T-28 (1938)",
-      "href" : "https://wiki.warthunder.com/T-28_(1938)",
-      "title" : "T-28 (1938)"
+      "blk" : "ussr_t_28_1938",
+      "title" : "T-28 (1938)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_28",
-      "span" : "T-28",
-      "href" : "https://wiki.warthunder.com/T-28",
+      "blk" : "ussr_t_28",
       "title" : "T-28"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_28e",
-      "span" : "T-28E",
-      "href" : "https://wiki.warthunder.com/T-28E",
+      "blk" : "ussr_t_28e",
       "title" : "T-28E"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_kv_1_l_11",
-      "span" : "KV-1 (L-11)",
-      "href" : "https://wiki.warthunder.com/KV-1_(L-11)",
-      "title" : "KV-1 (L-11)"
+      "blk" : "ussr_kv_1_l_11",
+      "title" : "KV-1 (L-11)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_kv_2_1939",
-      "span" : "KV-2 (1939)",
-      "href" : "https://wiki.warthunder.com/KV-2_(1939)",
-      "title" : "KV-2 (1939)"
+      "blk" : "ussr_kv_2_1939",
+      "title" : "KV-2 (1939)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_kv_1s",
-      "span" : "KV-1S",
-      "href" : "https://wiki.warthunder.com/KV-1S",
+      "blk" : "ussr_kv_1s",
       "title" : "KV-1S"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_kv_1_zis_5",
-      "span" : "KV-1 (ZiS-5)",
-      "href" : "https://wiki.warthunder.com/KV-1_(ZiS-5)",
-      "title" : "KV-1 (ZiS-5)"
+      "blk" : "ussr_kv_1_zis_5",
+      "title" : "KV-1 (ZiS-5)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_kv_85",
-      "span" : "KV-85",
-      "href" : "https://wiki.warthunder.com/KV-85",
+      "blk" : "ussr_kv_85",
       "title" : "KV-85"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_is_1",
-      "span" : "IS-1",
-      "href" : "https://wiki.warthunder.com/IS-1",
+      "blk" : "ussr_is_1",
       "title" : "IS-1"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_is_2_1943",
-      "span" : "IS-2",
-      "href" : "https://wiki.warthunder.com/IS-2",
+      "blk" : "ussr_is_2_1943",
       "title" : "IS-2"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_is_2_1944",
-      "span" : "IS-2 (1944)",
-      "href" : "https://wiki.warthunder.com/IS-2_(1944)",
-      "title" : "IS-2 (1944)"
+      "blk" : "ussr_is_2_1944",
+      "title" : "IS-2 (1944)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_is_2_1944_321",
-      "span" : "IS-2 No.321",
-      "href" : "https://wiki.warthunder.com/IS-2_No.321",
-      "title" : "IS-2 No.321"
+      "blk" : "ussr_is_2_1944_321",
+      "title" : "IS-2 No.321"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_is_3",
-      "span" : "IS-3",
-      "href" : "https://wiki.warthunder.com/IS-3",
+      "blk" : "ussr_is_3",
       "title" : "IS-3"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_is_4m",
-      "span" : "IS-4M",
-      "href" : "https://wiki.warthunder.com/IS-4M",
+      "blk" : "ussr_is_4m",
       "title" : "IS-4M"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_10m",
-      "span" : "T-10M",
-      "href" : "https://wiki.warthunder.com/T-10M",
+      "blk" : "ussr_t_10m",
       "title" : "T-10M"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_object_435",
-      "span" : "Object 435",
-      "href" : "https://wiki.warthunder.com/Object_435",
-      "title" : "Object 435"
+      "blk" : "ussr_object_435",
+      "title" : "Object 435"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_64a_1971",
-      "span" : "T-64A (1971)",
-      "href" : "https://wiki.warthunder.com/T-64A_(1971)",
-      "title" : "T-64A (1971)"
+      "blk" : "ussr_t_64a_1971",
+      "title" : "T-64A (1971)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_64_b_1984",
-      "span" : "T-64B",
-      "href" : "https://wiki.warthunder.com/T-64B",
+      "blk" : "ussr_t_64_b_1984",
       "title" : "T-64B"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_80b",
-      "span" : "T-80B",
-      "href" : "https://wiki.warthunder.com/T-80B",
+      "blk" : "ussr_t_80b",
       "title" : "T-80B"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_80u",
-      "span" : "T-80U",
-      "href" : "https://wiki.warthunder.com/T-80U",
+      "blk" : "ussr_t_80u",
       "title" : "T-80U"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_80bvm",
-      "span" : "T-80BVM",
-      "href" : "https://wiki.warthunder.com/T-80BVM",
+      "blk" : "ussr_t_80bvm",
       "title" : "T-80BVM"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_26_4",
-      "span" : "T-26-4",
-      "href" : "https://wiki.warthunder.com/T-26-4",
+      "blk" : "ussr_t_26_4",
       "title" : "T-26-4"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_60_1941",
-      "span" : "T-60",
-      "href" : "https://wiki.warthunder.com/T-60",
+      "blk" : "ussr_t_60_1941",
       "title" : "T-60"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_70_1942",
-      "span" : "T-70",
-      "href" : "https://wiki.warthunder.com/T-70",
+      "blk" : "ussr_t_70_1942",
       "title" : "T-70"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_80",
-      "span" : "T-80",
-      "href" : "https://wiki.warthunder.com/T-80",
+      "blk" : "ussr_t_80",
       "title" : "T-80"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_asu_57",
-      "span" : "ASU-57",
-      "href" : "https://wiki.warthunder.com/ASU-57",
+      "blk" : "ussr_asu_57",
       "title" : "ASU-57"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_pt_76b",
-      "span" : "PT-76B",
-      "href" : "https://wiki.warthunder.com/PT-76B",
+      "blk" : "ussr_pt_76b",
       "title" : "PT-76B"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_asu_85",
-      "span" : "ASU-85",
-      "href" : "https://wiki.warthunder.com/ASU-85",
+      "blk" : "ussr_asu_85",
       "title" : "ASU-85"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_100p",
-      "span" : "SU-100P",
-      "href" : "https://wiki.warthunder.com/SU-100P",
+      "blk" : "ussr_su_100p",
       "title" : "SU-100P"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_btr_80a",
-      "span" : "BTR-80A",
-      "href" : "https://wiki.warthunder.com/BTR-80A",
+      "blk" : "ussr_btr_80a",
       "title" : "BTR-80A"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_bmp_1",
-      "span" : "BMP-1",
-      "href" : "https://wiki.warthunder.com/BMP-1",
+      "blk" : "ussr_bmp_1",
       "title" : "BMP-1"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_object_906",
-      "span" : "Object 906",
-      "href" : "https://wiki.warthunder.com/Object_906",
-      "title" : "Object 906"
+      "blk" : "ussr_object_906",
+      "title" : "Object 906"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_bmp_2",
-      "span" : "BMP-2",
-      "href" : "https://wiki.warthunder.com/BMP-2",
+      "blk" : "ussr_bmp_2",
       "title" : "BMP-2"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_object_685",
-      "span" : "Object 685",
-      "href" : "https://wiki.warthunder.com/Object_685",
-      "title" : "Object 685"
+      "blk" : "ussr_object_685",
+      "title" : "Object 685"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_bmp_3",
-      "span" : "BMP-3",
-      "href" : "https://wiki.warthunder.com/BMP-3",
+      "blk" : "ussr_bmp_3",
       "title" : "BMP-3"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_2s25",
-      "span" : "2S25",
-      "href" : "https://wiki.warthunder.com/2S25",
+      "blk" : "ussr_2s25",
       "title" : "2S25"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_2s25m",
-      "span" : "2S25M",
-      "href" : "https://wiki.warthunder.com/2S25M",
+      "blk" : "ussr_2s25m",
       "title" : "2S25M"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_5_1",
-      "span" : "SU-5-1",
-      "href" : "https://wiki.warthunder.com/SU-5-1",
+      "blk" : "ussr_su_5_1",
       "title" : "SU-5-1"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_76m_1943",
-      "span" : "SU-76M",
-      "href" : "https://wiki.warthunder.com/SU-76M",
+      "blk" : "ussr_su_76m_1943",
       "title" : "SU-76M"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_zis_30",
-      "span" : "ZiS-30",
-      "href" : "https://wiki.warthunder.com/ZiS-30",
+      "blk" : "ussr_zis_30",
       "title" : "ZiS-30"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_57b",
-      "span" : "SU-57B",
-      "href" : "https://wiki.warthunder.com/SU-57B",
+      "blk" : "ussr_su_57b",
       "title" : "SU-57B"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_122",
-      "span" : "SU-122",
-      "href" : "https://wiki.warthunder.com/SU-122",
+      "blk" : "ussr_su_122",
       "title" : "SU-122"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_zsu_29k",
-      "span" : "YaG-10 (29-K)",
-      "href" : "https://wiki.warthunder.com/YaG-10_(29-K)",
-      "title" : "YaG-10 (29-K)"
+      "blk" : "ussr_zsu_29k",
+      "title" : "YaG-10 (29-K)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_152",
-      "span" : "SU-152",
-      "href" : "https://wiki.warthunder.com/SU-152",
+      "blk" : "ussr_su_152",
       "title" : "SU-152"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_85_1943",
-      "span" : "SU-85",
-      "href" : "https://wiki.warthunder.com/SU-85",
+      "blk" : "ussr_su_85_1943",
       "title" : "SU-85"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_isu_152",
-      "span" : "ISU-152",
-      "href" : "https://wiki.warthunder.com/ISU-152",
+      "blk" : "ussr_isu_152",
       "title" : "ISU-152"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_85m",
-      "span" : "SU-85M",
-      "href" : "https://wiki.warthunder.com/SU-85M",
+      "blk" : "ussr_su_85m",
       "title" : "SU-85M"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_isu_122",
-      "span" : "ISU-122",
-      "href" : "https://wiki.warthunder.com/ISU-122",
+      "blk" : "ussr_isu_122",
       "title" : "ISU-122"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_isu_122s",
-      "span" : "ISU-122S",
-      "href" : "https://wiki.warthunder.com/ISU-122S",
+      "blk" : "ussr_isu_122s",
       "title" : "ISU-122S"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_100_1945",
-      "span" : "SU-100",
-      "href" : "https://wiki.warthunder.com/SU-100",
+      "blk" : "ussr_su_100_1945",
       "title" : "SU-100"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_2s1",
-      "span" : "2S1",
-      "href" : "https://wiki.warthunder.com/2S1",
+      "blk" : "ussr_2s1",
       "title" : "2S1"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_2s3m",
-      "span" : "2S3M",
-      "href" : "https://wiki.warthunder.com/2S3M",
+      "blk" : "ussr_2s3m",
       "title" : "2S3M"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_122_54",
-      "span" : "SU-122-54",
-      "href" : "https://wiki.warthunder.com/SU-122-54",
+      "blk" : "ussr_su_122_54",
       "title" : "SU-122-54"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_object_268",
-      "span" : "Object 268",
-      "href" : "https://wiki.warthunder.com/Object_268",
-      "title" : "Object 268"
+      "blk" : "ussr_object_268",
+      "title" : "Object 268"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_it_1",
-      "span" : "IT-1",
-      "href" : "https://wiki.warthunder.com/IT-1",
+      "blk" : "ussr_it_1",
       "title" : "IT-1"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_9p149",
-      "span" : "Shturm-S",
-      "href" : "https://wiki.warthunder.com/Shturm-S",
+      "blk" : "ussr_9p149",
       "title" : "Shturm-S"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_object_775",
-      "span" : "Object 775",
-      "href" : "https://wiki.warthunder.com/Object_775",
-      "title" : "Object 775"
+      "blk" : "ussr_object_775",
+      "title" : "Object 775"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_9p157",
-      "span" : "Khrizantema-S",
-      "href" : "https://wiki.warthunder.com/Khrizantema-S",
+      "blk" : "ussr_9p157",
       "title" : "Khrizantema-S"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "ussr_gaz_4m",
-      "span" : "GAZ-AAA (4M)",
-      "href" : "https://wiki.warthunder.com/GAZ-AAA_(4M)",
-      "title" : "GAZ-AAA (4M)"
+      "blk" : "ussr_gaz_4m",
+      "title" : "GAZ-AAA (4M)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_gaz_dshk",
-      "span" : "GAZ-AAA (DShK)",
-      "href" : "https://wiki.warthunder.com/GAZ-AAA_(DShK)",
-      "title" : "GAZ-AAA (DShK)"
+      "blk" : "ussr_gaz_dshk",
+      "title" : "GAZ-AAA (DShK)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_gaz_mm_72k",
-      "span" : "GAZ-MM (72-K)",
-      "href" : "https://wiki.warthunder.com/GAZ-MM_(72-K)",
-      "title" : "GAZ-MM (72-K)"
+      "blk" : "ussr_gaz_mm_72k",
+      "title" : "GAZ-MM (72-K)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_btr_152a",
-      "span" : "BTR-152A",
-      "href" : "https://wiki.warthunder.com/BTR-152A",
+      "blk" : "ussr_btr_152a",
       "title" : "BTR-152A"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_zis_43",
-      "span" : "ZiS-43",
-      "href" : "https://wiki.warthunder.com/ZiS-43",
+      "blk" : "ussr_zis_43",
       "title" : "ZiS-43"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_zis_12_94km_1945",
-      "span" : "ZiS-12 (94-KM)",
-      "href" : "https://wiki.warthunder.com/ZiS-12_(94-KM)",
-      "title" : "ZiS-12 (94-KM)"
+      "blk" : "ussr_zis_12_94km_1945",
+      "title" : "ZiS-12 (94-KM)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_zsu_37",
-      "span" : "ZSU-37",
-      "href" : "https://wiki.warthunder.com/ZSU-37",
+      "blk" : "ussr_zsu_37",
       "title" : "ZSU-37"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_btr_152d",
-      "span" : "BTR-152D",
-      "href" : "https://wiki.warthunder.com/BTR-152D",
+      "blk" : "ussr_btr_152d",
       "title" : "BTR-152D"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_btr_zd",
-      "span" : "BTR-ZD",
-      "href" : "https://wiki.warthunder.com/BTR-ZD",
+      "blk" : "ussr_btr_zd",
       "title" : "BTR-ZD"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_m53_59",
-      "span" : "M53/59",
-      "href" : "https://wiki.warthunder.com/M53/59",
+      "blk" : "ussr_m53_59",
       "title" : "M53/59"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_zsu_57_2",
-      "span" : "ZSU-57-2",
-      "href" : "https://wiki.warthunder.com/ZSU-57-2",
+      "blk" : "ussr_zsu_57_2",
       "title" : "ZSU-57-2"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_zsu_23_4m2",
-      "span" : "ZSU-23-4M2",
-      "href" : "https://wiki.warthunder.com/ZSU-23-4M2",
+      "blk" : "ussr_zsu_23_4m2",
       "title" : "ZSU-23-4M2"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_zsu_37_2",
-      "span" : "ZSU-37-2",
-      "href" : "https://wiki.warthunder.com/ZSU-37-2",
+      "blk" : "ussr_zsu_37_2",
       "title" : "ZSU-37-2"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_zsu_23_4",
-      "span" : "ZSU-23-4",
-      "href" : "https://wiki.warthunder.com/ZSU-23-4",
+      "blk" : "ussr_zsu_23_4",
       "title" : "ZSU-23-4"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_zsu_23_4m4",
-      "span" : "ZSU-23-4M4",
-      "href" : "https://wiki.warthunder.com/ZSU-23-4M4",
+      "blk" : "ussr_zsu_23_4m4",
       "title" : "ZSU-23-4M4"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_9a35_m2",
-      "span" : "Strela-10M2",
-      "href" : "https://wiki.warthunder.com/Strela-10M2",
+      "blk" : "ussr_9a33bm3",
+      "title" : "Osa-AKM"
+    }, {
+      "blk" : "ussr_9a35_m2",
       "title" : "Strela-10M2"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_zprk_2s6",
-      "span" : "2S6",
-      "href" : "https://wiki.warthunder.com/2S6",
+      "blk" : "ussr_zprk_2s6",
       "title" : "2S6"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_pantsyr_s1",
-      "span" : "Pantsir-S1",
-      "href" : "https://wiki.warthunder.com/Pantsir-S1",
+      "blk" : "ussr_pantsyr_s1",
       "title" : "Pantsir-S1"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_26_1940_1st_gvtbr",
-      "span" : "T-26 (1st Gv.T.Br.)",
-      "href" : "https://wiki.warthunder.com/T-26_(1st_Gv.T.Br.)",
-      "title" : "T-26 (1st Gv.T.Br.)"
+      "blk" : "ussr_t_26_1940_1st_gvtbr",
+      "title" : "T-26 (1st Gv.T.Br.)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_bt_7_1937_td",
-      "span" : "BT-7 TD",
-      "href" : "https://wiki.warthunder.com/BT-7_TD",
-      "title" : "BT-7 TD"
+      "blk" : "ussr_bt_7_1937_td",
+      "title" : "BT-7 TD"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_35",
-      "span" : "T-35",
-      "href" : "https://wiki.warthunder.com/T-35",
+      "blk" : "ussr_t_35",
       "title" : "T-35"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_57",
-      "span" : "SU-57",
-      "href" : "https://wiki.warthunder.com/SU-57",
+      "blk" : "ussr_su_57",
       "title" : "SU-57"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_pzkpfw_iii_ausf_j_l42",
-      "span" : "▂T-III",
-      "href" : "https://wiki.warthunder.com/T-III_(USSR)",
-      "title" : "T-III (USSR)"
+      "blk" : "ussr_pzkpfw_iii_ausf_j_l42",
+      "title" : "▂T-III"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_zut_37",
-      "span" : "ZUT-37",
-      "href" : "https://wiki.warthunder.com/ZUT-37",
+      "blk" : "ussr_zut_37",
       "title" : "ZUT-37"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_126sp",
-      "span" : "T-126",
-      "href" : "https://wiki.warthunder.com/T-126",
+      "blk" : "ussr_t_126sp",
       "title" : "T-126"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_34_1940_l_11",
-      "span" : "T-34 (Prototype)",
-      "href" : "https://wiki.warthunder.com/T-34_(Prototype)",
-      "title" : "T-34 (Prototype)"
+      "blk" : "ussr_t_34_1940_l_11",
+      "title" : "T-34 (Prototype)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_bt_7a_f32",
-      "span" : "BT-7A (F-32)",
-      "href" : "https://wiki.warthunder.com/BT-7A_(F-32)",
-      "title" : "BT-7A (F-32)"
+      "blk" : "ussr_bt_7a_f32",
+      "title" : "BT-7A (F-32)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_smk",
-      "span" : "SMK",
-      "href" : "https://wiki.warthunder.com/SMK",
+      "blk" : "ussr_smk",
       "title" : "SMK"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_34_1941_cast_turret",
-      "span" : "T-34 (1st Gv.T.Br.)",
-      "href" : "https://wiki.warthunder.com/T-34_(1st_Gv.T.Br.)",
-      "title" : "T-34 (1st Gv.T.Br.)"
+      "blk" : "ussr_t_34_1941_cast_turret",
+      "title" : "T-34 (1st Gv.T.Br.)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_34e",
-      "span" : "T-34E",
-      "href" : "https://wiki.warthunder.com/T-34E",
+      "blk" : "ussr_t_34e",
       "title" : "T-34E"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_bm_31_12",
-      "span" : "BM-31-12",
-      "href" : "https://wiki.warthunder.com/BM-31-12",
+      "blk" : "ussr_bm_31_12",
       "title" : "BM-31-12"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_34_57_1943",
-      "span" : "T-34-57 (1943)",
-      "href" : "https://wiki.warthunder.com/T-34-57_(1943)",
-      "title" : "T-34-57 (1943)"
+      "blk" : "ussr_t_34_57_1943",
+      "title" : "T-34-57 (1943)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_m4a2_76w_sherman",
-      "span" : "▂M4A2",
-      "href" : "https://wiki.warthunder.com/M4A2_(USSR)",
-      "title" : "M4A2 (USSR)"
+      "blk" : "ussr_m4a2_76w_sherman",
+      "title" : "▂M4A2"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_type_65_aa",
-      "span" : "▂Phòng không T-34",
-      "href" : "https://wiki.warthunder.com/Ph%C3%B2ng_kh%C3%B4ng_T-34_(USSR)",
-      "title" : "Phòng không T-34 (USSR)"
+      "blk" : "ussr_type_65_aa",
+      "title" : "▂Phòng không T-34"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_kv_122",
-      "span" : "KV-122",
-      "href" : "https://wiki.warthunder.com/KV-122",
+      "blk" : "ussr_kv_122",
       "title" : "KV-122"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_34_85e",
-      "span" : "T-34-85E",
-      "href" : "https://wiki.warthunder.com/T-34-85E",
+      "blk" : "ussr_t_34_85e",
       "title" : "T-34-85E"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_122p",
-      "span" : "SU-122P",
-      "href" : "https://wiki.warthunder.com/SU-122P",
+      "blk" : "ussr_su_122p",
       "title" : "SU-122P"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_44_122",
-      "span" : "T-44-122",
-      "href" : "https://wiki.warthunder.com/T-44-122",
+      "blk" : "ussr_t_44_122",
       "title" : "T-44-122"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_34_100",
-      "span" : "T-34-100",
-      "href" : "https://wiki.warthunder.com/T-34-100",
+      "blk" : "ussr_t_34_100",
       "title" : "T-34-100"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_is_6",
-      "span" : "IS-6",
-      "href" : "https://wiki.warthunder.com/IS-6",
+      "blk" : "ussr_is_6",
       "title" : "IS-6"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_object_120",
-      "span" : "Object 120",
-      "href" : "https://wiki.warthunder.com/Object_120",
-      "title" : "Object 120"
+      "blk" : "ussr_object_120",
+      "title" : "Object 120"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_to_55",
-      "span" : "TO-55",
-      "href" : "https://wiki.warthunder.com/TO-55",
+      "blk" : "ussr_to_55",
       "title" : "TO-55"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_55_am",
-      "span" : "T-55AM-1",
-      "href" : "https://wiki.warthunder.com/T-55AM-1",
+      "blk" : "ussr_object_140",
+      "title" : "Object 140"
+    }, {
+      "blk" : "ussr_t_55_am",
       "title" : "T-55AM-1"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_bmd_4",
-      "span" : "BMD-4",
-      "href" : "https://wiki.warthunder.com/BMD-4",
+      "blk" : "ussr_bmd_4",
       "title" : "BMD-4"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_bmp_2m",
-      "span" : "BMP-2M",
-      "href" : "https://wiki.warthunder.com/BMP-2M",
+      "blk" : "ussr_bmd_4m",
+      "title" : "BMD-4M"
+    }, {
+      "blk" : "ussr_bmp_2m",
       "title" : "BMP-2M"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_2s38",
-      "span" : "2S38",
-      "href" : "https://wiki.warthunder.com/2S38",
+      "blk" : "ussr_2s38",
       "title" : "2S38"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_72av_turms",
-      "span" : "T-72AV (TURMS-T)",
-      "href" : "https://wiki.warthunder.com/T-72AV_(TURMS-T)",
-      "title" : "T-72AV (TURMS-T)"
+      "blk" : "ussr_t_72av_turms",
+      "title" : "T-72AV (TURMS-T)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_80ud",
-      "span" : "T-80UD",
-      "href" : "https://wiki.warthunder.com/T-80UD",
+      "blk" : "ussr_t_80ud",
       "title" : "T-80UD"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_80ue1",
-      "span" : "Т-80U-Е1",
-      "href" : "https://wiki.warthunder.com/T-80U-E1",
-      "title" : "T-80U-E1"
+      "blk" : "ussr_t_80ue1",
+      "title" : "Т-80U-Е1"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_26e",
-      "span" : "T-26E",
-      "href" : "https://wiki.warthunder.com/T-26E",
+      "blk" : "ussr_t_26e",
       "title" : "T-26E"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_rbt_5",
-      "span" : "RBT-5",
-      "href" : "https://wiki.warthunder.com/RBT-5",
+      "blk" : "ussr_rbt_5",
       "title" : "RBT-5"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_ba_11",
-      "span" : "BA-11",
-      "href" : "https://wiki.warthunder.com/BA-11",
+      "blk" : "ussr_ba_11",
       "title" : "BA-11"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_bm_8_24",
-      "span" : "BM-8-24",
-      "href" : "https://wiki.warthunder.com/BM-8-24",
+      "blk" : "ussr_bm_8_24",
       "title" : "BM-8-24"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_76m_5st_kav_corps",
-      "span" : "SU-76M (5th Gv.Kav.Corps)",
-      "href" : "https://wiki.warthunder.com/SU-76M_(5th_Gv.Kav.Corps)",
-      "title" : "SU-76M (5th Gv.Kav.Corps)"
+      "blk" : "ussr_su_76m_5st_kav_corps",
+      "title" : "SU-76M (5th Gv.Kav.Corps)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_76d",
-      "span" : "SU-76D",
-      "href" : "https://wiki.warthunder.com/SU-76D",
+      "blk" : "ussr_su_76d",
       "title" : "SU-76D"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_m3c",
-      "span" : "▂M3 Medium",
-      "href" : "https://wiki.warthunder.com/M3_Medium_(USSR)",
-      "title" : "M3 Medium (USSR)"
+      "blk" : "ussr_m3c",
+      "title" : "▂M3 Medium"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_bm_13n",
-      "span" : "BM-13N",
-      "href" : "https://wiki.warthunder.com/BM-13N",
+      "blk" : "ussr_bm_13n",
       "title" : "BM-13N"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_a_12_mk_2_matilda_2a_f96",
-      "span" : "▂MK-II \"Matilda\"",
-      "href" : "https://wiki.warthunder.com/MK-II_%22Matilda%22_(USSR)",
-      "title" : "MK-II \"Matilda\" (USSR)"
+      "blk" : "ussr_a_12_mk_2_matilda_2a_f96",
+      "title" : "▂MK-II \"Matilda\""
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_85a",
-      "span" : "SU-85A",
-      "href" : "https://wiki.warthunder.com/SU-85A",
+      "blk" : "ussr_valentine_mk_9",
+      "title" : "▂МК-IX \"Valentine\""
+    }, {
+      "blk" : "ussr_su_85a",
       "title" : "SU-85A"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_kv_2_1940",
-      "span" : "KV-2 (1940)",
-      "href" : "https://wiki.warthunder.com/KV-2_(1940)",
-      "title" : "KV-2 (1940)"
+      "blk" : "ussr_kv_2_1940",
+      "title" : "KV-2 (1940)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_kv_1e",
-      "span" : "KV-1E",
-      "href" : "https://wiki.warthunder.com/KV-1E",
+      "blk" : "ussr_kv_7_u13",
+      "title" : "KV-7 (U-13)"
+    }, {
+      "blk" : "ussr_kv_1e",
       "title" : "KV-1E"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_su_100y",
-      "span" : "SU-100Y",
-      "href" : "https://wiki.warthunder.com/SU-100Y",
+      "blk" : "ussr_su_100y",
       "title" : "SU-100Y"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_kv_2_zis_6",
-      "span" : "KV-2 (ZiS-6)",
-      "href" : "https://wiki.warthunder.com/KV-2_(ZiS-6)",
-      "title" : "KV-2 (ZiS-6)"
+      "blk" : "ussr_kv_2_zis_6",
+      "title" : "KV-2 (ZiS-6)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_kv_220",
-      "span" : "KV-220",
-      "href" : "https://wiki.warthunder.com/KV-220",
+      "blk" : "ussr_kv_220",
       "title" : "KV-220"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_pzkpfw_v",
-      "span" : "▂T-V",
-      "href" : "https://wiki.warthunder.com/T-V_(USSR)",
-      "title" : "T-V (USSR)"
+      "blk" : "ussr_pzkpfw_v",
+      "title" : "▂T-V"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_is_2_1944_revenge",
-      "span" : "IS-2 \"Revenge\"",
-      "href" : "https://wiki.warthunder.com/IS-2_%22Revenge%22",
-      "title" : "IS-2 \"Revenge\""
+      "blk" : "ussr_is_2_1944_revenge",
+      "title" : "IS-2 \"Revenge\""
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_object_248",
-      "span" : "Object 248",
-      "href" : "https://wiki.warthunder.com/Object_248",
-      "title" : "Object 248"
+      "blk" : "ussr_object_248",
+      "title" : "Object 248"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_type_62",
-      "span" : "▂Type 62",
-      "href" : "https://wiki.warthunder.com/Type_62_(USSR)",
-      "title" : "Type 62 (USSR)"
+      "blk" : "ussr_type_62",
+      "title" : "▂Type 62"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_10a",
-      "span" : "T-10A",
-      "href" : "https://wiki.warthunder.com/T-10A",
+      "blk" : "ussr_t_10a",
       "title" : "T-10A"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_pt_76_57",
-      "span" : "PT-76-57",
-      "href" : "https://wiki.warthunder.com/PT-76-57",
+      "blk" : "ussr_pt_76_57",
       "title" : "PT-76-57"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_is_7",
-      "span" : "IS-7",
-      "href" : "https://wiki.warthunder.com/IS-7",
+      "blk" : "ussr_is_7",
       "title" : "IS-7"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_object_279",
-      "span" : "Object 279",
-      "href" : "https://wiki.warthunder.com/Object_279",
-      "title" : "Object 279"
+      "blk" : "ussr_object_279",
+      "title" : "Object 279"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_object_292",
-      "span" : "Object 292",
-      "href" : "https://wiki.warthunder.com/Object_292",
-      "title" : "Object 292"
+      "blk" : "ussr_object_292",
+      "title" : "Object 292"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_72m2_moderna",
-      "span" : "T-72M2 Moderna",
-      "href" : "https://wiki.warthunder.com/T-72M2_Moderna",
-      "title" : "T-72M2 Moderna"
+      "blk" : "ussr_t_72m2_moderna",
+      "title" : "T-72M2 Moderna"
     }, {
-      "blkBackground" : "ussr_t_80u_yt_cup_2019",
-      "blkImg" : "ussr_t_80u",
-      "span" : "␙T-80U",
-      "href" : "https://wiki.warthunder.com/T-80U_(YouTube_Cup)",
-      "title" : "T-80U (YouTube Cup)"
+      "blk" : "ussr_t_80u_yt_cup_2019",
+      "title" : "␙T-80U"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_80um2",
-      "span" : "T-80UM2",
-      "href" : "https://wiki.warthunder.com/T-80UM2",
+      "blk" : "ussr_t_80um2",
       "title" : "T-80UM2"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "ussr_t_80uk",
-      "span" : "T-80UK",
-      "href" : "https://wiki.warthunder.com/T-80UK",
+      "blk" : "ussr_t_80uk",
       "title" : "T-80UK"
     } ]
   } ]

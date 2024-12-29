@@ -1,8 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "railway_diesel_locomotive_te1",
-      "upperField" : "railway_diesel_locomotive_te1"
+      "lowerField" : "germ_leichter_ladungstrager_303a",
+      "upperField" : "germ_leichter_ladungstrager_303a"
+    }, {
+      "lowerField" : "germ_leichter_ladungstrager_303a",
+      "upperField" : "germ_leichter_ladungstrager_303a"
     } ]
   } ]
 }

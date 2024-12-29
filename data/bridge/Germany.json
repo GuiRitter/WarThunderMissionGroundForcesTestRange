@@ -25,6 +25,9 @@
       "lowerField" : "germ_sdkfz_9_flak37",
       "upperField" : "8.8cm Flak 37 Selbstfahrlafette auf 18 ton Zugkraftwagen"
     }, {
+      "lowerField" : "germ_m44",
+      "upperField" : "M44"
+    }, {
       "lowerField" : "germ_panzerjager_nashorn",
       "upperField" : "8,8 Pak 43/1 Sf.\"Nashorn\""
     }, {
@@ -226,6 +229,9 @@
       "lowerField" : "germ_wiesel_1_mk20",
       "upperField" : "Waffenträger Wiesel 1A4 MK"
     }, {
+      "lowerField" : "germ_sppz2_luchs_a2",
+      "upperField" : "Spähpanzer Luchs A2"
+    }, {
       "lowerField" : "germ_flakpz_I_Gepard",
       "upperField" : "Flakpanzer I Gepard"
     }, {
@@ -237,6 +243,12 @@
     }, {
       "lowerField" : "germ_flarakpz_1",
       "upperField" : "FlaRakPz 1 Roland 2"
+    }, {
+      "lowerField" : "germ_9a33bm3",
+      "upperField" : "◇9A33BM2 \"Osa-AK\""
+    }, {
+      "lowerField" : "germ_9a35_m",
+      "upperField" : "9A35M \"Strela-10M\""
     }, {
       "lowerField" : "germ_flarakrad",
       "upperField" : "Flugabwehrraketensystem Roland auf Radkraftfahrzeug"
@@ -293,6 +305,9 @@
     }, {
       "lowerField" : "germ_panzerjager_tiger",
       "upperField" : "Jagdpanzer VI Jagdtiger"
+    }, {
+      "lowerField" : "germ_pzh_2000",
+      "upperField" : "PzH 2000"
     }, {
       "lowerField" : "germ_spz_oerlikon_raketenautomat",
       "upperField" : "Raketenautomat"
@@ -386,6 +401,9 @@
       "lowerField" : "germ_vilkas",
       "upperField" : "Pėstininkų kovos mašina Vilkas"
     }, {
+      "lowerField" : "germ_boxer_3105",
+      "upperField" : "Boxer MGS"
+    }, {
       "lowerField" : "germ_leopard_2a4m_can",
       "upperField" : "Leopard 2A4M CAN"
     }, {
@@ -418,6 +436,9 @@
       "lowerField" : "germ_sdkfz_234_2_td",
       "upperField" : "s.Pz.Sp.Wg. (5 cm 39/1 L60)"
     }, {
+      "lowerField" : "us_m4a2_1944_germ",
+      "upperField" : "✙M4 748 (a)"
+    }, {
       "lowerField" : "germ_kv_1b_finland",
       "upperField" : "✙KV-IB"
     }, {
@@ -429,6 +450,15 @@
     }, {
       "lowerField" : "germ_vsw_flak_41",
       "upperField" : "Versuchsflakwagen"
+    }, {
+      "lowerField" : "germ_pzkpfw_vi_ausf_h1_tiger_east",
+      "upperField" : "Pz.Kpfw. VI Tiger Ausf. H1 Ostfront"
+    }, {
+      "lowerField" : "germ_pzkpfw_vi_ausf_h1_tiger_west",
+      "upperField" : "Pz.Kpfw. VI Tiger Ausf. H1 Westfront"
+    }, {
+      "lowerField" : "germ_flakpanzer_iv_ostwind_2_net",
+      "upperField" : "Flakpanzer IV Ostwind II Ostfront"
     }, {
       "lowerField" : "germ_pzkpfw_VI_ausf_h1_tiger_animal_version",
       "upperField" : "\uD83D\uDC3ETiger"

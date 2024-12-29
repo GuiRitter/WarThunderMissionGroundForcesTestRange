@@ -1,8 +1,20 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "fr_cv_9035_nl",
-      "upperField" : "fr_cv_9035_nl"
-    } ]
+      "lowerField" : "fr_vbci",
+      "upperField" : "fr_vbci"
+    }, {
+      "lowerField" : "fr_leopard_2a4nl",
+      "upperField" : "fr_leopard_2a4nl"
+    }, {
+      "lowerField" : "fr_leopard_2a5nl",
+      "upperField" : "fr_leopard_2a5nl"
+    }, {
+      "lowerField" : "fr_leopard_2a6nl",
+      "upperField" : "fr_leopard_2a6nl"
+    }, {
+      "lowerField" : "fr_m44",
+      "upperField" : "fr_m44"
+    }]
   } ]
 }

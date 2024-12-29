@@ -1,8 +1,20 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "uk_stormer_air_defence",
-      "upperField" : "uk_stormer_air_defence"
+      "lowerField" : "uk_m44",
+      "upperField" : "uk_m44"
+    }, {
+      "lowerField" : "uk_9a33bm2",
+      "upperField" : "uk_9a33bm2"
+    }, {
+      "lowerField" : "uk_9a35_m",
+      "upperField" : "uk_9a35_m"
+    }, {
+      "lowerField" : "uk_fv107_scimitar",
+      "upperField" : "uk_fv107_scimitar"
+    }, {
+      "lowerField" : "uk_m4a5_ram_2",
+      "upperField" : "uk_m4a5_ram_2"
     } ]
   } ]
 }

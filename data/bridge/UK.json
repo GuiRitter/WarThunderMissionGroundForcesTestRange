@@ -70,14 +70,14 @@
       "lowerField" : "uk_challenger_2_tes",
       "upperField" : "Challenger 2 TES (2008)"
     }, {
+      "lowerField" : "uk_challenger_2_lep",
+      "upperField" : "Challenger 3 Technology Demonstrator"
+    }, {
       "lowerField" : "uk_challenger_2_bn",
       "upperField" : "Challenger 2, Black Night"
     }, {
       "lowerField" : "uk_challenger_2e",
       "upperField" : "Challenger 2E"
-    }, {
-      "lowerField" : "uk_challenger_2_lep",
-      "upperField" : "Challenger 3 Technology Demonstrator"
     } ]
   }, {
     "cellList" : [ {
@@ -148,6 +148,9 @@
     }, {
       "lowerField" : "uk_17_pdr_m10_achilles",
       "upperField" : "17 pounder Self-Propelled M10"
+    }, {
+      "lowerField" : "uk_m44",
+      "upperField" : "✳Howitzer, Self-propelled, Full Tracked: 155-mm, M44"
     }, {
       "lowerField" : "uk_a30_sp_avenger",
       "upperField" : "A30 SP Avenger"
@@ -220,6 +223,12 @@
       "lowerField" : "uk_stormer_hvm",
       "upperField" : "FV4333 Stormer HVM"
     }, {
+      "lowerField" : "uk_9a33bm2",
+      "upperField" : "✳9A33BM2 \"Osa-AK\""
+    }, {
+      "lowerField" : "uk_9a35_m",
+      "upperField" : "9A35M \"Strela-10M\""
+    }, {
       "lowerField" : "uk_adats_m113a3",
       "upperField" : "ADATS (M113)"
     } ]
@@ -248,6 +257,9 @@
     }, {
       "lowerField" : "uk_eland_90_mk_7",
       "upperField" : "Eland 90 Mk.7"
+    }, {
+      "lowerField" : "uk_fv107_scimitar",
+      "upperField" : "FV107 Scimitar"
     }, {
       "lowerField" : "uk_fv721_fox",
       "upperField" : "FV721 Fox"
@@ -283,6 +295,9 @@
     }, {
       "lowerField" : "uk_a27m_cromwell_5_rp3",
       "upperField" : "Mark VIII A27M Cromwell RP-3"
+    }, {
+      "lowerField" : "uk_m4a5_ram_2",
+      "upperField" : "Tank Cruiser Ram II"
     }, {
       "lowerField" : "uk_17_pdr_m10_achilles_norfolk_yeomanry",
       "upperField" : "17pdr. M10 65th Anti-Tank Regt"

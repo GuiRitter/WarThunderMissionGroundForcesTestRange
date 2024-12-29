@@ -1,569 +1,305 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "it_ab_41",
-      "span" : "AB 41",
-      "href" : "https://wiki.warthunder.com/AB_41",
-      "title" : "AB 41"
+      "blk" : "it_ab_41",
+      "title" : "AB 41"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m11_39",
-      "span" : "M11/39",
-      "href" : "https://wiki.warthunder.com/M11/39",
+      "blk" : "it_m11_39",
       "title" : "M11/39"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_as_42_47",
-      "span" : "AS 42/47",
-      "href" : "https://wiki.warthunder.com/AS_42/47",
-      "title" : "AS 42/47"
+      "blk" : "it_as_42_47",
+      "title" : "AS 42/47"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_ab_43",
-      "span" : "AB 43",
-      "href" : "https://wiki.warthunder.com/AB_43",
-      "title" : "AB 43"
+      "blk" : "it_ab_43",
+      "title" : "AB 43"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m3a3_stuart",
-      "span" : "▄M3A3",
-      "href" : "https://wiki.warthunder.com/M3A3_(Italy)",
-      "title" : "M3A3 (Italy)"
+      "blk" : "it_m3a3_stuart",
+      "title" : "▄M3A3"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m24_chaffee",
-      "span" : "▄M24",
-      "href" : "https://wiki.warthunder.com/M24_(Italy)",
-      "title" : "M24 (Italy)"
+      "blk" : "it_m24_chaffee",
+      "title" : "▄M24"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_semovente_breda_501",
-      "span" : "Breda 501",
-      "href" : "https://wiki.warthunder.com/Breda_501",
-      "title" : "Breda 501"
+      "blk" : "it_m44",
+      "title" : "▄M44"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m18_hellcat",
-      "span" : "▄M18",
-      "href" : "https://wiki.warthunder.com/M18_(Italy)",
-      "title" : "M18 (Italy)"
+      "blk" : "it_semovente_breda_501",
+      "title" : "Breda 501"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_fiat_6616_cockerill",
-      "span" : "AUBL/74",
-      "href" : "https://wiki.warthunder.com/AUBL/74",
+      "blk" : "it_m18_hellcat",
+      "title" : "▄M18"
+    }, {
+      "blk" : "it_fiat_6616_cockerill",
       "title" : "AUBL/74"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_fiat_6614_106sr",
-      "span" : "FIAT 6614",
-      "href" : "https://wiki.warthunder.com/FIAT_6614",
-      "title" : "FIAT 6614"
+      "blk" : "it_fiat_6614_106sr",
+      "title" : "FIAT 6614"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_c13_t90",
-      "span" : "C13 T90",
-      "href" : "https://wiki.warthunder.com/C13_T90",
-      "title" : "C13 T90"
+      "blk" : "it_c13_t90",
+      "title" : "C13 T90"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_oto_r3_106sr",
-      "span" : "R3 T106 FA",
-      "href" : "https://wiki.warthunder.com/R3_T106_FA",
-      "title" : "R3 T106 FA"
+      "blk" : "it_oto_r3_106sr",
+      "title" : "R3 T106 FA"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_vcc_80_hitfist_60",
-      "span" : "VCC-80/60",
-      "href" : "https://wiki.warthunder.com/VCC-80/60",
+      "blk" : "it_vcc_80_hitfist_60",
       "title" : "VCC-80/60"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_b1_centauro",
-      "span" : "Centauro I 105",
-      "href" : "https://wiki.warthunder.com/Centauro_I_105",
-      "title" : "Centauro I 105"
+      "blk" : "it_b1_centauro",
+      "title" : "Centauro I 105"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_b1_centauro_romor",
-      "span" : "Centauro I 105 R",
-      "href" : "https://wiki.warthunder.com/Centauro_I_105_R",
-      "title" : "Centauro I 105 R"
+      "blk" : "it_b1_centauro_romor",
+      "title" : "Centauro I 105 R"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_centauro_mgs_120",
-      "span" : "Centauro I 120",
-      "href" : "https://wiki.warthunder.com/Centauro_I_120",
-      "title" : "Centauro I 120"
+      "blk" : "it_centauro_mgs_120",
+      "title" : "Centauro I 120"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "it_l6",
-      "span" : "L6/40",
-      "href" : "https://wiki.warthunder.com/L6/40",
+      "blk" : "it_l6",
       "title" : "L6/40"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m13_40_serie_1",
-      "span" : "M13/40 (I)",
-      "href" : "https://wiki.warthunder.com/M13/40_(I)",
-      "title" : "M13/40 (I)"
+      "blk" : "it_m13_40_serie_1",
+      "title" : "M13/40 (I)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m13_40_serie_3",
-      "span" : "M13/40 (III)",
-      "href" : "https://wiki.warthunder.com/M13/40_(III)",
-      "title" : "M13/40 (III)"
+      "blk" : "it_m13_40_serie_3",
+      "title" : "M13/40 (III)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m14_41",
-      "span" : "M14/41",
-      "href" : "https://wiki.warthunder.com/M14/41",
+      "blk" : "it_m14_41",
       "title" : "M14/41"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m15_42",
-      "span" : "M15/42",
-      "href" : "https://wiki.warthunder.com/M15/42",
+      "blk" : "it_m15_42",
       "title" : "M15/42"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_pzkpfw_iii_ausf_n",
-      "span" : "▄Pz.III N",
-      "href" : "https://wiki.warthunder.com/Pz.III_N_(Italy)",
-      "title" : "Pz.III N (Italy)"
+      "blk" : "it_pzkpfw_iii_ausf_n",
+      "title" : "▄Pz.III N"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_p_40",
-      "span" : "P40",
-      "href" : "https://wiki.warthunder.com/P40",
+      "blk" : "it_p_40",
       "title" : "P40"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m4a4_sherman",
-      "span" : "▄Sherman V",
-      "href" : "https://wiki.warthunder.com/Sherman_V_(Italy)",
-      "title" : "Sherman V (Italy)"
+      "blk" : "it_m4a4_sherman",
+      "title" : "▄Sherman V"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_sherman_vii",
-      "span" : "Sherman Ic",
-      "href" : "https://wiki.warthunder.com/Sherman_Ic",
-      "title" : "Sherman Ic"
+      "blk" : "it_sherman_vii",
+      "title" : "Sherman Ic"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_sherman_vc_firefly",
-      "span" : "▄Sherman Vc",
-      "href" : "https://wiki.warthunder.com/Sherman_Vc_(Italy)",
-      "title" : "Sherman Vc (Italy)"
+      "blk" : "it_sherman_vc_firefly",
+      "title" : "▄Sherman Vc"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m26a1_pershing",
-      "span" : "M26A1",
-      "href" : "https://wiki.warthunder.com/M26A1",
+      "blk" : "it_m26a1_pershing",
       "title" : "M26A1"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m47_105",
-      "span" : "M47 (105/55)",
-      "href" : "https://wiki.warthunder.com/M47_(105/55)",
-      "title" : "M47 (105/55)"
+      "blk" : "it_m47_105",
+      "title" : "M47 (105/55)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_of_40_mk_1",
-      "span" : "OF-40",
-      "href" : "https://wiki.warthunder.com/OF-40",
+      "blk" : "it_of_40_mk_1",
       "title" : "OF-40"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_of_40_mk_2a",
-      "span" : "OF-40 Mk.2A",
-      "href" : "https://wiki.warthunder.com/OF-40_Mk.2A",
-      "title" : "OF-40 Mk.2A"
+      "blk" : "it_of_40_mk_2a",
+      "title" : "OF-40 Mk.2A"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_leopard_1a5",
-      "span" : "▄Leopard 1A5",
-      "href" : "https://wiki.warthunder.com/Leopard_1A5_(Italy)",
-      "title" : "Leopard 1A5 (Italy)"
+      "blk" : "it_leopard_1a5",
+      "title" : "▄Leopard 1A5"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_c1_ariete_preserie",
-      "span" : "Ariete (P)",
-      "href" : "https://wiki.warthunder.com/Ariete_(P)",
-      "title" : "Ariete (P)"
+      "blk" : "it_c1_ariete_preserie",
+      "title" : "Ariete (P)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_c1_ariete_pso",
-      "span" : "Ariete PSO",
-      "href" : "https://wiki.warthunder.com/Ariete_PSO",
-      "title" : "Ariete PSO"
+      "blk" : "it_c1_ariete_pso",
+      "title" : "Ariete PSO"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_c1_ariete",
-      "span" : "Ariete",
-      "href" : "https://wiki.warthunder.com/Ariete",
+      "blk" : "it_c1_ariete",
       "title" : "Ariete"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_ariete_amv_pt1",
-      "span" : "Ariete AMV",
-      "href" : "https://wiki.warthunder.com/Ariete_AMV",
-      "title" : "Ariete AMV"
+      "blk" : "it_ariete_amv_pt1",
+      "title" : "Ariete AMV"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "it_as_42_metropolitana",
-      "span" : "AS 42",
-      "href" : "https://wiki.warthunder.com/AS_42",
-      "title" : "AS 42"
+      "blk" : "it_as_42_metropolitana",
+      "title" : "AS 42"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_fiat_cm52",
-      "span" : "CM52",
-      "href" : "https://wiki.warthunder.com/CM52",
+      "blk" : "it_fiat_cm52",
       "title" : "CM52"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m15_42_contraereo",
-      "span" : "M42 Contraereo",
-      "href" : "https://wiki.warthunder.com/M42_(Italy)",
-      "title" : "M42 (Italy)"
+      "blk" : "it_m15_42_contraereo",
+      "title" : "M42 Contraereo"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_leopard_bofors",
-      "span" : "Leopard 40/70",
-      "href" : "https://wiki.warthunder.com/Leopard_40/70",
-      "title" : "Leopard 40/70"
+      "blk" : "it_leopard_bofors",
+      "title" : "Leopard 40/70"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_oto_r3_t20_fa",
-      "span" : "R3 T20 FA-HS",
-      "href" : "https://wiki.warthunder.com/R3_T20_FA-HS",
-      "title" : "R3 T20 FA-HS"
+      "blk" : "it_oto_r3_t20_fa",
+      "title" : "R3 T20 FA-HS"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_zsu_57_2",
-      "span" : "◔ZSU-57-2",
-      "href" : "https://wiki.warthunder.com/ZSU-57-2_(Italy)",
-      "title" : "ZSU-57-2 (Italy)"
+      "blk" : "it_zsu_57_2",
+      "title" : "◔ZSU-57-2"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_zsu_23_4",
-      "span" : "◔ZSU-23-4",
-      "href" : "https://wiki.warthunder.com/ZSU-23-4_(Italy)",
-      "title" : "ZSU-23-4 (Italy)"
+      "blk" : "it_zsu_23_4",
+      "title" : "◔ZSU-23-4"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_otobreda_sidam_25",
-      "span" : "SIDAM 25",
-      "href" : "https://wiki.warthunder.com/SIDAM_25",
-      "title" : "SIDAM 25"
+      "blk" : "it_otobreda_sidam_25",
+      "title" : "SIDAM 25"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_otobreda_sidam_25_mistral",
-      "span" : "SIDAM 25 (Mistral)",
-      "href" : "https://wiki.warthunder.com/SIDAM_25_(Mistral)",
-      "title" : "SIDAM 25 (Mistral)"
+      "blk" : "it_otobreda_sidam_25_mistral",
+      "title" : "SIDAM 25 (Mistral)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_otomatic",
-      "span" : "OTOMATIC",
-      "href" : "https://wiki.warthunder.com/OTOMATIC",
+      "blk" : "it_9a33bm3",
+      "title" : "▄Osa-AKM"
+    }, {
+      "blk" : "it_9a35_m",
+      "title" : "Strela-10M"
+    }, {
+      "blk" : "it_otomatic",
       "title" : "OTOMATIC"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "it_l3_cc",
-      "span" : "L3/33 CC",
-      "href" : "https://wiki.warthunder.com/L3/33_CC",
-      "title" : "L3/33 CC"
+      "blk" : "it_l3_cc",
+      "title" : "L3/33 CC"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_semovente_l40",
-      "span" : "47/32 L40",
-      "href" : "https://wiki.warthunder.com/47/32_L40",
-      "title" : "47/32 L40"
+      "blk" : "it_semovente_l40",
+      "title" : "47/32 L40"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_lancia3ro_100",
-      "span" : "Lancia 3Ro (100/17)",
-      "href" : "https://wiki.warthunder.com/Lancia_3Ro_(100/17)",
-      "title" : "Lancia 3Ro (100/17)"
+      "blk" : "it_lancia3ro_100",
+      "title" : "Lancia 3Ro (100/17)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_semovente_m41_75_18",
-      "span" : "75/18 M41",
-      "href" : "https://wiki.warthunder.com/75/18_M41",
-      "title" : "75/18 M41"
+      "blk" : "it_semovente_m41_75_18",
+      "title" : "75/18 M41"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_semovente_m41_75_32",
-      "span" : "75/32 M41",
-      "href" : "https://wiki.warthunder.com/75/32_M41",
-      "title" : "75/32 M41"
+      "blk" : "it_semovente_m41_75_32",
+      "title" : "75/32 M41"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_semovente_m42_75_34",
-      "span" : "75/34 M42",
-      "href" : "https://wiki.warthunder.com/75/34_M42",
-      "title" : "75/34 M42"
+      "blk" : "it_semovente_m42_75_34",
+      "title" : "75/34 M42"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_semovente_m43_105",
-      "span" : "105/25 M43",
-      "href" : "https://wiki.warthunder.com/105/25_M43",
-      "title" : "105/25 M43"
+      "blk" : "it_semovente_m43_105",
+      "title" : "105/25 M43"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_semovente_m43_75_34",
-      "span" : "75/34 M43",
-      "href" : "https://wiki.warthunder.com/75/34_M43",
-      "title" : "75/34 M43"
+      "blk" : "it_semovente_m43_75_34",
+      "title" : "75/34 M43"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_semovente_m41m_90",
-      "span" : "90/53 M41M",
-      "href" : "https://wiki.warthunder.com/90/53_M41M",
-      "title" : "90/53 M41M"
+      "blk" : "it_semovente_m41m_90",
+      "title" : "90/53 M41M"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_stug_iii_ausf_g",
-      "span" : "▄StuG III G",
-      "href" : "https://wiki.warthunder.com/StuG_III_G_(Italy)",
-      "title" : "StuG III G (Italy)"
+      "blk" : "it_stug_iii_ausf_g",
+      "title" : "▄StuG III G"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_semovente_m43_75_46",
-      "span" : "75/46 M43",
-      "href" : "https://wiki.warthunder.com/75/46_M43",
-      "title" : "75/46 M43"
+      "blk" : "it_semovente_m43_75_46",
+      "title" : "75/46 M43"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m36b1",
-      "span" : "M36B1",
-      "href" : "https://wiki.warthunder.com/M36B1",
+      "blk" : "it_m36b1",
       "title" : "M36B1"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m109g",
-      "span" : "▄M109G",
-      "href" : "https://wiki.warthunder.com/M109G_(Italy)",
-      "title" : "M109G (Italy)"
+      "blk" : "it_m109g",
+      "title" : "▄M109G"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m113a1_tow",
-      "span" : "M113A1 (TOW)",
-      "href" : "https://wiki.warthunder.com/M113A1_(TOW)",
-      "title" : "M113A1 (TOW)"
+      "blk" : "it_m113a1_tow",
+      "title" : "M113A1 (TOW)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_vbc_pt2",
-      "span" : "VBC (PT2)",
-      "href" : "https://wiki.warthunder.com/VBC_(PT2)",
-      "title" : "VBC (PT2)"
+      "blk" : "it_vbc_pt2",
+      "title" : "VBC (PT2)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_dardo_vcc",
-      "span" : "Dardo",
-      "href" : "https://wiki.warthunder.com/Dardo",
+      "blk" : "it_dardo_vcc",
       "title" : "Dardo"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_vcc_80_hitfist_30",
-      "span" : "VCC-80/30",
-      "href" : "https://wiki.warthunder.com/VCC-80/30",
+      "blk" : "it_vcc_80_hitfist_30",
       "title" : "VCC-80/30"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_freccia",
-      "span" : "Freccia",
-      "href" : "https://wiki.warthunder.com/Freccia",
+      "blk" : "it_freccia",
       "title" : "Freccia"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "it_39m_csaba",
-      "span" : "Csaba",
-      "href" : "https://wiki.warthunder.com/Csaba",
+      "blk" : "it_39m_csaba",
       "title" : "Csaba"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_40m_turan_1",
-      "span" : "Turan I",
-      "href" : "https://wiki.warthunder.com/Turan_I",
-      "title" : "Turan I"
+      "blk" : "it_40m_turan_1",
+      "title" : "Turan I"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_40_43m_zrinyi_2",
-      "span" : "Zrinyi II",
-      "href" : "https://wiki.warthunder.com/Zrinyi_II",
-      "title" : "Zrinyi II"
+      "blk" : "it_40_43m_zrinyi_2",
+      "title" : "Zrinyi II"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_43m_turan_3",
-      "span" : "Turan III",
-      "href" : "https://wiki.warthunder.com/Turan_III",
-      "title" : "Turan III"
+      "blk" : "it_43m_turan_3",
+      "title" : "Turan III"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_2s1",
-      "span" : "◔2S1",
-      "href" : "https://wiki.warthunder.com/2S1_(Italy)",
-      "title" : "2S1 (Italy)"
+      "blk" : "it_2s1",
+      "title" : "◔2S1"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_btr_80a_hungary",
-      "span" : "◔BTR-80A",
-      "href" : "https://wiki.warthunder.com/BTR-80A_(Italy)",
-      "title" : "BTR-80A (Italy)"
+      "blk" : "it_btr_80a_hungary",
+      "title" : "◔BTR-80A"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_t_72m1",
-      "span" : "◔T-72M1",
-      "href" : "https://wiki.warthunder.com/T-72M1_(Italy)",
-      "title" : "T-72M1 (Italy)"
+      "blk" : "it_t_72m1",
+      "title" : "◔T-72M1"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_leopard_2a4",
-      "span" : "◔Leopard 2A4",
-      "href" : "https://wiki.warthunder.com/Leopard_2A4_(Italy)",
-      "title" : "Leopard 2A4 (Italy)"
+      "blk" : "it_leopard_2a4",
+      "title" : "◔Leopard 2A4"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_kf_41",
-      "span" : "KF41",
-      "href" : "https://wiki.warthunder.com/KF41",
+      "blk" : "it_kf_41",
       "title" : "KF41"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_leopard_2a7_hungary",
-      "span" : "Leopard 2A7HU",
-      "href" : "https://wiki.warthunder.com/Leopard_2A7HU",
-      "title" : "Leopard 2A7HU"
+      "blk" : "it_leopard_2a7_hungary",
+      "title" : "Leopard 2A7HU"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "it_l6_leone",
-      "span" : "L6/40 (31 Rgt.)",
-      "href" : "https://wiki.warthunder.com/L6/40_(31_Rgt.)",
-      "title" : "L6/40 (31 Rgt.)"
+      "blk" : "it_l6_leone",
+      "title" : "L6/40 (31 Rgt.)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m13_40_serie_2",
-      "span" : "M13/40 (II)",
-      "href" : "https://wiki.warthunder.com/M13/40_(II)",
-      "title" : "M13/40 (II)"
+      "blk" : "it_m13_40_serie_2",
+      "title" : "M13/40 (II)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m14_41_47_40",
-      "span" : "M14/41 (47/40)",
-      "href" : "https://wiki.warthunder.com/M14/41_(47/40)",
-      "title" : "M14/41 (47/40)"
+      "blk" : "it_m14_41_47_40",
+      "title" : "M14/41 (47/40)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_sahariano",
-      "span" : "Celere Sahariano",
-      "href" : "https://wiki.warthunder.com/Celere_Sahariano",
-      "title" : "Celere Sahariano"
+      "blk" : "it_sahariano",
+      "title" : "Celere Sahariano"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_semovente_m43_105_leoncello",
-      "span" : "M43 \"G.C.Leoncello\"",
-      "href" : "https://wiki.warthunder.com/M43_%22G.C.Leoncello%22",
-      "title" : "M43 \"G.C.Leoncello\""
+      "blk" : "it_semovente_m43_105_leoncello",
+      "title" : "M43 \"G.C.Leoncello\""
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_sherman_75_37",
-      "span" : "▄Sherman I Composito",
-      "href" : "https://wiki.warthunder.com/Sherman_I_Composito_(Italy)",
-      "title" : "Sherman I Composito (Italy)"
+      "blk" : "it_sherman_75_37",
+      "title" : "▄Sherman I Composito"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_pzkpfw_iv_ausf_g",
-      "span" : "▄Pz.IV G",
-      "href" : "https://wiki.warthunder.com/Pz.IV_G_(Italy)",
-      "title" : "Pz.IV G (Italy)"
+      "blk" : "it_pzkpfw_iv_ausf_g",
+      "title" : "▄Pz.IV G"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_pzkpfw_vi_ausf_e_tiger",
-      "span" : "Tigris",
-      "href" : "https://wiki.warthunder.com/Tigris",
+      "blk" : "it_pzkpfw_vi_ausf_e_tiger",
       "title" : "Tigris"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m26_ariete",
-      "span" : "M26 \"D.C.Ariete\"",
-      "href" : "https://wiki.warthunder.com/M26_%22D.C.Ariete%22",
-      "title" : "M26 \"D.C.Ariete\""
+      "blk" : "it_m26_ariete",
+      "title" : "M26 \"D.C.Ariete\""
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_m60a1_ariete",
-      "span" : "M60A1 \"D.C.Ariete\"",
-      "href" : "https://wiki.warthunder.com/M60A1_%22D.C.Ariete%22",
-      "title" : "M60A1 \"D.C.Ariete\""
+      "blk" : "it_pzh_2000_hu",
+      "title" : "PzH 2000HU"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_aubl_74_60_70m",
-      "span" : "AUBL/74 HVG",
-      "href" : "https://wiki.warthunder.com/AUBL/74_HVG",
-      "title" : "AUBL/74 HVG"
+      "blk" : "it_m60a1_ariete",
+      "title" : "M60A1 \"D.C.Ariete\""
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_of_40_mtca",
-      "span" : "OF-40 (MTCA)",
-      "href" : "https://wiki.warthunder.com/OF-40_(MTCA)",
-      "title" : "OF-40 (MTCA)"
+      "blk" : "it_aubl_74_60_70m",
+      "title" : "AUBL/74 HVG"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_vrcc_centauro",
-      "span" : "VRCC",
-      "href" : "https://wiki.warthunder.com/VRCC",
+      "blk" : "it_of_40_mtca",
+      "title" : "OF-40 (MTCA)"
+    }, {
+      "blk" : "it_vrcc_centauro",
       "title" : "VRCC"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_centauro_rgo_120",
-      "span" : "Centauro RGO",
-      "href" : "https://wiki.warthunder.com/Centauro_RGO",
-      "title" : "Centauro RGO"
+      "blk" : "it_centauro_rgo_120",
+      "title" : "Centauro RGO"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "it_toldi_ii_a",
-      "span" : "Toldi IIA",
-      "href" : "https://wiki.warthunder.com/Toldi_IIA",
-      "title" : "Toldi IIA"
+      "blk" : "it_toldi_ii_a",
+      "title" : "Toldi IIA"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_41m_turan_2",
-      "span" : "Turan II",
-      "href" : "https://wiki.warthunder.com/Turan_II",
-      "title" : "Turan II"
+      "blk" : "it_41m_turan_2",
+      "title" : "Turan II"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_p_26_40",
-      "span" : "P40 \"G.C. Leoncello\"",
-      "href" : "https://wiki.warthunder.com/P40_%22G.C._Leoncello%22",
-      "title" : "P40 \"G.C. Leoncello\""
+      "blk" : "it_p_26_40",
+      "title" : "P40 \"G.C. Leoncello\""
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_44m_zrinyi_1",
-      "span" : "Zrinyi I",
-      "href" : "https://wiki.warthunder.com/Zrinyi_I",
-      "title" : "Zrinyi I"
+      "blk" : "it_44m_zrinyi_1",
+      "title" : "Zrinyi I"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "it_breda_52_autocannone",
-      "span" : "Breda 90/53",
-      "href" : "https://wiki.warthunder.com/Breda_90/53",
-      "title" : "Breda 90/53"
+      "blk" : "it_breda_52_autocannone",
+      "title" : "Breda 90/53"
     } ]
   } ]
 }

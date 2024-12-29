@@ -131,7 +131,7 @@ effects{
 units{
   tankModels{
     name:t="armada_player"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8192]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8192]]
     unit_class:t="ussr_bt_5"
     objLayer:i=1
     closed_waypoints:b=no
@@ -164,8 +164,8 @@ units{
 
   tankModels{
     name:t="tank_0_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8182, 1, 8192.0]]
-    unit_class:t="il_sholef"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8192.0]]
+    unit_class:t="il_sabra_mk1"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -195,8 +195,8 @@ units{
 
   tankModels{
     name:t="tank_0_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8202, 1, 8192.0]]
-    unit_class:t="il_tiran_6"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8192.0]]
+    unit_class:t="il_namer_tsrikhon"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""

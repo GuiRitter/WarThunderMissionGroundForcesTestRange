@@ -42,6 +42,9 @@
     }, {
       "lowerField" : "il_magach_7c",
       "upperField" : "Magach 7C"
+    }, {
+      "lowerField" : "il_sabra_mk1",
+      "upperField" : "Sabra Mk.I"
     } ]
   }, {
     "cellList" : [ {
@@ -126,6 +129,9 @@
     }, {
       "lowerField" : "il_namer_rcws_30",
       "upperField" : "Namer RCWS-30"
+    }, {
+      "lowerField" : "il_namer_tsrikhon",
+      "upperField" : "Namer Tsrikhon"
     } ]
   }, {
     "cellList" : [ {

@@ -1,0 +1,112 @@
+{
+  "columnList": [
+    {
+      "cellList": [
+        {
+          "lowerField": "germ_panzerzug_bp_44_locomotive",
+          "upperField": ""
+        },
+        {
+          "lowerField": "germ_panzerzug_bp_44_wagon_a",
+          "upperField": ""
+        },
+        {
+          "lowerField": "germ_panzerzug_bp_44_wagon_b",
+          "upperField": ""
+        },
+        {
+          "lowerField": "germ_panzerzug_bp_44_wagon_c",
+          "upperField": ""
+        },
+        {
+          "lowerField": "germ_railway_tram_a",
+          "upperField": ""
+        }
+      ]
+    },
+    {
+      "cellList": [
+        {
+          "lowerField": "railway_covered_bcna",
+          "upperField": ""
+        },
+        {
+          "lowerField": "railway_diesel_locomotive_te1",
+          "upperField": ""
+        },
+        {
+          "lowerField": "railway_hopper_bobr",
+          "upperField": ""
+        },
+        {
+          "lowerField": "railway_wam_4_locomotive",
+          "upperField": ""
+        }
+      ]
+    },
+    {
+      "cellList": [
+        {
+          "lowerField": "ussr_freight_car_1926_a",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_freight_car_green",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_freight_car_red",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_hopper_wagon_green",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_hopper_wagon_red",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_low_freight_car_borderless_box_blue",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_low_freight_car_borderless_box_red",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_low_freight_car_borderless_green",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_low_freight_car_borderless_red",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_low_freight_car_green",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_low_freight_car_red",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_sleeping_car_green",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_sleeping_car_red",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_tank_wagon_1931",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_tram_x",
+          "upperField": ""
+        }
+      ]
+    }
+  ]
+}

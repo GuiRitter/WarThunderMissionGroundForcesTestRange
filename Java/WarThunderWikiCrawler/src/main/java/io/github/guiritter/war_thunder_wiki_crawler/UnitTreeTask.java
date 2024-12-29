@@ -1,7 +1,6 @@
 package io.github.guiritter.war_thunder_wiki_crawler;
 
 import static com.fasterxml.jackson.databind.SerializationFeature.INDENT_OUTPUT;
-import static io.github.guiritter.war_thunder_wiki_crawler.Config.buildWebDriver;
 import static java.lang.System.out;
 import static java.lang.Thread.currentThread;
 import static java.nio.file.Files.newBufferedWriter;
@@ -17,6 +16,7 @@ import java.util.Map;
 import java.util.concurrent.ExecutionException;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.ApplicationContext;
@@ -28,7 +28,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 @Component
 @Scope(SCOPE_PROTOTYPE)
-public final class TreeTask implements Runnable {
+public final class UnitTreeTask implements Runnable {
 
 	@Autowired
 	private ApplicationContext applicationContext;
@@ -36,19 +36,21 @@ public final class TreeTask implements Runnable {
 	@Value("${folderPath}")
 	private String folderPath;
 
-	String href;
+	private String dataTreeId;
 
-	public static final Map<String, String> hrefMap = Map.ofEntries(
-			buildEntry("https://wiki.warthunder.com/Category:USA_ground_vehicles", "us"),
-			buildEntry("https://wiki.warthunder.com/Category:Germany_ground_vehicles", "germ"),
-			buildEntry("https://wiki.warthunder.com/Category:USSR_ground_vehicles", "ussr"),
-			buildEntry("https://wiki.warthunder.com/Category:Britain_ground_vehicles", "uk"),
-			buildEntry("https://wiki.warthunder.com/Category:Japan_ground_vehicles", "jp"),
-			buildEntry("https://wiki.warthunder.com/Category:China_ground_vehicles", "cn"),
-			buildEntry("https://wiki.warthunder.com/Category:Italy_ground_vehicles", "it"),
-			buildEntry("https://wiki.warthunder.com/Category:France_ground_vehicles", "fr"),
-			buildEntry("https://wiki.warthunder.com/Category:Sweden_ground_vehicles", "sw"),
-			buildEntry("https://wiki.warthunder.com/Category:Israel_ground_vehicles", "il")
+	private WebElement unitTreeElement;
+
+	public static final Map<String, String> dataTreeIdMap = Map.ofEntries(
+			buildEntry("usa", "us"),
+			buildEntry("germany", "germ"),
+			buildEntry("ussr", "ussr"),
+			buildEntry("britain", "uk"),
+			buildEntry("japan", "jp"),
+			buildEntry("china", "cn"),
+			buildEntry("italy", "it"),
+			buildEntry("france", "fr"),
+			buildEntry("sweden", "sw"),
+			buildEntry("israel", "il")
 			);
 
 	public static final Map<String, String> jsonMap = Map.ofEntries(
@@ -75,29 +77,34 @@ public final class TreeTask implements Runnable {
 
 	@Override
 	public void run() {
-		out.println("TreeTask " + href);
+		dataTreeId = unitTreeElement.getAttribute("data-tree-id");
 
-		var webDriver = buildWebDriver();
-		webDriver.get(href);
+		// // TODO debug
+		// if (dataTreeId.compareTo("germany") != 0) {
+		// 	currentThread().interrupt();
+		// 	return;
+		// }
 
-		var rowList = webDriver.findElements(By.cssSelector("tr"));
+		out.println("UnitTreeTask " + dataTreeId);
 
-		var tree = hrefMap.get(href);
+		var treeRankList = unitTreeElement.findElements(By.cssSelector(".wt-tree_rank"));
 
-		range(0, rowList.size()).forEach(rowIndex -> {
-			var task = applicationContext.getBean("rowTask", RowTask.class);
+		var tree = dataTreeIdMap.get(dataTreeId);
+
+		range(0, treeRankList.size()).forEach(treeRankIndex -> {
+			var task = applicationContext.getBean("treeRankTask", TreeRankTask.class);
 
 			task.setTree(tree);
-			task.setRowIndex(rowIndex);
-			task.setRowElement(rowList.get(rowIndex));
+			task.setRank(treeRankIndex + 1);
+			task.setTreeRankElement(treeRankList.get(treeRankIndex));
 
-			out.println("TreeTask started before taskExecutor.execute");
+			out.println("UnitTreeTask started before taskExecutor.execute");
 			try {
 				taskExecutor.submit(task).get();
 			} catch (InterruptedException | ExecutionException e) {
 				e.printStackTrace();
 			}
-			out.println("TreeTask started after taskExecutor.execute");
+			out.println("UnitTreeTask started after taskExecutor.execute");
 		});
 
 		try {
@@ -117,13 +124,12 @@ public final class TreeTask implements Runnable {
 			e.printStackTrace();
 		}
 
-		webDriver.quit();
 		currentThread().interrupt();
 	}
 
-	public final void setHref(String href) {
-		if (this.href == null) {
-			this.href = href;
+	public final void setUnitTreeElement(WebElement unitTreeElement) {
+		if (this.unitTreeElement == null) {
+			this.unitTreeElement = unitTreeElement;
 		}
 	}
 }

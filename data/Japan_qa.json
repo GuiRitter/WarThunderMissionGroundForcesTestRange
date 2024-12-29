@@ -1,8 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "jp_icv_prototype",
-      "upperField" : "jp_icv_prototype"
+      "lowerField" : "jp_icv_ifv_prototype",
+      "upperField" : "jp_icv_ifv_prototype"
+    }, {
+      "lowerField" : "jp_m44",
+      "upperField" : "jp_m44"
     } ]
   } ]
 }

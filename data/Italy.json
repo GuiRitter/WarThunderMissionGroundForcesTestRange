@@ -19,6 +19,9 @@
       "lowerField" : "it_m24_chaffee",
       "upperField" : "Carro leggero M24"
     }, {
+      "lowerField" : "it_m44",
+      "upperField" : "✞Semovente M44 da 155/23"
+    }, {
       "lowerField" : "it_semovente_breda_501",
       "upperField" : "Semovente Ruotato da 90/52 Breda 501"
     }, {
@@ -136,6 +139,12 @@
     }, {
       "lowerField" : "it_otobreda_sidam_25_mistral",
       "upperField" : "Sistema Italiano Difesa Aerea Mobile, 25mm (Mistral)"
+    }, {
+      "lowerField" : "it_9a33bm3",
+      "upperField" : "✞9A33BM3 \"Osa-AK\""
+    }, {
+      "lowerField" : "it_9a35_m",
+      "upperField" : "9A35M \"Strela-10M\""
     }, {
       "lowerField" : "it_otomatic",
       "upperField" : "OTO Main Anti-aircraft Tank for Intercept and Combat"
@@ -256,6 +265,9 @@
     }, {
       "lowerField" : "it_m26_ariete",
       "upperField" : "M26 Pershing 132ª Divisione corazzata 'Ariete'"
+    }, {
+      "lowerField" : "it_pzh_2000_hu",
+      "upperField" : "PzH 2000HU"
     }, {
       "lowerField" : "it_m60a1_ariete",
       "upperField" : "M60A1 132ª Divisione corazzata 'Ariete'"

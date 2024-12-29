@@ -33,6 +33,49 @@ public final class MissionGenerator {
 	 */
 	public static final String SCENARIO_QA = "quality assurance";
 
+	public static final String AIR = "air";
+	public static final String GROUND = "ground";
+
+	public static final String USSR = "USSR";
+	public static final String GERMANY = "Germany";
+	public static final String US = "US";
+	public static final String UK = "UK";
+	public static final String JAPAN = "Japan";
+	public static final String ITALY = "Italy";
+	public static final String FRANCE = "France";
+	public static final String CHINA = "China";
+	public static final String SWEDEN = "Sweden";
+	public static final String ISRAEL = "Israel";
+	public static final String OTHER = "other";
+	public static final String TRAIN = "train";
+
+	// get X distance based on faction
+	public static final int getDistanceX(String faction) {
+		if (faction == TRAIN) {
+			return 8;
+		} else {
+			return 6;
+		}
+	}
+
+	// get Z distance based on faction
+	public static final double getDistanceZ(String faction) {
+		if (faction == TRAIN) {
+			return 8;
+		} else {
+			return 2.5;
+		}
+	}
+
+	// get orientation based on faction
+	public static final String getOrientation(String faction) {
+		if (faction == TRAIN) {
+			return "[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107]";
+		} else {
+			return "[-1, 0, 0] [0, 1, 0] [0, 0, -1]";
+		}
+	}
+
 	/**
 	 * Returns a suffix for the name of the mission file according to the scenario.
 	 * @param scenario the scenario
@@ -82,8 +125,8 @@ public final class MissionGenerator {
 			}
 			inputFolder = chooser.getSelectedFile();
 		}
-		final String forces[] = {"air", "ground"};
-		final String factions[] = {"USSR", "Germany", "US", "UK", "Japan", "Italy", "France", "China", "Sweden", "Israel", "other"};
+		final String forces[] = {AIR, GROUND};
+		final String factions[] = {USSR, GERMANY, US, UK, JAPAN, ITALY, FRANCE, CHINA, SWEDEN, ISRAEL, OTHER, TRAIN};
 		final String scenarios[] = {SCENARIO_RELEASE, SCENARIO_SCREENSHOT, SCENARIO_QA};
 		final LinkedList<String> lines = new LinkedList<>();
 		Cell fields[];
@@ -121,10 +164,10 @@ public final class MissionGenerator {
 							  faction + " " + force + " header 0" + getScenarioFileNamePart(scenario) + ".txt")));
 							centerX = 8192;//2310;//3200
 							centerZ = 8192;//1940;//200
-							distanceX = 6;
-							distanceZ = 2.5;
+							distanceX = getDistanceX(faction);
+							distanceZ = getDistanceZ(faction);
 							depth = "1";
-							lines.add("    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] ["
+							lines.add("    tm:m=[" + getOrientation(faction) + " ["
 							 + 7168 + ", 1, " + centerZ + "]]");
 							lines.addAll(Files.readAllLines(
 							 inputFolder.toPath().resolve(
@@ -149,10 +192,10 @@ public final class MissionGenerator {
 							  faction + " " + force + " header 0" + getScenarioFileNamePart(scenario) + ".txt")));
 							centerX = 8192;//2310;
 							centerZ = 8192;//1940;
-							distanceX = 10;
-							distanceZ = 10;
+							distanceX = getDistanceX(faction);
+							distanceZ = getDistanceZ(faction);
 							depth = "1";//"220";
-							lines.add("    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] ["
+							lines.add("    tm:m=[" + getOrientation(faction) + " ["
 							 + (((((-1) * 2) - width + 1) * distanceX) + centerX)
 							 + ", " + depth + ", " + centerZ + "]]");
 							lines.addAll(Files.readAllLines(
@@ -182,7 +225,7 @@ public final class MissionGenerator {
 								}
 								lines.add("  tankModels{");
 								lines.add("    name:t=\"tank_" + y + "_" + x + "\"");
-								lines.add("    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] ["
+								lines.add("    tm:m=[" + getOrientation(faction) + " ["
 								 + ((((x * 2) - width + 1) * distanceX) + centerX)
 								 + ", " + depth + ", "
 								 + ((((double) ((y * 2) - height + 1)) * distanceZ) + ((double) centerZ)) // TODO BigDecimal

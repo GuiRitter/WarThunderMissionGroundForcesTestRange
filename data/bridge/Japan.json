@@ -34,6 +34,9 @@
       "lowerField" : "jp_type_89",
       "upperField" : "Type 89"
     }, {
+      "lowerField" : "jp_icv_ifv_prototype",
+      "upperField" : "Common Tactical Wheeled Vehicle, ICV"
+    }, {
       "lowerField" : "jp_type_10_prototype",
       "upperField" : "TKX (P)"
     } ]
@@ -124,6 +127,9 @@
     }, {
       "lowerField" : "jp_type_5_na_to",
       "upperField" : "Type 5 Na-To"
+    }, {
+      "lowerField" : "jp_m44",
+      "upperField" : "☀Howitzer, Self-propelled, Full Tracked: 155-mm, M44"
     }, {
       "lowerField" : "jp_m36b2_jgsdf",
       "upperField" : "☀M36B2"

@@ -181,11 +181,17 @@
       "lowerField" : "us_halftrack_m16",
       "upperField" : "Multiple Gun Motor Carriage M16"
     }, {
+      "lowerField" : "us_t77e1",
+      "upperField" : "Multiple Gun Motor Carriage T77E1"
+    }, {
       "lowerField" : "us_m19",
       "upperField" : "Twin Gun Motor Carriage M19"
     }, {
       "lowerField" : "us_m42_duster",
       "upperField" : "Twin 40mm Self-Propelled Guns M42 Duster"
+    }, {
+      "lowerField" : "us_skink_aa",
+      "upperField" : "✪Skink, Tank, Anti-Aircraft, 20 mm, Quad"
     }, {
       "lowerField" : "us_m163_vulcan",
       "upperField" : "Gun Air Defence Artillery Self-Propelled 20-mm M163"
@@ -221,6 +227,9 @@
     }, {
       "lowerField" : "us_m10",
       "upperField" : "3-inch Gun Motor Carriage M10"
+    }, {
+      "lowerField" : "us_m44",
+      "upperField" : "Howitzer, Self-propelled, Full Tracked: 155-mm, M44"
     }, {
       "lowerField" : "us_m36",
       "upperField" : "90-mm Gun Motor Carriage M36"
@@ -328,6 +337,9 @@
     }, {
       "lowerField" : "us_m1a1_hc_usmc",
       "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC \"Click-Bait\""
+    }, {
+      "lowerField" : "us_rdf_lt",
+      "upperField" : "Rapid Deployment Force Light Tank"
     } ]
   }, {
     "cellList" : [ {
@@ -377,10 +389,10 @@
       "upperField" : "✡Magach 3"
     }, {
       "lowerField" : "us_merkava_mk_1",
-      "upperField" : "Merkava Mk.1"
+      "upperField" : "✪Merkava Mk.1"
     }, {
       "lowerField" : "us_merkava_mk_2b_late",
-      "upperField" : "Merkava Mk.2B"
+      "upperField" : "✪Merkava Mk.2B"
     }, {
       "lowerField" : "us_xm_8",
       "upperField" : "105 mm Armored Gun System XM8"
@@ -398,7 +410,7 @@
       "upperField" : "TCM AGS"
     }, {
       "lowerField" : "us_merkava_mk_3d",
-      "upperField" : "Merkava Mk.3D"
+      "upperField" : "✪Merkava Mk.3D"
     } ]
   }, {
     "cellList" : [ {

@@ -1,8 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "sw_kv_1_1942_fin",
-      "upperField" : "sw_kv_1_1942_fin"
+      "lowerField" : "sw_cv_90_mk4",
+      "upperField" : "sw_cv_90_mk4"
+    }, {
+      "lowerField" : "sw_bmp_2md",
+      "upperField" : "sw_bmp_2md"
     } ]
   } ]
 }

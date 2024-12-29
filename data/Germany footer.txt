@@ -3,7 +3,7 @@
 areas{
   area_for_cutscene_0{
     type:t="Point"
-    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7800, 33.5, 8192]]
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7795, 33.5, 8192]]
     objLayer:i=0
 
     props{
@@ -12,7 +12,7 @@ areas{
 
   area_for_cutscene_1{
     type:t="Point"
-    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [8128, 0, 8192]]
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [8122, 0, 8192]]
     objLayer:i=0
 
     props{

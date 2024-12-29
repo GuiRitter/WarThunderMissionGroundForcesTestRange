@@ -41,7 +41,7 @@ public class WarThunderWikiTreeBridger {
 			ManagerColumn bridgeColumn) {
 		return cellIndex -> {
 			var wikiCell = wikiColumn.cellList.get(cellIndex);
-			var lowerField = (wikiCell.blkBackground != null) ? wikiCell.blkBackground : wikiCell.blkImg;
+			var lowerField = wikiCell.blk;
 
 			var managerCell = managerTable.columnList.stream().flatMap(WarThunderWikiTreeBridger::flatten)
 					.filter(byLowerField(lowerField)).findAny();

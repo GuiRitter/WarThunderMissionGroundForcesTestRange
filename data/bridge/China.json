@@ -151,6 +151,9 @@
     }, {
       "lowerField" : "cn_tor_m1",
       "upperField" : "Tor-M1"
+    }, {
+      "lowerField" : "cn_hq_17",
+      "upperField" : "HQ17"
     } ]
   }, {
     "cellList" : [ {
@@ -180,6 +183,9 @@
     }, {
       "lowerField" : "cn_plz_83",
       "upperField" : "PLZ83"
+    }, {
+      "lowerField" : "cn_plz_05",
+      "upperField" : "HuoPao LiuDan ZiXing 05"
     }, {
       "lowerField" : "cn_m113a1_tow",
       "upperField" : "✨M113A1 TOW"
@@ -253,6 +259,9 @@
     }, {
       "lowerField" : "cn_t_62",
       "upperField" : "T-62 Nº545"
+    }, {
+      "lowerField" : "cn_t_80ud_478be",
+      "upperField" : "T-80UD/BE"
     }, {
       "lowerField" : "cn_al_khalid_1",
       "upperField" : "Al-Khalid-I"

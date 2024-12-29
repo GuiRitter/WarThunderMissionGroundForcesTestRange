@@ -1,539 +1,293 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "fr_amc_34",
-      "span" : "AMC.34 YR",
-      "href" : "https://wiki.warthunder.com/AMC.34_YR",
-      "title" : "AMC.34 YR"
+      "blk" : "fr_amc_34",
+      "title" : "AMC.34 YR"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amd_35",
-      "span" : "AMD.35",
-      "href" : "https://wiki.warthunder.com/AMD.35",
+      "blk" : "fr_amd_35",
       "title" : "AMD.35"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amc_35",
-      "span" : "AMC.35 (ACG.1)",
-      "href" : "https://wiki.warthunder.com/AMC.35_(ACG.1)",
-      "title" : "AMC.35 (ACG.1)"
+      "blk" : "fr_amc_35",
+      "title" : "AMC.35 (ACG.1)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_crusader_mk_2",
-      "span" : "▄Crusader Mk.II",
-      "href" : "https://wiki.warthunder.com/Crusader_Mk.II_(France)",
-      "title" : "Crusader Mk.II (France)"
+      "blk" : "fr_crusader_mk_2",
+      "title" : "▄Crusader Mk.II"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_13_fl_11",
-      "span" : "AMX-13 (FL11)",
-      "href" : "https://wiki.warthunder.com/AMX-13_(FL11)",
-      "title" : "AMX-13 (FL11)"
+      "blk" : "fr_amx_13_fl_11",
+      "title" : "AMX-13 (FL11)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_panhard_ebr_1951",
-      "span" : "E.B.R. (1951)",
-      "href" : "https://wiki.warthunder.com/E.B.R._(1951)",
-      "title" : "E.B.R. (1951)"
+      "blk" : "fr_panhard_ebr_1951",
+      "title" : "E.B.R. (1951)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_13_75",
-      "span" : "AMX-13",
-      "href" : "https://wiki.warthunder.com/AMX-13",
+      "blk" : "fr_amx_13_75",
       "title" : "AMX-13"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_aml_90",
-      "span" : "AML-90",
-      "href" : "https://wiki.warthunder.com/AML-90",
+      "blk" : "fr_aml_90",
       "title" : "AML-90"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_13_90",
-      "span" : "AMX-13-90",
-      "href" : "https://wiki.warthunder.com/AMX-13-90",
+      "blk" : "fr_amx_13_90",
       "title" : "AMX-13-90"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_mars_15",
-      "span" : "MARS 15",
-      "href" : "https://wiki.warthunder.com/MARS_15",
-      "title" : "MARS 15"
+      "blk" : "fr_mars_15",
+      "title" : "MARS 15"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_13_hot",
-      "span" : "AMX-13 (HOT)",
-      "href" : "https://wiki.warthunder.com/AMX-13_(HOT)",
-      "title" : "AMX-13 (HOT)"
+      "blk" : "fr_amx_13_hot",
+      "title" : "AMX-13 (HOT)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_10rc",
-      "span" : "AMX-10RC",
-      "href" : "https://wiki.warthunder.com/AMX-10RC",
+      "blk" : "fr_amx_10rc",
       "title" : "AMX-10RC"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_sk105_a2",
-      "span" : "SK-105A2",
-      "href" : "https://wiki.warthunder.com/SK-105A2",
+      "blk" : "fr_sk105_a2",
       "title" : "SK-105A2"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_vextra_105",
-      "span" : "Vextra 105",
-      "href" : "https://wiki.warthunder.com/Vextra_105",
-      "title" : "Vextra 105"
+      "blk" : "fr_vbci",
+      "title" : "VBCI"
+    }, {
+      "blk" : "fr_vextra_105",
+      "title" : "Vextra 105"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "fr_hotchkiss_h35",
-      "span" : "H.35",
-      "href" : "https://wiki.warthunder.com/H.35",
+      "blk" : "fr_hotchkiss_h35",
       "title" : "H.35"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_hotchkiss_h39",
-      "span" : "H.39",
-      "href" : "https://wiki.warthunder.com/H.39",
+      "blk" : "fr_hotchkiss_h39",
       "title" : "H.39"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_somua_s35",
-      "span" : "S.35",
-      "href" : "https://wiki.warthunder.com/S.35",
+      "blk" : "fr_somua_s35",
       "title" : "S.35"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_m3a3_stuart",
-      "span" : "▄M3A3 Stuart",
-      "href" : "https://wiki.warthunder.com/M3A3_Stuart_(France)",
-      "title" : "M3A3 Stuart (France)"
+      "blk" : "fr_m3a3_stuart",
+      "title" : "▄M3A3 Stuart"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_m4a1_sherman",
-      "span" : "▄M4A1",
-      "href" : "https://wiki.warthunder.com/M4A1_(France)",
-      "title" : "M4A1 (France)"
+      "blk" : "fr_m4a1_sherman",
+      "title" : "▄M4A1"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_m4a4_sherman",
-      "span" : "▄M4A4",
-      "href" : "https://wiki.warthunder.com/M4A4_(France)",
-      "title" : "M4A4 (France)"
+      "blk" : "fr_m4a4_sherman",
+      "title" : "▄M4A4"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_m4a4_cn_75_50",
-      "span" : "M4A4 (SA50)",
-      "href" : "https://wiki.warthunder.com/M4A4_(SA50)",
-      "title" : "M4A4 (SA50)"
+      "blk" : "fr_m4a4_cn_75_50",
+      "title" : "M4A4 (SA50)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_m26_pershing",
-      "span" : "▄M26",
-      "href" : "https://wiki.warthunder.com/M26_(France)",
-      "title" : "M26 (France)"
+      "blk" : "fr_m26_pershing",
+      "title" : "▄M26"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_lorraine_40t",
-      "span" : "Lorraine 40t",
-      "href" : "https://wiki.warthunder.com/Lorraine_40t",
-      "title" : "Lorraine 40t"
+      "blk" : "fr_lorraine_40t",
+      "title" : "Lorraine 40t"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_bat_chat_25t",
-      "span" : "Char 25t",
-      "href" : "https://wiki.warthunder.com/Char_25t",
-      "title" : "Char 25t"
+      "blk" : "fr_bat_chat_25t",
+      "title" : "Char 25t"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_30_1972",
-      "span" : "AMX-30 (1972)",
-      "href" : "https://wiki.warthunder.com/AMX-30_(1972)",
-      "title" : "AMX-30 (1972)"
+      "blk" : "fr_amx_30_1972",
+      "title" : "AMX-30 (1972)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_30_b2",
-      "span" : "AMX-30B2",
-      "href" : "https://wiki.warthunder.com/AMX-30B2",
+      "blk" : "fr_amx_30_b2",
       "title" : "AMX-30B2"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_30_b2_brenus",
-      "span" : "AMX-30B2 BRENUS",
-      "href" : "https://wiki.warthunder.com/AMX-30B2_BRENUS",
-      "title" : "AMX-30B2 BRENUS"
+      "blk" : "fr_amx_30_b2_brenus",
+      "title" : "AMX-30B2 BRENUS"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_leclerc_s1",
-      "span" : "Leclerc",
-      "href" : "https://wiki.warthunder.com/Leclerc",
+      "blk" : "fr_leclerc_s1",
       "title" : "Leclerc"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_leclerc_s2",
-      "span" : "Leclerc S2",
-      "href" : "https://wiki.warthunder.com/Leclerc_S2",
-      "title" : "Leclerc S2"
+      "blk" : "fr_leclerc_s2",
+      "title" : "Leclerc S2"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_leclerc_sxxi",
-      "span" : "Leclerc SXXI",
-      "href" : "https://wiki.warthunder.com/Leclerc_SXXI",
-      "title" : "Leclerc SXXI"
+      "blk" : "fr_leclerc_sxxi",
+      "title" : "Leclerc SXXI"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_leclerc_azur",
-      "span" : "Leclerc AZUR",
-      "href" : "https://wiki.warthunder.com/Leclerc_AZUR",
-      "title" : "Leclerc AZUR"
+      "blk" : "fr_leclerc_azur",
+      "title" : "Leclerc AZUR"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "fr_fcm_36",
-      "span" : "FCM.36",
-      "href" : "https://wiki.warthunder.com/FCM.36",
+      "blk" : "fr_fcm_36",
       "title" : "FCM.36"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_renault_r39",
-      "span" : "R.35 (SA38)",
-      "href" : "https://wiki.warthunder.com/R.35_(SA38)",
-      "title" : "R.35 (SA38)"
+      "blk" : "fr_renault_r39",
+      "title" : "R.35 (SA38)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_renault_d2",
-      "span" : "D2",
-      "href" : "https://wiki.warthunder.com/D2",
+      "blk" : "fr_renault_d2",
       "title" : "D2"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_b1_bis",
-      "span" : "B1 bis",
-      "href" : "https://wiki.warthunder.com/B1_bis",
-      "title" : "B1 bis"
+      "blk" : "fr_b1_bis",
+      "title" : "B1 bis"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_char_2c",
-      "span" : "2C",
-      "href" : "https://wiki.warthunder.com/2C",
+      "blk" : "fr_char_2c",
       "title" : "2C"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_arl_44_acl1",
-      "span" : "ARL-44 (ACL-1)",
-      "href" : "https://wiki.warthunder.com/ARL-44_(ACL-1)",
-      "title" : "ARL-44 (ACL-1)"
+      "blk" : "fr_arl_44_acl1",
+      "title" : "ARL-44 (ACL-1)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_m4a3e2_sherman_jumbo",
-      "span" : "▄M4A3E2",
-      "href" : "https://wiki.warthunder.com/M4A3E2_(France)",
-      "title" : "M4A3E2 (France)"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_m4",
-      "span" : "AMX M4",
-      "href" : "https://wiki.warthunder.com/AMX_M4",
-      "title" : "AMX M4"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_50",
-      "span" : "AMX-50 (TOA100)",
-      "href" : "https://wiki.warthunder.com/AMX-50_(TOA100)",
-      "title" : "AMX-50 (TOA100)"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_50_surbaisse",
-      "span" : "AMX-50 Surbaissé",
-      "href" : "https://wiki.warthunder.com/AMX-50_Surbaisse",
-      "title" : "AMX-50 Surbaisse"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_32_105",
-      "span" : "AMX-32 (105)",
-      "href" : "https://wiki.warthunder.com/AMX-32_(105)",
-      "title" : "AMX-32 (105)"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_32",
-      "span" : "AMX-32",
-      "href" : "https://wiki.warthunder.com/AMX-32",
-      "title" : "AMX-32"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_40",
-      "span" : "AMX-40",
-      "href" : "https://wiki.warthunder.com/AMX-40",
-      "title" : "AMX-40"
-    } ]
-  }, {
-    "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "fr_citroen_kegresse_p4t",
-      "span" : "P.7.T AA",
-      "href" : "https://wiki.warthunder.com/P.7.T_AA",
-      "title" : "P.7.T AA"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_cckw_353_bofors",
-      "span" : "CCKW 353 AA",
-      "href" : "https://wiki.warthunder.com/CCKW_353_AA",
-      "title" : "CCKW 353 AA"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_vtt_dca",
-      "span" : "VTT DCA",
-      "href" : "https://wiki.warthunder.com/VTT_DCA",
-      "title" : "VTT DCA"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_13_dca_40",
-      "span" : "AMX-13 DCA 40",
-      "href" : "https://wiki.warthunder.com/AMX-13_DCA_40",
-      "title" : "AMX-13 DCA 40"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_tpk_641_vpc",
-      "span" : "TPK 6.41",
-      "href" : "https://wiki.warthunder.com/TPK_6.41",
-      "title" : "TPK 6.41"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_10p",
-      "span" : "AMX-10P",
-      "href" : "https://wiki.warthunder.com/AMX-10P",
-      "title" : "AMX-10P"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_30_dca",
-      "span" : "AMX-30 S DCA",
-      "href" : "https://wiki.warthunder.com/AMX-30_S_DCA",
-      "title" : "AMX-30 S DCA"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_vab_santal",
-      "span" : "SANTAL",
-      "href" : "https://wiki.warthunder.com/SANTAL",
-      "title" : "SANTAL"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_30_roland",
-      "span" : "Roland 1",
-      "href" : "https://wiki.warthunder.com/Roland_1",
-      "title" : "Roland 1"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_crotale_ng",
-      "span" : "▄ItO 90M",
-      "href" : "https://wiki.warthunder.com/ItO_90M_(France)",
-      "title" : "ItO 90M (France)"
-    } ]
-  }, {
-    "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "fr_amr_35_zt3",
-      "span" : "AMR.35 ZT3",
-      "href" : "https://wiki.warthunder.com/AMR.35_ZT3",
-      "title" : "AMR.35 ZT3"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_lorraine_37l",
-      "span" : "Lorraine 37L",
-      "href" : "https://wiki.warthunder.com/Lorraine_37L",
-      "title" : "Lorraine 37L"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_somua_sau40",
-      "span" : "SAu 40",
-      "href" : "https://wiki.warthunder.com/SAu_40",
-      "title" : "SAu 40"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_m4a3_105_sherman",
-      "span" : "▄M4A3 (105)",
-      "href" : "https://wiki.warthunder.com/M4A3_(105)_(France)",
-      "title" : "M4A3 (105) (France)"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_m10",
-      "span" : "▄M10 GMC",
-      "href" : "https://wiki.warthunder.com/M10_GMC_(France)",
-      "title" : "M10 GMC (France)"
-    }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_arl_44",
-      "span" : "ARL-44",
-      "href" : "https://wiki.warthunder.com/ARL-44",
+      "blk" : "fr_arl_44",
       "title" : "ARL-44"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_m36b2_cefeo",
-      "span" : "▄M36B2",
-      "href" : "https://wiki.warthunder.com/M36B2_(France)",
-      "title" : "M36B2 (France)"
+      "blk" : "fr_m4a3e2_sherman_jumbo",
+      "title" : "▄M4A3E2"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_lorraine_100",
-      "span" : "CA Lorraine",
-      "href" : "https://wiki.warthunder.com/CA_Lorraine",
-      "title" : "CA Lorraine"
+      "blk" : "fr_amx_m4",
+      "title" : "AMX M4"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_elc_bis",
-      "span" : "ELC bis",
-      "href" : "https://wiki.warthunder.com/ELC_bis",
-      "title" : "ELC bis"
+      "blk" : "fr_amx_50",
+      "title" : "AMX-50 (TOA100)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_30_auf_1",
-      "span" : "AuF1",
-      "href" : "https://wiki.warthunder.com/AuF1",
+      "blk" : "fr_amx_50_surbaisse",
+      "title" : "AMX-50 Surbaissé"
+    }, {
+      "blk" : "fr_amx_32_105",
+      "title" : "AMX-32 (105)"
+    }, {
+      "blk" : "fr_amx_32",
+      "title" : "AMX-32"
+    }, {
+      "blk" : "fr_amx_40",
+      "title" : "AMX-40"
+    }, {
+      "blk" : "fr_leopard_2a4nl",
+      "title" : "Leopard 2A4NL"
+    }, {
+      "blk" : "fr_leopard_2a5nl",
+      "title" : "Leopard 2A5NL"
+    }, {
+      "blk" : "fr_leopard_2a6nl",
+      "title" : "Leopard 2A6NL"
+    } ]
+  }, {
+    "cellList" : [ {
+      "blk" : "fr_citroen_kegresse_p4t",
+      "title" : "P.7.T AA"
+    }, {
+      "blk" : "fr_cckw_353_bofors",
+      "title" : "CCKW 353 AA"
+    }, {
+      "blk" : "fr_amx_vtt_dca",
+      "title" : "VTT DCA"
+    }, {
+      "blk" : "fr_amx_13_dca_40",
+      "title" : "AMX-13 DCA 40"
+    }, {
+      "blk" : "fr_tpk_641_vpc",
+      "title" : "TPK 6.41"
+    }, {
+      "blk" : "fr_amx_10p",
+      "title" : "AMX-10P"
+    }, {
+      "blk" : "fr_amx_30_dca",
+      "title" : "AMX-30 S DCA"
+    }, {
+      "blk" : "fr_vab_santal",
+      "title" : "SANTAL"
+    }, {
+      "blk" : "fr_amx_30_roland",
+      "title" : "Roland 1"
+    }, {
+      "blk" : "fr_crotale_ng",
+      "title" : "▄ItO 90M"
+    } ]
+  }, {
+    "cellList" : [ {
+      "blk" : "fr_amr_35_zt3",
+      "title" : "AMR.35 ZT3"
+    }, {
+      "blk" : "fr_lorraine_37l",
+      "title" : "Lorraine 37L"
+    }, {
+      "blk" : "fr_somua_sau40",
+      "title" : "SAu 40"
+    }, {
+      "blk" : "fr_m4a3_105_sherman",
+      "title" : "▄M4A3 (105)"
+    }, {
+      "blk" : "fr_m10",
+      "title" : "▄M10 GMC"
+    }, {
+      "blk" : "fr_m44",
+      "title" : "▄M44"
+    }, {
+      "blk" : "fr_m36b2_cefeo",
+      "title" : "▄M36B2"
+    }, {
+      "blk" : "fr_lorraine_100",
+      "title" : "CA Lorraine"
+    }, {
+      "blk" : "fr_amx_elc_bis",
+      "title" : "ELC bis"
+    }, {
+      "blk" : "fr_amx_30_auf_1",
       "title" : "AuF1"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_10m_acra",
-      "span" : "AMX-10M",
-      "href" : "https://wiki.warthunder.com/AMX-10M",
+      "blk" : "fr_amx_10m_acra",
       "title" : "AMX-10M"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_50_foch",
-      "span" : "AMX-50 Foch",
-      "href" : "https://wiki.warthunder.com/AMX-50_Foch",
-      "title" : "AMX-50 Foch"
+      "blk" : "fr_amx_50_foch",
+      "title" : "AMX-50 Foch"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_30_acra",
-      "span" : "AMX-30 ACRA",
-      "href" : "https://wiki.warthunder.com/AMX-30_ACRA",
-      "title" : "AMX-30 ACRA"
+      "blk" : "fr_amx_30_acra",
+      "title" : "AMX-30 ACRA"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_vcac_mephisto",
-      "span" : "MEPHISTO",
-      "href" : "https://wiki.warthunder.com/MEPHISTO",
+      "blk" : "fr_vcac_mephisto",
       "title" : "MEPHISTO"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "fr_hotchkiss_h39_cambronne",
-      "span" : "H.39 \"Cambronne\"",
-      "href" : "https://wiki.warthunder.com/H.39_%22Cambronne%22",
-      "title" : "H.39 \"Cambronne\""
+      "blk" : "fr_hotchkiss_h39_cambronne",
+      "title" : "H.39 \"Cambronne\""
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_char_2c_bis",
-      "span" : "2C bis",
-      "href" : "https://wiki.warthunder.com/2C_bis",
-      "title" : "2C bis"
+      "blk" : "fr_char_2c_bis",
+      "title" : "2C bis"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_b1_ter",
-      "span" : "B1 ter",
-      "href" : "https://wiki.warthunder.com/B1_ter",
-      "title" : "B1 ter"
+      "blk" : "fr_b1_ter",
+      "title" : "B1 ter"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_13_chaffee",
-      "span" : "AMX-13-M24",
-      "href" : "https://wiki.warthunder.com/AMX-13-M24",
+      "blk" : "fr_amx_13_chaffee",
       "title" : "AMX-13-M24"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_m4a1_sherman_fl_10",
-      "span" : "M4A1 (FL10)",
-      "href" : "https://wiki.warthunder.com/M4A1_(FL10)",
-      "title" : "M4A1 (FL10)"
+      "blk" : "fr_m4a1_sherman_fl_10",
+      "title" : "M4A1 (FL10)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_pzkpfw_v_panther_dauphine",
-      "span" : "Panther \"Dauphiné\"",
-      "href" : "https://wiki.warthunder.com/Panther_%22Dauphin%C3%A9%22",
-      "title" : "Panther \"Dauphiné\""
+      "blk" : "fr_pzkpfw_v_panther_dauphine",
+      "title" : "Panther \"Dauphiné\""
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_13_75_ss11",
-      "span" : "AMX-13 (SS.11)",
-      "href" : "https://wiki.warthunder.com/AMX-13_(SS.11)",
-      "title" : "AMX-13 (SS.11)"
+      "blk" : "fr_amx_13_75_ss11",
+      "title" : "AMX-13 (SS.11)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_somua_sm",
-      "span" : "Somua SM",
-      "href" : "https://wiki.warthunder.com/Somua_SM",
-      "title" : "Somua SM"
+      "blk" : "fr_somua_sm",
+      "title" : "Somua SM"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_30",
-      "span" : "AMX-30",
-      "href" : "https://wiki.warthunder.com/AMX-30",
+      "blk" : "fr_amx_30",
       "title" : "AMX-30"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_50_1950",
-      "span" : "AMX-50 (TO90/930)",
-      "href" : "https://wiki.warthunder.com/AMX-50_(TO90/930)",
-      "title" : "AMX-50 (TO90/930)"
+      "blk" : "fr_amx_50_1950",
+      "title" : "AMX-50 (TO90/930)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_30_super",
-      "span" : "AMX-30 Super",
-      "href" : "https://wiki.warthunder.com/AMX-30_Super",
-      "title" : "AMX-30 Super"
+      "blk" : "fr_amx_30_super",
+      "title" : "AMX-30 Super"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_vbci2_mct30",
-      "span" : "VBCI-2 (MCT30)",
-      "href" : "https://wiki.warthunder.com/VBCI-2_(MCT30)",
-      "title" : "VBCI-2 (MCT30)"
+      "blk" : "fr_vbci2_mct30",
+      "title" : "VBCI-2 (MCT30)"
     } ]
   }, {
     "cellList" : [ {
-      "blkBackground" : null,
-      "blkImg" : "fr_amd_35_sa35",
-      "span" : "AMD.35 (SA35)",
-      "href" : "https://wiki.warthunder.com/AMD.35_(SA35)",
-      "title" : "AMD.35 (SA35)"
+      "blk" : "fr_amd_35_sa35",
+      "title" : "AMD.35 (SA35)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_lvt_bofors",
-      "span" : "LVT-4/40",
-      "href" : "https://wiki.warthunder.com/LVT-4/40",
+      "blk" : "fr_lvt_bofors",
       "title" : "LVT-4/40"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_lorraine_155",
-      "span" : "Lorraine 155 Mle.50",
-      "href" : "https://wiki.warthunder.com/Lorraine_155_Mle.50",
-      "title" : "Lorraine 155 Mle.50"
+      "blk" : "fr_lorraine_155",
+      "title" : "Lorraine 155 Mle.50"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_panhard_ebr_1954",
-      "span" : "E.B.R. (1954)",
-      "href" : "https://wiki.warthunder.com/E.B.R._(1954)",
-      "title" : "E.B.R. (1954)"
+      "blk" : "fr_panhard_ebr_1954",
+      "title" : "E.B.R. (1954)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_panhard_ebr_1963",
-      "span" : "E.B.R. (1963)",
-      "href" : "https://wiki.warthunder.com/E.B.R._(1963)",
-      "title" : "E.B.R. (1963)"
+      "blk" : "fr_panhard_ebr_1963",
+      "title" : "E.B.R. (1963)"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_amx_50_surblinde",
-      "span" : "AMX-50 Surblindé",
-      "href" : "https://wiki.warthunder.com/AMX-50_Surblinde",
-      "title" : "AMX-50 Surblinde"
+      "blk" : "fr_amx_50_surblinde",
+      "title" : "AMX-50 Surblindé"
     }, {
-      "blkBackground" : null,
-      "blkImg" : "fr_cv_9035_nl",
-      "span" : "CV 9035NL",
-      "href" : "https://wiki.warthunder.com/CV_9035NL",
-      "title" : "CV 9035NL"
+      "blk" : "fr_cv_9035_nl",
+      "title" : "CV 9035NL"
     } ]
   } ]
 }

@@ -171,6 +171,9 @@
     }, {
       "lowerField" : "sw_strf_9056",
       "upperField" : "Stridsfordon 9056"
+    }, {
+      "lowerField" : "sw_cv_90_mk4",
+      "upperField" : "Combat Vehicle 90Mk.IV"
     } ]
   }, {
     "cellList" : [ {
@@ -236,6 +239,9 @@
       "lowerField" : "sw_kungstiger",
       "upperField" : "Kungstiger"
     }, {
+      "lowerField" : "sw_strv_81_rb52",
+      "upperField" : "Strv 81 (RB 52)"
+    }, {
       "lowerField" : "sw_strv_103_0",
       "upperField" : "Stridsvagn 103-0"
     }, {
@@ -267,6 +273,9 @@
     }, {
       "lowerField" : "sw_k9_vidar",
       "upperField" : "Versatile InDirect ARTillery"
+    }, {
+      "lowerField" : "sw_bmp_2md",
+      "upperField" : "BMP-2MD"
     }, {
       "lowerField" : "sw_patria_amv_ctcv_105",
       "upperField" : "Patria CT-CV 105HP"
