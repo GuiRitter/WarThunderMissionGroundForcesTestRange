@@ -1,35 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "germ_m44",
-      "upperField" : "germ_m44"
-    },{
-      "lowerField" : "germ_sppz2_luchs_a2",
-      "upperField" : "germ_sppz2_luchs_a2"
-    },{
-      "lowerField" : "germ_9a33bm3",
-      "upperField" : "germ_9a33bm3"
-    },{
-      "lowerField" : "germ_9a35_m",
-      "upperField" : "germ_9a35_m"
-    },{
-      "lowerField" : "germ_pzh_2000",
-      "upperField" : "germ_pzh_2000"
-    },{
-      "lowerField" : "germ_boxer_3105",
-      "upperField" : "germ_boxer_3105"
-    },{
-      "lowerField" : "us_m4a2_1944_germ",
-      "upperField" : "us_m4a2_1944_germ"
-    },{
-      "lowerField" : "germ_pzkpfw_vi_ausf_h1_tiger_east",
-      "upperField" : "germ_pzkpfw_vi_ausf_h1_tiger_east"
-    },{
-      "lowerField" : "germ_pzkpfw_vi_ausf_h1_tiger_west",
-      "upperField" : "germ_pzkpfw_vi_ausf_h1_tiger_west"
-    },{
-      "lowerField" : "germ_flakpanzer_iv_ostwind_2_net",
-      "upperField" : "germ_flakpanzer_iv_ostwind_2_net"
+      "lowerField" : "germ_amd_35_kwk39",
+      "upperField" : "germ_amd_35_kwk39"
+    }, {
+      "lowerField" : "germ_marder_clovis",
+      "upperField" : "germ_marder_clovis"
     } ]
   } ]
 }

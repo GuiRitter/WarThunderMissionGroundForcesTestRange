@@ -250,6 +250,9 @@
       "lowerField" : "ussr_object_268",
       "upperField" : "Object 268"
     }, {
+      "lowerField" : "ussr_2s19_m1",
+      "upperField" : "2S19M1"
+    }, {
       "lowerField" : "ussr_it_1",
       "upperField" : "IT-1"
     }, {
@@ -486,6 +489,9 @@
     }, {
       "lowerField" : "ussr_type_62",
       "upperField" : "Type-62"
+    }, {
+      "lowerField" : "ussr_2s19_m2",
+      "upperField" : "2S19M2"
     }, {
       "lowerField" : "ussr_t_10a",
       "upperField" : "T-10A"

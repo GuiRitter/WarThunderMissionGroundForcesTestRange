@@ -13,6 +13,9 @@
       "blk" : "germ_pzkpfw_38t_na",
       "title" : "Pz.38(t) n.A."
     }, {
+      "blk" : "germ_amd_35_kwk39",
+      "title" : "Pz.Sp.Wg.P204(f) PaK"
+    }, {
       "blk" : "germ_sdkfz_234_2",
       "title" : "Sd.Kfz.234/2"
     }, {
@@ -383,6 +386,9 @@
       "blk" : "germ_mkpz_m47",
       "title" : "mKPz M47 G"
     }, {
+      "blk" : "germ_marder_clovis",
+      "title" : "CLOVIS"
+    }, {
       "blk" : "germ_erprobungstrager_3_achs_turm",
       "title" : "Turm III"
     }, {
@@ -395,14 +401,11 @@
       "blk" : "germ_leopard_c2_mexas",
       "title" : "C2A1"
     }, {
-      "blk" : "germ_leopard_2a4_pzbtl_123",
-      "title" : "Leopard 2 (PzBtl 123)"
+      "blk" : "germ_boxer_3105",
+      "title" : "Boxer MGS"
     }, {
       "blk" : "germ_vilkas",
       "title" : "Vilkas"
-    }, {
-      "blk" : "germ_boxer_3105",
-      "title" : "Boxer MGS"
     }, {
       "blk" : "germ_leopard_2a4m_can",
       "title" : "Leopard 2A4M"
@@ -493,11 +496,14 @@
       "blk" : "germ_th_800_bismark",
       "title" : "Class 3 (P)"
     }, {
+      "blk" : "germ_leopard_2av",
+      "title" : "Leopard 2AV"
+    }, {
       "blk" : "germ_leopard_2_pt14",
       "title" : "PT-16/T14 mod."
     }, {
-      "blk" : "germ_leopard_2av",
-      "title" : "Leopard 2AV"
+      "blk" : "germ_leopard_2a4_pzbtl_123",
+      "title" : "Leopard 2 (PzBtl 123)"
     } ]
   } ]
 }

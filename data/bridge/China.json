@@ -251,6 +251,9 @@
     }, {
       "lowerField" : "cn_qn506",
       "upperField" : "QN506"
+    }, {
+      "lowerField" : "cn_vt_5",
+      "upperField" : "VT5"
     } ]
   }, {
     "cellList" : [ {

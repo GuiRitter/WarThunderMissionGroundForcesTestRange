@@ -217,6 +217,9 @@
       "blk" : "uk_rooikat_za_35",
       "title" : "ZA-35"
     }, {
+      "blk" : "uk_tracked_rapier",
+      "title" : "Rapier"
+    }, {
       "blk" : "uk_stormer_air_defence",
       "title" : "Stormer AD"
     }, {
@@ -239,6 +242,9 @@
     }, {
       "blk" : "uk_marmon_herrington_mk_6_2pdr",
       "title" : "SARC MkVI (2pdr)"
+    }, {
+      "blk" : "uk_a25_mk_8",
+      "title" : "Harry Hopkins I"
     }, {
       "blk" : "uk_marmon_herrington_mk_6_6pdr",
       "title" : "SARC MkVI (6pdr)"
@@ -378,6 +384,9 @@
     }, {
       "blk" : "uk_rooikat_105_td",
       "title" : "Rooikat 105"
+    }, {
+      "blk" : "uk_shir_2",
+      "title" : "FV4030/3"
     }, {
       "blk" : "uk_t_90s_bheeshma",
       "title" : "Bhishma TWMP"

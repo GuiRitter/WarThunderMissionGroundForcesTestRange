@@ -67,7 +67,7 @@
       "title" : "Chi-To Late"
     }, {
       "blk" : "jp_type_5_chi_ri",
-      "title" : "Chi-Ri II"
+      "title" : "Chi-Ri"
     }, {
       "blk" : "jp_st_a1",
       "title" : "ST-A1"
@@ -206,6 +206,9 @@
     }, {
       "blk" : "jp_type_75_mlrs",
       "title" : "Type 75 MLRS"
+    }, {
+      "blk" : "jp_type_74_red_star",
+      "title" : "Type 74 Red Star"
     }, {
       "blk" : "jp_type_16_mod",
       "title" : "Type 16 (FPS)"

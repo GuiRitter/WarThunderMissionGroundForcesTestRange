@@ -172,4 +172,6 @@ Also, China's cn_pgz_88 can no longer be included in the missions. Previously, t
 
 For the "Other" missions, half of the event vehicles that remained have been included in the "sdi_hydra" pack, so they no longer can be included in missions: sdi_hydra, sdi_harpy, sdi_minotaur and space_rocket_launcher. The rest can still be included in missions: Goliath 303a, destroyer_heavy_tank_h, germ_launcher_vertical, us_m4_sherman_fake and ussr_sht_1_2. However, the destroyer_heavy_tank_h, the us_m4_sherman_fake and the ussr_sht_1_2 no longer render and can't be targeted anymore.
 
+After 2.45: The French M46 required a lot of beating from several angles from France's starter in order to be destroyed. Apart from that, nothing notable about this update.
+
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

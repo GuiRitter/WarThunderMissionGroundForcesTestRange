@@ -1,0 +1,24 @@
+lines only in old:
+
+germ_sdkfz_251_10
+
+lines only in new:
+
+
+cn_vt_5
+fr_amd_35_kwk39
+fr_m46_patton
+fr_marder_clovis
+fr_marder_df_105
+germ_amd_35_kwk39
+germ_marder_clovis
+it_c1_ariete_certezza
+it_fiat_6614_firos
+jp_type_74_red_star
+uk_a25_mk_8
+uk_shir_2
+uk_tracked_rapier
+us_xm246
+ussr_2s19_m1
+ussr_2s19_m2
+

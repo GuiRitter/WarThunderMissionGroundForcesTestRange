@@ -10,6 +10,9 @@
       "lowerField" : "fr_amc_35",
       "upperField" : "Automitrailleuse de Combat Renault AMC.35 (ACG.1)"
     }, {
+      "lowerField" : "fr_amd_35_kwk39",
+      "upperField" : "AMD.35 (PaK)"
+    }, {
       "lowerField" : "fr_crusader_mk_2",
       "upperField" : "⦿Crusader Mk.II"
     }, {
@@ -27,6 +30,9 @@
     }, {
       "lowerField" : "fr_amx_13_90",
       "upperField" : "AMX-13-90"
+    }, {
+      "lowerField" : "fr_marder_df_105",
+      "upperField" : "DF105"
     }, {
       "lowerField" : "fr_mars_15",
       "upperField" : "MARS 15"
@@ -254,17 +260,20 @@
       "lowerField" : "fr_somua_sm",
       "upperField" : "Somua SM"
     }, {
+      "lowerField" : "fr_marder_clovis",
+      "upperField" : "Marder, CLOVIS, FL 20, 105 mm"
+    }, {
       "lowerField" : "fr_amx_30",
       "upperField" : "AMX-30"
-    }, {
-      "lowerField" : "fr_amx_50_1950",
-      "upperField" : "AMX-50 (T090/930)"
     }, {
       "lowerField" : "fr_amx_30_super",
       "upperField" : "AMX-30 Super"
     }, {
       "lowerField" : "fr_vbci2_mct30",
       "upperField" : "VBCI-2 (MCT30)"
+    }, {
+      "lowerField" : "fr_cv_9035_nl",
+      "upperField" : "Infanteriegevechtsvoertuig CV 9035NL"
     } ]
   }, {
     "cellList" : [ {
@@ -280,14 +289,17 @@
       "lowerField" : "fr_panhard_ebr_1954",
       "upperField" : "E.B.R. (1954)"
     }, {
+      "lowerField" : "fr_m46_patton",
+      "upperField" : "⦿M46"
+    }, {
       "lowerField" : "fr_panhard_ebr_1963",
       "upperField" : "E.B.R. (1963)"
     }, {
       "lowerField" : "fr_amx_50_surblinde",
       "upperField" : "AMX 50 Surblindé"
     }, {
-      "lowerField" : "fr_cv_9035_nl",
-      "upperField" : "Infanteriegevechtsvoertuig CV 9035NL"
+      "lowerField" : "fr_amx_50_1950",
+      "upperField" : "AMX-50 (T090/930)"
     } ]
   } ]
 }

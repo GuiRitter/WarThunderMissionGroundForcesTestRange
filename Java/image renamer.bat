@@ -1,0 +1,1 @@
+java -jar "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\Java\WarThunderImageRenamer\target\war-thunder-image-renamer-1.0.0-jar-with-dependencies.jar" "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\image\2.45"

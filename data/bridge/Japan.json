@@ -207,6 +207,9 @@
       "lowerField" : "jp_type_75_mlrs",
       "upperField" : "Type 75 MLRS"
     }, {
+      "lowerField" : "jp_type_74_red_star",
+      "upperField" : "Type 74 (C) Red Star"
+    }, {
       "lowerField" : "jp_type_16_mod",
       "upperField" : "Type 16, First Production Serie"
     }, {

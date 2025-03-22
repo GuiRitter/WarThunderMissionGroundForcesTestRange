@@ -132,7 +132,7 @@
       "title" : "◔ZSU-57-2"
     }, {
       "blk" : "it_zsu_23_4",
-      "title" : "◔ZSU-23-4"
+      "title" : "◔ZSU-23-4V"
     }, {
       "blk" : "it_otobreda_sidam_25",
       "title" : "SIDAM 25"
@@ -283,6 +283,9 @@
     }, {
       "blk" : "it_centauro_rgo_120",
       "title" : "Centauro RGO"
+    }, {
+      "blk" : "it_c1_ariete_certezza",
+      "title" : "Ariete Сertezza"
     } ]
   }, {
     "cellList" : [ {
@@ -300,6 +303,9 @@
     }, {
       "blk" : "it_breda_52_autocannone",
       "title" : "Breda 90/53"
+    }, {
+      "blk" : "it_fiat_6614_firos",
+      "title" : "FIROS 6"
     } ]
   } ]
 }

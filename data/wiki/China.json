@@ -76,7 +76,7 @@
       "title" : "␗Т-34-85 (S-53)"
     }, {
       "blk" : "cn_type_58",
-      "title" : "Т-34-85 Gai"
+      "title" : "T-34-85 Gai"
     }, {
       "blk" : "cn_is_2_1943",
       "title" : "␗IS-2"
@@ -251,6 +251,9 @@
     }, {
       "blk" : "cn_qn506",
       "title" : "QN506"
+    }, {
+      "blk" : "cn_vt_5",
+      "title" : "VT5"
     } ]
   }, {
     "cellList" : [ {
@@ -261,7 +264,7 @@
       "title" : "Т-62 №545"
     }, {
       "blk" : "cn_t_80ud_478be",
-      "title" : "T-80UD/BE"
+      "title" : "T-80UD/DU1"
     }, {
       "blk" : "cn_al_khalid_1",
       "title" : "Al-Khalid-I"

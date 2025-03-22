@@ -1,11 +1,72 @@
 {
-  "columnList" : [ {
-    "cellList" : [ {
-      "lowerField" : "germ_leichter_ladungstrager_303a",
-      "upperField" : "germ_leichter_ladungstrager_303a"
-    }, {
-      "lowerField" : "germ_leichter_ladungstrager_303a",
-      "upperField" : "germ_leichter_ladungstrager_303a"
-    } ]
-  } ]
+  "columnList": [
+    {
+      "cellList": [
+        {
+          "lowerField": "cn_vt_5",
+          "upperField": "cn_vt_5"
+        },
+        {
+          "lowerField": "fr_amd_35_kwk39",
+          "upperField": "fr_amd_35_kwk39"
+        },
+        {
+          "lowerField": "fr_m46_patton",
+          "upperField": "fr_m46_patton"
+        },
+        {
+          "lowerField": "fr_marder_clovis",
+          "upperField": "fr_marder_clovis"
+        },
+        {
+          "lowerField": "fr_marder_df_105",
+          "upperField": "fr_marder_df_105"
+        },
+        {
+          "lowerField": "germ_amd_35_kwk39",
+          "upperField": "germ_amd_35_kwk39"
+        },
+        {
+          "lowerField": "germ_marder_clovis",
+          "upperField": "germ_marder_clovis"
+        },
+        {
+          "lowerField": "it_c1_ariete_certezza",
+          "upperField": "it_c1_ariete_certezza"
+        },
+        {
+          "lowerField": "it_fiat_6614_firos",
+          "upperField": "it_fiat_6614_firos"
+        },
+        {
+          "lowerField": "jp_type_74_red_star",
+          "upperField": "jp_type_74_red_star"
+        },
+        {
+          "lowerField": "uk_a25_mk_8",
+          "upperField": "uk_a25_mk_8"
+        },
+        {
+          "lowerField": "uk_shir_2",
+          "upperField": "uk_shir_2"
+        },
+        {
+          "lowerField": "uk_tracked_rapier",
+          "upperField": "uk_tracked_rapier"
+        },
+        {
+          "lowerField": "us_xm246",
+          "upperField": "us_xm246"
+        },
+        {
+          "lowerField": "ussr_2s19_m1",
+          "upperField": "ussr_2s19_m1"
+        },
+        {
+          "lowerField": "ussr_2s19_m2",
+          "upperField": "ussr_2s19_m2"
+        }
+      ]
+    }
+  ]
 }

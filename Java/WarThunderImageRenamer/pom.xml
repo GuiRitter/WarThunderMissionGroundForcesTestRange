@@ -3,22 +3,14 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.7.16</version>
-		<relativePath/>
-		<!-- lookup parent from repository -->
-	</parent>
-
 	<groupId>io.github.guiritter</groupId>
-	<artifactId>war-thunder-wiki-crawler</artifactId>
-	<version>2.0.0</version>
+	<artifactId>war-thunder-image-renamer</artifactId>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>War Thunder Wiki Crawler</name>
+	<name>War Thunder Image Renamer</name>
 	<description></description>
-	<url>https://github.com/GuiRitter/WarThunderWikiCrawler</url>
+	<url>https://github.com/GuiRitter/WarThunderImageRenamer</url>
 
 	<licenses>
 		<license>
@@ -38,7 +30,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>17</maven.compiler.source>
 		<maven.compiler.target>17</maven.compiler.target>
-		<exec.mainClass>io.github.guiritter.war_thunder_wiki_crawler.WarThunderWikiCrawler</exec.mainClass>
+		<exec.mainClass>io.github.guiritter.war_thunder_image_renamer.WarThunderImageRenamer</exec.mainClass>
 	</properties>
 
 	<repositories>
@@ -49,30 +41,6 @@
 	</repositories>
 
 	<dependencies>
-		<dependency>
-			<groupId>com.fasterxml.jackson.core</groupId>
-			<artifactId>jackson-databind</artifactId>
-			<version>2.13.5</version>
-		</dependency>
-		<dependency>
-			<groupId>org.seleniumhq.selenium</groupId>
-			<artifactId>selenium-java</artifactId>
-			<version>4.13.0</version>
-		</dependency>
-		<dependency>
-			<groupId>org.seleniumhq.selenium</groupId>
-			<artifactId>selenium-http-jdk-client</artifactId>
-			<version>4.13.0</version>
-		</dependency>
-		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-nop</artifactId>
-			<version>2.0.0</version>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
-		</dependency>
 	</dependencies>
 
 	<build>
@@ -101,7 +69,7 @@
 						<configuration>
 							<archive>
 								<manifest>
-									<mainClass>io.github.guiritter.war_thunder_wiki_crawler.WarThunderWikiCrawler</mainClass>
+									<mainClass>io.github.guiritter.war_thunder_image_renamer.WarThunderImageRenamer</mainClass>
 								</manifest>
 							</archive>
 							<descriptorRefs>
@@ -139,11 +107,6 @@
 						</goals>
 					</execution>
 				</executions>
-			</plugin>
-
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
 	</build>

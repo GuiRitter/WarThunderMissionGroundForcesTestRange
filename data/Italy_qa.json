@@ -1,17 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "it_m44",
-      "upperField" : "it_m44"
+      "lowerField" : "it_c1_ariete_certezza",
+      "upperField" : "it_c1_ariete_certezza"
     }, {
-      "lowerField" : "it_9a33bm3",
-      "upperField" : "it_9a33bm3"
-    }, {
-      "lowerField" : "it_9a35_m",
-      "upperField" : "it_9a35_m"
-    }, {
-      "lowerField" : "it_pzh_2000_hu",
-      "upperField" : "it_pzh_2000_hu"
-    }]
+      "lowerField" : "it_fiat_6614_firos",
+      "upperField" : "it_fiat_6614_firos"
+    } ]
   } ]
 }

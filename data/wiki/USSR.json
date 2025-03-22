@@ -250,6 +250,9 @@
       "blk" : "ussr_object_268",
       "title" : "Object 268"
     }, {
+      "blk" : "ussr_2s19_m1",
+      "title" : "2S19M1"
+    }, {
       "blk" : "ussr_it_1",
       "title" : "IT-1"
     }, {
@@ -304,7 +307,7 @@
       "title" : "ZSU-37-2"
     }, {
       "blk" : "ussr_zsu_23_4",
-      "title" : "ZSU-23-4"
+      "title" : "ZSU-23-4V"
     }, {
       "blk" : "ussr_zsu_23_4m4",
       "title" : "ZSU-23-4M4"
@@ -486,6 +489,9 @@
     }, {
       "blk" : "ussr_type_62",
       "title" : "▂Type 62"
+    }, {
+      "blk" : "ussr_2s19_m2",
+      "title" : "2S19M2"
     }, {
       "blk" : "ussr_t_10a",
       "title" : "T-10A"

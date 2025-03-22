@@ -283,6 +283,9 @@
     }, {
       "lowerField" : "it_centauro_rgo_120",
       "upperField" : "Blindos pesante Centauro, Serie 3, HITFACT 120 RGO"
+    }, {
+      "lowerField" : "it_c1_ariete_certezza",
+      "upperField" : "C1 Ariete Certezza"
     } ]
   }, {
     "cellList" : [ {
@@ -300,6 +303,9 @@
     }, {
       "lowerField" : "it_breda_52_autocannone",
       "upperField" : "Breda 90/53"
+    }, {
+      "lowerField" : "it_fiat_6614_firos",
+      "upperField" : "FIROS 6"
     } ]
   } ]
 }

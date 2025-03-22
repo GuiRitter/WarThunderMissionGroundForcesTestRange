@@ -10,6 +10,9 @@
       "blk" : "fr_amc_35",
       "title" : "AMC.35 (ACG.1)"
     }, {
+      "blk" : "fr_amd_35_kwk39",
+      "title" : "AMD.35 (PaK)"
+    }, {
       "blk" : "fr_crusader_mk_2",
       "title" : "▄Crusader Mk.II"
     }, {
@@ -27,6 +30,9 @@
     }, {
       "blk" : "fr_amx_13_90",
       "title" : "AMX-13-90"
+    }, {
+      "blk" : "fr_marder_df_105",
+      "title" : "DF105"
     }, {
       "blk" : "fr_mars_15",
       "title" : "MARS 15"
@@ -254,17 +260,20 @@
       "blk" : "fr_somua_sm",
       "title" : "Somua SM"
     }, {
+      "blk" : "fr_marder_clovis",
+      "title" : "CLOVIS"
+    }, {
       "blk" : "fr_amx_30",
       "title" : "AMX-30"
-    }, {
-      "blk" : "fr_amx_50_1950",
-      "title" : "AMX-50 (TO90/930)"
     }, {
       "blk" : "fr_amx_30_super",
       "title" : "AMX-30 Super"
     }, {
       "blk" : "fr_vbci2_mct30",
       "title" : "VBCI-2 (MCT30)"
+    }, {
+      "blk" : "fr_cv_9035_nl",
+      "title" : "CV 9035NL"
     } ]
   }, {
     "cellList" : [ {
@@ -280,14 +289,17 @@
       "blk" : "fr_panhard_ebr_1954",
       "title" : "E.B.R. (1954)"
     }, {
+      "blk" : "fr_m46_patton",
+      "title" : "▄M46"
+    }, {
       "blk" : "fr_panhard_ebr_1963",
       "title" : "E.B.R. (1963)"
     }, {
       "blk" : "fr_amx_50_surblinde",
       "title" : "AMX-50 Surblindé"
     }, {
-      "blk" : "fr_cv_9035_nl",
-      "title" : "CV 9035NL"
+      "blk" : "fr_amx_50_1950",
+      "title" : "AMX-50 (TO90/930)"
     } ]
   } ]
 }

@@ -13,6 +13,9 @@
       "lowerField" : "germ_pzkpfw_38t_na",
       "upperField" : "Pz.38(t) n.A."
     }, {
+      "lowerField" : "germ_amd_35_kwk39",
+      "upperField" : "Pz.Sp.Wg.P204(f) PaK"
+    }, {
       "lowerField" : "germ_sdkfz_234_2",
       "upperField" : "s.Pz.Sp.Wg. (5 cm 39/1 L60)"
     }, {
@@ -383,6 +386,9 @@
       "lowerField" : "germ_mkpz_m47",
       "upperField" : "mKPz M47"
     }, {
+      "lowerField" : "germ_marder_clovis",
+      "upperField" : "Marder, CLOVIS, FL 20, 105 MM"
+    }, {
       "lowerField" : "germ_erprobungstrager_3_achs_turm",
       "upperField" : "Erprobungsträger mit 3-achs-stabilisiertem Turm"
     }, {
@@ -395,14 +401,11 @@
       "lowerField" : "germ_leopard_c2_mexas",
       "upperField" : "C2A1"
     }, {
-      "lowerField" : "germ_leopard_2a4_pzbtl_123",
-      "upperField" : "Leopard 2 (PzBtl 123)"
+      "lowerField" : "germ_boxer_3105",
+      "upperField" : "Boxer MGS"
     }, {
       "lowerField" : "germ_vilkas",
       "upperField" : "Pėstininkų kovos mašina Vilkas"
-    }, {
-      "lowerField" : "germ_boxer_3105",
-      "upperField" : "Boxer MGS"
     }, {
       "lowerField" : "germ_leopard_2a4m_can",
       "upperField" : "Leopard 2A4M CAN"
@@ -493,11 +496,14 @@
       "lowerField" : "germ_th_800_bismark",
       "upperField" : "Class 3 (P)"
     }, {
+      "lowerField" : "germ_leopard_2av",
+      "upperField" : "KPz Leopard 2AV, PT-19/T19-AV"
+    }, {
       "lowerField" : "germ_leopard_2_pt14",
       "upperField" : "PT-16/T14 mod."
     }, {
-      "lowerField" : "germ_leopard_2av",
-      "upperField" : "KPz Leopard 2AV, PT-19/T19-AV"
+      "lowerField" : "germ_leopard_2a4_pzbtl_123",
+      "upperField" : "Leopard 2 (PzBtl 123)"
     } ]
   } ]
 }

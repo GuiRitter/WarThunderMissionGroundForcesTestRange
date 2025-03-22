@@ -1,17 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "ussr_9a33bm3",
-      "upperField" : "ussr_9a33bm3"
+      "lowerField" : "ussr_2s19_m1",
+      "upperField" : "ussr_2s19_m1"
     }, {
-      "lowerField" : "ussr_object_140",
-      "upperField" : "ussr_object_140"
-    }, {
-      "lowerField" : "ussr_bmd_4m",
-      "upperField" : "ussr_bmd_4m"
-    }, {
-      "lowerField" : "ussr_kv_7_u13",
-      "upperField" : "ussr_kv_7_u13"
+      "lowerField" : "ussr_2s19_m2",
+      "upperField" : "ussr_2s19_m2"
     } ]
   } ]
 }

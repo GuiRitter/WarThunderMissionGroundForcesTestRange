@@ -1,20 +1,8 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "us_m36b2",
-      "upperField" : "us_m36b2"
-    }, {
-      "lowerField" : "us_t77e1",
-      "upperField" : "us_t77e1"
-    }, {
-      "lowerField" : "us_skink_aa",
-      "upperField" : "us_skink_aa"
-    }, {
-      "lowerField" : "us_m44",
-      "upperField" : "us_m44"
-    }, {
-      "lowerField" : "us_rdf_lt",
-      "upperField" : "us_rdf_lt"
+      "lowerField" : "us_xm246",
+      "upperField" : "us_xm246"
     } ]
   } ]
 }

@@ -1,20 +1,14 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "uk_m44",
-      "upperField" : "uk_m44"
+      "lowerField" : "uk_a25_mk_8",
+      "upperField" : "uk_a25_mk_8"
     }, {
-      "lowerField" : "uk_9a33bm2",
-      "upperField" : "uk_9a33bm2"
+      "lowerField" : "uk_shir_2",
+      "upperField" : "uk_shir_2"
     }, {
-      "lowerField" : "uk_9a35_m",
-      "upperField" : "uk_9a35_m"
-    }, {
-      "lowerField" : "uk_fv107_scimitar",
-      "upperField" : "uk_fv107_scimitar"
-    }, {
-      "lowerField" : "uk_m4a5_ram_2",
-      "upperField" : "uk_m4a5_ram_2"
+      "lowerField" : "uk_tracked_rapier",
+      "upperField" : "uk_tracked_rapier"
     } ]
   } ]
 }

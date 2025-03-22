@@ -217,6 +217,9 @@
       "lowerField" : "uk_rooikat_za_35",
       "upperField" : "Rooikat ZA-35"
     }, {
+      "lowerField" : "uk_tracked_rapier",
+      "upperField" : "Tracked Rapier Launch Vehicle RCM 748"
+    }, {
       "lowerField" : "uk_stormer_air_defence",
       "upperField" : "Stormer Air Defence"
     }, {
@@ -239,6 +242,9 @@
     }, {
       "lowerField" : "uk_marmon_herrington_mk_6_2pdr",
       "upperField" : "SARC MkVI (2pdr)"
+    }, {
+      "lowerField" : "uk_a25_mk_8",
+      "upperField" : "Tank, Light Mk VIII, Harry Hopkins Mk.I (A25)"
     }, {
       "lowerField" : "uk_marmon_herrington_mk_6_6pdr",
       "upperField" : "SARC MkVI (6pdr)"
@@ -378,6 +384,9 @@
     }, {
       "lowerField" : "uk_rooikat_105_td",
       "upperField" : "Rooikat 105"
+    }, {
+      "lowerField" : "uk_shir_2",
+      "upperField" : "FV4030/3 Shir 2"
     }, {
       "lowerField" : "uk_t_90s_bheeshma",
       "upperField" : "T-90S Bhishma TWMP"
