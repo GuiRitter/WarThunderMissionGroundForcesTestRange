@@ -112,6 +112,9 @@
     }, {
       "blk" : "il_mim_72_chaparral",
       "title" : "Imp.Chaparral"
+    }, {
+      "blk" : "il_spyder_aio",
+      "title" : "SPYDER"
     } ]
   }, {
     "cellList" : [ {

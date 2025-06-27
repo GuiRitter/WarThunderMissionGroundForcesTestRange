@@ -52,11 +52,11 @@
       "blk" : "ussr_t_55a",
       "title" : "T-55A"
     }, {
-      "blk" : "ussr_t_55_amd_1",
-      "title" : "T-55AMD-1"
-    }, {
       "blk" : "ussr_t_62",
       "title" : "T-62"
+    }, {
+      "blk" : "ussr_t_55_amd_1",
+      "title" : "T-55AMD-1"
     }, {
       "blk" : "ussr_t_62m1",
       "title" : "T-62M-1"
@@ -75,6 +75,9 @@
     }, {
       "blk" : "ussr_t_72b3_2011",
       "title" : "T-72B3"
+    }, {
+      "blk" : "ussr_t_72b3_arena_m",
+      "title" : "T-72B3A"
     }, {
       "blk" : "ussr_t_90m_2020",
       "title" : "T-90M"
@@ -199,6 +202,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "blk" : "ussr_garford_putilov",
+      "title" : "Garford"
+    }, {
       "blk" : "ussr_su_5_1",
       "title" : "SU-5-1"
     }, {
@@ -368,11 +374,23 @@
       "blk" : "ussr_t_34_57_1943",
       "title" : "T-34-57 (1943)"
     }, {
+      "blk" : "ussr_is_1_kit_3rank",
+      "title" : "IS-1 ('45)"
+    }, {
+      "blk" : "ussr_t_34_85_zis_53_kit_3rank",
+      "title" : "T-34-85 ('45)"
+    }, {
+      "blk" : "ussr_sdkfz_251_21_kit_3rank",
+      "title" : "Hanomag ('45)"
+    }, {
       "blk" : "ussr_m4a2_76w_sherman",
       "title" : "▂M4A2"
     }, {
       "blk" : "ussr_type_65_aa",
       "title" : "▂Phòng không T-34"
+    }, {
+      "blk" : "ussr_t_34_85_zis_53_v80",
+      "title" : "T-34-85 \"Partisan\""
     }, {
       "blk" : "ussr_kv_122",
       "title" : "KV-122"
@@ -480,6 +498,9 @@
     }, {
       "blk" : "ussr_pzkpfw_v",
       "title" : "▂T-V"
+    }, {
+      "blk" : "ussr_t_44_po",
+      "title" : "T-44 (FM)"
     }, {
       "blk" : "ussr_is_2_1944_revenge",
       "title" : "IS-2 \"Revenge\""

@@ -13,6 +13,9 @@
       "blk" : "sw_pvkv_iii",
       "title" : "Pvkv III"
     }, {
+      "blk" : "sw_m24_chaffee_dk",
+      "title" : "M24DK"
+    }, {
       "blk" : "sw_pvkv_ii",
       "title" : "Pvkv II"
     }, {
@@ -133,6 +136,9 @@
     }, {
       "blk" : "sw_crotale_ng",
       "title" : "ItO 90M"
+    }, {
+      "blk" : "sw_eldenhet_98",
+      "title" : "EldE 98"
     } ]
   }, {
     "cellList" : [ {

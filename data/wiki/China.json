@@ -128,11 +128,11 @@
       "blk" : "cn_m42_duster",
       "title" : "␗M42"
     }, {
-      "blk" : "cn_zsd63_pg87",
-      "title" : "ZSD63/PG87"
-    }, {
       "blk" : "cn_type_65_aa",
       "title" : "Phòng không T-34"
+    }, {
+      "blk" : "cn_zsd63_pg87",
+      "title" : "ZSD63/PG87"
     }, {
       "blk" : "cn_zsl_92",
       "title" : "ZSL92"
@@ -154,6 +154,9 @@
     }, {
       "blk" : "cn_hq_17",
       "title" : "HQ17"
+    }, {
+      "blk" : "cn_pgz_625_fb10",
+      "title" : "CS/SA5"
     } ]
   }, {
     "cellList" : [ {
@@ -202,11 +205,11 @@
       "blk" : "cn_hj_9",
       "title" : "AFT09"
     }, {
-      "blk" : "cn_zbd_04a",
-      "title" : "ZBD04A"
-    }, {
       "blk" : "cn_ztl_11",
       "title" : "ZLT11"
+    }, {
+      "blk" : "cn_zbd_04a",
+      "title" : "ZBD04A"
     } ]
   }, {
     "cellList" : [ {
