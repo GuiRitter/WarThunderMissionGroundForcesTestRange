@@ -52,11 +52,11 @@
       "lowerField" : "ussr_t_55a",
       "upperField" : "T-55A"
     }, {
-      "lowerField" : "ussr_t_55_amd_1",
-      "upperField" : "T-55AMD-1"
-    }, {
       "lowerField" : "ussr_t_62",
       "upperField" : "T-62"
+    }, {
+      "lowerField" : "ussr_t_55_amd_1",
+      "upperField" : "T-55AMD-1"
     }, {
       "lowerField" : "ussr_t_62m1",
       "upperField" : "T-62M-1"
@@ -75,6 +75,9 @@
     }, {
       "lowerField" : "ussr_t_72b3_2011",
       "upperField" : "T-72B3"
+    }, {
+      "lowerField" : "ussr_t_72b3_arena_m",
+      "upperField" : ""
     }, {
       "lowerField" : "ussr_t_90m_2020",
       "upperField" : "T-90M"
@@ -199,6 +202,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "ussr_garford_putilov",
+      "upperField" : ""
+    }, {
       "lowerField" : "ussr_su_5_1",
       "upperField" : "SU-5-1"
     }, {
@@ -368,11 +374,23 @@
       "lowerField" : "ussr_t_34_57_1943",
       "upperField" : "T-34-57 mod. 1943"
     }, {
+      "lowerField" : "ussr_is_1_kit_3rank",
+      "upperField" : ""
+    }, {
+      "lowerField" : "ussr_t_34_85_zis_53_kit_3rank",
+      "upperField" : ""
+    }, {
+      "lowerField" : "ussr_sdkfz_251_21_kit_3rank",
+      "upperField" : ""
+    }, {
       "lowerField" : "ussr_m4a2_76w_sherman",
       "upperField" : "★M4A2"
     }, {
       "lowerField" : "ussr_type_65_aa",
       "upperField" : "Type 65"
+    }, {
+      "lowerField" : "ussr_t_34_85_zis_53_v80",
+      "upperField" : ""
     }, {
       "lowerField" : "ussr_kv_122",
       "upperField" : "KV-122"
@@ -481,6 +499,9 @@
       "lowerField" : "ussr_pzkpfw_v",
       "upperField" : "«Panther»"
     }, {
+      "lowerField" : "ussr_t_44_po",
+      "upperField" : ""
+    }, {
       "lowerField" : "ussr_is_2_1944_revenge",
       "upperField" : "IS-2 “Revenge for the Hero brother”"
     }, {
@@ -522,6 +543,15 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "ussr_ai_sam_launcher_s_75",
+      "upperField" : ""
+    }, {
+      "lowerField" : "ussr_ai_sam_radar_p_12",
+      "upperField" : ""
+    }, {
+      "lowerField" : "ussr_ai_sam_radar_snr_75",
+      "upperField" : ""
+    }, {
       "lowerField" : "ussr_apc_bmp_1",
       "upperField" : "BMP-1"
     }, {

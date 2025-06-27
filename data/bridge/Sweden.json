@@ -13,6 +13,9 @@
       "lowerField" : "sw_pvkv_III",
       "upperField" : "Pansarvärnskanonvagn III"
     }, {
+      "lowerField" : "sw_m24_chaffee_dk",
+      "upperField" : ""
+    }, {
       "lowerField" : "sw_pvkv_II",
       "upperField" : "Pansarvärnskanonvagn II"
     }, {
@@ -133,6 +136,9 @@
     }, {
       "lowerField" : "sw_crotale_ng",
       "upperField" : "Ilmatorjuntaohjus 90M"
+    }, {
+      "lowerField" : "sw_eldenhet_98",
+      "upperField" : ""
     } ]
   }, {
     "cellList" : [ {

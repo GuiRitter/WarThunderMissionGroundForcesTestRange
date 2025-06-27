@@ -128,11 +128,11 @@
       "lowerField" : "cn_m42_duster",
       "upperField" : "✨M42 Duster"
     }, {
-      "lowerField" : "cn_zsd63_pg87",
-      "upperField" : "ZSD63/PG87, Dual-Barrel AA"
-    }, {
       "lowerField" : "cn_type_65_aa",
       "upperField" : "Xe tăng phòng không 37 mm"
+    }, {
+      "lowerField" : "cn_zsd63_pg87",
+      "upperField" : "ZSD63/PG87, Dual-Barrel AA"
     }, {
       "lowerField" : "cn_zsl_92",
       "upperField" : "ZSL92"
@@ -154,6 +154,9 @@
     }, {
       "lowerField" : "cn_hq_17",
       "upperField" : "HQ17"
+    }, {
+      "lowerField" : "cn_pgz_625_fb10",
+      "upperField" : ""
     } ]
   }, {
     "cellList" : [ {
@@ -202,11 +205,11 @@
       "lowerField" : "cn_hj_9",
       "upperField" : "AFT09"
     }, {
-      "lowerField" : "cn_zbd_04a",
-      "upperField" : "ZhuangJia BuBing LÜDai 04A"
-    }, {
       "lowerField" : "cn_ztl_11",
       "upperField" : "ZLT11"
+    }, {
+      "lowerField" : "cn_zbd_04a",
+      "upperField" : "ZhuangJia BuBing LÜDai 04A"
     } ]
   }, {
     "cellList" : [ {

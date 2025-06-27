@@ -25,11 +25,11 @@
       "lowerField" : "us_t92",
       "upperField" : "76mm Gun Tank T92"
     }, {
-      "lowerField" : "us_xm_800t",
-      "upperField" : "Armored Reconnaissance Scout Vehicle XM800T"
-    }, {
       "lowerField" : "us_m551",
       "upperField" : "152-mm Gun / Launcher M551 Sheridan"
+    }, {
+      "lowerField" : "us_xm_800t",
+      "upperField" : "Armored Reconnaissance Scout Vehicle XM800T"
     }, {
       "lowerField" : "us_m3_bradley",
       "upperField" : "Fighting Vehicle, Cavalry, M3"
@@ -213,6 +213,12 @@
     }, {
       "lowerField" : "us_adats_bradley",
       "upperField" : "Missile, Air Defence Artillery, Self-Propelled, ADATS"
+    }, {
+      "lowerField" : "us_sl_amraam_fcs",
+      "upperField" : ""
+    }, {
+      "lowerField" : "us_sl_amraam_launcher",
+      "upperField" : ""
     } ]
   }, {
     "cellList" : [ {
@@ -284,14 +290,20 @@
       "lowerField" : "us_m4_sherman_promo",
       "upperField" : "Medium Tank M4 Sherman"
     }, {
-      "lowerField" : "us_m4_sherman_calliope",
-      "upperField" : "Rocket Launcher T34 Calliope"
-    }, {
       "lowerField" : "us_t14",
       "upperField" : "Assault Tank T14"
     }, {
       "lowerField" : "us_m4a3e2_sherman_jumbo_cobra_king",
       "upperField" : "Assault Tank M4A3E2 Jumbo “Cobra King”"
+    }, {
+      "lowerField" : "us_m4a3e8_76w_sherman_kit_3rank",
+      "upperField" : ""
+    }, {
+      "lowerField" : "us_m18_hellcat_kit_3rank",
+      "upperField" : ""
+    }, {
+      "lowerField" : "us_skink_aa_kit_3rank",
+      "upperField" : ""
     }, {
       "lowerField" : "us_m18_super_hellcat",
       "upperField" : "M18 90-mm Gun Motor Carriage"
@@ -364,8 +376,14 @@
       "lowerField" : "us_t18_e2",
       "upperField" : "T18E2 \"Boarhound\""
     }, {
+      "lowerField" : "us_m4_sherman_calliope",
+      "upperField" : "Rocket Launcher T34 Calliope"
+    }, {
       "lowerField" : "us_t55e1",
       "upperField" : "T55E1"
+    }, {
+      "lowerField" : "us_t86",
+      "upperField" : ""
     }, {
       "lowerField" : "us_m18_hellcat_black_cat",
       "upperField" : "M18 Gun Motor Carriage “Black Cat”"

@@ -1,6 +1,9 @@
 {
   "columnList" : [ {
     "cellList" : [ {
+      "lowerField" : "germ_garford_putilov",
+      "upperField" : ""
+    }, {
       "lowerField" : "germ_pzkpfw_35t",
       "upperField" : "Pz.Kpfw. 35(t)"
     }, {
@@ -78,6 +81,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "germ_beutepanzer_mk_iv",
+      "upperField" : ""
+    }, {
       "lowerField" : "germ_pzkpfw_iii_ausf_e",
       "upperField" : "Pz.Kpfw. III Ausf. E"
     }, {
@@ -131,6 +137,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "germ_a7v",
+      "upperField" : ""
+    }, {
       "lowerField" : "germ_pzkpfw_iv_ausf_c",
       "upperField" : "Pz.Kpfw. IV Ausf. C"
     }, {
@@ -255,6 +264,12 @@
     }, {
       "lowerField" : "germ_flarakrad",
       "upperField" : "Flugabwehrraketensystem Roland auf Radkraftfahrzeug"
+    }, {
+      "lowerField" : "germ_iris_slm_fcs",
+      "upperField" : ""
+    }, {
+      "lowerField" : "germ_iris_slm_launcher",
+      "upperField" : ""
     } ]
   }, {
     "cellList" : [ {
