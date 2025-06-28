@@ -2,7 +2,7 @@
   "columnList" : [ {
     "cellList" : [ {
       "lowerField" : "germ_garford_putilov",
-      "upperField" : ""
+      "upperField" : "Garford-Beute"
     }, {
       "lowerField" : "germ_pzkpfw_35t",
       "upperField" : "Pz.Kpfw. 35(t)"
@@ -82,7 +82,7 @@
   }, {
     "cellList" : [ {
       "lowerField" : "germ_beutepanzer_mk_iv",
-      "upperField" : ""
+      "upperField" : "Beutepanzer IV"
     }, {
       "lowerField" : "germ_pzkpfw_iii_ausf_e",
       "upperField" : "Pz.Kpfw. III Ausf. E"
@@ -138,7 +138,7 @@
   }, {
     "cellList" : [ {
       "lowerField" : "germ_a7v",
-      "upperField" : ""
+      "upperField" : "A7V"
     }, {
       "lowerField" : "germ_pzkpfw_iv_ausf_c",
       "upperField" : "Pz.Kpfw. IV Ausf. C"
@@ -266,10 +266,10 @@
       "upperField" : "Flugabwehrraketensystem Roland auf Radkraftfahrzeug"
     }, {
       "lowerField" : "germ_iris_slm_fcs",
-      "upperField" : ""
+      "upperField" : "IRIS-T SLM, Target acquisition and designation system"
     }, {
       "lowerField" : "germ_iris_slm_launcher",
-      "upperField" : ""
+      "upperField" : "IRIS-T SLM, Transporter erector launcher"
     } ]
   }, {
     "cellList" : [ {
@@ -523,19 +523,19 @@
   }, {
     "cellList" : [ {
       "lowerField" : "germ_a7v_event",
-      "upperField" : ""
+      "upperField" : "A7V"
     }, {
       "lowerField" : "germ_apc_m113",
       "upperField" : "M113"
     }, {
       "lowerField" : "germ_beutepanzer_mk_iv_event",
-      "upperField" : ""
+      "upperField" : "Beutepanzer IV"
     }, {
       "lowerField" : "germ_garford_putilov_event",
-      "upperField" : ""
+      "upperField" : "Garford-Beute"
     }, {
       "lowerField" : "germ_machinegun_mg_08",
-      "upperField" : ""
+      "upperField" : "MG08"
     }, {
       "lowerField" : "germ_panther_ii_tutorial",
       "upperField" : "germ_panther_ii_tutorial"

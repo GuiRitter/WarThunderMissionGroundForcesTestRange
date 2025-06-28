@@ -238,7 +238,7 @@
   }, {
     "cellList" : [ {
       "lowerField" : "uk_mark_v",
-      "upperField" : ""
+      "upperField" : "Mark V"
     }, {
       "lowerField" : "uk_sarc_mk4_a",
       "upperField" : "SARC MkIVa"
@@ -280,7 +280,7 @@
       "upperField" : "Olifant Mk.1A"
     }, {
       "lowerField" : "uk_badger",
-      "upperField" : ""
+      "upperField" : "Badger ICV"
     }, {
       "lowerField" : "uk_rooikat_mttd",
       "upperField" : "Rooikat MTTD"
@@ -315,13 +315,13 @@
       "upperField" : "17pdr. M10 65th Anti-Tank Regt"
     }, {
       "lowerField" : "uk_sherman_vc_firefly_kit_3rank",
-      "upperField" : ""
+      "upperField" : "Sherman VC Firefly (Overlord)"
     }, {
       "lowerField" : "uk_a30_sp_avenger_kit_3rank",
-      "upperField" : ""
+      "upperField" : "Self-Propelled 17pdr, A30 \"Avenger\" (Overlord)"
     }, {
       "lowerField" : "uk_crusader_aa_mk_2_kit_3rank",
-      "upperField" : ""
+      "upperField" : "Tank, Cruiser, Crusader III, AA Mk II (Overlord)"
     }, {
       "lowerField" : "uk_sherman_ic_firefly",
       "upperField" : "Sherman IC 2nd «Warsaw» Armoured Division"
@@ -418,16 +418,16 @@
       "upperField" : "Crusader AA Mk II"
     }, {
       "lowerField" : "uk_garford_putilov_event",
-      "upperField" : ""
+      "upperField" : "Garford"
     }, {
       "lowerField" : "uk_machinegun_hotchkiss_mle_1914",
-      "upperField" : ""
+      "upperField" : "Hotchkiss Mle 1909"
     }, {
       "lowerField" : "uk_mark_v_event",
-      "upperField" : ""
+      "upperField" : "Mark V"
     }, {
       "lowerField" : "uk_saint_chamond_event",
-      "upperField" : ""
+      "upperField" : "St-Chamond"
     } ]
   } ]
 }

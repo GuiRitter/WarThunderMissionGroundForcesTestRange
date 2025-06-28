@@ -1,11 +1,8 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "it_c1_ariete_certezza",
-      "upperField" : "it_c1_ariete_certezza"
-    }, {
-      "lowerField" : "it_fiat_6614_firos",
-      "upperField" : "it_fiat_6614_firos"
+      "lowerField" : "it_leopard_1a2",
+      "upperField" : "it_leopard_1a2"
     } ]
   } ]
 }

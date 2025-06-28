@@ -1,14 +1,32 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "uk_a25_mk_8",
-      "upperField" : "uk_a25_mk_8"
+      "lowerField" : "uk_a30_sp_avenger_kit_3rank",
+      "upperField" : "uk_a30_sp_avenger_kit_3rank"
     }, {
-      "lowerField" : "uk_shir_2",
-      "upperField" : "uk_shir_2"
+      "lowerField" : "uk_badger",
+      "upperField" : "uk_badger"
     }, {
-      "lowerField" : "uk_tracked_rapier",
-      "upperField" : "uk_tracked_rapier"
+      "lowerField" : "uk_crusader_aa_mk_2_kit_3rank",
+      "upperField" : "uk_crusader_aa_mk_2_kit_3rank"
+    }, {
+      "lowerField" : "uk_garford_putilov_event",
+      "upperField" : "uk_garford_putilov_event"
+    }, {
+      "lowerField" : "uk_machinegun_hotchkiss_mle_1914",
+      "upperField" : "uk_machinegun_hotchkiss_mle_1914"
+    }, {
+      "lowerField" : "uk_mark_v",
+      "upperField" : "uk_mark_v"
+    }, {
+      "lowerField" : "uk_mark_v_event",
+      "upperField" : "uk_mark_v_event"
+    }, {
+      "lowerField" : "uk_saint_chamond_event",
+      "upperField" : "uk_saint_chamond_event"
+    }, {
+      "lowerField" : "uk_sherman_vc_firefly_kit_3rank",
+      "upperField" : "uk_sherman_vc_firefly_kit_3rank"
     } ]
   } ]
 }

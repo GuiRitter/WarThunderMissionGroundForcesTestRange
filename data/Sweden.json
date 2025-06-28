@@ -14,7 +14,7 @@
       "upperField" : "Pansarvärnskanonvagn III"
     }, {
       "lowerField" : "sw_m24_chaffee_dk",
-      "upperField" : ""
+      "upperField" : "Light Tank M24 Chaffee Denmark"
     }, {
       "lowerField" : "sw_pvkv_II",
       "upperField" : "Pansarvärnskanonvagn II"
@@ -138,7 +138,7 @@
       "upperField" : "Ilmatorjuntaohjus 90M"
     }, {
       "lowerField" : "sw_eldenhet_98",
-      "upperField" : ""
+      "upperField" : "EldEnhet 98"
     } ]
   }, {
     "cellList" : [ {

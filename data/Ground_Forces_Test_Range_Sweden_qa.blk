@@ -166,7 +166,7 @@ units{
   tankModels{
     name:t="tank_0_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8192.0]]
-    unit_class:t="sw_cv_90_mk4"
+    unit_class:t="sw_eldenhet_98"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -197,7 +197,7 @@ units{
   tankModels{
     name:t="tank_0_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8192.0]]
-    unit_class:t="sw_bmp_2md"
+    unit_class:t="sw_m24_chaffee_dk"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""

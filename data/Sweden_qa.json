@@ -1,11 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "sw_cv_90_mk4",
-      "upperField" : "sw_cv_90_mk4"
+      "lowerField" : "sw_eldenhet_98",
+      "upperField" : "sw_eldenhet_98"
     }, {
-      "lowerField" : "sw_bmp_2md",
-      "upperField" : "sw_bmp_2md"
+      "lowerField" : "sw_m24_chaffee_dk",
+      "upperField" : "sw_m24_chaffee_dk"
     } ]
   } ]
 }

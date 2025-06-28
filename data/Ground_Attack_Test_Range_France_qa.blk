@@ -311,8 +311,8 @@ units{
 
   tankModels{
     name:t="tank_0_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-600, 0.01, 0.0]]
-    unit_class:t="fr_amd_35_kwk39"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-400, 0.01, 0.0]]
+    unit_class:t="fr_leopard_2a4nl_les"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -342,8 +342,8 @@ units{
 
   tankModels{
     name:t="tank_0_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-200, 0.01, 0.0]]
-    unit_class:t="fr_m46_patton"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [0, 0.01, 0.0]]
+    unit_class:t="fr_msc"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -373,39 +373,8 @@ units{
 
   tankModels{
     name:t="tank_0_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [200, 0.01, 0.0]]
-    unit_class:t="fr_marder_clovis"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_0_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [600, 0.01, 0.0]]
-    unit_class:t="fr_marder_df_105"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [400, 0.01, 0.0]]
+    unit_class:t="fr_saint_chamond"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""

@@ -167,7 +167,7 @@ units{
   tankModels{
     name:t="tank_0_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8192.0]]
-    unit_class:t="cn_vt_5"
+    unit_class:t="cn_pgz_625_fb10"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""

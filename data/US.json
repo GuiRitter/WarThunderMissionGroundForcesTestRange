@@ -215,10 +215,10 @@
       "upperField" : "Missile, Air Defence Artillery, Self-Propelled, ADATS"
     }, {
       "lowerField" : "us_sl_amraam_fcs",
-      "upperField" : ""
+      "upperField" : "M1097A2 CLAWS Target acquisition and designation system"
     }, {
       "lowerField" : "us_sl_amraam_launcher",
-      "upperField" : ""
+      "upperField" : "M1097A2 CLAWS Transporter erector launcher"
     } ]
   }, {
     "cellList" : [ {
@@ -297,13 +297,13 @@
       "upperField" : "Assault Tank M4A3E2 Jumbo “Cobra King”"
     }, {
       "lowerField" : "us_m4a3e8_76w_sherman_kit_3rank",
-      "upperField" : ""
+      "upperField" : "Medium Tank M4A3 (76) W HVSS Sherman (Hell)"
     }, {
       "lowerField" : "us_m18_hellcat_kit_3rank",
-      "upperField" : ""
+      "upperField" : "M18 Gun Motor Carriage (Hell)"
     }, {
       "lowerField" : "us_skink_aa_kit_3rank",
-      "upperField" : ""
+      "upperField" : "✪Skink, Tank, Anti-Aircraft, 20 mm, Quad (Hell)"
     }, {
       "lowerField" : "us_m18_super_hellcat",
       "upperField" : "M18 90-mm Gun Motor Carriage"
@@ -383,7 +383,7 @@
       "upperField" : "T55E1"
     }, {
       "lowerField" : "us_t86",
-      "upperField" : ""
+      "upperField" : "T86"
     }, {
       "lowerField" : "us_m18_hellcat_black_cat",
       "upperField" : "M18 Gun Motor Carriage “Black Cat”"

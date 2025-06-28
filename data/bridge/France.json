@@ -61,7 +61,7 @@
   }, {
     "cellList" : [ {
       "lowerField" : "fr_saint_chamond",
-      "upperField" : ""
+      "upperField" : "St-Chamond"
     }, {
       "lowerField" : "fr_hotchkiss_h39",
       "upperField" : "Char léger modèle 1935 H modifiè 39"
@@ -100,7 +100,7 @@
       "upperField" : "AMX-30B2 BRENUS"
     }, {
       "lowerField" : "fr_msc",
-      "upperField" : ""
+      "upperField" : "Mulet Systéme Complet"
     }, {
       "lowerField" : "fr_leclerc_s1",
       "upperField" : "Leclerc Serie 1"
@@ -282,7 +282,7 @@
       "upperField" : "Infanteriegevechtsvoertuig CV 9035NL"
     }, {
       "lowerField" : "fr_leopard_2a4nl_les",
-      "upperField" : ""
+      "upperField" : "Leopard 2A4NL Opleidings-en Trainingscommando"
     } ]
   }, {
     "cellList" : [ {
