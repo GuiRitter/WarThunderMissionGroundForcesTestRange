@@ -162,4 +162,16 @@ Also, China's cn_pgz_88 can no longer be included in the missions. Previously, t
 
 For the "Other" missions, half of the event vehicles that remained have been included in the "sdi_hydra" pack, so they no longer can be included in missions: sdi_hydra, sdi_harpy, sdi_minotaur and space_rocket_launcher. The rest can still be included in missions: Goliath 303a, destroyer_heavy_tank_h, germ_launcher_vertical, us_m4_sherman_fake and ussr_sht_1_2. However, the destroyer_heavy_tank_h, the us_m4_sherman_fake and the ussr_sht_1_2 no longer render and can't be targeted anymore.
 
+After 2.47: First thing I noticed was that some vehicles came in pairs, with "_launcher" appended at the end of one of them. This I expected, as I skimmed through the release notes in-game.
+
+Second thing I noticed was some other vehicles that came in pairs, these with "_event" appended at the end of one of them. As it has been a long while since I haven't been able to keep up with the game news, I have no idea what they're for.
+
+Third thing I noticed was some vehicles named after weapons. I'm yet to find out what they're for.
+
+Fourth thing I noticed was some vehicles with "_kit_3rank" appended at the end of them. I strongly suspect I would know what they're if I had been following the news.
+
+And the fifth and last thing I noticed was some USSR vehicles with "ai_sam" in their names. I strongly suspect they're for air base defense. Funny thing is that they can't be destroyed by bombs or small caliber ammo. Also, the missiles themselves have no hitbox and won't interact with shots fired at them.
+
+A lot of new content in this update.
+
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

@@ -237,6 +237,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "blk" : "uk_mark_v",
+      "title" : "Mark V"
+    }, {
       "blk" : "uk_sarc_mk4_a",
       "title" : "SARC MkIVa"
     }, {
@@ -276,6 +279,9 @@
       "blk" : "uk_olifant_mk_1a",
       "title" : "Olifant Mk.1A"
     }, {
+      "blk" : "uk_badger",
+      "title" : "Badger"
+    }, {
       "blk" : "uk_rooikat_mttd",
       "title" : "Rooikat MTTD"
     }, {
@@ -307,6 +313,15 @@
     }, {
       "blk" : "uk_17_pdr_m10_achilles_norfolk_yeomanry",
       "title" : "Achilles (65 Rg.)"
+    }, {
+      "blk" : "uk_sherman_vc_firefly_kit_3rank",
+      "title" : "Firefly (Overlord)"
+    }, {
+      "blk" : "uk_a30_sp_avenger_kit_3rank",
+      "title" : "Avenger (Overlord)"
+    }, {
+      "blk" : "uk_crusader_aa_mk_2_kit_3rank",
+      "title" : "Crusader AA (Overlord)"
     }, {
       "blk" : "uk_sherman_ic_firefly",
       "title" : "Sherman IC \"Trzyniec\""

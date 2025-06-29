@@ -4,6 +4,12 @@
       "lowerField" : "fr_amc_34",
       "upperField" : "Automitrailleuse de Combat AMC.34 YR"
     }, {
+      "lowerField" : "fr_hotchkiss_h35",
+      "upperField" : "Char léger modèle 1935 H"
+    }, {
+      "lowerField" : "fr_fcm_36",
+      "upperField" : "Char léger d'accompagnement FCM.36"
+    }, {
       "lowerField" : "fr_amd_35",
       "upperField" : "AMD.35"
     }, {
@@ -54,8 +60,8 @@
     } ]
   }, {
     "cellList" : [ {
-      "lowerField" : "fr_hotchkiss_h35",
-      "upperField" : "Char léger modèle 1935 H"
+      "lowerField" : "fr_saint_chamond",
+      "upperField" : "St-Chamond"
     }, {
       "lowerField" : "fr_hotchkiss_h39",
       "upperField" : "Char léger modèle 1935 H modifiè 39"
@@ -93,6 +99,9 @@
       "lowerField" : "fr_amx_30_b2_brenus",
       "upperField" : "AMX-30B2 BRENUS"
     }, {
+      "lowerField" : "fr_msc",
+      "upperField" : "Mulet Systéme Complet"
+    }, {
       "lowerField" : "fr_leclerc_s1",
       "upperField" : "Leclerc Serie 1"
     }, {
@@ -107,9 +116,6 @@
     } ]
   }, {
     "cellList" : [ {
-      "lowerField" : "fr_fcm_36",
-      "upperField" : "Char léger d'accompagnement FCM.36"
-    }, {
       "lowerField" : "fr_renault_r39",
       "upperField" : "Char léger d'accompagnement 1939 R"
     }, {
@@ -274,6 +280,9 @@
     }, {
       "lowerField" : "fr_cv_9035_nl",
       "upperField" : "Infanteriegevechtsvoertuig CV 9035NL"
+    }, {
+      "lowerField" : "fr_leopard_2a4nl_les",
+      "upperField" : "Leopard 2A4NL Opleidings-en Trainingscommando"
     } ]
   }, {
     "cellList" : [ {

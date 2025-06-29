@@ -1,11 +1,8 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "il_sabra_mk1",
-      "upperField" : "il_sabra_mk1"
-    },{
-      "lowerField" : "il_namer_tsrikhon",
-      "upperField" : "il_namer_tsrikhon"
+      "lowerField" : "il_spyder_aio",
+      "upperField" : "il_spyder_aio"
     } ]
   } ]
 }

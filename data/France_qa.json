@@ -1,17 +1,14 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "fr_amd_35_kwk39",
-      "upperField" : "fr_amd_35_kwk39"
+      "lowerField" : "fr_leopard_2a4nl_les",
+      "upperField" : "fr_leopard_2a4nl_les"
     }, {
-      "lowerField" : "fr_m46_patton",
-      "upperField" : "fr_m46_patton"
+      "lowerField" : "fr_msc",
+      "upperField" : "fr_msc"
     }, {
-      "lowerField" : "fr_marder_clovis",
-      "upperField" : "fr_marder_clovis"
-    }, {
-      "lowerField" : "fr_marder_df_105",
-      "upperField" : "fr_marder_df_105"
+      "lowerField" : "fr_saint_chamond",
+      "upperField" : "fr_saint_chamond"
     } ]
   } ]
 }

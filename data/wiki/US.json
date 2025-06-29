@@ -25,11 +25,11 @@
       "blk" : "us_t92",
       "title" : "T92"
     }, {
-      "blk" : "us_xm_800t",
-      "title" : "XM800T"
-    }, {
       "blk" : "us_m551",
       "title" : "M551"
+    }, {
+      "blk" : "us_xm_800t",
+      "title" : "XM800T"
     }, {
       "blk" : "us_m3_bradley",
       "title" : "M3 Bradley"
@@ -213,6 +213,12 @@
     }, {
       "blk" : "us_adats_bradley",
       "title" : "ADATS"
+    }, {
+      "blk" : "us_sl_amraam_fcs",
+      "title" : "CLAWS (TADS)"
+    }, {
+      "blk" : "us_sl_amraam_launcher",
+      "title" : "CLAWS (TEL)"
     } ]
   }, {
     "cellList" : [ {
@@ -284,14 +290,20 @@
       "blk" : "us_m4_sherman_promo",
       "title" : "M4"
     }, {
-      "blk" : "us_m4_sherman_calliope",
-      "title" : "Calliope"
-    }, {
       "blk" : "us_t14",
       "title" : "T14"
     }, {
       "blk" : "us_m4a3e2_sherman_jumbo_cobra_king",
       "title" : "Cobra King"
+    }, {
+      "blk" : "us_m4a3e8_76w_sherman_kit_3rank",
+      "title" : "Sherman (Hell)"
+    }, {
+      "blk" : "us_m18_hellcat_kit_3rank",
+      "title" : "Hellcat (Hell)"
+    }, {
+      "blk" : "us_skink_aa_kit_3rank",
+      "title" : "▃Skink (Hell)"
     }, {
       "blk" : "us_m18_super_hellcat",
       "title" : "Super Hellcat"
@@ -364,8 +376,14 @@
       "blk" : "us_t18_e2",
       "title" : "T18E2"
     }, {
+      "blk" : "us_m4_sherman_calliope",
+      "title" : "Calliope"
+    }, {
       "blk" : "us_t55e1",
       "title" : "T55E1"
+    }, {
+      "blk" : "us_t86",
+      "title" : "T86"
     }, {
       "blk" : "us_m18_hellcat_black_cat",
       "title" : "M18 \"Black Cat\""

@@ -1,6 +1,9 @@
 {
   "columnList" : [ {
     "cellList" : [ {
+      "blk" : "germ_garford_putilov",
+      "title" : "Garford-Beute"
+    }, {
       "blk" : "germ_pzkpfw_35t",
       "title" : "Pz.35(t)"
     }, {
@@ -14,7 +17,7 @@
       "title" : "Pz.38(t) n.A."
     }, {
       "blk" : "germ_amd_35_kwk39",
-      "title" : "Pz.Sp.Wg.P204(f) PaK"
+      "title" : "Pz.Sp.Wg.P204(f) KwK 39/1"
     }, {
       "blk" : "germ_sdkfz_234_2",
       "title" : "Sd.Kfz.234/2"
@@ -78,6 +81,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "blk" : "germ_beutepanzer_mk_iv",
+      "title" : "Beutepanzer IV"
+    }, {
       "blk" : "germ_pzkpfw_iii_ausf_e",
       "title" : "Pz.III E"
     }, {
@@ -131,6 +137,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "blk" : "germ_a7v",
+      "title" : "A7V"
+    }, {
       "blk" : "germ_pzkpfw_iv_ausf_c",
       "title" : "Pz.IV C"
     }, {
@@ -255,6 +264,12 @@
     }, {
       "blk" : "germ_flarakrad",
       "title" : "FlaRakRad"
+    }, {
+      "blk" : "germ_iris_slm_fcs",
+      "title" : "IRIS-T SLM (TADS)"
+    }, {
+      "blk" : "germ_iris_slm_launcher",
+      "title" : "IRIS-T SLM (TEL)"
     } ]
   }, {
     "cellList" : [ {
@@ -428,7 +443,7 @@
       "title" : "Sd.Kfz.234/3"
     }, {
       "blk" : "germ_amd_35_kwk",
-      "title" : "Pz.Sp.Wg.P204(f) KwK"
+      "title" : "Pz.Sp.Wg.P204(f) KwK 38"
     }, {
       "blk" : "germ_pzkpfw_ii_ausf_h",
       "title" : "Pz.Sfl.Ic"

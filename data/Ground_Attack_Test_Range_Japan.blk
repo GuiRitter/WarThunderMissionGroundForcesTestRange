@@ -2106,6 +2106,68 @@ units{
   }
 
   tankModels{
+    name:t="tank_3_10"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-200, 0.01, 200.0]]
+    unit_class:t="jp_type_81_tansam_fcs"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_3_11"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [200, 0.01, 200.0]]
+    unit_class:t="jp_type_81_tansam_launcher"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
     name:t="tank_4_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-4200, 0.01, 600.0]]
     unit_class:t="jp_type_95_ha_go_commander"

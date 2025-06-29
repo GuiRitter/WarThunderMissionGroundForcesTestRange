@@ -27,7 +27,7 @@ public class WarThunderQAGenerator {
 		techTreeList.add(new TechTree("China", "cn"));
 		techTreeList.add(new TechTree("France", "fr"));
 		techTreeList.add(new TechTree("Germany", "germ"));
-		techTreeList.add(new TechTree("Israel", "is"));
+		techTreeList.add(new TechTree("Israel", "il"));
 		techTreeList.add(new TechTree("Italy", "it"));
 		techTreeList.add(new TechTree("Japan", "jp"));
 		techTreeList.add(new TechTree("Sweden", "sw"));

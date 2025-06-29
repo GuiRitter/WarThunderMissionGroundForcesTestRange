@@ -93,6 +93,9 @@
       "lowerField" : "it_of_40_mk_1",
       "upperField" : "Carro Armato OTO Melara OF-40"
     }, {
+      "lowerField" : "it_leopard_1a2",
+      "upperField" : "✞Leopard 1A2"
+    }, {
       "lowerField" : "it_of_40_mk_2a",
       "upperField" : "Carro Armato OTO Melara OF-40 Mk.2A"
     }, {
@@ -305,7 +308,7 @@
       "upperField" : "Breda 90/53"
     }, {
       "lowerField" : "it_fiat_6614_firos",
-      "upperField" : ""
+      "upperField" : "FIROS 6"
     } ]
   } ]
 }

@@ -1,8 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "jp_type_74_red_star",
-      "upperField" : "jp_type_74_red_star"
+      "lowerField" : "jp_type_81_tansam_fcs",
+      "upperField" : "jp_type_81_tansam_fcs"
+    }, {
+      "lowerField" : "jp_type_81_tansam_launcher",
+      "upperField" : "jp_type_81_tansam_launcher"
     } ]
   } ]
 }

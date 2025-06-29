@@ -4,6 +4,12 @@
       "blk" : "fr_amc_34",
       "title" : "AMC.34 YR"
     }, {
+      "blk" : "fr_hotchkiss_h35",
+      "title" : "H.35"
+    }, {
+      "blk" : "fr_fcm_36",
+      "title" : "FCM.36"
+    }, {
       "blk" : "fr_amd_35",
       "title" : "AMD.35"
     }, {
@@ -54,8 +60,8 @@
     } ]
   }, {
     "cellList" : [ {
-      "blk" : "fr_hotchkiss_h35",
-      "title" : "H.35"
+      "blk" : "fr_saint_chamond",
+      "title" : "St-Chamond"
     }, {
       "blk" : "fr_hotchkiss_h39",
       "title" : "H.39"
@@ -93,6 +99,9 @@
       "blk" : "fr_amx_30_b2_brenus",
       "title" : "AMX-30B2 BRENUS"
     }, {
+      "blk" : "fr_msc",
+      "title" : "MSC"
+    }, {
       "blk" : "fr_leclerc_s1",
       "title" : "Leclerc"
     }, {
@@ -107,9 +116,6 @@
     } ]
   }, {
     "cellList" : [ {
-      "blk" : "fr_fcm_36",
-      "title" : "FCM.36"
-    }, {
       "blk" : "fr_renault_r39",
       "title" : "R.35 (SA38)"
     }, {
@@ -274,6 +280,9 @@
     }, {
       "blk" : "fr_cv_9035_nl",
       "title" : "CV 9035NL"
+    }, {
+      "blk" : "fr_leopard_2a4nl_les",
+      "title" : "Leopard 2 (OTCo)"
     } ]
   }, {
     "cellList" : [ {

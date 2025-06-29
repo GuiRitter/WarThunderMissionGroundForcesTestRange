@@ -180,6 +180,12 @@
     }, {
       "lowerField" : "jp_type_81_tansam",
       "upperField" : "Type 81 (C) Tan-SAM kai"
+    }, {
+      "lowerField" : "jp_type_81_tansam_fcs",
+      "upperField" : "Tan-SAM Kai, Target acquisition and designation system"
+    }, {
+      "lowerField" : "jp_type_81_tansam_launcher",
+      "upperField" : "Tan-SAM Kai, Transporter erector launcher"
     } ]
   }, {
     "cellList" : [ {
