@@ -26,7 +26,7 @@ A War Thunder User Mission where you can check out every single player controlla
     1. Play the mission.
     2. Take the screenshot with *F12*.
     3. Check that the tanks are all present in the image without being clipped and that the empty space at the borders are minimal.
-        1. If not, use `screenshot.txt` as a guide to adjust the camera.
+        1. If not, use `screenshot.txt` as a guide to adjust the camera (values for `area_for_cutscene_0` and `area_for_cutscene_1` in `%s footer.txt`).
         2. Adjust the spread first.
             1. Measure the length of the empty space on the left and on the right. Pick the smallest one.
             2. Measure the length of the empty space on the top and on the bottom. Take the average.
