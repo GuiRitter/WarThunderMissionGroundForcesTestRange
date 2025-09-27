@@ -28,9 +28,9 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.compiler.source>16</maven.compiler.source>
-		<maven.compiler.target>16</maven.compiler.target>
-		<exec.mainClass>io.github.guiritter.war_thunder_model_lister.WarThunderModelLister</exec.mainClass>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
+		<exec.mainClass>io.github.guiritter.war_thunder.model_lister.WarThunderModelLister</exec.mainClass>
 	</properties>
 
 	<repositories>
@@ -51,9 +51,9 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.2</version>
 				<configuration>
-					<!-- Compile java 16 compatible bytecode -->
-					<source>16</source>
-					<target>16</target>
+					<!-- Compile java 17 compatible bytecode -->
+					<source>17</source>
+					<target>17</target>
 				</configuration>
 			</plugin>
 
@@ -69,7 +69,7 @@
 						<configuration>
 							<archive>
 								<manifest>
-									<mainClass>io.github.guiritter.war_thunder_model_lister.WarThunderModelLister</mainClass>
+									<mainClass>io.github.guiritter.war_thunder.model_lister.WarThunderModelLister</mainClass>
 								</manifest>
 							</archive>
 							<descriptorRefs>
