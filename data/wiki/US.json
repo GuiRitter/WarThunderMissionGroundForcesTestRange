@@ -34,6 +34,9 @@
       "blk" : "us_m3_bradley",
       "title" : "M3 Bradley"
     }, {
+      "blk" : "us_stingray",
+      "title" : "Stingray"
+    }, {
       "blk" : "us_m3a3_bradley",
       "title" : "M3A3 Bradley"
     }, {
@@ -240,6 +243,9 @@
       "blk" : "us_m44",
       "title" : "M44"
     }, {
+      "blk" : "us_m55",
+      "title" : "M55"
+    }, {
       "blk" : "us_m36",
       "title" : "M36 GMC"
     }, {
@@ -328,6 +334,9 @@
     }, {
       "blk" : "us_t54e1",
       "title" : "T54E1"
+    }, {
+      "blk" : "us_t58",
+      "title" : "T58"
     }, {
       "blk" : "us_m901_itv",
       "title" : "M901"

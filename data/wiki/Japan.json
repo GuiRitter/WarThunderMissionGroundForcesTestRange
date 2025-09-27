@@ -172,6 +172,9 @@
       "blk" : "jp_sub_i_ii_20mm",
       "title" : "SUB-I-II"
     }, {
+      "blk" : "jp_m163_vulcan",
+      "title" : "▄M163"
+    }, {
       "blk" : "jp_type_87",
       "title" : "Type 87"
     }, {
@@ -189,9 +192,17 @@
     } ]
   }, {
     "cellList" : [ {
-      "blk" : "jp_type_95_ha_go_commander",
-      "title" : "Ha-Go Commander"
+      "blk" : "jp_m60a3_tts",
+      "title" : "▄M60A3 TTS"
     }, {
+      "blk" : "jp_stingray",
+      "title" : "▄Stingray"
+    }, {
+      "blk" : "jp_oplot_t",
+      "title" : "BM Oplot-T"
+    } ]
+  }, {
+    "cellList" : [ {
       "blk" : "jp_type_95_heavy",
       "title" : "Ro-Go"
     }, {
@@ -227,9 +238,6 @@
     } ]
   }, {
     "cellList" : [ {
-      "blk" : "jp_type_3_ka_chi",
-      "title" : "Ka-Chi"
-    }, {
       "blk" : "jp_type_97_kai_td",
       "title" : "Chi-Ha Kai TD"
     }, {

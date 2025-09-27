@@ -13,6 +13,9 @@
       "blk" : "uk_crusader_mk_3",
       "title" : "Crusader III"
     }, {
+      "blk" : "uk_cruiser_ram_1",
+      "title" : "Ram I"
+    }, {
       "blk" : "uk_a27m_cromwell_5",
       "title" : "Cromwell V"
     }, {
@@ -230,10 +233,16 @@
       "title" : "▄Osa-AK"
     }, {
       "blk" : "uk_9a35_m",
-      "title" : "Strela-10M"
+      "title" : "▄Strela-10M"
     }, {
       "blk" : "uk_adats_m113a3",
       "title" : "ADATS (M113)"
+    }, {
+      "blk" : "uk_sky_sabre_fcs",
+      "title" : "Sky Sabre (TADS)"
+    }, {
+      "blk" : "uk_sky_sabre_launcher",
+      "title" : "Sky Sabre (TEL)"
     } ]
   }, {
     "cellList" : [ {
