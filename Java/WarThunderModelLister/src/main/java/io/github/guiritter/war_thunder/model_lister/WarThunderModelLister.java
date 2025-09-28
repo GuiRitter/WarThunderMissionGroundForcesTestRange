@@ -3,7 +3,6 @@ package io.github.guiritter.war_thunder.model_lister;
 import static java.lang.System.out;
 import static java.nio.file.Files.newBufferedWriter;
 import static javax.swing.JFileChooser.APPROVE_OPTION;
-import static javax.swing.JFileChooser.DIRECTORIES_ONLY;
 import static javax.swing.JFileChooser.FILES_ONLY;
 
 import java.io.BufferedWriter;
@@ -24,12 +23,12 @@ import javax.swing.JFileChooser;
 
 public final class WarThunderModelLister {
 
-	private static String UHQ_VEHICLES_TANKS_REGEX = "\\\\uhq_vehicles_tanks\\\\([^\\s]+)\\.dxp\\.bin";
+	private static String UHQ_VEHICLES_TANKS_REGEX = "/uhq_vehicles_tanks/([^\\s]+)\\.dxp\\.bin";
 	private static String HQ_TEX_TANKS_REGEX = "/hq_tex_tanks/([^\\s]+)\\.dxp\\.bin";
 	private static String TANKS_REGEX = "/tanks/([^\\s]+)\\.grp";
-	private static String TANKS_BACK_REGEX = "\\\\tanks\\\\([^\\s]+)\\.grp";
+	private static String TANKS_HQ_REGEX = "/tanks/([^\\s]+)-hq\\.dxp\\.bin";
 
-	private static File launcherLogFolder;
+	private static File warThunderBlkFile;
 
 	private static Set<String> modelSet = new HashSet<>();
 
@@ -40,25 +39,24 @@ public final class WarThunderModelLister {
 			Pattern.compile(UHQ_VEHICLES_TANKS_REGEX),
 			Pattern.compile(HQ_TEX_TANKS_REGEX),
 			Pattern.compile(TANKS_REGEX),
-			Pattern.compile(TANKS_BACK_REGEX)).toList();
+			Pattern.compile(TANKS_HQ_REGEX)).toList();
 
 	public static void main(String args[]) throws IOException {
 		out.println("main " + Arrays.toString(args));
 		if (args.length > 0) {
-			launcherLogFolder = new File(args[0]);
+			warThunderBlkFile = new File(args[0]);
 			outputFile = new File(args[1]);
 		} else {
 			JFileChooser chooser = new JFileChooser();
-			chooser.setFileSelectionMode(DIRECTORIES_ONLY);
-			chooser.setDialogTitle("Choose the .launcher_log folder");
+			chooser.setFileSelectionMode(FILES_ONLY);
+			chooser.setDialogTitle("Choose the warthunder.blk file");
 			if (chooser.showOpenDialog(null) != APPROVE_OPTION) {
 				return;
 			}
-			launcherLogFolder = chooser.getSelectedFile();
-			if (launcherLogFolder == null) {
+			warThunderBlkFile = chooser.getSelectedFile();
+			if (warThunderBlkFile == null) {
 				return;
 			}
-			chooser.setFileSelectionMode(FILES_ONLY);
 			chooser.setDialogTitle("Choose the output file");
 			if (chooser.showOpenDialog(null) != APPROVE_OPTION) {
 				return;
@@ -69,22 +67,13 @@ public final class WarThunderModelLister {
 			}
 		}
 
-		Stream.of(launcherLogFolder.listFiles()).forEach(WarThunderModelLister::treatLauncherLogFile);
+		Files.readAllLines(warThunderBlkFile.toPath(), StandardCharsets.ISO_8859_1).stream()
+					.forEach(WarThunderModelLister::treatLine);
 
 		outputWriter = newBufferedWriter(outputFile.toPath());
 
 		modelSet.stream().sorted().forEach(WarThunderModelLister::treatModel);
 		outputWriter.close();
-	}
-
-	private static final void treatLauncherLogFile(File launcherLogFile) {
-		out.println("treatLauncherLogFile " + launcherLogFile.getName());
-		try {
-			Files.readAllLines(launcherLogFile.toPath(), StandardCharsets.ISO_8859_1).stream()
-					.forEach(WarThunderModelLister::treatLine);
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
 	}
 
 	private static final void treatLine(String line) {
