@@ -60,19 +60,24 @@ namespace WarThunderModelLister
                     Console.WriteLine($"    {pattern.ProgrammaticName}");
                 }
 
-                // Simulate interaction using InvokePattern
+                // Use SelectionPattern to get selected items
                 try
                 {
-                    if (classComboBox.TryGetCurrentPattern(InvokePattern.Pattern, out object invokePatternObj))
+                    if (classComboBox.TryGetCurrentPattern(SelectionPattern.Pattern, out object selectionPatternObj))
                     {
-                        var invokePattern = (InvokePattern)invokePatternObj;
-                        invokePattern.Invoke();
-                        Console.WriteLine("  Simulated click using InvokePattern.");
+                        var selectionPattern = (SelectionPattern)selectionPatternObj;
+                        var selectedItems = selectionPattern.Current.GetSelection();
+
+                        Console.WriteLine("  Selected Items:");
+                        foreach (var item in selectedItems)
+                        {
+                            Console.WriteLine($"    {item.Current.Name}");
+                        }
                     }
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"  Failed to invoke the combo box: {ex.Message}");
+                    Console.WriteLine($"  Failed to retrieve selected items: {ex.Message}");
                 }
 
                 // Expand the combo box to load virtualized items
@@ -90,15 +95,14 @@ namespace WarThunderModelLister
                     Console.WriteLine($"  Failed to expand the combo box: {ex.Message}");
                 }
 
-                // Retrieve items using FindAll
-                var items = classComboBox.FindAll(TreeScope.Children, new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.ListItem));
+                // Retrieve all child elements without filtering
+                var children = classComboBox.FindAll(TreeScope.Children, Condition.TrueCondition);
 
-                Console.WriteLine($"  Total items (FindAll): {items.Count}");
-
-                // Optionally, list item names
-                for (int i = 0; i < items.Count; i++)
+                Console.WriteLine($"  Total child elements: {children.Count}");
+                for (int i = 0; i < children.Count; i++)
                 {
-                    Console.WriteLine($"    Item {i + 1}: {items[i].Current.Name}");
+                    var child = children[i];
+                    Console.WriteLine($"    Child {i + 1}: Name='{child.Current.Name}', ControlType='{child.Current.ControlType.ProgrammaticName}'");
                 }
             }
             catch (Exception ex)
