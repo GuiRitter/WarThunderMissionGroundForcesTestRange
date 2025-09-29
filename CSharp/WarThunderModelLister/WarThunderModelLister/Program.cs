@@ -14,6 +14,8 @@ namespace WarThunderModelLister
                 return;
             }
 
+            Stopwatch stopwatch = Stopwatch.StartNew(); // Start measuring time
+
             try
             {
                 // Find the main window of the process
@@ -84,6 +86,11 @@ namespace WarThunderModelLister
             catch (Exception ex)
             {
                 Console.WriteLine($"An error occurred: {ex.Message}");
+            }
+            finally
+            {
+                stopwatch.Stop(); // Stop measuring time
+                Console.WriteLine($"Time elapsed: {stopwatch.Elapsed.TotalSeconds} seconds");
             }
         }
     }
