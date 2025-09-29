@@ -60,26 +60,6 @@ namespace WarThunderModelLister
                     Console.WriteLine($"    {pattern.ProgrammaticName}");
                 }
 
-                // Use SelectionPattern to get selected items
-                try
-                {
-                    if (classComboBox.TryGetCurrentPattern(SelectionPattern.Pattern, out object selectionPatternObj))
-                    {
-                        var selectionPattern = (SelectionPattern)selectionPatternObj;
-                        var selectedItems = selectionPattern.Current.GetSelection();
-
-                        Console.WriteLine("  Selected Items:");
-                        foreach (var item in selectedItems)
-                        {
-                            Console.WriteLine($"    {item.Current.Name}");
-                        }
-                    }
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine($"  Failed to retrieve selected items: {ex.Message}");
-                }
-
                 // Expand the combo box to load virtualized items
                 try
                 {
@@ -95,14 +75,27 @@ namespace WarThunderModelLister
                     Console.WriteLine($"  Failed to expand the combo box: {ex.Message}");
                 }
 
-                // Retrieve all child elements without filtering
-                var children = classComboBox.FindAll(TreeScope.Children, Condition.TrueCondition);
+                // Retrieve the ControlType.List child
+                var listChild = classComboBox.FindFirst(TreeScope.Children, new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.List));
 
-                Console.WriteLine($"  Total child elements: {children.Count}");
-                for (int i = 0; i < children.Count; i++)
+                if (listChild == null)
                 {
-                    var child = children[i];
-                    Console.WriteLine($"    Child {i + 1}: Name='{child.Current.Name}', ControlType='{child.Current.ControlType.ProgrammaticName}'");
+                    Console.WriteLine("  No ControlType.List child found in the combo box.");
+                }
+                else
+                {
+                    Console.WriteLine("  ControlType.List child found. Logging details:");
+                    Console.WriteLine($"    Name: {listChild.Current.Name}");
+                    Console.WriteLine($"    BoundingRectangle: {listChild.Current.BoundingRectangle}");
+
+                    // Retrieve items from the ControlType.List child
+                    var listItems = listChild.FindAll(TreeScope.Children, new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.ListItem));
+
+                    Console.WriteLine($"    Total items in list: {listItems.Count}");
+                    for (int i = 0; i < listItems.Count; i++)
+                    {
+                        Console.WriteLine($"      Item {i + 1}: Name='{listItems[i].Current.Name}'");
+                    }
                 }
             }
             catch (Exception ex)
