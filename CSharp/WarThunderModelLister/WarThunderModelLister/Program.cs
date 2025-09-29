@@ -46,11 +46,26 @@ namespace WarThunderModelLister
                     {
                         var comboBox = comboBoxes[i];
 
-                        // Expand the combo box to load virtualized items
-                        if (comboBox.TryGetCurrentPattern(ExpandCollapsePattern.Pattern, out object pattern))
+                        try
                         {
-                            var expandCollapsePattern = (ExpandCollapsePattern)pattern;
-                            expandCollapsePattern.Expand();
+                            // Check if the combo box is enabled
+                            if (!comboBox.Current.IsEnabled)
+                            {
+                                Console.WriteLine($"Dropdown {i + 1} is not enabled.");
+                                continue;
+                            }
+
+                            // Expand the combo box to load virtualized items
+                            if (comboBox.TryGetCurrentPattern(ExpandCollapsePattern.Pattern, out object pattern))
+                            {
+                                var expandCollapsePattern = (ExpandCollapsePattern)pattern;
+                                expandCollapsePattern.Expand();
+                            }
+                        }
+                        catch (Exception ex)
+                        {
+                            Console.WriteLine($"Dropdown {i + 1}: An error occurred while expanding: {ex.Message}");
+                            continue;
                         }
 
                         // Retrieve items
