@@ -31,79 +31,74 @@ namespace WarThunderModelLister
                     return;
                 }
 
-                Console.WriteLine("Main window found. Listing dropdowns (combo boxes):");
+                Console.WriteLine("Main window found. Searching for the 'Class' combo box:");
 
-                // Find all combo boxes in the main window
-                var comboBoxes = mainWindow.FindAll(
+                // Find the 'Class' combo box
+                var classComboBox = mainWindow.FindFirst(
                     TreeScope.Descendants,
-                    new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.ComboBox)
+                    new AndCondition(
+                        new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.ComboBox),
+                        new PropertyCondition(AutomationElement.NameProperty, "Class")
+                    )
                 );
 
-                if (comboBoxes.Count == 0)
+                if (classComboBox == null)
                 {
-                    Console.WriteLine("No dropdowns (combo boxes) found in the main window.");
+                    Console.WriteLine("The 'Class' combo box was not found.");
+                    return;
                 }
-                else
+
+                Console.WriteLine("'Class' combo box found. Logging details:");
+                Console.WriteLine($"  Name: {classComboBox.Current.Name}");
+                Console.WriteLine($"  IsEnabled: {classComboBox.Current.IsEnabled}");
+                Console.WriteLine($"  BoundingRectangle: {classComboBox.Current.BoundingRectangle}");
+
+                // Log available patterns
+                Console.WriteLine("  Available Patterns:");
+                foreach (var pattern in classComboBox.GetSupportedPatterns())
                 {
-                    for (int i = 0; i < comboBoxes.Count; i++)
+                    Console.WriteLine($"    {pattern.ProgrammaticName}");
+                }
+
+                // Simulate interaction using InvokePattern
+                try
+                {
+                    if (classComboBox.TryGetCurrentPattern(InvokePattern.Pattern, out object invokePatternObj))
                     {
-                        var comboBox = comboBoxes[i];
-
-                        try
-                        {
-                            // Log basic properties of the combo box
-                            Console.WriteLine($"Dropdown {i + 1}:");
-                            Console.WriteLine($"  Name: {comboBox.Current.Name}");
-                            Console.WriteLine($"  IsEnabled: {comboBox.Current.IsEnabled}");
-                            Console.WriteLine($"  BoundingRectangle: {comboBox.Current.BoundingRectangle}");
-
-                            // Check if the combo box is enabled
-                            if (!comboBox.Current.IsEnabled)
-                            {
-                                Console.WriteLine("  Status: Not enabled.");
-                                continue;
-                            }
-
-                            // Expand the combo box to load virtualized items
-                            if (comboBox.TryGetCurrentPattern(ExpandCollapsePattern.Pattern, out object expandPattern))
-                            {
-                                var expandCollapsePattern = (ExpandCollapsePattern)expandPattern;
-                                expandCollapsePattern.Expand();
-                            }
-
-                            // Attempt to use ItemContainerPattern
-                            if (comboBox.TryGetCurrentPattern(ItemContainerPattern.Pattern, out object itemContainerPatternObj))
-                            {
-                                var itemContainerPattern = (ItemContainerPattern)itemContainerPatternObj;
-                                AutomationElement item = itemContainerPattern.FindItemByProperty(null, AutomationElement.NameProperty, null);
-
-                                int itemCount = 0;
-                                while (item != null)
-                                {
-                                    Console.WriteLine($"  Item {++itemCount}: {item.Current.Name}");
-                                    item = itemContainerPattern.FindItemByProperty(item, AutomationElement.NameProperty, null);
-                                }
-
-                                Console.WriteLine($"  Total items: {itemCount}");
-                                continue;
-                            }
-
-                            // Retrieve items using FindAll
-                            var items = comboBox.FindAll(TreeScope.Children, new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.ListItem));
-
-                            Console.WriteLine($"  Total items (FindAll): {items.Count}");
-
-                            // Optionally, list item names
-                            for (int j = 0; j < items.Count; j++)
-                            {
-                                Console.WriteLine($"    Item {j + 1}: {items[j].Current.Name}");
-                            }
-                        }
-                        catch (Exception ex)
-                        {
-                            Console.WriteLine($"  An error occurred: {ex.Message}");
-                        }
+                        var invokePattern = (InvokePattern)invokePatternObj;
+                        invokePattern.Invoke();
+                        Console.WriteLine("  Simulated click using InvokePattern.");
                     }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"  Failed to invoke the combo box: {ex.Message}");
+                }
+
+                // Expand the combo box to load virtualized items
+                try
+                {
+                    if (classComboBox.TryGetCurrentPattern(ExpandCollapsePattern.Pattern, out object expandPattern))
+                    {
+                        var expandCollapsePattern = (ExpandCollapsePattern)expandPattern;
+                        expandCollapsePattern.Expand();
+                        Console.WriteLine("  Expanded the combo box using ExpandCollapsePattern.");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"  Failed to expand the combo box: {ex.Message}");
+                }
+
+                // Retrieve items using FindAll
+                var items = classComboBox.FindAll(TreeScope.Children, new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.ListItem));
+
+                Console.WriteLine($"  Total items (FindAll): {items.Count}");
+
+                // Optionally, list item names
+                for (int i = 0; i < items.Count; i++)
+                {
+                    Console.WriteLine($"    Item {i + 1}: {items[i].Current.Name}");
                 }
             }
             catch (Exception ex)
