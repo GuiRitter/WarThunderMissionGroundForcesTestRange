@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
+using System.IO;
+using System.Threading;
 using System.Windows.Automation;
 
 namespace WarThunderModelLister
@@ -8,93 +10,117 @@ namespace WarThunderModelLister
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the PID of the process:");
-            if (!int.TryParse(Console.ReadLine(), out int pid))
+            if (args.Length < 2)
+            {
+                Console.WriteLine("Usage: <program> <PID> <output file path>");
+                return;
+            }
+
+            if (!int.TryParse(args[0], out int pid))
             {
                 Console.WriteLine("Invalid PID. Please enter a valid number.");
                 return;
             }
 
+            string outputPath = args[1];
+
             Stopwatch stopwatch = Stopwatch.StartNew(); // Start measuring time
+            bool keepTracking = true;
+
+            // Start a second thread to track elapsed time
+            Thread timeTracker = new Thread(() =>
+            {
+                while (keepTracking)
+                {
+                    Console.WriteLine($"Elapsed time: {stopwatch.Elapsed.TotalSeconds:F1} seconds");
+                    Thread.Sleep(10000); // Wait for 10 seconds
+                }
+            });
+
+            timeTracker.Start();
 
             try
             {
-                // Find the main window of the process
-                AutomationElement mainWindow = AutomationElement.RootElement.FindFirst(
-                    TreeScope.Children,
-                    new PropertyCondition(AutomationElement.ProcessIdProperty, pid)
-                );
-
-                if (mainWindow == null)
+                using (StreamWriter writer = new StreamWriter(outputPath))
                 {
-                    Console.WriteLine("No main window found for the specified PID.");
-                    return;
-                }
+                    // Find the main window of the process
+                    AutomationElement mainWindow = AutomationElement.RootElement.FindFirst(
+                        TreeScope.Children,
+                        new PropertyCondition(AutomationElement.ProcessIdProperty, pid)
+                    );
 
-                Console.WriteLine("Main window found. Searching for the 'Class' combo box:");
-
-                // Find the 'Class' combo box
-                var classComboBox = mainWindow.FindFirst(
-                    TreeScope.Descendants,
-                    new AndCondition(
-                        new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.ComboBox),
-                        new PropertyCondition(AutomationElement.NameProperty, "Class")
-                    )
-                );
-
-                if (classComboBox == null)
-                {
-                    Console.WriteLine("The 'Class' combo box was not found.");
-                    return;
-                }
-
-                Console.WriteLine("'Class' combo box found. Logging details:");
-                Console.WriteLine($"  Name: {classComboBox.Current.Name}");
-                Console.WriteLine($"  IsEnabled: {classComboBox.Current.IsEnabled}");
-                Console.WriteLine($"  BoundingRectangle: {classComboBox.Current.BoundingRectangle}");
-
-                // Log available patterns
-                Console.WriteLine("  Available Patterns:");
-                foreach (var pattern in classComboBox.GetSupportedPatterns())
-                {
-                    Console.WriteLine($"    {pattern.ProgrammaticName}");
-                }
-
-                // Expand the combo box to load virtualized items
-                try
-                {
-                    if (classComboBox.TryGetCurrentPattern(ExpandCollapsePattern.Pattern, out object expandPattern))
+                    if (mainWindow == null)
                     {
-                        var expandCollapsePattern = (ExpandCollapsePattern)expandPattern;
-                        expandCollapsePattern.Expand();
-                        Console.WriteLine("  Expanded the combo box using ExpandCollapsePattern.");
+                        writer.WriteLine("No main window found for the specified PID.");
+                        return;
                     }
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine($"  Failed to expand the combo box: {ex.Message}");
-                }
 
-                // Retrieve the ControlType.List child
-                var listChild = classComboBox.FindFirst(TreeScope.Children, new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.List));
+                    writer.WriteLine("Main window found. Searching for the 'Class' combo box:");
 
-                if (listChild == null)
-                {
-                    Console.WriteLine("  No ControlType.List child found in the combo box.");
-                }
-                else
-                {
-                    Console.WriteLine("  ControlType.List child found. Logging details:");
-                    Console.WriteLine($"    Name: {listChild.Current.Name}");
-                    Console.WriteLine($"    BoundingRectangle: {listChild.Current.BoundingRectangle}");
+                    // Find the 'Class' combo box
+                    var classComboBox = mainWindow.FindFirst(
+                        TreeScope.Descendants,
+                        new AndCondition(
+                            new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.ComboBox),
+                            new PropertyCondition(AutomationElement.NameProperty, "Class")
+                        )
+                    );
 
-                    // Retrieve items from the ControlType.List child
-                    var listItems = listChild.FindAll(TreeScope.Children, new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.ListItem));
-
-                    Console.WriteLine($"    Total items in list: {listItems.Count}");
-                    for (int i = 0; i < listItems.Count; i++)
+                    if (classComboBox == null)
                     {
-                        Console.WriteLine($"      Item {i + 1}: Name='{listItems[i].Current.Name}'");
+                        writer.WriteLine("The 'Class' combo box was not found.");
+                        return;
+                    }
+
+                    writer.WriteLine("'Class' combo box found. Logging details:");
+                    writer.WriteLine($"  Name: {classComboBox.Current.Name}");
+                    writer.WriteLine($"  IsEnabled: {classComboBox.Current.IsEnabled}");
+                    writer.WriteLine($"  BoundingRectangle: {classComboBox.Current.BoundingRectangle}");
+
+                    // Expand the combo box to load virtualized items
+                    try
+                    {
+                        if (classComboBox.TryGetCurrentPattern(ExpandCollapsePattern.Pattern, out object expandPattern))
+                        {
+                            var expandCollapsePattern = (ExpandCollapsePattern)expandPattern;
+                            expandCollapsePattern.Expand();
+                            writer.WriteLine("  Expanded the combo box using ExpandCollapsePattern.");
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        writer.WriteLine($"  Failed to expand the combo box: {ex.Message}");
+                    }
+
+                    // Retrieve the ControlType.List child
+                    var listChild = classComboBox.FindFirst(TreeScope.Children, new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.List));
+
+                    if (listChild == null)
+                    {
+                        writer.WriteLine("  No ControlType.List child found in the combo box.");
+                    }
+                    else
+                    {
+                        writer.WriteLine("  ControlType.List child found. Logging details:");
+                        writer.WriteLine($"    Name: {listChild.Current.Name}");
+                        writer.WriteLine($"    BoundingRectangle: {listChild.Current.BoundingRectangle}");
+
+                        // Retrieve items from the ControlType.List child
+                        var listItems = listChild.FindAll(TreeScope.Children, new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.ListItem));
+
+                        writer.WriteLine($"    Total items in list: {listItems.Count}");
+                        for (int i = 0; i < listItems.Count; i++)
+                        {
+                            writer.WriteLine($"==================================================");
+                            writer.WriteLine($"");
+                            writer.WriteLine($"String            : {listItems[i].Current.Name}");
+                            writer.WriteLine($"");
+                            writer.WriteLine($"Value             : 0");
+                            writer.WriteLine($"");
+                            writer.WriteLine($"==================================================");
+                            writer.WriteLine($"");
+                            writer.WriteLine($"");
+                        }
                     }
                 }
             }
@@ -104,6 +130,8 @@ namespace WarThunderModelLister
             }
             finally
             {
+                keepTracking = false; // Stop the time tracker thread
+                timeTracker.Join(); // Wait for the time tracker thread to finish
                 stopwatch.Stop(); // Stop measuring time
                 Console.WriteLine($"Time elapsed: {stopwatch.Elapsed.TotalSeconds} seconds");
             }
