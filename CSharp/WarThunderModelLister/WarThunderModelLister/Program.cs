@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using System.IO;
+using System.Linq;
 using System.Threading;
 using System.Windows.Automation;
 
@@ -10,19 +11,25 @@ namespace WarThunderModelLister
     {
         static void Main(string[] args)
         {
-            if (args.Length < 2)
+            if (args.Length < 1)
             {
-                Console.WriteLine("Usage: <program> <PID> <output file path>");
+                Console.WriteLine("Usage: <program> <output file path>");
                 return;
             }
 
-            if (!int.TryParse(args[0], out int pid))
+            string outputPath = args[0];
+
+            // Find the process named 'daEditor3x-dev.exe'
+            var process = Process.GetProcessesByName("daEditor3x-dev").FirstOrDefault();
+
+            if (process == null)
             {
-                Console.WriteLine("Invalid PID. Please enter a valid number.");
+                Console.WriteLine("Process 'daEditor3x-dev.exe' not found.");
                 return;
             }
 
-            string outputPath = args[1];
+            int pid = process.Id;
+            Console.WriteLine($"Found process 'daEditor3x-dev.exe' with PID: {pid}");
 
             Stopwatch stopwatch = Stopwatch.StartNew(); // Start measuring time
             bool keepTracking = true;
@@ -51,11 +58,11 @@ namespace WarThunderModelLister
 
                     if (mainWindow == null)
                     {
-                        writer.WriteLine("No main window found for the specified PID.");
+                        Console.WriteLine("No main window found for the specified PID.");
                         return;
                     }
 
-                    writer.WriteLine("Main window found. Searching for the 'Class' combo box:");
+                    Console.WriteLine("Main window found. Searching for the 'Class' combo box:");
 
                     // Find the 'Class' combo box
                     var classComboBox = mainWindow.FindFirst(
@@ -68,14 +75,14 @@ namespace WarThunderModelLister
 
                     if (classComboBox == null)
                     {
-                        writer.WriteLine("The 'Class' combo box was not found.");
+                        Console.WriteLine("The 'Class' combo box was not found.");
                         return;
                     }
 
-                    writer.WriteLine("'Class' combo box found. Logging details:");
-                    writer.WriteLine($"  Name: {classComboBox.Current.Name}");
-                    writer.WriteLine($"  IsEnabled: {classComboBox.Current.IsEnabled}");
-                    writer.WriteLine($"  BoundingRectangle: {classComboBox.Current.BoundingRectangle}");
+                    Console.WriteLine("'Class' combo box found. Logging details:");
+                    Console.WriteLine($"  Name: {classComboBox.Current.Name}");
+                    Console.WriteLine($"  IsEnabled: {classComboBox.Current.IsEnabled}");
+                    Console.WriteLine($"  BoundingRectangle: {classComboBox.Current.BoundingRectangle}");
 
                     // Expand the combo box to load virtualized items
                     try
@@ -84,12 +91,12 @@ namespace WarThunderModelLister
                         {
                             var expandCollapsePattern = (ExpandCollapsePattern)expandPattern;
                             expandCollapsePattern.Expand();
-                            writer.WriteLine("  Expanded the combo box using ExpandCollapsePattern.");
+                            Console.WriteLine("  Expanded the combo box using ExpandCollapsePattern.");
                         }
                     }
                     catch (Exception ex)
                     {
-                        writer.WriteLine($"  Failed to expand the combo box: {ex.Message}");
+                        Console.WriteLine($"  Failed to expand the combo box: {ex.Message}");
                     }
 
                     // Retrieve the ControlType.List child
@@ -97,28 +104,24 @@ namespace WarThunderModelLister
 
                     if (listChild == null)
                     {
-                        writer.WriteLine("  No ControlType.List child found in the combo box.");
+                        Console.WriteLine("  No ControlType.List child found in the combo box.");
                     }
                     else
                     {
-                        writer.WriteLine("  ControlType.List child found. Logging details:");
-                        writer.WriteLine($"    Name: {listChild.Current.Name}");
-                        writer.WriteLine($"    BoundingRectangle: {listChild.Current.BoundingRectangle}");
+                        Console.WriteLine("  ControlType.List child found. Logging details:");
+                        Console.WriteLine($"    Name: {listChild.Current.Name}");
+                        Console.WriteLine($"    BoundingRectangle: {listChild.Current.BoundingRectangle}");
 
                         // Retrieve items from the ControlType.List child
                         var listItems = listChild.FindAll(TreeScope.Children, new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.ListItem));
 
-                        writer.WriteLine($"    Total items in list: {listItems.Count}");
+                        Console.WriteLine($"    Total items in list: {listItems.Count}");
                         for (int i = 0; i < listItems.Count; i++)
                         {
                             writer.WriteLine($"==================================================");
-                            writer.WriteLine($"");
                             writer.WriteLine($"String            : {listItems[i].Current.Name}");
-                            writer.WriteLine($"");
                             writer.WriteLine($"Value             : 0");
-                            writer.WriteLine($"");
                             writer.WriteLine($"==================================================");
-                            writer.WriteLine($"");
                             writer.WriteLine($"");
                         }
                     }
