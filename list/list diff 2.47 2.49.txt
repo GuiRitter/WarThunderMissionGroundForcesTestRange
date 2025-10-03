@@ -1,12 +1,4 @@
-lines only in old:
-
-us_m4a3e8_76w_sherman
-us_m50_ontos
-us_m551
-us_m551_76
-us_m551_football
-us_railway_boxcar_wagon
-us_railway_gondola_wagon
+no lines only in old
 
 lines only in new:
 

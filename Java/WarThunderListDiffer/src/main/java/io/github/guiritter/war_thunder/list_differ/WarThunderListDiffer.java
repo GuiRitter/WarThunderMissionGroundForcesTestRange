@@ -84,7 +84,7 @@ public final class WarThunderListDiffer {
                     linesOnlyOld.add(linesOld.get(indexOld));
                     indexOld++;
                 } else {
-                    compare = linesOld.get(indexOld).compareTo(linesNew.get(indexNew));
+                    compare = linesOld.get(indexOld).compareToIgnoreCase(linesNew.get(indexNew));
                     if (compare < 0) {
                         linesOnlyOld.add(linesOld.get(indexOld));
                         indexOld++;
