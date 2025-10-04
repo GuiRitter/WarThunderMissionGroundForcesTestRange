@@ -172,6 +172,9 @@
       "lowerField" : "jp_sub_i_ii_20mm",
       "upperField" : "Mitsubishi SUB-I-II"
     }, {
+      "lowerField" : "jp_m163_vulcan",
+      "upperField" : "☀Gun, Air Defence Artilery, Self-propelled 20-mm, M163"
+    }, {
       "lowerField" : "jp_type_87",
       "upperField" : "Twin 35mm Self-Propelled Guns Type 87"
     }, {
@@ -186,6 +189,17 @@
     }, {
       "lowerField" : "jp_type_81_tansam_launcher",
       "upperField" : "Tan-SAM Kai, Transporter erector launcher"
+    } ]
+  }, {
+    "cellList" : [ {
+      "lowerField" : "jp_m60a3_tts",
+      "upperField" : "☀105 mm Gun Tank M60A3 TTS"
+    }, {
+      "lowerField" : "jp_stingray",
+      "upperField" : "☀Stingray"
+    }, {
+      "lowerField" : "jp_oplot_t",
+      "upperField" : "☀BM Oplot-T"
     } ]
   }, {
     "cellList" : [ {

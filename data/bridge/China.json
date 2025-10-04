@@ -46,6 +46,9 @@
       "lowerField" : "cn_mbt2000",
       "upperField" : "MBT2000"
     }, {
+      "lowerField" : "cn_vt_4",
+      "upperField" : "VT4"
+    }, {
       "lowerField" : "cn_wz_1001",
       "upperField" : "WZ1001(E) LCT"
     }, {
@@ -172,6 +175,9 @@
       "lowerField" : "cn_m10",
       "upperField" : "✨3-inch Gun Motor Carriage M10"
     }, {
+      "lowerField" : "cn_m55",
+      "upperField" : "Howitzer, Self-propelled, Full Tracked: 203-mm, M55"
+    }, {
       "lowerField" : "cn_isu_152",
       "upperField" : "✨ISU-152"
     }, {
@@ -260,6 +266,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "cn_wz_141",
+      "upperField" : ""
+    }, {
       "lowerField" : "cn_plz_83_130",
       "upperField" : "HuoPao LiuDan ZiXing 83"
     }, {

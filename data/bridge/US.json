@@ -34,6 +34,9 @@
       "lowerField" : "us_m3_bradley",
       "upperField" : "Fighting Vehicle, Cavalry, M3"
     }, {
+      "lowerField" : "us_stingray",
+      "upperField" : "Stingray"
+    }, {
       "lowerField" : "us_m3a3_bradley",
       "upperField" : "Fighting Vehicle, Cavalry, M3A3"
     }, {
@@ -240,6 +243,9 @@
       "lowerField" : "us_m44",
       "upperField" : "Howitzer, Self-propelled, Full Tracked: 155-mm, M44"
     }, {
+      "lowerField" : "us_m55",
+      "upperField" : "Howitzer, Self-propelled, Full Tracked: 203-mm, M55"
+    }, {
       "lowerField" : "us_m36",
       "upperField" : "90-mm Gun Motor Carriage M36"
     }, {
@@ -328,6 +334,9 @@
     }, {
       "lowerField" : "us_t54e1",
       "upperField" : "T54E1"
+    }, {
+      "lowerField" : "us_t58",
+      "upperField" : "Heavy Tank T58"
     }, {
       "lowerField" : "us_m901_itv",
       "upperField" : "Combat Vehicle, Anti-tank, Improved TOW Vehicle, M901"

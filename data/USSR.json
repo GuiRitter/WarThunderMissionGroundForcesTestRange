@@ -197,6 +197,9 @@
       "lowerField" : "ussr_2s25",
       "upperField" : "2S25 \"Sprut-SD\""
     }, {
+      "lowerField" : "ussr_bmd_4m2",
+      "upperField" : "BMD-4M2"
+    }, {
       "lowerField" : "ussr_2s25m",
       "upperField" : "2S25M \"Sprut-SDM1\""
     } ]
@@ -329,6 +332,12 @@
     }, {
       "lowerField" : "ussr_pantsyr_s1",
       "upperField" : "96K6 Pantsir-S1"
+    }, {
+      "lowerField" : "ussr_buk_m3_fcs",
+      "upperField" : "9K317M \"BUK-M3\", Target acquisition and designation system"
+    }, {
+      "lowerField" : "ussr_buk_m3_launcher",
+      "upperField" : "9K317M \"BUK-M3\", Transporter erector launcher"
     } ]
   }, {
     "cellList" : [ {

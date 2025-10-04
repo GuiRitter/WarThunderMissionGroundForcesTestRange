@@ -151,6 +151,12 @@
     }, {
       "lowerField" : "it_otomatic",
       "upperField" : "OTO Main Anti-aircraft Tank for Intercept and Combat"
+    }, {
+      "lowerField" : "it_samp_t_fcs",
+      "upperField" : "✞FSAF SAMP/T (Mamba), Target acquisition and designation system"
+    }, {
+      "lowerField" : "it_samp_t_launcher",
+      "upperField" : "✞FSAF SAMP/T (Mamba), Transporter erector launcher"
     } ]
   }, {
     "cellList" : [ {
@@ -177,6 +183,9 @@
     }, {
       "lowerField" : "it_semovente_m43_75_34",
       "upperField" : "Semovente 75/34 M43"
+    }, {
+      "lowerField" : "it_m55",
+      "upperField" : "✞Howitzer, Self-propelled, Full Tracked: 203-mm, M55"
     }, {
       "lowerField" : "it_semovente_m41m_90",
       "upperField" : "Semovente 90/53 M41M"

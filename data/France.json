@@ -195,6 +195,12 @@
     }, {
       "lowerField" : "fr_crotale_ng",
       "upperField" : "⦿Ilmatorjuntaohjus 90M"
+    }, {
+      "lowerField" : "fr_samp_t_fcs",
+      "upperField" : "FSAF SAMP/T (Mamba), Target acquisition and designation system"
+    }, {
+      "lowerField" : "fr_samp_t_launcher",
+      "upperField" : "FSAF SAMP/T (Mamba), Transporter erector launcher"
     } ]
   }, {
     "cellList" : [ {
@@ -215,6 +221,9 @@
     }, {
       "lowerField" : "fr_m44",
       "upperField" : "⦿Howitzer, Self-propelled, Full Tracked: 155-mm, M44"
+    }, {
+      "lowerField" : "fr_m55",
+      "upperField" : "⦿Howitzer, Self-propelled, Full Tracked: 203-mm, M55"
     }, {
       "lowerField" : "fr_m36b2_cefeo",
       "upperField" : "⦿90 mm Gun Motor Carriage M36B2"
