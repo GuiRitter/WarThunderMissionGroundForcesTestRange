@@ -174,4 +174,6 @@ And the fifth and last thing I noticed was some USSR vehicles with "ai_sam" in t
 
 A lot of new content in this update.
 
+After 2.49: this one took me a while longer because I found issues in the tool I used to generate the list of tankModels in the game: some items were missing and others were duplicated. So I finally had to create my own tool and other tools to ensure nothing was lost during all this time when I was using a faulty tool. Surprisingly, it seems like this is the first update when the tool failed. Well, it won't fail anymore. As for the rest, nothing exceptional.
+
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission
