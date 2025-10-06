@@ -118,11 +118,7 @@ namespace WarThunderModelLister
                         Console.WriteLine($"    Total items in list: {listItems.Count}");
                         for (int i = 0; i < listItems.Count; i++)
                         {
-                            writer.WriteLine($"==================================================");
-                            writer.WriteLine($"String            : {listItems[i].Current.Name}");
-                            writer.WriteLine($"Value             : 0");
-                            writer.WriteLine($"==================================================");
-                            writer.WriteLine($"");
+                            writer.WriteLine(listItems[i].Current.Name);
                         }
                     }
                 }
