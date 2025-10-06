@@ -112,10 +112,10 @@
       "title" : "Tiger E"
     }, {
       "blk" : "germ_pzkpfw_vi_ausf_b_tiger_iip",
-      "title" : "Tiger II (P)"
+      "title" : "Tiger II (Nr.1-50)"
     }, {
       "blk" : "germ_pzkpfw_vi_ausf_b_tiger_iih",
-      "title" : "Tiger II (H)"
+      "title" : "Tiger II"
     }, {
       "blk" : "germ_mkpz_m48a2c",
       "title" : "M48A2 C"
@@ -260,7 +260,7 @@
       "title" : "◊Osa-AK"
     }, {
       "blk" : "germ_9a35_m",
-      "title" : "Strela-10M"
+      "title" : "◊Strela-10M"
     }, {
       "blk" : "germ_flarakrad",
       "title" : "FlaRakRad"
@@ -302,6 +302,9 @@
     }, {
       "blk" : "germ_stug_iii_ausf_g",
       "title" : "StuG III G"
+    }, {
+      "blk" : "germ_m55",
+      "title" : "◄M55"
     }, {
       "blk" : "germ_jgdpz_iv_l48",
       "title" : "Jagdpanzer IV"
@@ -426,7 +429,7 @@
       "title" : "Leopard 2A4M"
     }, {
       "blk" : "germ_leopard_2pl",
-      "title" : "Leopard 2 PL"
+      "title" : "Leopard 2PL"
     }, {
       "blk" : "germ_leopard_2a5_yt_cup_2019",
       "title" : "␙Leopard 2A5"
@@ -491,7 +494,7 @@
       "title" : "SPz 12-3 LGS"
     }, {
       "blk" : "germ_pzkpfw_vi_ausf_b_tiger_iih_sla",
-      "title" : "Tiger II (H) Sla.16"
+      "title" : "Tiger II (Sla.16)"
     }, {
       "blk" : "germ_pzkpfw_vi_ausf_b_tiger_iih_kwk46",
       "title" : "Tiger II (10.5 cm Kw.K)"

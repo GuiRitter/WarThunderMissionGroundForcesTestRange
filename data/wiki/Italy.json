@@ -147,10 +147,16 @@
       "title" : "▄Osa-AKM"
     }, {
       "blk" : "it_9a35_m",
-      "title" : "Strela-10M"
+      "title" : "▄Strela-10M"
     }, {
       "blk" : "it_otomatic",
       "title" : "OTOMATIC"
+    }, {
+      "blk" : "it_samp_t_fcs",
+      "title" : "FSAF SAMP/T (TADS)"
+    }, {
+      "blk" : "it_samp_t_launcher",
+      "title" : "FSAF SAMP/T (TEL)"
     } ]
   }, {
     "cellList" : [ {
@@ -177,6 +183,9 @@
     }, {
       "blk" : "it_semovente_m43_75_34",
       "title" : "75/34 M43"
+    }, {
+      "blk" : "it_m55",
+      "title" : "▄M55"
     }, {
       "blk" : "it_semovente_m41m_90",
       "title" : "90/53 M41M"

@@ -195,6 +195,12 @@
     }, {
       "blk" : "fr_crotale_ng",
       "title" : "▄ItO 90M"
+    }, {
+      "blk" : "fr_samp_t_fcs",
+      "title" : "FSAF SAMP/T (Mamba) (TADS)"
+    }, {
+      "blk" : "fr_samp_t_launcher",
+      "title" : "FSAF SAMP/T (Mamba) (TEL)"
     } ]
   }, {
     "cellList" : [ {
@@ -215,6 +221,9 @@
     }, {
       "blk" : "fr_m44",
       "title" : "▄M44"
+    }, {
+      "blk" : "fr_m55",
+      "title" : "▄M55"
     }, {
       "blk" : "fr_m36b2_cefeo",
       "title" : "▄M36B2"

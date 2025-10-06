@@ -1,23 +1,17 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "us_m18_hellcat_kit_3rank",
-      "upperField" : "us_m18_hellcat_kit_3rank"
+      "lowerField" : "us_m4_sherman_fake",
+      "upperField" : "us_m4_sherman_fake"
     }, {
-      "lowerField" : "us_m4a3e8_76w_sherman_kit_3rank",
-      "upperField" : "us_m4a3e8_76w_sherman_kit_3rank"
+      "lowerField" : "us_m55",
+      "upperField" : "us_m55"
     }, {
-      "lowerField" : "us_skink_aa_kit_3rank",
-      "upperField" : "us_skink_aa_kit_3rank"
+      "lowerField" : "us_stingray",
+      "upperField" : "us_stingray"
     }, {
-      "lowerField" : "us_sl_amraam_fcs",
-      "upperField" : "us_sl_amraam_fcs"
-    }, {
-      "lowerField" : "us_sl_amraam_launcher",
-      "upperField" : "us_sl_amraam_launcher"
-    }, {
-      "lowerField" : "us_t86",
-      "upperField" : "us_t86"
+      "lowerField" : "us_t58",
+      "upperField" : "us_t58"
     } ]
   } ]
 }

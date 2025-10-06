@@ -303,6 +303,9 @@
       "lowerField" : "germ_stug_iii_ausf_g",
       "upperField" : "Sturmgeschütz III Ausf. G"
     }, {
+      "lowerField" : "germ_m55",
+      "upperField" : "✙Howitzer, Self-propelled, Full Tracked: 203-mm, M55"
+    }, {
       "lowerField" : "germ_jgdpz_iv_l48",
       "upperField" : "Jagdpanzer IV"
     }, {

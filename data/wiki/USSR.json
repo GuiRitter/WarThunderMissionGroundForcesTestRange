@@ -197,6 +197,9 @@
       "blk" : "ussr_2s25",
       "title" : "2S25"
     }, {
+      "blk" : "ussr_bmd_4m2",
+      "title" : "BMD-4M2"
+    }, {
       "blk" : "ussr_2s25m",
       "title" : "2S25M"
     } ]
@@ -329,6 +332,12 @@
     }, {
       "blk" : "ussr_pantsyr_s1",
       "title" : "Pantsir-S1"
+    }, {
+      "blk" : "ussr_buk_m3_fcs",
+      "title" : "9K317M \"BUK-M3\" (TADS)"
+    }, {
+      "blk" : "ussr_buk_m3_launcher",
+      "title" : "9K317M \"BUK-M3\" (TELAR)"
     } ]
   }, {
     "cellList" : [ {

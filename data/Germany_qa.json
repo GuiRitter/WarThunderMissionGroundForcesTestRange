@@ -1,35 +1,8 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "germ_a7v",
-      "upperField" : "germ_a7v"
-    }, {
-      "lowerField" : "germ_a7v_event",
-      "upperField" : "germ_a7v_event"
-    }, {
-      "lowerField" : "germ_beutepanzer_mk_iv",
-      "upperField" : "germ_beutepanzer_mk_iv"
-    }, {
-      "lowerField" : "germ_beutepanzer_mk_iv_event",
-      "upperField" : "germ_beutepanzer_mk_iv_event"
-    }, {
-      "lowerField" : "germ_garford_putilov",
-      "upperField" : "germ_garford_putilov"
-    }, {
-      "lowerField" : "germ_garford_putilov_event",
-      "upperField" : "germ_garford_putilov_event"
-    }, {
-      "lowerField" : "germ_iris_slm_fcs",
-      "upperField" : "germ_iris_slm_fcs"
-    }, {
-      "lowerField" : "germ_iris_slm_launcher",
-      "upperField" : "germ_iris_slm_launcher"
-    }, {
-      "lowerField" : "germ_machinegun_mg_08",
-      "upperField" : "germ_machinegun_mg_08"
-    }, {
-      "lowerField" : "germ_sdkfz_251_10",
-      "upperField" : "germ_sdkfz_251_10"
+      "lowerField" : "germ_m55",
+      "upperField" : "germ_m55"
     } ]
   } ]
 }

@@ -28,6 +28,9 @@
       "lowerField" : "sw_landsverk_ush_405",
       "upperField" : "Landsverk U-SH 405"
     }, {
+      "lowerField" : "sw_cv_90105",
+      "upperField" : "Combat Vehicle 90105 TML"
+    }, {
       "lowerField" : "sw_ikv_91_105",
       "upperField" : "Infanterikanonvagn 91-105"
     }, {
@@ -258,7 +261,7 @@
       "upperField" : "Combat Vehicle 9035 Denmark"
     }, {
       "lowerField" : "sw_cv_90105_tml",
-      "upperField" : "Combat Vehicle 90105 TML"
+      "upperField" : "Combat Vehicle 90105 XC-8"
     }, {
       "lowerField" : "sw_strv121b_christian2",
       "upperField" : "Stridsvagn 121B Christian II"

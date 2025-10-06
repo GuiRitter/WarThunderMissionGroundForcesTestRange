@@ -1,0 +1,1 @@
+java -jar "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\Java\WarThunderModelLister\target\war-thunder-model-lister-1.0.0-jar-with-dependencies.jar" "C:\Users\GuilhermeAlanRitter\AppData\Local\WarThunder\.launcher_log\\" "C:\jogo\War Thunder\MISSIONS\WarThunderMissionGroundForcesTestRange\list\list_2.49_test.txt"

@@ -13,6 +13,9 @@
       "lowerField" : "uk_crusader_mk_3",
       "upperField" : "Crusader Mk.III"
     }, {
+      "lowerField" : "uk_cruiser_ram_1",
+      "upperField" : "Cruiser Tank Ram I"
+    }, {
       "lowerField" : "uk_a27m_cromwell_5",
       "upperField" : "Mark VIII A27M Cromwell V"
     }, {
@@ -234,6 +237,12 @@
     }, {
       "lowerField" : "uk_adats_m113a3",
       "upperField" : "ADATS (M113)"
+    }, {
+      "lowerField" : "uk_sky_sabre_fcs",
+      "upperField" : "Sky Sabre, Target acquisition and designation system"
+    }, {
+      "lowerField" : "uk_sky_sabre_launcher",
+      "upperField" : "Sky Sabre, Transporter erector launcher"
     } ]
   }, {
     "cellList" : [ {

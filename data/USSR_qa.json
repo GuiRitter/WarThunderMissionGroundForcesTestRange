@@ -1,35 +1,17 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "ussr_ai_sam_launcher_s_75",
-      "upperField" : "ussr_ai_sam_launcher_s_75"
+      "lowerField" : "ussr_bmd_4m2",
+      "upperField" : "ussr_bmd_4m2"
     }, {
-      "lowerField" : "ussr_ai_sam_radar_p_12",
-      "upperField" : "ussr_ai_sam_radar_p_12"
+      "lowerField" : "ussr_buk_m3_fcs",
+      "upperField" : "ussr_buk_m3_fcs"
     }, {
-      "lowerField" : "ussr_ai_sam_radar_snr_75",
-      "upperField" : "ussr_ai_sam_radar_snr_75"
+      "lowerField" : "ussr_buk_m3_launcher",
+      "upperField" : "ussr_buk_m3_launcher"
     }, {
-      "lowerField" : "ussr_garford_putilov",
-      "upperField" : "ussr_garford_putilov"
-    }, {
-      "lowerField" : "ussr_is_1_kit_3rank",
-      "upperField" : "ussr_is_1_kit_3rank"
-    }, {
-      "lowerField" : "ussr_sdkfz_251_21_kit_3rank",
-      "upperField" : "ussr_sdkfz_251_21_kit_3rank"
-    }, {
-      "lowerField" : "ussr_t_34_85_zis_53_kit_3rank",
-      "upperField" : "ussr_t_34_85_zis_53_kit_3rank"
-    }, {
-      "lowerField" : "ussr_t_34_85_zis_53_v80",
-      "upperField" : "ussr_t_34_85_zis_53_v80"
-    }, {
-      "lowerField" : "ussr_t_44_po",
-      "upperField" : "ussr_t_44_po"
-    }, {
-      "lowerField" : "ussr_t_72b3_arena_m",
-      "upperField" : "ussr_t_72b3_arena_m"
+      "lowerField" : "ussr_sht_1_2",
+      "upperField" : "ussr_sht_1_2"
     } ]
   } ]
 }

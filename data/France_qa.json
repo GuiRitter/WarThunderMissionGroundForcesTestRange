@@ -1,14 +1,14 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "fr_leopard_2a4nl_les",
-      "upperField" : "fr_leopard_2a4nl_les"
+      "lowerField" : "fr_m55",
+      "upperField" : "fr_m55"
     }, {
-      "lowerField" : "fr_msc",
-      "upperField" : "fr_msc"
+      "lowerField" : "fr_samp_t_fcs",
+      "upperField" : "fr_samp_t_fcs"
     }, {
-      "lowerField" : "fr_saint_chamond",
-      "upperField" : "fr_saint_chamond"
+      "lowerField" : "fr_samp_t_launcher",
+      "upperField" : "fr_samp_t_launcher"
     } ]
   } ]
 }
