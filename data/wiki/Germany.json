@@ -339,6 +339,9 @@
       "blk" : "germ_raketenjagdpanzer_2_hot",
       "title" : "RakJPz 2 (HOT)"
     }, {
+      "blk" : "germ_jaguar_2",
+      "title" : "Jaguar 2"
+    }, {
       "blk" : "germ_wiesel_1_tow",
       "title" : "Wiesel 1A2"
     } ]
@@ -428,6 +431,9 @@
       "blk" : "germ_leopard_2a4m_can",
       "title" : "Leopard 2A4M"
     }, {
+      "blk" : "germ_leopard_2a4m_can_sm",
+      "title" : "◍Leopard 2A4M"
+    }, {
       "blk" : "germ_leopard_2pl",
       "title" : "Leopard 2PL"
     }, {
@@ -513,6 +519,9 @@
     }, {
       "blk" : "germ_th_800_bismark",
       "title" : "Class 3 (P)"
+    }, {
+      "blk" : "germ_th_400",
+      "title" : "R400"
     }, {
       "blk" : "germ_leopard_2av",
       "title" : "Leopard 2AV"

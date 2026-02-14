@@ -54,6 +54,9 @@
     }, {
       "blk" : "cn_vt_4b",
       "title" : "VT4A1"
+    }, {
+      "blk" : "cn_m1a2t",
+      "title" : "M1A2T"
     } ]
   }, {
     "cellList" : [ {
@@ -76,7 +79,7 @@
       "title" : "␗M4A1 (75) W"
     }, {
       "blk" : "cn_t_34_85_d_5t",
-      "title" : "␗Т-34-85 (S-53)"
+      "title" : "␗T-34-85 (S-53)"
     }, {
       "blk" : "cn_type_58",
       "title" : "T-34-85 Gai"
@@ -160,6 +163,9 @@
     }, {
       "blk" : "cn_pgz_625_fb10",
       "title" : "CS/SA5"
+    }, {
+      "blk" : "cn_hq_11",
+      "title" : "HQ11"
     } ]
   }, {
     "cellList" : [ {
@@ -210,6 +216,9 @@
     }, {
       "blk" : "cn_hj_9",
       "title" : "AFT09"
+    }, {
+      "blk" : "cn_cm_34",
+      "title" : "CM34"
     }, {
       "blk" : "cn_ztl_11",
       "title" : "ZLT11"
@@ -263,6 +272,9 @@
     }, {
       "blk" : "cn_vt_5",
       "title" : "VT5"
+    }, {
+      "blk" : "cn_oplot_t",
+      "title" : "Oplot-M"
     } ]
   }, {
     "cellList" : [ {
@@ -273,10 +285,10 @@
       "title" : "PLZ83-130"
     }, {
       "blk" : "cn_t_62",
-      "title" : "Т-62 №545"
+      "title" : "T-62 N545"
     }, {
       "blk" : "cn_t_80ud_478be",
-      "title" : "T-80UD/DU1"
+      "title" : "T-80UD/BE"
     }, {
       "blk" : "cn_al_khalid_1",
       "title" : "Al-Khalid-I"

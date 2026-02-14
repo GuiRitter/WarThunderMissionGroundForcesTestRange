@@ -44,7 +44,7 @@
       "title" : "Strf 9040C"
     }, {
       "blk" : "sw_cv_90120",
-      "title" : "CV 90120"
+      "title" : "CV90120-T"
     } ]
   }, {
     "cellList" : [ {
@@ -82,7 +82,7 @@
       "title" : "Strv 104"
     }, {
       "blk" : "sw_strv_103c",
-      "title" : "Strv 103С"
+      "title" : "Strv 103C"
     }, {
       "blk" : "sw_strv_105",
       "title" : "Strv 105"
@@ -142,6 +142,12 @@
     }, {
       "blk" : "sw_eldenhet_98",
       "title" : "EldE 98"
+    }, {
+      "blk" : "sw_nasams_fcs",
+      "title" : "NASAMS 3 (TADS)"
+    }, {
+      "blk" : "sw_nasams_launcher",
+      "title" : "NASAMS 3 (TEL)"
     } ]
   }, {
     "cellList" : [ {
