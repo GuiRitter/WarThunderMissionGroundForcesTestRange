@@ -211,6 +211,9 @@
       "lowerField" : "cn_hj_9",
       "upperField" : "AFT09"
     }, {
+      "lowerField" : "cn_cm_34",
+      "upperField" : ""
+    }, {
       "lowerField" : "cn_ztl_11",
       "upperField" : "ZLT11"
     }, {
@@ -263,6 +266,9 @@
     }, {
       "lowerField" : "cn_vt_5",
       "upperField" : "VT5"
+    }, {
+      "lowerField" : "cn_oplot_t",
+      "upperField" : ""
     } ]
   }, {
     "cellList" : [ {

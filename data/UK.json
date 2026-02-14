@@ -58,6 +58,9 @@
       "lowerField" : "uk_chieftain_mk_10",
       "upperField" : "Chieftain Mk.10"
     }, {
+      "lowerField" : "uk_chieftain_900",
+      "upperField" : ""
+    }, {
       "lowerField" : "uk_challenger_1",
       "upperField" : "Tank, Combat, 120-mm Gun, Challenger Mk.2"
     }, {
@@ -126,11 +129,14 @@
       "lowerField" : "uk_vickers_mbt_mk_3",
       "upperField" : "Vickers Battle Tank Mk.3"
     }, {
-      "lowerField" : "uk_vickers_mk_11",
-      "upperField" : "Vickers Mk.11"
+      "lowerField" : "uk_olifant_mk_1a",
+      "upperField" : "Olifant Mk.1A"
     }, {
-      "lowerField" : "uk_vfm_5",
-      "upperField" : "Vickers/FMC VFM5"
+      "lowerField" : "uk_olifant_mk_2",
+      "upperField" : "Olifant Mk.2"
+    }, {
+      "lowerField" : "uk_ttd",
+      "upperField" : "TTD"
     }, {
       "lowerField" : "uk_vickers_mk7",
       "upperField" : "Vickers Mk.7"
@@ -163,6 +169,9 @@
     }, {
       "lowerField" : "uk_m109a1",
       "upperField" : "✳M109A1"
+    }, {
+      "lowerField" : "uk_g6_spg",
+      "upperField" : "G6"
     }, {
       "lowerField" : "uk_a39_tortoise",
       "upperField" : "A39 Tortoise"
@@ -226,11 +235,11 @@
       "lowerField" : "uk_stormer_air_defence",
       "upperField" : "Stormer Air Defence"
     }, {
-      "lowerField" : "uk_stormer_hvm",
-      "upperField" : "FV4333 Stormer HVM"
-    }, {
       "lowerField" : "uk_9a33bm2",
       "upperField" : "✳9A33BM2 \"Osa-AK\""
+    }, {
+      "lowerField" : "uk_stormer_hvm",
+      "upperField" : "FV4333 Stormer HVM"
     }, {
       "lowerField" : "uk_9a35_m",
       "upperField" : "9A35M \"Strela-10M\""
@@ -270,9 +279,6 @@
       "lowerField" : "uk_ratel_20",
       "upperField" : "Ratel 20"
     }, {
-      "lowerField" : "uk_g6_spg",
-      "upperField" : "G6"
-    }, {
       "lowerField" : "uk_eland_90_mk_7",
       "upperField" : "Eland 90 Mk.7"
     }, {
@@ -282,23 +288,20 @@
       "lowerField" : "uk_fv721_fox",
       "upperField" : "FV721 Fox"
     }, {
+      "lowerField" : "uk_vickers_mk_11",
+      "upperField" : "Vickers Mk.11"
+    }, {
       "lowerField" : "uk_rooikat_76",
       "upperField" : "Rooikat Mk.1D"
-    }, {
-      "lowerField" : "uk_olifant_mk_1a",
-      "upperField" : "Olifant Mk.1A"
     }, {
       "lowerField" : "uk_badger",
       "upperField" : "Badger ICV"
     }, {
+      "lowerField" : "uk_vfm_5",
+      "upperField" : "Vickers/FMC VFM5"
+    }, {
       "lowerField" : "uk_rooikat_mttd",
       "upperField" : "Rooikat MTTD"
-    }, {
-      "lowerField" : "uk_olifant_mk_2",
-      "upperField" : "Olifant Mk.2"
-    }, {
-      "lowerField" : "uk_ttd",
-      "upperField" : "TTD"
     } ]
   }, {
     "cellList" : [ {
@@ -359,6 +362,9 @@
       "lowerField" : "uk_khalid",
       "upperField" : "Khalid"
     }, {
+      "lowerField" : "uk_rooikat_105_td",
+      "upperField" : "Rooikat 105"
+    }, {
       "lowerField" : "uk_challenger_1_mk_3_gulf",
       "upperField" : "Tank, Combat, 120-mm Gun, Challenger Mk.3, Desert Storm"
     }, {
@@ -409,9 +415,6 @@
       "lowerField" : "uk_centurion_shot_kal_d",
       "upperField" : "✡Sho't Kal Dalet"
     }, {
-      "lowerField" : "uk_rooikat_105_td",
-      "upperField" : "Rooikat 105"
-    }, {
       "lowerField" : "uk_shir_2",
       "upperField" : "FV4030/3 Shir 2"
     }, {
@@ -425,6 +428,9 @@
     "cellList" : [ {
       "lowerField" : "uk_crusader_aa_mk_2_tutorial",
       "upperField" : "Crusader AA Mk II"
+    }, {
+      "lowerField" : "uk_ai_sam_rapier",
+      "upperField" : ""
     }, {
       "lowerField" : "uk_garford_putilov_event",
       "upperField" : "Garford"

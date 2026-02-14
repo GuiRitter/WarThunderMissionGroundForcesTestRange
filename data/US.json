@@ -287,6 +287,9 @@
       "lowerField" : "us_mk1_grant",
       "upperField" : "Cruiser Tank Grant I"
     }, {
+      "lowerField" : "us_lvt_a1_m24",
+      "upperField" : ""
+    }, {
       "lowerField" : "us_m4a5_ram_2",
       "upperField" : "M4A5 Ram II"
     }, {
@@ -362,6 +365,9 @@
       "lowerField" : "us_m1a1_hc_usmc",
       "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC \"Click-Bait\""
     }, {
+      "lowerField" : "us_m1a1_hc_usmc_sm",
+      "upperField" : ""
+    }, {
       "lowerField" : "us_rdf_lt",
       "upperField" : "Rapid Deployment Force Light Tank"
     } ]
@@ -418,6 +424,9 @@
       "lowerField" : "us_magach_3",
       "upperField" : "✡Magach 3"
     }, {
+      "lowerField" : "us_efv_p1",
+      "upperField" : ""
+    }, {
       "lowerField" : "us_merkava_mk_1",
       "upperField" : "✪Merkava Mk.1"
     }, {
@@ -458,6 +467,9 @@
     }, {
       "lowerField" : "us_m18_hellcat_black_cat_race",
       "upperField" : "“The Hellcat”"
+    }, {
+      "lowerField" : "us_m1a1_abrams_destroyed_unit",
+      "upperField" : ""
     }, {
       "lowerField" : "us_m26_pershing_tutorial",
       "upperField" : "M26"

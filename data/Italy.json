@@ -284,9 +284,6 @@
       "lowerField" : "it_m60a1_ariete",
       "upperField" : "M60A1 132ª Divisione corazzata 'Ariete'"
     }, {
-      "lowerField" : "it_aubl_74_60_70m",
-      "upperField" : "AUBL/74 HVG"
-    }, {
       "lowerField" : "it_of_40_mtca",
       "upperField" : "Carro Armato OTO Melara OF-40 (MTCA)"
     }, {
@@ -318,6 +315,12 @@
     }, {
       "lowerField" : "it_fiat_6614_firos",
       "upperField" : "FIROS 6"
+    }, {
+      "lowerField" : "it_aubl_74_60_70m",
+      "upperField" : "AUBL/74 HVG"
+    }, {
+      "lowerField" : "it_c13_tua",
+      "upperField" : ""
     } ]
   } ]
 }

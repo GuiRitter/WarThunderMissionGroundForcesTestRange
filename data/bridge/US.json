@@ -40,6 +40,9 @@
       "lowerField" : "us_m3a3_bradley",
       "upperField" : "Fighting Vehicle, Cavalry, M3A3"
     }, {
+      "lowerField" : "us_m10_booker_late",
+      "upperField" : ""
+    }, {
       "lowerField" : "us_hstv_l",
       "upperField" : "High Survivability Test Vehicle - Lightweight"
     } ]
@@ -222,6 +225,12 @@
     }, {
       "lowerField" : "us_sl_amraam_launcher",
       "upperField" : "M1097A2 CLAWS Transporter erector launcher"
+    }, {
+      "lowerField" : "us_nasams_fcs",
+      "upperField" : ""
+    }, {
+      "lowerField" : "us_nasams_launcher",
+      "upperField" : ""
     } ]
   }, {
     "cellList" : [ {
@@ -286,6 +295,9 @@
     }, {
       "lowerField" : "us_mk1_grant",
       "upperField" : "Cruiser Tank Grant I"
+    }, {
+      "lowerField" : "us_lvt_a1_m24",
+      "upperField" : ""
     }, {
       "lowerField" : "us_m4a5_ram_2",
       "upperField" : "M4A5 Ram II"
@@ -362,6 +374,9 @@
       "lowerField" : "us_m1a1_hc_usmc",
       "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC \"Click-Bait\""
     }, {
+      "lowerField" : "us_m1a1_hc_usmc_sm",
+      "upperField" : ""
+    }, {
       "lowerField" : "us_rdf_lt",
       "upperField" : "Rapid Deployment Force Light Tank"
     } ]
@@ -417,6 +432,9 @@
     }, {
       "lowerField" : "us_magach_3",
       "upperField" : "✡Magach 3"
+    }, {
+      "lowerField" : "us_efv_p1",
+      "upperField" : ""
     }, {
       "lowerField" : "us_merkava_mk_1",
       "upperField" : "✪Merkava Mk.1"

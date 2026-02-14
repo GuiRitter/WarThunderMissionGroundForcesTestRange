@@ -34,6 +34,9 @@
       "lowerField" : "ussr_t_34_85_zis_53",
       "upperField" : "T-34-85"
     }, {
+      "lowerField" : "ussr_t_34_85_stp_s53",
+      "upperField" : ""
+    }, {
       "lowerField" : "ussr_t_44",
       "upperField" : "T-44"
     }, {
@@ -268,6 +271,9 @@
       "lowerField" : "ussr_9p149",
       "upperField" : "9P149 Shturm-S"
     }, {
+      "lowerField" : "ussr_btr_82at",
+      "upperField" : ""
+    }, {
       "lowerField" : "ussr_object_775",
       "upperField" : "Object 775"
     }, {
@@ -431,14 +437,8 @@
       "lowerField" : "ussr_t_55_am",
       "upperField" : "T-55AM-1"
     }, {
-      "lowerField" : "ussr_bmd_4",
-      "upperField" : "BMD-4"
-    }, {
       "lowerField" : "ussr_bmd_4m",
       "upperField" : "BMD-4M"
-    }, {
-      "lowerField" : "ussr_bmp_2m",
-      "upperField" : "BMP-2M"
     }, {
       "lowerField" : "ussr_2s38",
       "upperField" : "2S38"
@@ -451,6 +451,9 @@
     }, {
       "lowerField" : "ussr_t_80ue1",
       "upperField" : "T-80U-E1"
+    }, {
+      "lowerField" : "ussr_t_80ue1_sm",
+      "upperField" : ""
     } ]
   }, {
     "cellList" : [ {
@@ -535,6 +538,12 @@
       "lowerField" : "ussr_object_279",
       "upperField" : "Object 279"
     }, {
+      "lowerField" : "ussr_bmd_4",
+      "upperField" : "BMD-4"
+    }, {
+      "lowerField" : "ussr_bmp_2m",
+      "upperField" : "BMP-2M"
+    }, {
       "lowerField" : "ussr_object_292",
       "upperField" : "Object 292"
     }, {
@@ -570,6 +579,18 @@
       "lowerField" : "ussr_at_spg_9",
       "upperField" : "73 mm anti-tank gun SPG-9"
     }, {
+      "lowerField" : "ussr_bmp_2_destroyed_unit",
+      "upperField" : ""
+    }, {
+      "lowerField" : "ussr_gaz_233034_tiger_a_destroyed_unit",
+      "upperField" : ""
+    }, {
+      "lowerField" : "ussr_gaz_233034_tiger_burnt_a_destroyed_unit",
+      "upperField" : ""
+    }, {
+      "lowerField" : "ussr_gaz_233034_tiger_burnt_b_destroyed_unit",
+      "upperField" : ""
+    }, {
       "lowerField" : "ussr_gaz_mm_72k_without_crew",
       "upperField" : "72-K GAZ MM"
     }, {
@@ -584,6 +605,9 @@
     }, {
       "lowerField" : "ussr_t_72b3_2017_race",
       "upperField" : "T-72B3"
+    }, {
+      "lowerField" : "ussr_t_80u_destroyed_unit",
+      "upperField" : ""
     }, {
       "lowerField" : "ussr_t_80u_race",
       "upperField" : "T-80U"
