@@ -5,7 +5,7 @@
 
 	<groupId>io.github.guiritter</groupId>
 	<artifactId>war-thunder-q-a-generator</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<packaging>jar</packaging>
 
 	<name>War Thunder QA Generator</name>

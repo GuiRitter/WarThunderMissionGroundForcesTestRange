@@ -1,17 +1,17 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "us_m4_sherman_fake",
-      "upperField" : "us_m4_sherman_fake"
+      "lowerField" : "us_efv_p1",
+      "upperField" : "us_efv_p1"
     }, {
-      "lowerField" : "us_m55",
-      "upperField" : "us_m55"
+      "lowerField" : "us_lvt_a1_m24",
+      "upperField" : "us_lvt_a1_m24"
     }, {
-      "lowerField" : "us_stingray",
-      "upperField" : "us_stingray"
+      "lowerField" : "us_m1a1_abrams_destroyed_unit",
+      "upperField" : "us_m1a1_abrams_destroyed_unit"
     }, {
-      "lowerField" : "us_t58",
-      "upperField" : "us_t58"
+      "lowerField" : "us_m1a1_hc_usmc_sm",
+      "upperField" : "us_m1a1_hc_usmc_sm"
     } ]
   } ]
 }

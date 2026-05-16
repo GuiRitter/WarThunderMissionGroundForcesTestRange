@@ -228,7 +228,7 @@ units{
 
   tankModels{
     name:t="tank_0_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7976, 1, 8174.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7982, 1, 8174.5]]
     unit_class:t="ussr_bt_5"
     objLayer:i=1
     closed_waypoints:b=no
@@ -259,7 +259,7 @@ units{
 
   tankModels{
     name:t="tank_0_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7988, 1, 8174.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7994, 1, 8174.5]]
     unit_class:t="ussr_bt_7_1937"
     objLayer:i=1
     closed_waypoints:b=no
@@ -290,7 +290,7 @@ units{
 
   tankModels{
     name:t="tank_0_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8000, 1, 8174.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8006, 1, 8174.5]]
     unit_class:t="ussr_bt_7_m"
     objLayer:i=1
     closed_waypoints:b=no
@@ -321,7 +321,7 @@ units{
 
   tankModels{
     name:t="tank_0_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8012, 1, 8174.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8018, 1, 8174.5]]
     unit_class:t="ussr_t_50"
     objLayer:i=1
     closed_waypoints:b=no
@@ -352,7 +352,7 @@ units{
 
   tankModels{
     name:t="tank_0_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8024, 1, 8174.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8030, 1, 8174.5]]
     unit_class:t="ussr_t_34_1941_l_11"
     objLayer:i=1
     closed_waypoints:b=no
@@ -383,7 +383,7 @@ units{
 
   tankModels{
     name:t="tank_0_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8036, 1, 8174.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8042, 1, 8174.5]]
     unit_class:t="ussr_t_34_1941"
     objLayer:i=1
     closed_waypoints:b=no
@@ -414,7 +414,7 @@ units{
 
   tankModels{
     name:t="tank_0_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8048, 1, 8174.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8054, 1, 8174.5]]
     unit_class:t="ussr_t_34_1942"
     objLayer:i=1
     closed_waypoints:b=no
@@ -445,7 +445,7 @@ units{
 
   tankModels{
     name:t="tank_0_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8060, 1, 8174.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8066, 1, 8174.5]]
     unit_class:t="ussr_t_34e_stz"
     objLayer:i=1
     closed_waypoints:b=no
@@ -476,7 +476,7 @@ units{
 
   tankModels{
     name:t="tank_0_8"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8072, 1, 8174.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8174.5]]
     unit_class:t="ussr_t_34_1941_57"
     objLayer:i=1
     closed_waypoints:b=no
@@ -507,7 +507,7 @@ units{
 
   tankModels{
     name:t="tank_0_9"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8174.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8174.5]]
     unit_class:t="ussr_t_34_85_d_5t"
     objLayer:i=1
     closed_waypoints:b=no
@@ -538,7 +538,7 @@ units{
 
   tankModels{
     name:t="tank_0_10"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8174.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8174.5]]
     unit_class:t="ussr_t_34_85_zis_53"
     objLayer:i=1
     closed_waypoints:b=no
@@ -569,8 +569,8 @@ units{
 
   tankModels{
     name:t="tank_0_11"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8174.5]]
-    unit_class:t="ussr_t_44"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8174.5]]
+    unit_class:t="ussr_t_34_85_stp_s53"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -600,8 +600,8 @@ units{
 
   tankModels{
     name:t="tank_0_12"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8174.5]]
-    unit_class:t="ussr_t_44_100"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8174.5]]
+    unit_class:t="ussr_t_44"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -631,8 +631,8 @@ units{
 
   tankModels{
     name:t="tank_0_13"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8174.5]]
-    unit_class:t="ussr_t_54_1947"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8174.5]]
+    unit_class:t="ussr_t_44_100"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -662,8 +662,8 @@ units{
 
   tankModels{
     name:t="tank_0_14"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8174.5]]
-    unit_class:t="ussr_t_54_1949"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8174.5]]
+    unit_class:t="ussr_t_54_1947"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -693,8 +693,8 @@ units{
 
   tankModels{
     name:t="tank_0_15"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8174.5]]
-    unit_class:t="ussr_t_54_1951"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8174.5]]
+    unit_class:t="ussr_t_54_1949"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -724,8 +724,8 @@ units{
 
   tankModels{
     name:t="tank_0_16"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8174.5]]
-    unit_class:t="ussr_t_55a"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8174.5]]
+    unit_class:t="ussr_t_54_1951"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -755,8 +755,8 @@ units{
 
   tankModels{
     name:t="tank_0_17"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8174.5]]
-    unit_class:t="ussr_t_62"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8174.5]]
+    unit_class:t="ussr_t_55a"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -786,8 +786,8 @@ units{
 
   tankModels{
     name:t="tank_0_18"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8174.5]]
-    unit_class:t="ussr_t_55_amd_1"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8174.5]]
+    unit_class:t="ussr_t_62"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -817,8 +817,8 @@ units{
 
   tankModels{
     name:t="tank_0_19"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8174.5]]
-    unit_class:t="ussr_t_62m1"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8174.5]]
+    unit_class:t="ussr_t_55_amd_1"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -848,8 +848,8 @@ units{
 
   tankModels{
     name:t="tank_0_20"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8174.5]]
-    unit_class:t="ussr_t_72a"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8222, 1, 8174.5]]
+    unit_class:t="ussr_t_62m1"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -879,8 +879,8 @@ units{
 
   tankModels{
     name:t="tank_0_21"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8228, 1, 8174.5]]
-    unit_class:t="ussr_t_72b"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8234, 1, 8174.5]]
+    unit_class:t="ussr_t_72a"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -910,8 +910,8 @@ units{
 
   tankModels{
     name:t="tank_0_22"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8240, 1, 8174.5]]
-    unit_class:t="ussr_t_72b_1989"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8246, 1, 8174.5]]
+    unit_class:t="ussr_t_72b"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -941,8 +941,8 @@ units{
 
   tankModels{
     name:t="tank_0_23"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8252, 1, 8174.5]]
-    unit_class:t="ussr_t_90a"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8258, 1, 8174.5]]
+    unit_class:t="ussr_t_72b_1989"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -972,8 +972,8 @@ units{
 
   tankModels{
     name:t="tank_0_24"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8264, 1, 8174.5]]
-    unit_class:t="ussr_t_72b3_2011"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8270, 1, 8174.5]]
+    unit_class:t="ussr_t_90a"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1003,8 +1003,8 @@ units{
 
   tankModels{
     name:t="tank_0_25"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8276, 1, 8174.5]]
-    unit_class:t="ussr_t_72b3_arena_m"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8282, 1, 8174.5]]
+    unit_class:t="ussr_t_72b3_2011"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1034,7 +1034,38 @@ units{
 
   tankModels{
     name:t="tank_0_26"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8288, 1, 8174.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8294, 1, 8174.5]]
+    unit_class:t="ussr_t_72b3_arena_m"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_0_27"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8306, 1, 8174.5]]
     unit_class:t="ussr_t_90m_2020"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1065,7 +1096,7 @@ units{
 
   tankModels{
     name:t="tank_1_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7976, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7982, 1, 8179.5]]
     unit_class:t="ussr_t_26_1940"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1096,7 +1127,7 @@ units{
 
   tankModels{
     name:t="tank_1_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7988, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7994, 1, 8179.5]]
     unit_class:t="ussr_t_28_1938"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1127,7 +1158,7 @@ units{
 
   tankModels{
     name:t="tank_1_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8000, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8006, 1, 8179.5]]
     unit_class:t="ussr_t_28"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1158,7 +1189,7 @@ units{
 
   tankModels{
     name:t="tank_1_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8012, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8018, 1, 8179.5]]
     unit_class:t="ussr_t_28e"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1189,7 +1220,7 @@ units{
 
   tankModels{
     name:t="tank_1_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8024, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8030, 1, 8179.5]]
     unit_class:t="ussr_kv_1_l_11"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1220,7 +1251,7 @@ units{
 
   tankModels{
     name:t="tank_1_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8036, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8042, 1, 8179.5]]
     unit_class:t="ussr_kv_2_1939"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1251,7 +1282,7 @@ units{
 
   tankModels{
     name:t="tank_1_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8048, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8054, 1, 8179.5]]
     unit_class:t="ussr_kv_1s"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1282,7 +1313,7 @@ units{
 
   tankModels{
     name:t="tank_1_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8060, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8066, 1, 8179.5]]
     unit_class:t="ussr_kv_1_zis_5"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1313,7 +1344,7 @@ units{
 
   tankModels{
     name:t="tank_1_8"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8072, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8179.5]]
     unit_class:t="ussr_kv_85"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1344,7 +1375,7 @@ units{
 
   tankModels{
     name:t="tank_1_9"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8179.5]]
     unit_class:t="ussr_is_1"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1375,7 +1406,7 @@ units{
 
   tankModels{
     name:t="tank_1_10"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8179.5]]
     unit_class:t="ussr_is_2_1943"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1406,7 +1437,7 @@ units{
 
   tankModels{
     name:t="tank_1_11"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8179.5]]
     unit_class:t="ussr_is_2_1944"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1437,7 +1468,7 @@ units{
 
   tankModels{
     name:t="tank_1_12"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8179.5]]
     unit_class:t="ussr_is_2_1944_321"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1468,7 +1499,7 @@ units{
 
   tankModels{
     name:t="tank_1_13"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8179.5]]
     unit_class:t="ussr_is_3"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1499,7 +1530,7 @@ units{
 
   tankModels{
     name:t="tank_1_14"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8179.5]]
     unit_class:t="ussr_is_4m"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1530,7 +1561,7 @@ units{
 
   tankModels{
     name:t="tank_1_15"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8179.5]]
     unit_class:t="ussr_t_10m"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1561,7 +1592,7 @@ units{
 
   tankModels{
     name:t="tank_1_16"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8179.5]]
     unit_class:t="ussr_object_435"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1592,7 +1623,7 @@ units{
 
   tankModels{
     name:t="tank_1_17"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8179.5]]
     unit_class:t="ussr_t_64a_1971"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1623,7 +1654,7 @@ units{
 
   tankModels{
     name:t="tank_1_18"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8179.5]]
     unit_class:t="ussr_t_64_b_1984"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1654,7 +1685,7 @@ units{
 
   tankModels{
     name:t="tank_1_19"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8179.5]]
     unit_class:t="ussr_t_80b"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1685,7 +1716,7 @@ units{
 
   tankModels{
     name:t="tank_1_20"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8222, 1, 8179.5]]
     unit_class:t="ussr_t_80u"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1716,7 +1747,7 @@ units{
 
   tankModels{
     name:t="tank_1_21"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8228, 1, 8179.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8234, 1, 8179.5]]
     unit_class:t="ussr_t_80bvm"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1747,7 +1778,7 @@ units{
 
   tankModels{
     name:t="tank_2_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7976, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7982, 1, 8184.5]]
     unit_class:t="ussr_t_26_4"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1778,7 +1809,7 @@ units{
 
   tankModels{
     name:t="tank_2_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7988, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7994, 1, 8184.5]]
     unit_class:t="ussr_t_60_1941"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1809,7 +1840,7 @@ units{
 
   tankModels{
     name:t="tank_2_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8000, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8006, 1, 8184.5]]
     unit_class:t="ussr_t_70_1942"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1840,7 +1871,7 @@ units{
 
   tankModels{
     name:t="tank_2_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8012, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8018, 1, 8184.5]]
     unit_class:t="ussr_t_80"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1871,7 +1902,7 @@ units{
 
   tankModels{
     name:t="tank_2_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8024, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8030, 1, 8184.5]]
     unit_class:t="ussr_asu_57"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1902,7 +1933,7 @@ units{
 
   tankModels{
     name:t="tank_2_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8036, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8042, 1, 8184.5]]
     unit_class:t="ussr_pt_76b"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1933,7 +1964,7 @@ units{
 
   tankModels{
     name:t="tank_2_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8048, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8054, 1, 8184.5]]
     unit_class:t="ussr_asu_85"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1964,7 +1995,7 @@ units{
 
   tankModels{
     name:t="tank_2_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8060, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8066, 1, 8184.5]]
     unit_class:t="ussr_su_100p"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1995,7 +2026,7 @@ units{
 
   tankModels{
     name:t="tank_2_8"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8072, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8184.5]]
     unit_class:t="ussr_btr_80a"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2026,7 +2057,7 @@ units{
 
   tankModels{
     name:t="tank_2_9"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8184.5]]
     unit_class:t="ussr_bmp_1"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2057,7 +2088,7 @@ units{
 
   tankModels{
     name:t="tank_2_10"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8184.5]]
     unit_class:t="ussr_object_906"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2088,7 +2119,7 @@ units{
 
   tankModels{
     name:t="tank_2_11"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8184.5]]
     unit_class:t="ussr_bmp_2"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2119,7 +2150,7 @@ units{
 
   tankModels{
     name:t="tank_2_12"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8184.5]]
     unit_class:t="ussr_object_685"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2150,7 +2181,7 @@ units{
 
   tankModels{
     name:t="tank_2_13"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8184.5]]
     unit_class:t="ussr_bmp_3"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2181,7 +2212,7 @@ units{
 
   tankModels{
     name:t="tank_2_14"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8184.5]]
     unit_class:t="ussr_2s25"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2212,7 +2243,7 @@ units{
 
   tankModels{
     name:t="tank_2_15"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8184.5]]
     unit_class:t="ussr_bmd_4m2"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2243,7 +2274,7 @@ units{
 
   tankModels{
     name:t="tank_2_16"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8184.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8184.5]]
     unit_class:t="ussr_2s25m"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2274,7 +2305,7 @@ units{
 
   tankModels{
     name:t="tank_3_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7976, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7982, 1, 8189.5]]
     unit_class:t="ussr_garford_putilov"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2305,7 +2336,7 @@ units{
 
   tankModels{
     name:t="tank_3_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7988, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7994, 1, 8189.5]]
     unit_class:t="ussr_su_5_1"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2336,7 +2367,7 @@ units{
 
   tankModels{
     name:t="tank_3_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8000, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8006, 1, 8189.5]]
     unit_class:t="ussr_su_76m_1943"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2367,7 +2398,7 @@ units{
 
   tankModels{
     name:t="tank_3_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8012, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8018, 1, 8189.5]]
     unit_class:t="ussr_zis_30"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2398,7 +2429,7 @@ units{
 
   tankModels{
     name:t="tank_3_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8024, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8030, 1, 8189.5]]
     unit_class:t="ussr_su_57b"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2429,7 +2460,7 @@ units{
 
   tankModels{
     name:t="tank_3_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8036, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8042, 1, 8189.5]]
     unit_class:t="ussr_su_122"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2460,7 +2491,7 @@ units{
 
   tankModels{
     name:t="tank_3_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8048, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8054, 1, 8189.5]]
     unit_class:t="ussr_zsu_29k"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2491,7 +2522,7 @@ units{
 
   tankModels{
     name:t="tank_3_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8060, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8066, 1, 8189.5]]
     unit_class:t="ussr_su_152"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2522,7 +2553,7 @@ units{
 
   tankModels{
     name:t="tank_3_8"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8072, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8189.5]]
     unit_class:t="ussr_su_85_1943"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2553,7 +2584,7 @@ units{
 
   tankModels{
     name:t="tank_3_9"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8189.5]]
     unit_class:t="ussr_isu_152"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2584,7 +2615,7 @@ units{
 
   tankModels{
     name:t="tank_3_10"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8189.5]]
     unit_class:t="ussr_su_85m"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2615,7 +2646,7 @@ units{
 
   tankModels{
     name:t="tank_3_11"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8189.5]]
     unit_class:t="ussr_isu_122"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2646,7 +2677,7 @@ units{
 
   tankModels{
     name:t="tank_3_12"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8189.5]]
     unit_class:t="ussr_isu_122s"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2677,7 +2708,7 @@ units{
 
   tankModels{
     name:t="tank_3_13"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8189.5]]
     unit_class:t="ussr_su_100_1945"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2708,7 +2739,7 @@ units{
 
   tankModels{
     name:t="tank_3_14"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8189.5]]
     unit_class:t="ussr_2s1"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2739,7 +2770,7 @@ units{
 
   tankModels{
     name:t="tank_3_15"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8189.5]]
     unit_class:t="ussr_2s3m"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2770,7 +2801,7 @@ units{
 
   tankModels{
     name:t="tank_3_16"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8189.5]]
     unit_class:t="ussr_su_122_54"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2801,7 +2832,7 @@ units{
 
   tankModels{
     name:t="tank_3_17"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8189.5]]
     unit_class:t="ussr_object_268"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2832,7 +2863,7 @@ units{
 
   tankModels{
     name:t="tank_3_18"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8189.5]]
     unit_class:t="ussr_2s19_m1"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2863,7 +2894,7 @@ units{
 
   tankModels{
     name:t="tank_3_19"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8189.5]]
     unit_class:t="ussr_it_1"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2894,7 +2925,7 @@ units{
 
   tankModels{
     name:t="tank_3_20"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8222, 1, 8189.5]]
     unit_class:t="ussr_9p149"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2925,8 +2956,8 @@ units{
 
   tankModels{
     name:t="tank_3_21"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8228, 1, 8189.5]]
-    unit_class:t="ussr_object_775"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8234, 1, 8189.5]]
+    unit_class:t="ussr_btr_82at"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2956,7 +2987,38 @@ units{
 
   tankModels{
     name:t="tank_3_22"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8240, 1, 8189.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8246, 1, 8189.5]]
+    unit_class:t="ussr_object_775"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_3_23"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8258, 1, 8189.5]]
     unit_class:t="ussr_9p157"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2987,7 +3049,7 @@ units{
 
   tankModels{
     name:t="tank_4_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7976, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7982, 1, 8194.5]]
     unit_class:t="ussr_gaz_4m"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3018,7 +3080,7 @@ units{
 
   tankModels{
     name:t="tank_4_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7988, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7994, 1, 8194.5]]
     unit_class:t="ussr_gaz_dshk"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3049,7 +3111,7 @@ units{
 
   tankModels{
     name:t="tank_4_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8000, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8006, 1, 8194.5]]
     unit_class:t="ussr_gaz_mm_72k"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3080,7 +3142,7 @@ units{
 
   tankModels{
     name:t="tank_4_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8012, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8018, 1, 8194.5]]
     unit_class:t="ussr_btr_152a"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3111,7 +3173,7 @@ units{
 
   tankModels{
     name:t="tank_4_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8024, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8030, 1, 8194.5]]
     unit_class:t="ussr_zis_43"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3142,7 +3204,7 @@ units{
 
   tankModels{
     name:t="tank_4_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8036, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8042, 1, 8194.5]]
     unit_class:t="ussr_zis_12_94KM_1945"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3173,7 +3235,7 @@ units{
 
   tankModels{
     name:t="tank_4_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8048, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8054, 1, 8194.5]]
     unit_class:t="ussr_zsu_37"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3204,7 +3266,7 @@ units{
 
   tankModels{
     name:t="tank_4_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8060, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8066, 1, 8194.5]]
     unit_class:t="ussr_btr_152d"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3235,7 +3297,7 @@ units{
 
   tankModels{
     name:t="tank_4_8"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8072, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8194.5]]
     unit_class:t="ussr_btr_zd"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3266,7 +3328,7 @@ units{
 
   tankModels{
     name:t="tank_4_9"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8194.5]]
     unit_class:t="ussr_m53_59"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3297,7 +3359,7 @@ units{
 
   tankModels{
     name:t="tank_4_10"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8194.5]]
     unit_class:t="ussr_zsu_57_2"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3328,7 +3390,7 @@ units{
 
   tankModels{
     name:t="tank_4_11"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8194.5]]
     unit_class:t="ussr_zsu_23_4m2"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3359,7 +3421,7 @@ units{
 
   tankModels{
     name:t="tank_4_12"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8194.5]]
     unit_class:t="ussr_zsu_37_2"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3390,7 +3452,7 @@ units{
 
   tankModels{
     name:t="tank_4_13"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8194.5]]
     unit_class:t="ussr_zsu_23_4"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3421,7 +3483,7 @@ units{
 
   tankModels{
     name:t="tank_4_14"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8194.5]]
     unit_class:t="ussr_zsu_23_4m4"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3452,7 +3514,7 @@ units{
 
   tankModels{
     name:t="tank_4_15"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8194.5]]
     unit_class:t="ussr_9a33bm3"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3483,7 +3545,7 @@ units{
 
   tankModels{
     name:t="tank_4_16"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8194.5]]
     unit_class:t="ussr_9a35_m2"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3514,7 +3576,7 @@ units{
 
   tankModels{
     name:t="tank_4_17"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8194.5]]
     unit_class:t="ussr_zprk_2s6"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3545,7 +3607,7 @@ units{
 
   tankModels{
     name:t="tank_4_18"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8194.5]]
     unit_class:t="ussr_pantsyr_s1"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3576,7 +3638,7 @@ units{
 
   tankModels{
     name:t="tank_4_19"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8194.5]]
     unit_class:t="ussr_buk_m3_fcs"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3607,7 +3669,7 @@ units{
 
   tankModels{
     name:t="tank_4_20"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8194.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8222, 1, 8194.5]]
     unit_class:t="ussr_buk_m3_launcher"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3638,7 +3700,7 @@ units{
 
   tankModels{
     name:t="tank_5_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7976, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7982, 1, 8199.5]]
     unit_class:t="ussr_t_26_1940_1st_gvtbr"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3669,7 +3731,7 @@ units{
 
   tankModels{
     name:t="tank_5_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7988, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7994, 1, 8199.5]]
     unit_class:t="ussr_bt_7_1937_td"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3700,7 +3762,7 @@ units{
 
   tankModels{
     name:t="tank_5_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8000, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8006, 1, 8199.5]]
     unit_class:t="ussr_t_35"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3731,7 +3793,7 @@ units{
 
   tankModels{
     name:t="tank_5_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8012, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8018, 1, 8199.5]]
     unit_class:t="ussr_su_57"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3762,7 +3824,7 @@ units{
 
   tankModels{
     name:t="tank_5_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8024, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8030, 1, 8199.5]]
     unit_class:t="ussr_pzkpfw_iii_ausf_j_l42"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3793,7 +3855,7 @@ units{
 
   tankModels{
     name:t="tank_5_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8036, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8042, 1, 8199.5]]
     unit_class:t="ussr_zut_37"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3824,7 +3886,7 @@ units{
 
   tankModels{
     name:t="tank_5_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8048, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8054, 1, 8199.5]]
     unit_class:t="ussr_t_126sp"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3855,7 +3917,7 @@ units{
 
   tankModels{
     name:t="tank_5_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8060, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8066, 1, 8199.5]]
     unit_class:t="ussr_t_34_1940_l_11"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3886,7 +3948,7 @@ units{
 
   tankModels{
     name:t="tank_5_8"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8072, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8199.5]]
     unit_class:t="ussr_bt_7a_f32"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3917,7 +3979,7 @@ units{
 
   tankModels{
     name:t="tank_5_9"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8199.5]]
     unit_class:t="ussr_smk"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3948,7 +4010,7 @@ units{
 
   tankModels{
     name:t="tank_5_10"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8199.5]]
     unit_class:t="ussr_t_34_1941_cast_turret"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3979,7 +4041,7 @@ units{
 
   tankModels{
     name:t="tank_5_11"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8199.5]]
     unit_class:t="ussr_t_34e"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4010,7 +4072,7 @@ units{
 
   tankModels{
     name:t="tank_5_12"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8199.5]]
     unit_class:t="ussr_bm_31_12"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4041,7 +4103,7 @@ units{
 
   tankModels{
     name:t="tank_5_13"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8199.5]]
     unit_class:t="ussr_t_34_57_1943"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4072,7 +4134,7 @@ units{
 
   tankModels{
     name:t="tank_5_14"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8199.5]]
     unit_class:t="ussr_is_1_kit_3rank"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4103,7 +4165,7 @@ units{
 
   tankModels{
     name:t="tank_5_15"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8199.5]]
     unit_class:t="ussr_t_34_85_zis_53_kit_3rank"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4134,7 +4196,7 @@ units{
 
   tankModels{
     name:t="tank_5_16"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8199.5]]
     unit_class:t="ussr_sdkfz_251_21_kit_3rank"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4165,7 +4227,7 @@ units{
 
   tankModels{
     name:t="tank_5_17"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8199.5]]
     unit_class:t="ussr_m4a2_76w_sherman"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4196,7 +4258,7 @@ units{
 
   tankModels{
     name:t="tank_5_18"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8199.5]]
     unit_class:t="ussr_type_65_aa"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4227,7 +4289,7 @@ units{
 
   tankModels{
     name:t="tank_5_19"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8199.5]]
     unit_class:t="ussr_t_34_85_zis_53_v80"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4258,7 +4320,7 @@ units{
 
   tankModels{
     name:t="tank_5_20"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8222, 1, 8199.5]]
     unit_class:t="ussr_kv_122"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4289,7 +4351,7 @@ units{
 
   tankModels{
     name:t="tank_5_21"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8228, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8234, 1, 8199.5]]
     unit_class:t="ussr_t_34_85e"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4320,7 +4382,7 @@ units{
 
   tankModels{
     name:t="tank_5_22"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8240, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8246, 1, 8199.5]]
     unit_class:t="ussr_su_122p"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4351,7 +4413,7 @@ units{
 
   tankModels{
     name:t="tank_5_23"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8252, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8258, 1, 8199.5]]
     unit_class:t="ussr_t_44_122"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4382,7 +4444,7 @@ units{
 
   tankModels{
     name:t="tank_5_24"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8264, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8270, 1, 8199.5]]
     unit_class:t="ussr_t_34_100"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4413,7 +4475,7 @@ units{
 
   tankModels{
     name:t="tank_5_25"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8276, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8282, 1, 8199.5]]
     unit_class:t="ussr_is_6"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4444,7 +4506,7 @@ units{
 
   tankModels{
     name:t="tank_5_26"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8288, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8294, 1, 8199.5]]
     unit_class:t="ussr_object_120"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4475,7 +4537,7 @@ units{
 
   tankModels{
     name:t="tank_5_27"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8300, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8306, 1, 8199.5]]
     unit_class:t="ussr_to_55"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4506,7 +4568,7 @@ units{
 
   tankModels{
     name:t="tank_5_28"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8312, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8318, 1, 8199.5]]
     unit_class:t="ussr_object_140"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4537,7 +4599,7 @@ units{
 
   tankModels{
     name:t="tank_5_29"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8324, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8330, 1, 8199.5]]
     unit_class:t="ussr_t_55_am"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4568,38 +4630,7 @@ units{
 
   tankModels{
     name:t="tank_5_30"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8336, 1, 8199.5]]
-    unit_class:t="ussr_bmd_4"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_5_31"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8348, 1, 8199.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8342, 1, 8199.5]]
     unit_class:t="ussr_bmd_4m"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4629,39 +4660,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_5_32"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8360, 1, 8199.5]]
-    unit_class:t="ussr_bmp_2m"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_5_33"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8372, 1, 8199.5]]
+    name:t="tank_5_31"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8354, 1, 8199.5]]
     unit_class:t="ussr_2s38"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4691,8 +4691,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_5_34"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8384, 1, 8199.5]]
+    name:t="tank_5_32"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8366, 1, 8199.5]]
     unit_class:t="ussr_t_72av_turms"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4722,8 +4722,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_5_35"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8396, 1, 8199.5]]
+    name:t="tank_5_33"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8378, 1, 8199.5]]
     unit_class:t="ussr_t_80ud"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4753,8 +4753,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_5_36"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8408, 1, 8199.5]]
+    name:t="tank_5_34"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8390, 1, 8199.5]]
     unit_class:t="ussr_t_80ue1"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4784,8 +4784,39 @@ units{
   }
 
   tankModels{
+    name:t="tank_5_35"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8402, 1, 8199.5]]
+    unit_class:t="ussr_t_80ue1_sm"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
     name:t="tank_6_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7976, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7982, 1, 8204.5]]
     unit_class:t="ussr_t_26e"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4816,7 +4847,7 @@ units{
 
   tankModels{
     name:t="tank_6_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7988, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7994, 1, 8204.5]]
     unit_class:t="ussr_rbt_5"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4847,7 +4878,7 @@ units{
 
   tankModels{
     name:t="tank_6_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8000, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8006, 1, 8204.5]]
     unit_class:t="ussr_ba_11"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4878,7 +4909,7 @@ units{
 
   tankModels{
     name:t="tank_6_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8012, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8018, 1, 8204.5]]
     unit_class:t="ussr_bm_8_24"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4909,7 +4940,7 @@ units{
 
   tankModels{
     name:t="tank_6_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8024, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8030, 1, 8204.5]]
     unit_class:t="ussr_su_76m_5st_kav_corps"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4940,7 +4971,7 @@ units{
 
   tankModels{
     name:t="tank_6_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8036, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8042, 1, 8204.5]]
     unit_class:t="ussr_su_76d"
     objLayer:i=1
     closed_waypoints:b=no
@@ -4971,7 +5002,7 @@ units{
 
   tankModels{
     name:t="tank_6_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8048, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8054, 1, 8204.5]]
     unit_class:t="ussr_m3c"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5002,7 +5033,7 @@ units{
 
   tankModels{
     name:t="tank_6_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8060, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8066, 1, 8204.5]]
     unit_class:t="ussr_bm_13n"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5033,7 +5064,7 @@ units{
 
   tankModels{
     name:t="tank_6_8"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8072, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8204.5]]
     unit_class:t="ussr_a_12_mk_2_matilda_2A_F96"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5064,7 +5095,7 @@ units{
 
   tankModels{
     name:t="tank_6_9"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8204.5]]
     unit_class:t="ussr_valentine_mk_9"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5095,7 +5126,7 @@ units{
 
   tankModels{
     name:t="tank_6_10"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8204.5]]
     unit_class:t="ussr_su_85a"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5126,7 +5157,7 @@ units{
 
   tankModels{
     name:t="tank_6_11"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8204.5]]
     unit_class:t="ussr_kv_2_1940"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5157,7 +5188,7 @@ units{
 
   tankModels{
     name:t="tank_6_12"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8204.5]]
     unit_class:t="ussr_kv_7_u13"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5188,7 +5219,7 @@ units{
 
   tankModels{
     name:t="tank_6_13"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8204.5]]
     unit_class:t="ussr_kv_1e"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5219,7 +5250,7 @@ units{
 
   tankModels{
     name:t="tank_6_14"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8204.5]]
     unit_class:t="ussr_su_100y"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5250,7 +5281,7 @@ units{
 
   tankModels{
     name:t="tank_6_15"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8204.5]]
     unit_class:t="ussr_kv_2_zis_6"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5281,7 +5312,7 @@ units{
 
   tankModels{
     name:t="tank_6_16"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8204.5]]
     unit_class:t="ussr_kv_220"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5312,7 +5343,7 @@ units{
 
   tankModels{
     name:t="tank_6_17"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8204.5]]
     unit_class:t="ussr_pzkpfw_v"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5343,7 +5374,7 @@ units{
 
   tankModels{
     name:t="tank_6_18"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8204.5]]
     unit_class:t="ussr_t_44_po"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5374,7 +5405,7 @@ units{
 
   tankModels{
     name:t="tank_6_19"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8204.5]]
     unit_class:t="ussr_is_2_1944_revenge"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5405,7 +5436,7 @@ units{
 
   tankModels{
     name:t="tank_6_20"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8222, 1, 8204.5]]
     unit_class:t="ussr_object_248"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5436,7 +5467,7 @@ units{
 
   tankModels{
     name:t="tank_6_21"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8228, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8234, 1, 8204.5]]
     unit_class:t="ussr_type_62"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5467,7 +5498,7 @@ units{
 
   tankModels{
     name:t="tank_6_22"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8240, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8246, 1, 8204.5]]
     unit_class:t="ussr_2s19_m2"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5498,7 +5529,7 @@ units{
 
   tankModels{
     name:t="tank_6_23"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8252, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8258, 1, 8204.5]]
     unit_class:t="ussr_t_10a"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5529,7 +5560,7 @@ units{
 
   tankModels{
     name:t="tank_6_24"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8264, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8270, 1, 8204.5]]
     unit_class:t="ussr_pt_76_57"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5560,7 +5591,7 @@ units{
 
   tankModels{
     name:t="tank_6_25"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8276, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8282, 1, 8204.5]]
     unit_class:t="ussr_is_7"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5591,7 +5622,7 @@ units{
 
   tankModels{
     name:t="tank_6_26"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8288, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8294, 1, 8204.5]]
     unit_class:t="ussr_object_279"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5622,8 +5653,8 @@ units{
 
   tankModels{
     name:t="tank_6_27"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8300, 1, 8204.5]]
-    unit_class:t="ussr_object_292"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8306, 1, 8204.5]]
+    unit_class:t="ussr_bmd_4"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -5653,8 +5684,8 @@ units{
 
   tankModels{
     name:t="tank_6_28"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8312, 1, 8204.5]]
-    unit_class:t="ussr_t_72m2_moderna"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8318, 1, 8204.5]]
+    unit_class:t="ussr_bmp_2m"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -5684,8 +5715,8 @@ units{
 
   tankModels{
     name:t="tank_6_29"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8324, 1, 8204.5]]
-    unit_class:t="ussr_t_80u_yt_cup_2019"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8330, 1, 8204.5]]
+    unit_class:t="ussr_object_292"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -5715,8 +5746,8 @@ units{
 
   tankModels{
     name:t="tank_6_30"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8336, 1, 8204.5]]
-    unit_class:t="ussr_t_80um2"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8342, 1, 8204.5]]
+    unit_class:t="ussr_t_72m2_moderna"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -5746,7 +5777,69 @@ units{
 
   tankModels{
     name:t="tank_6_31"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8348, 1, 8204.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8354, 1, 8204.5]]
+    unit_class:t="ussr_t_80u_yt_cup_2019"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_6_32"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8366, 1, 8204.5]]
+    unit_class:t="ussr_t_80um2"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_6_33"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8378, 1, 8204.5]]
     unit_class:t="ussr_t_80uk"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5777,7 +5870,7 @@ units{
 
   tankModels{
     name:t="tank_7_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7976, 1, 8209.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7982, 1, 8209.5]]
     unit_class:t="ussr_ai_sam_launcher_s_75"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5808,7 +5901,7 @@ units{
 
   tankModels{
     name:t="tank_7_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7988, 1, 8209.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [7994, 1, 8209.5]]
     unit_class:t="ussr_ai_sam_radar_p_12"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5839,7 +5932,7 @@ units{
 
   tankModels{
     name:t="tank_7_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8000, 1, 8209.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8006, 1, 8209.5]]
     unit_class:t="ussr_ai_sam_radar_snr_75"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5870,7 +5963,7 @@ units{
 
   tankModels{
     name:t="tank_7_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8012, 1, 8209.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8018, 1, 8209.5]]
     unit_class:t="ussr_apc_bmp_1"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5901,7 +5994,7 @@ units{
 
   tankModels{
     name:t="tank_7_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8024, 1, 8209.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8030, 1, 8209.5]]
     unit_class:t="ussr_apc_btr_152"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5932,7 +6025,7 @@ units{
 
   tankModels{
     name:t="tank_7_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8036, 1, 8209.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8042, 1, 8209.5]]
     unit_class:t="ussr_at_spg_9"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5963,7 +6056,7 @@ units{
 
   tankModels{
     name:t="tank_7_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8048, 1, 8209.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8054, 1, 8209.5]]
     unit_class:t="ussr_gaz_mm_72k_without_crew"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5994,7 +6087,7 @@ units{
 
   tankModels{
     name:t="tank_7_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8060, 1, 8209.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8066, 1, 8209.5]]
     unit_class:t="ussr_is_4m_tutorial"
     objLayer:i=1
     closed_waypoints:b=no
@@ -6025,7 +6118,7 @@ units{
 
   tankModels{
     name:t="tank_7_8"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8072, 1, 8209.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8209.5]]
     unit_class:t="ussr_m551_football"
     objLayer:i=1
     closed_waypoints:b=no
@@ -6056,7 +6149,7 @@ units{
 
   tankModels{
     name:t="tank_7_9"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8209.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8209.5]]
     unit_class:t="ussr_t_50_for_tutorial"
     objLayer:i=1
     closed_waypoints:b=no
@@ -6087,7 +6180,7 @@ units{
 
   tankModels{
     name:t="tank_7_10"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8209.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8209.5]]
     unit_class:t="ussr_t_72b3_2017_race"
     objLayer:i=1
     closed_waypoints:b=no
@@ -6118,7 +6211,7 @@ units{
 
   tankModels{
     name:t="tank_7_11"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8209.5]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8209.5]]
     unit_class:t="ussr_t_80u_race"
     objLayer:i=1
     closed_waypoints:b=no

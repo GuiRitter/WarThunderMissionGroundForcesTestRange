@@ -35,7 +35,7 @@
       "upperField" : "T-34-85"
     }, {
       "lowerField" : "ussr_t_34_85_stp_s53",
-      "upperField" : ""
+      "upperField" : "T-34-85 STP-S-53"
     }, {
       "lowerField" : "ussr_t_44",
       "upperField" : "T-44"
@@ -272,7 +272,7 @@
       "upperField" : "9P149 Shturm-S"
     }, {
       "lowerField" : "ussr_btr_82at",
-      "upperField" : ""
+      "upperField" : "BTR-82AT"
     }, {
       "lowerField" : "ussr_object_775",
       "upperField" : "Object 775"
@@ -462,7 +462,7 @@
       "upperField" : "T-80U-E1"
     }, {
       "lowerField" : "ussr_t_80ue1_sm",
-      "upperField" : ""
+      "upperField" : "⛈T-80U-E1"
     } ]
   }, {
     "cellList" : [ {

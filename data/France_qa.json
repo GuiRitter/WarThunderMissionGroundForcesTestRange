@@ -1,14 +1,8 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "fr_m55",
-      "upperField" : "fr_m55"
-    }, {
-      "lowerField" : "fr_samp_t_fcs",
-      "upperField" : "fr_samp_t_fcs"
-    }, {
-      "lowerField" : "fr_samp_t_launcher",
-      "upperField" : "fr_samp_t_launcher"
+      "lowerField" : "fr_jaguar_ebrc",
+      "upperField" : "fr_jaguar_ebrc"
     } ]
   } ]
 }

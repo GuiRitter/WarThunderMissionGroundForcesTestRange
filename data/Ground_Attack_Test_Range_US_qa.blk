@@ -310,7 +310,7 @@ units{
   tankModels{
     name:t="tank_0_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-600, 0.01, 0.0]]
-    unit_class:t="us_m4_sherman_fake"
+    unit_class:t="us_efv_p1"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -341,7 +341,7 @@ units{
   tankModels{
     name:t="tank_0_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-200, 0.01, 0.0]]
-    unit_class:t="us_m55"
+    unit_class:t="us_lvt_a1_m24"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -372,7 +372,7 @@ units{
   tankModels{
     name:t="tank_0_2"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [200, 0.01, 0.0]]
-    unit_class:t="us_stingray"
+    unit_class:t="us_m1a1_abrams_destroyed_unit"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -403,7 +403,7 @@ units{
   tankModels{
     name:t="tank_0_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [600, 0.01, 0.0]]
-    unit_class:t="us_t58"
+    unit_class:t="us_m1a1_hc_usmc_sm"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""

@@ -212,7 +212,7 @@
       "upperField" : "AFT09"
     }, {
       "lowerField" : "cn_cm_34",
-      "upperField" : ""
+      "upperField" : "CM34"
     }, {
       "lowerField" : "cn_ztl_11",
       "upperField" : "ZLT11"
@@ -268,7 +268,7 @@
       "upperField" : "VT5"
     }, {
       "lowerField" : "cn_oplot_t",
-      "upperField" : ""
+      "upperField" : "Oplot-M"
     } ]
   }, {
     "cellList" : [ {

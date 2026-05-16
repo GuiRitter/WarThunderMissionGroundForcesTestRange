@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MissionGenerator",
+            "request": "launch",
+            "mainClass": "io.github.guiritter.war_thunder.ground_attack_test_range_generator.MissionGenerator",
+            "projectName": "war-thunder-ground-attack-test-range-generator",
+			"args": [
+				"C:\\jogo\\War Thunder\\MISSIONS\\WarThunderMissionGroundForcesTestRange\\data"
+			]
+        }
+    ]
+}

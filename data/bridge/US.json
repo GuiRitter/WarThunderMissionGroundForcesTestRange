@@ -297,7 +297,7 @@
       "upperField" : "Cruiser Tank Grant I"
     }, {
       "lowerField" : "us_lvt_a1_m24",
-      "upperField" : ""
+      "upperField" : "LVT(A)(1) (M24)"
     }, {
       "lowerField" : "us_m4a5_ram_2",
       "upperField" : "M4A5 Ram II"
@@ -369,13 +369,13 @@
       "upperField" : "\uD83C\uDFC6M1A1"
     }, {
       "lowerField" : "us_m1a1_aim_abrams",
-      "upperField" : "Tank, Combat, Full Tracked, 120-Gun M1A1, AIM"
+      "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A1, AIM"
     }, {
       "lowerField" : "us_m1a1_hc_usmc",
       "upperField" : "Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC \"Click-Bait\""
     }, {
       "lowerField" : "us_m1a1_hc_usmc_sm",
-      "upperField" : ""
+      "upperField" : "⛈Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC"
     }, {
       "lowerField" : "us_rdf_lt",
       "upperField" : "Rapid Deployment Force Light Tank"
@@ -434,7 +434,7 @@
       "upperField" : "✡Magach 3"
     }, {
       "lowerField" : "us_efv_p1",
-      "upperField" : ""
+      "upperField" : "Expeditionary Fighting Vehicle EFV"
     }, {
       "lowerField" : "us_merkava_mk_1",
       "upperField" : "✪Merkava Mk.1"
