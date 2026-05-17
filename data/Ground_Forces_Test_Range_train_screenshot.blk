@@ -228,7 +228,7 @@ units{
 
   tankModels{
     name:t="tank_0_0"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8056, 1, 8176.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8168.0]]
     unit_class:t="germ_panzerzug_bp_44_locomotive"
     objLayer:i=1
     closed_waypoints:b=no
@@ -259,7 +259,7 @@ units{
 
   tankModels{
     name:t="tank_0_1"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8072, 1, 8176.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8136, 1, 8168.0]]
     unit_class:t="germ_panzerzug_bp_44_wagon_a"
     objLayer:i=1
     closed_waypoints:b=no
@@ -290,7 +290,7 @@ units{
 
   tankModels{
     name:t="tank_0_2"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8088, 1, 8176.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8152, 1, 8168.0]]
     unit_class:t="germ_panzerzug_bp_44_wagon_b"
     objLayer:i=1
     closed_waypoints:b=no
@@ -321,7 +321,7 @@ units{
 
   tankModels{
     name:t="tank_0_3"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8104, 1, 8176.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8168, 1, 8168.0]]
     unit_class:t="germ_panzerzug_bp_44_wagon_c"
     objLayer:i=1
     closed_waypoints:b=no
@@ -352,7 +352,7 @@ units{
 
   tankModels{
     name:t="tank_0_4"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8176.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8184, 1, 8168.0]]
     unit_class:t="germ_railway_tram_a"
     objLayer:i=1
     closed_waypoints:b=no
@@ -383,7 +383,7 @@ units{
 
   tankModels{
     name:t="tank_1_0"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8056, 1, 8192.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8184.0]]
     unit_class:t="railway_covered_bcna"
     objLayer:i=1
     closed_waypoints:b=no
@@ -414,7 +414,7 @@ units{
 
   tankModels{
     name:t="tank_1_1"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8072, 1, 8192.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8136, 1, 8184.0]]
     unit_class:t="railway_diesel_locomotive_te1"
     objLayer:i=1
     closed_waypoints:b=no
@@ -445,7 +445,7 @@ units{
 
   tankModels{
     name:t="tank_1_2"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8088, 1, 8192.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8152, 1, 8184.0]]
     unit_class:t="railway_hopper_bobr"
     objLayer:i=1
     closed_waypoints:b=no
@@ -476,7 +476,7 @@ units{
 
   tankModels{
     name:t="tank_1_3"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8104, 1, 8192.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8168, 1, 8184.0]]
     unit_class:t="railway_wam_4_locomotive"
     objLayer:i=1
     closed_waypoints:b=no
@@ -507,7 +507,7 @@ units{
 
   tankModels{
     name:t="tank_2_0"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8056, 1, 8208.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8200.0]]
     unit_class:t="ussr_freight_car_1926_a"
     objLayer:i=1
     closed_waypoints:b=no
@@ -538,7 +538,7 @@ units{
 
   tankModels{
     name:t="tank_2_1"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8072, 1, 8208.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8136, 1, 8200.0]]
     unit_class:t="ussr_railway_freight_car_green"
     objLayer:i=1
     closed_waypoints:b=no
@@ -569,7 +569,7 @@ units{
 
   tankModels{
     name:t="tank_2_2"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8088, 1, 8208.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8152, 1, 8200.0]]
     unit_class:t="ussr_railway_freight_car_green_snow"
     objLayer:i=1
     closed_waypoints:b=no
@@ -600,7 +600,7 @@ units{
 
   tankModels{
     name:t="tank_2_3"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8104, 1, 8208.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8168, 1, 8200.0]]
     unit_class:t="ussr_railway_freight_car_red"
     objLayer:i=1
     closed_waypoints:b=no
@@ -631,7 +631,7 @@ units{
 
   tankModels{
     name:t="tank_2_4"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8208.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8184, 1, 8200.0]]
     unit_class:t="ussr_railway_hopper_wagon_green"
     objLayer:i=1
     closed_waypoints:b=no
@@ -662,7 +662,7 @@ units{
 
   tankModels{
     name:t="tank_2_5"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8136, 1, 8208.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8200, 1, 8200.0]]
     unit_class:t="ussr_railway_hopper_wagon_red"
     objLayer:i=1
     closed_waypoints:b=no
@@ -693,7 +693,7 @@ units{
 
   tankModels{
     name:t="tank_2_6"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8152, 1, 8208.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8216, 1, 8200.0]]
     unit_class:t="ussr_railway_low_freight_car_borderless_box_blue"
     objLayer:i=1
     closed_waypoints:b=no
@@ -724,7 +724,7 @@ units{
 
   tankModels{
     name:t="tank_2_7"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8168, 1, 8208.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8232, 1, 8200.0]]
     unit_class:t="ussr_railway_low_freight_car_borderless_box_red"
     objLayer:i=1
     closed_waypoints:b=no
@@ -754,8 +754,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_2_8"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8184, 1, 8208.0]]
+    name:t="tank_3_0"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8216.0]]
     unit_class:t="ussr_railway_low_freight_car_borderless_green"
     objLayer:i=1
     closed_waypoints:b=no
@@ -785,8 +785,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_2_9"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8200, 1, 8208.0]]
+    name:t="tank_3_1"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8136, 1, 8216.0]]
     unit_class:t="ussr_railway_low_freight_car_borderless_red"
     objLayer:i=1
     closed_waypoints:b=no
@@ -816,8 +816,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_2_10"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8216, 1, 8208.0]]
+    name:t="tank_3_2"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8152, 1, 8216.0]]
     unit_class:t="ussr_railway_low_freight_car_green"
     objLayer:i=1
     closed_waypoints:b=no
@@ -847,8 +847,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_2_11"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8232, 1, 8208.0]]
+    name:t="tank_3_3"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8168, 1, 8216.0]]
     unit_class:t="ussr_railway_low_freight_car_green_snow"
     objLayer:i=1
     closed_waypoints:b=no
@@ -878,8 +878,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_2_12"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8248, 1, 8208.0]]
+    name:t="tank_3_4"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8184, 1, 8216.0]]
     unit_class:t="ussr_railway_low_freight_car_red"
     objLayer:i=1
     closed_waypoints:b=no
@@ -909,8 +909,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_2_13"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8264, 1, 8208.0]]
+    name:t="tank_3_5"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8200, 1, 8216.0]]
     unit_class:t="ussr_railway_sleeping_car_green"
     objLayer:i=1
     closed_waypoints:b=no
@@ -940,8 +940,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_2_14"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8280, 1, 8208.0]]
+    name:t="tank_3_6"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8216, 1, 8216.0]]
     unit_class:t="ussr_railway_sleeping_car_red"
     objLayer:i=1
     closed_waypoints:b=no
@@ -971,8 +971,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_2_15"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8296, 1, 8208.0]]
+    name:t="tank_3_7"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8232, 1, 8216.0]]
     unit_class:t="ussr_railway_tank_wagon_1931"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1002,8 +1002,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_2_16"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8312, 1, 8208.0]]
+    name:t="tank_3_8"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8248, 1, 8216.0]]
     unit_class:t="ussr_railway_tank_wagon_1931_snow"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1033,8 +1033,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_2_17"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8328, 1, 8208.0]]
+    name:t="tank_3_9"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8264, 1, 8216.0]]
     unit_class:t="ussr_railway_tram_x"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1068,7 +1068,7 @@ units{
 areas{
   area_for_cutscene_0{
     type:t="Point"
-    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7800, 50, 8192]]
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7775, 90, 8192]]
     objLayer:i=0
 
     props{
@@ -1077,7 +1077,7 @@ areas{
 
   area_for_cutscene_1{
     type:t="Point"
-    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [8170, 0, 8192]]
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [8190, 0, 8192]]
     objLayer:i=0
 
     props{

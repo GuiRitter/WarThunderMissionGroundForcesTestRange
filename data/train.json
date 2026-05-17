@@ -77,7 +77,11 @@
         {
           "lowerField": "ussr_railway_low_freight_car_borderless_box_red",
           "upperField": ""
-        },
+        }
+      ]
+    },
+    {
+      "cellList": [
         {
           "lowerField": "ussr_railway_low_freight_car_borderless_green",
           "upperField": ""

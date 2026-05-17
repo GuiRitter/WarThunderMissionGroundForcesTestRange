@@ -10,6 +10,12 @@
 			"problemMatcher": []
 		},
 		{
+			"label": "build publish",
+			"type": "shell",
+			"command": ".\\publish\\build.bat",
+			"problemMatcher": []
+		},
+		{
 			"label": "get list",
 			"type": "shell",
 			"command": ".\\list\\getList.bat ${input:pid}",

@@ -176,6 +176,10 @@ A lot of new content in this update.
 
 After 2.49: this one took me a while longer because I found issues in the tool I used to generate the list of tankModels in the game: some items were missing and others were duplicated. So I finally had to create my own tool and other tools to ensure nothing was lost during all this time when I was using a faulty tool. Surprisingly, it seems like this is the first update when the tool failed. Well, it won't fail anymore. As for the rest, nothing exceptional.
 
-After 2.51: this caught me in a really bad time. I had several layers of accumulated tasks, with a veritable mix between short, mid and long-term. My vacations were not enough to get started with organizing myself. But I think I've managed to prioritize my tasks better and it has been stabilizing. Now, for the update itself, I noticed several props added as vehicles, like destroyed units and train cars. The destroyed units won't spawn, and some even throw an error message, although the mission still loads. But I'll keep them out of the missions, there's no point in keeping them in.
+After 2.51: this caught me in a really bad time. I had several layers of accumulated tasks, with a veritable mix between short, mid and long-term. My vacations were not enough to get started with organizing myself. But I think I've managed to prioritize my tasks better and it has been stabilizing.
+
+Now, for the update itself, I noticed several props added as vehicles, like destroyed units and train cars. The destroyed units won't spawn, and some even throw an error message, although the mission still loads. But I'll keep them out of the missions, there's no point in keeping them in.
+
+One thing I found funny was about one of these props, in the UK tech tree: the Rapier SAM. It can be destroyed normally by tank shots. But it can't be destroyed by machine gun fire or smaller bombs. It did got destroyed by the FAB-5000, though.
 
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

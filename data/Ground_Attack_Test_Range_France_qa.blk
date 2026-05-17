@@ -345,7 +345,7 @@ units{
 areas{
   area_for_cutscene_0{
     type:t="Point"
-    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7880, 33, 8192]]
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7875, 32, 8192]]
     objLayer:i=0
 
     props{
@@ -354,7 +354,7 @@ areas{
 
   area_for_cutscene_1{
     type:t="Point"
-    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [8165, 0, 8192]]
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [8160, 0, 8192]]
     objLayer:i=0
 
     props{
