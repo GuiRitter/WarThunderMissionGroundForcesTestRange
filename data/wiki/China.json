@@ -49,9 +49,6 @@
       "blk" : "cn_vt_4",
       "title" : "VT4"
     }, {
-      "blk" : "cn_wz_1001",
-      "title" : "WZ1001(E) LCT"
-    }, {
       "blk" : "cn_vt_4b",
       "title" : "VT4A1"
     }, {
@@ -119,6 +116,9 @@
     }, {
       "blk" : "cn_ztz_99_w",
       "title" : "ZTZ99-III"
+    }, {
+      "blk" : "cn_wz_1001",
+      "title" : "WZ1001(E) LCT"
     }, {
       "blk" : "cn_ztz_99a",
       "title" : "ZTZ99A"
