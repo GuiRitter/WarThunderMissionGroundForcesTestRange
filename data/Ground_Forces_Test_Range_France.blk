@@ -131,7 +131,7 @@ effects{
 units{
   tankModels{
     name:t="armada_player"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8072, 1, 8192]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8066, 1, 8192]]
     unit_class:t="fr_amd_35"
     objLayer:i=1
     closed_waypoints:b=no
@@ -166,7 +166,7 @@ units{
 
   tankModels{
     name:t="tank_0_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8177.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8177.0]]
     unit_class:t="fr_amc_34"
     objLayer:i=1
     closed_waypoints:b=no
@@ -197,7 +197,7 @@ units{
 
   tankModels{
     name:t="tank_0_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8177.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8177.0]]
     unit_class:t="fr_hotchkiss_h35"
     objLayer:i=1
     closed_waypoints:b=no
@@ -228,7 +228,7 @@ units{
 
   tankModels{
     name:t="tank_0_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8177.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8177.0]]
     unit_class:t="fr_fcm_36"
     objLayer:i=1
     closed_waypoints:b=no
@@ -259,7 +259,7 @@ units{
 
   tankModels{
     name:t="tank_0_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8177.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8177.0]]
     unit_class:t="fr_amd_35"
     objLayer:i=1
     closed_waypoints:b=no
@@ -290,7 +290,7 @@ units{
 
   tankModels{
     name:t="tank_0_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8177.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8177.0]]
     unit_class:t="fr_amc_35"
     objLayer:i=1
     closed_waypoints:b=no
@@ -321,7 +321,7 @@ units{
 
   tankModels{
     name:t="tank_0_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8177.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8177.0]]
     unit_class:t="fr_amd_35_kwk39"
     objLayer:i=1
     closed_waypoints:b=no
@@ -352,7 +352,7 @@ units{
 
   tankModels{
     name:t="tank_0_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8177.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8177.0]]
     unit_class:t="fr_crusader_mk_2"
     objLayer:i=1
     closed_waypoints:b=no
@@ -383,7 +383,7 @@ units{
 
   tankModels{
     name:t="tank_0_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8177.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8177.0]]
     unit_class:t="fr_amx_13_fl_11"
     objLayer:i=1
     closed_waypoints:b=no
@@ -414,7 +414,7 @@ units{
 
   tankModels{
     name:t="tank_0_8"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8177.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8177.0]]
     unit_class:t="fr_panhard_ebr_1951"
     objLayer:i=1
     closed_waypoints:b=no
@@ -445,8 +445,8 @@ units{
 
   tankModels{
     name:t="tank_0_9"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8177.0]]
-    unit_class:t="fr_amx_13_75"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8177.0]]
+    unit_class:t="fr_amx_elc_bis"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -476,8 +476,8 @@ units{
 
   tankModels{
     name:t="tank_0_10"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8177.0]]
-    unit_class:t="fr_aml_90"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8177.0]]
+    unit_class:t="fr_amx_13_75"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -507,8 +507,8 @@ units{
 
   tankModels{
     name:t="tank_0_11"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8177.0]]
-    unit_class:t="fr_amx_13_90"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8177.0]]
+    unit_class:t="fr_aml_90"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -538,8 +538,8 @@ units{
 
   tankModels{
     name:t="tank_0_12"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8228, 1, 8177.0]]
-    unit_class:t="fr_marder_df_105"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8222, 1, 8177.0]]
+    unit_class:t="fr_amx_13_90"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -569,8 +569,8 @@ units{
 
   tankModels{
     name:t="tank_0_13"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8240, 1, 8177.0]]
-    unit_class:t="fr_mars_15"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8234, 1, 8177.0]]
+    unit_class:t="fr_marder_df_105"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -600,8 +600,8 @@ units{
 
   tankModels{
     name:t="tank_0_14"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8252, 1, 8177.0]]
-    unit_class:t="fr_amx_13_hot"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8246, 1, 8177.0]]
+    unit_class:t="fr_mars_15"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -631,8 +631,8 @@ units{
 
   tankModels{
     name:t="tank_0_15"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8264, 1, 8177.0]]
-    unit_class:t="fr_amx_10rc"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8258, 1, 8177.0]]
+    unit_class:t="fr_amx_13_hot"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -662,8 +662,8 @@ units{
 
   tankModels{
     name:t="tank_0_16"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8276, 1, 8177.0]]
-    unit_class:t="fr_sk105_a2"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8270, 1, 8177.0]]
+    unit_class:t="fr_amx_10rc"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -693,8 +693,8 @@ units{
 
   tankModels{
     name:t="tank_0_17"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8288, 1, 8177.0]]
-    unit_class:t="fr_vbci"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8282, 1, 8177.0]]
+    unit_class:t="fr_sk105_a2"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -724,7 +724,38 @@ units{
 
   tankModels{
     name:t="tank_0_18"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8300, 1, 8177.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8294, 1, 8177.0]]
+    unit_class:t="fr_vbci"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_0_19"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8306, 1, 8177.0]]
     unit_class:t="fr_vextra_105"
     objLayer:i=1
     closed_waypoints:b=no
@@ -755,7 +786,7 @@ units{
 
   tankModels{
     name:t="tank_1_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8182.0]]
     unit_class:t="fr_saint_chamond"
     objLayer:i=1
     closed_waypoints:b=no
@@ -786,7 +817,7 @@ units{
 
   tankModels{
     name:t="tank_1_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8182.0]]
     unit_class:t="fr_hotchkiss_h39"
     objLayer:i=1
     closed_waypoints:b=no
@@ -817,7 +848,7 @@ units{
 
   tankModels{
     name:t="tank_1_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8182.0]]
     unit_class:t="fr_somua_s35"
     objLayer:i=1
     closed_waypoints:b=no
@@ -848,7 +879,7 @@ units{
 
   tankModels{
     name:t="tank_1_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8182.0]]
     unit_class:t="fr_m3a3_stuart"
     objLayer:i=1
     closed_waypoints:b=no
@@ -879,7 +910,7 @@ units{
 
   tankModels{
     name:t="tank_1_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8182.0]]
     unit_class:t="fr_m4a1_sherman"
     objLayer:i=1
     closed_waypoints:b=no
@@ -910,7 +941,7 @@ units{
 
   tankModels{
     name:t="tank_1_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8182.0]]
     unit_class:t="fr_m4a4_sherman"
     objLayer:i=1
     closed_waypoints:b=no
@@ -941,7 +972,7 @@ units{
 
   tankModels{
     name:t="tank_1_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8182.0]]
     unit_class:t="fr_m4a4_cn_75_50"
     objLayer:i=1
     closed_waypoints:b=no
@@ -972,7 +1003,7 @@ units{
 
   tankModels{
     name:t="tank_1_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8182.0]]
     unit_class:t="fr_m26_pershing"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1003,7 +1034,7 @@ units{
 
   tankModels{
     name:t="tank_1_8"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8182.0]]
     unit_class:t="fr_lorraine_40t"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1034,7 +1065,7 @@ units{
 
   tankModels{
     name:t="tank_1_9"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8182.0]]
     unit_class:t="fr_bat_chat_25t"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1065,7 +1096,7 @@ units{
 
   tankModels{
     name:t="tank_1_10"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8182.0]]
     unit_class:t="fr_amx_30_1972"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1096,7 +1127,7 @@ units{
 
   tankModels{
     name:t="tank_1_11"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8182.0]]
     unit_class:t="fr_amx_30_b2"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1127,7 +1158,7 @@ units{
 
   tankModels{
     name:t="tank_1_12"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8228, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8222, 1, 8182.0]]
     unit_class:t="fr_amx_30_b2_brenus"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1158,7 +1189,7 @@ units{
 
   tankModels{
     name:t="tank_1_13"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8240, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8234, 1, 8182.0]]
     unit_class:t="fr_msc"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1189,7 +1220,7 @@ units{
 
   tankModels{
     name:t="tank_1_14"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8252, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8246, 1, 8182.0]]
     unit_class:t="fr_leclerc_s1"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1220,7 +1251,7 @@ units{
 
   tankModels{
     name:t="tank_1_15"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8264, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8258, 1, 8182.0]]
     unit_class:t="fr_leclerc_s2"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1251,7 +1282,7 @@ units{
 
   tankModels{
     name:t="tank_1_16"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8276, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8270, 1, 8182.0]]
     unit_class:t="fr_leclerc_sxxi"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1282,7 +1313,7 @@ units{
 
   tankModels{
     name:t="tank_1_17"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8288, 1, 8182.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8282, 1, 8182.0]]
     unit_class:t="fr_leclerc_azur"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1313,7 +1344,7 @@ units{
 
   tankModels{
     name:t="tank_2_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8187.0]]
     unit_class:t="fr_renault_r39"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1344,7 +1375,7 @@ units{
 
   tankModels{
     name:t="tank_2_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8187.0]]
     unit_class:t="fr_renault_d2"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1375,7 +1406,7 @@ units{
 
   tankModels{
     name:t="tank_2_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8187.0]]
     unit_class:t="fr_b1_bis"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1406,7 +1437,7 @@ units{
 
   tankModels{
     name:t="tank_2_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8187.0]]
     unit_class:t="fr_char_2c"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1437,7 +1468,7 @@ units{
 
   tankModels{
     name:t="tank_2_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8187.0]]
     unit_class:t="fr_arl_44_acl1"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1468,7 +1499,7 @@ units{
 
   tankModels{
     name:t="tank_2_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8187.0]]
     unit_class:t="fr_arl_44"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1499,7 +1530,7 @@ units{
 
   tankModels{
     name:t="tank_2_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8187.0]]
     unit_class:t="fr_m4a3e2_sherman_jumbo"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1530,7 +1561,7 @@ units{
 
   tankModels{
     name:t="tank_2_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8187.0]]
     unit_class:t="fr_amx_m4"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1561,7 +1592,7 @@ units{
 
   tankModels{
     name:t="tank_2_8"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8187.0]]
     unit_class:t="fr_amx_50"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1592,7 +1623,7 @@ units{
 
   tankModels{
     name:t="tank_2_9"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8187.0]]
     unit_class:t="fr_amx_50_surbaisse"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1623,7 +1654,7 @@ units{
 
   tankModels{
     name:t="tank_2_10"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8187.0]]
     unit_class:t="fr_amx_32_105"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1654,7 +1685,7 @@ units{
 
   tankModels{
     name:t="tank_2_11"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8187.0]]
     unit_class:t="fr_amx_32"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1685,7 +1716,7 @@ units{
 
   tankModels{
     name:t="tank_2_12"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8228, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8222, 1, 8187.0]]
     unit_class:t="fr_amx_40"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1716,7 +1747,7 @@ units{
 
   tankModels{
     name:t="tank_2_13"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8240, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8234, 1, 8187.0]]
     unit_class:t="fr_leopard_2a4nl"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1747,7 +1778,7 @@ units{
 
   tankModels{
     name:t="tank_2_14"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8252, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8246, 1, 8187.0]]
     unit_class:t="fr_leopard_2a5nl"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1778,7 +1809,7 @@ units{
 
   tankModels{
     name:t="tank_2_15"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8264, 1, 8187.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8258, 1, 8187.0]]
     unit_class:t="fr_leopard_2a6nl"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1809,7 +1840,7 @@ units{
 
   tankModels{
     name:t="tank_3_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8192.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8192.0]]
     unit_class:t="fr_citroen_kegresse_p4t"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1840,7 +1871,7 @@ units{
 
   tankModels{
     name:t="tank_3_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8192.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8192.0]]
     unit_class:t="fr_cckw_353_bofors"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1871,7 +1902,7 @@ units{
 
   tankModels{
     name:t="tank_3_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8192.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8192.0]]
     unit_class:t="fr_amx_vtt_dca"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1902,7 +1933,7 @@ units{
 
   tankModels{
     name:t="tank_3_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8192.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8192.0]]
     unit_class:t="fr_amx_13_dca_40"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1933,7 +1964,7 @@ units{
 
   tankModels{
     name:t="tank_3_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8192.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8192.0]]
     unit_class:t="fr_tpk_641_vpc"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1964,7 +1995,7 @@ units{
 
   tankModels{
     name:t="tank_3_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8192.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8192.0]]
     unit_class:t="fr_amx_10p"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1995,7 +2026,7 @@ units{
 
   tankModels{
     name:t="tank_3_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8192.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8192.0]]
     unit_class:t="fr_amx_30_dca"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2026,7 +2057,7 @@ units{
 
   tankModels{
     name:t="tank_3_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8192.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8192.0]]
     unit_class:t="fr_vab_santal"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2057,7 +2088,7 @@ units{
 
   tankModels{
     name:t="tank_3_8"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8192.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8192.0]]
     unit_class:t="fr_amx_30_roland"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2088,7 +2119,7 @@ units{
 
   tankModels{
     name:t="tank_3_9"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8192.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8192.0]]
     unit_class:t="fr_crotale_ng"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2119,7 +2150,7 @@ units{
 
   tankModels{
     name:t="tank_3_10"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8192.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8192.0]]
     unit_class:t="fr_samp_t_fcs"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2150,7 +2181,7 @@ units{
 
   tankModels{
     name:t="tank_3_11"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8192.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8192.0]]
     unit_class:t="fr_samp_t_launcher"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2181,7 +2212,7 @@ units{
 
   tankModels{
     name:t="tank_4_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8197.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8197.0]]
     unit_class:t="fr_amr_35_zt3"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2212,7 +2243,7 @@ units{
 
   tankModels{
     name:t="tank_4_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8197.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8197.0]]
     unit_class:t="fr_lorraine_37l"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2243,7 +2274,7 @@ units{
 
   tankModels{
     name:t="tank_4_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8197.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8197.0]]
     unit_class:t="fr_somua_sau40"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2274,7 +2305,7 @@ units{
 
   tankModels{
     name:t="tank_4_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8197.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8197.0]]
     unit_class:t="fr_m4a3_105_sherman"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2305,7 +2336,7 @@ units{
 
   tankModels{
     name:t="tank_4_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8197.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8197.0]]
     unit_class:t="fr_m10"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2336,7 +2367,7 @@ units{
 
   tankModels{
     name:t="tank_4_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8197.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8197.0]]
     unit_class:t="fr_m44"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2367,7 +2398,7 @@ units{
 
   tankModels{
     name:t="tank_4_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8197.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8197.0]]
     unit_class:t="fr_m55"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2398,7 +2429,7 @@ units{
 
   tankModels{
     name:t="tank_4_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8197.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8197.0]]
     unit_class:t="fr_m36b2_cefeo"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2429,7 +2460,7 @@ units{
 
   tankModels{
     name:t="tank_4_8"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8197.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8197.0]]
     unit_class:t="fr_lorraine_100"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2460,38 +2491,7 @@ units{
 
   tankModels{
     name:t="tank_4_9"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8197.0]]
-    unit_class:t="fr_amx_elc_bis"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_4_10"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8197.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8197.0]]
     unit_class:t="fr_amx_30_auf_1"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2521,8 +2521,39 @@ units{
   }
 
   tankModels{
+    name:t="tank_4_10"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8197.0]]
+    unit_class:t="fr_amx_50_foch"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
     name:t="tank_4_11"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8197.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8197.0]]
     unit_class:t="fr_amx_10m_acra"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2553,38 +2584,7 @@ units{
 
   tankModels{
     name:t="tank_4_12"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8228, 1, 8197.0]]
-    unit_class:t="fr_amx_50_foch"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_4_13"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8240, 1, 8197.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8222, 1, 8197.0]]
     unit_class:t="fr_amx_30_ACRA"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2614,8 +2614,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_4_14"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8252, 1, 8197.0]]
+    name:t="tank_4_13"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8234, 1, 8197.0]]
     unit_class:t="fr_vcac_mephisto"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2645,8 +2645,39 @@ units{
   }
 
   tankModels{
+    name:t="tank_4_14"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8246, 1, 8197.0]]
+    unit_class:t="fr_jaguar_ebrc"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
     name:t="tank_5_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8202.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8202.0]]
     unit_class:t="fr_hotchkiss_h39_cambronne"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2677,7 +2708,7 @@ units{
 
   tankModels{
     name:t="tank_5_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8202.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8202.0]]
     unit_class:t="fr_char_2c_bis"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2708,7 +2739,7 @@ units{
 
   tankModels{
     name:t="tank_5_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8202.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8202.0]]
     unit_class:t="fr_b1_ter"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2739,7 +2770,7 @@ units{
 
   tankModels{
     name:t="tank_5_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8202.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8202.0]]
     unit_class:t="fr_amx_13_chaffee"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2770,7 +2801,7 @@ units{
 
   tankModels{
     name:t="tank_5_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8202.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8202.0]]
     unit_class:t="fr_m4a1_sherman_fl_10"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2801,7 +2832,7 @@ units{
 
   tankModels{
     name:t="tank_5_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8202.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8202.0]]
     unit_class:t="fr_pzkpfw_V_panther_dauphine"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2832,7 +2863,7 @@ units{
 
   tankModels{
     name:t="tank_5_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8202.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8202.0]]
     unit_class:t="fr_amx_13_75_ss11"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2863,7 +2894,7 @@ units{
 
   tankModels{
     name:t="tank_5_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8202.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8202.0]]
     unit_class:t="fr_somua_sm"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2894,7 +2925,7 @@ units{
 
   tankModels{
     name:t="tank_5_8"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8180, 1, 8202.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8202.0]]
     unit_class:t="fr_marder_clovis"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2925,7 +2956,7 @@ units{
 
   tankModels{
     name:t="tank_5_9"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8202.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8202.0]]
     unit_class:t="fr_amx_30"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2956,7 +2987,7 @@ units{
 
   tankModels{
     name:t="tank_5_10"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8204, 1, 8202.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8202.0]]
     unit_class:t="fr_amx_30_super"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2987,7 +3018,7 @@ units{
 
   tankModels{
     name:t="tank_5_11"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8216, 1, 8202.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8202.0]]
     unit_class:t="fr_vbci2_mct30"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3018,7 +3049,7 @@ units{
 
   tankModels{
     name:t="tank_5_12"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8228, 1, 8202.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8222, 1, 8202.0]]
     unit_class:t="fr_cv_9035_nl"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3049,7 +3080,7 @@ units{
 
   tankModels{
     name:t="tank_5_13"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8240, 1, 8202.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8234, 1, 8202.0]]
     unit_class:t="fr_leopard_2a4nl_les"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3080,7 +3111,7 @@ units{
 
   tankModels{
     name:t="tank_6_0"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8084, 1, 8207.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8207.0]]
     unit_class:t="fr_amd_35_sa35"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3111,7 +3142,7 @@ units{
 
   tankModels{
     name:t="tank_6_1"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8096, 1, 8207.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8207.0]]
     unit_class:t="fr_lvt_bofors"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3142,7 +3173,7 @@ units{
 
   tankModels{
     name:t="tank_6_2"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8108, 1, 8207.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8207.0]]
     unit_class:t="fr_lorraine_155"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3173,7 +3204,7 @@ units{
 
   tankModels{
     name:t="tank_6_3"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8120, 1, 8207.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8207.0]]
     unit_class:t="fr_panhard_ebr_1954"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3204,7 +3235,7 @@ units{
 
   tankModels{
     name:t="tank_6_4"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8132, 1, 8207.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8207.0]]
     unit_class:t="fr_m46_patton"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3235,7 +3266,7 @@ units{
 
   tankModels{
     name:t="tank_6_5"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8144, 1, 8207.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8207.0]]
     unit_class:t="fr_panhard_ebr_1963"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3266,7 +3297,7 @@ units{
 
   tankModels{
     name:t="tank_6_6"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8156, 1, 8207.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8207.0]]
     unit_class:t="fr_amx_50_surblinde"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3297,7 +3328,7 @@ units{
 
   tankModels{
     name:t="tank_6_7"
-    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8168, 1, 8207.0]]
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8207.0]]
     unit_class:t="fr_amx_50_1950"
     objLayer:i=1
     closed_waypoints:b=no
@@ -3331,7 +3362,7 @@ units{
 areas{
   area_for_cutscene_0{
     type:t="Point"
-    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7880, 33, 8192]]
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7875, 32, 8192]]
     objLayer:i=0
 
     props{
@@ -3340,7 +3371,7 @@ areas{
 
   area_for_cutscene_1{
     type:t="Point"
-    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [8165, 0, 8192]]
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [8160, 0, 8192]]
     objLayer:i=0
 
     props{

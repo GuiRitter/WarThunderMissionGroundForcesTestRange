@@ -35,7 +35,7 @@
       "title" : "Type 89"
     }, {
       "blk" : "jp_icv_ifv_prototype",
-      "title" : "ICV (P)"
+      "title" : "Type 24 ICV (P)"
     }, {
       "blk" : "jp_type_10_prototype",
       "title" : "TKX (P)"
@@ -189,6 +189,12 @@
     }, {
       "blk" : "jp_type_81_tansam_launcher",
       "title" : "Tan-SAM Kai (TEL)"
+    }, {
+      "blk" : "jp_type_03_chusam_fcs",
+      "title" : "Type 03 (TADS)"
+    }, {
+      "blk" : "jp_type_03_chusam_launcher",
+      "title" : "Type 03 (TEL)"
     } ]
   }, {
     "cellList" : [ {
@@ -218,6 +224,9 @@
       "blk" : "jp_pzkpfw_vi_ausf_e_tiger",
       "title" : "▅Heavy Tank No.6"
     }, {
+      "blk" : "jp_type_61_mod",
+      "title" : "Type 61 (B)"
+    }, {
       "blk" : "jp_type_5_ho_ri_prototype",
       "title" : "Ho-Ri Prototype"
     }, {
@@ -227,11 +236,14 @@
       "blk" : "jp_type_74_red_star",
       "title" : "Type 74 Red Star"
     }, {
+      "blk" : "jp_type_74_mod_g_kai",
+      "title" : "Type 74 (G)"
+    }, {
       "blk" : "jp_type_16_mod",
       "title" : "Type 16 (FPS)"
     }, {
       "blk" : "jp_icv_prototype",
-      "title" : "RCV (P)"
+      "title" : "Type 25 RCV (P)"
     }, {
       "blk" : "jp_type_90b_camo",
       "title" : "Type 90 (B) \"Fuji\""
@@ -240,9 +252,6 @@
     "cellList" : [ {
       "blk" : "jp_type_97_kai_td",
       "title" : "Chi-Ha Kai TD"
-    }, {
-      "blk" : "jp_type_74_mod_g_kai",
-      "title" : "Type 74 (G)"
     } ]
   } ]
 }

@@ -1,14 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "uk_cruiser_ram_1",
-      "upperField" : "uk_cruiser_ram_1"
+      "lowerField" : "uk_ai_sam_rapier",
+      "upperField" : "uk_ai_sam_rapier"
     }, {
-      "lowerField" : "uk_sky_sabre_fcs",
-      "upperField" : "uk_sky_sabre_fcs"
-    }, {
-      "lowerField" : "uk_sky_sabre_launcher",
-      "upperField" : "uk_sky_sabre_launcher"
+      "lowerField" : "uk_chieftain_900",
+      "upperField" : "uk_chieftain_900"
     } ]
   } ]
 }

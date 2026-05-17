@@ -1,0 +1,26 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "no args",
+			"request": "launch",
+			"mainClass": "io.github.guiritter.war_thunder_q_a_generator.WarThunderQAGenerator",
+			"projectName": "war-thunder-q-a-generator"
+		},
+		{
+			"type": "java",
+			"name": "2.51",
+			"request": "launch",
+			"mainClass": "io.github.guiritter.war_thunder_q_a_generator.WarThunderQAGenerator",
+			"projectName": "war-thunder-q-a-generator",
+			"args": [
+				"C:\\jogo\\War Thunder\\MISSIONS\\WarThunderMissionGroundForcesTestRange\\list\\list diff 2.49 2.51.txt",
+				"C:\\jogo\\War Thunder\\MISSIONS\\WarThunderMissionGroundForcesTestRange\\data\\"
+			]
+		}
+	]
+}

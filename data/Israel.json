@@ -127,6 +127,9 @@
       "lowerField" : "il_ss_11_halftrack",
       "upperField" : "Zachlam Tager"
     }, {
+      "lowerField" : "il_m113_hvms",
+      "upperField" : "Bardelas/60mm HVMS"
+    }, {
       "lowerField" : "il_m113a1_tow",
       "upperField" : "M113A1 TOW Giraf"
     }, {

@@ -72,6 +72,9 @@
       "blk" : "il_tiran_6",
       "title" : "Tiran 6"
     }, {
+      "blk" : "il_merkava_mk_1",
+      "title" : "Merkava Mk.1"
+    }, {
       "blk" : "il_merkava_mk_1b",
       "title" : "Merkava Mk.1B"
     }, {
@@ -126,6 +129,9 @@
     }, {
       "blk" : "il_ss_11_halftrack",
       "title" : "Zachlam Tager"
+    }, {
+      "blk" : "il_m113_hvms",
+      "title" : "Bardelas/60mm HVMS"
     }, {
       "blk" : "il_m113a1_tow",
       "title" : "Giraf"

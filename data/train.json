@@ -55,6 +55,10 @@
           "upperField": ""
         },
         {
+          "lowerField": "ussr_railway_freight_car_green_snow",
+          "upperField": ""
+        },
+        {
           "lowerField": "ussr_railway_freight_car_red",
           "upperField": ""
         },
@@ -73,7 +77,11 @@
         {
           "lowerField": "ussr_railway_low_freight_car_borderless_box_red",
           "upperField": ""
-        },
+        }
+      ]
+    },
+    {
+      "cellList": [
         {
           "lowerField": "ussr_railway_low_freight_car_borderless_green",
           "upperField": ""
@@ -84,6 +92,10 @@
         },
         {
           "lowerField": "ussr_railway_low_freight_car_green",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_low_freight_car_green_snow",
           "upperField": ""
         },
         {
@@ -100,6 +112,10 @@
         },
         {
           "lowerField": "ussr_railway_tank_wagon_1931",
+          "upperField": ""
+        },
+        {
+          "lowerField": "ussr_railway_tank_wagon_1931_snow",
           "upperField": ""
         },
         {

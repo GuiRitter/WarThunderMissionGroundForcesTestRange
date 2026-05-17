@@ -58,6 +58,9 @@
       "blk" : "uk_chieftain_mk_10",
       "title" : "Chieftain Mk 10"
     }, {
+      "blk" : "uk_chieftain_900",
+      "title" : "Chieftain 900"
+    }, {
       "blk" : "uk_challenger_1",
       "title" : "Challenger Mk.2"
     }, {
@@ -126,11 +129,14 @@
       "blk" : "uk_vickers_mbt_mk_3",
       "title" : "Vickers Mk.3"
     }, {
-      "blk" : "uk_vickers_mk_11",
-      "title" : "Vickers Mk.11"
+      "blk" : "uk_olifant_mk_1a",
+      "title" : "Olifant Mk.1A"
     }, {
-      "blk" : "uk_vfm_5",
-      "title" : "VFM5"
+      "blk" : "uk_olifant_mk_2",
+      "title" : "Olifant Mk.2"
+    }, {
+      "blk" : "uk_ttd",
+      "title" : "TTD"
     }, {
       "blk" : "uk_vickers_mk7",
       "title" : "Vickers Mk.7"
@@ -163,6 +169,9 @@
     }, {
       "blk" : "uk_m109a1",
       "title" : "▄M109A1"
+    }, {
+      "blk" : "uk_g6_spg",
+      "title" : "G6"
     }, {
       "blk" : "uk_a39_tortoise",
       "title" : "Tortoise"
@@ -226,11 +235,11 @@
       "blk" : "uk_stormer_air_defence",
       "title" : "Stormer AD"
     }, {
-      "blk" : "uk_stormer_hvm",
-      "title" : "Stormer HVM"
-    }, {
       "blk" : "uk_9a33bm2",
       "title" : "▄Osa-AK"
+    }, {
+      "blk" : "uk_stormer_hvm",
+      "title" : "Stormer HVM"
     }, {
       "blk" : "uk_9a35_m",
       "title" : "▄Strela-10M"
@@ -270,9 +279,6 @@
       "blk" : "uk_ratel_20",
       "title" : "Ratel 20"
     }, {
-      "blk" : "uk_g6_spg",
-      "title" : "G6"
-    }, {
       "blk" : "uk_eland_90_mk_7",
       "title" : "Eland 90 Mk.7"
     }, {
@@ -282,23 +288,23 @@
       "blk" : "uk_fv721_fox",
       "title" : "Fox"
     }, {
+      "blk" : "uk_vickers_mk_11",
+      "title" : "Vickers Mk.11"
+    }, {
       "blk" : "uk_rooikat_76",
       "title" : "Rooikat Mk.1D"
-    }, {
-      "blk" : "uk_olifant_mk_1a",
-      "title" : "Olifant Mk.1A"
     }, {
       "blk" : "uk_badger",
       "title" : "Badger"
     }, {
+      "blk" : "uk_vfm_5",
+      "title" : "VFM5"
+    }, {
       "blk" : "uk_rooikat_mttd",
       "title" : "Rooikat MTTD"
     }, {
-      "blk" : "uk_olifant_mk_2",
-      "title" : "Olifant Mk.2"
-    }, {
-      "blk" : "uk_ttd",
-      "title" : "TTD"
+      "blk" : "uk_ajax",
+      "title" : "Ajax"
     } ]
   }, {
     "cellList" : [ {
@@ -359,6 +365,9 @@
       "blk" : "uk_khalid",
       "title" : "Khalid"
     }, {
+      "blk" : "uk_rooikat_105_td",
+      "title" : "Rooikat 105"
+    }, {
       "blk" : "uk_challenger_1_mk_3_gulf",
       "title" : "Challenger DS"
     }, {
@@ -406,14 +415,14 @@
       "blk" : "uk_centurion_shot_kal_d",
       "title" : "▄Sho't Kal Dalet"
     }, {
-      "blk" : "uk_rooikat_105_td",
-      "title" : "Rooikat 105"
-    }, {
       "blk" : "uk_shir_2",
       "title" : "FV4030/3"
     }, {
       "blk" : "uk_t_90s_bheeshma",
       "title" : "Bhishma TWMP"
+    }, {
+      "blk" : "uk_boxer_crv_block2",
+      "title" : "CRV Block 2"
     }, {
       "blk" : "uk_challenger_ii_yt_cup_2019",
       "title" : "␙Challenger 2"

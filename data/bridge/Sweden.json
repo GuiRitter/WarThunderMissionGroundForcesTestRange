@@ -142,6 +142,12 @@
     }, {
       "lowerField" : "sw_eldenhet_98",
       "upperField" : "EldEnhet 98"
+    }, {
+      "lowerField" : "sw_nasams_fcs",
+      "upperField" : ""
+    }, {
+      "lowerField" : "sw_nasams_launcher",
+      "upperField" : ""
     } ]
   }, {
     "cellList" : [ {

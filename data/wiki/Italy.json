@@ -147,7 +147,7 @@
       "title" : "▄Osa-AKM"
     }, {
       "blk" : "it_9a35_m",
-      "title" : "▄Strela-10M"
+      "title" : "◔Strela-10M"
     }, {
       "blk" : "it_otomatic",
       "title" : "OTOMATIC"
@@ -284,9 +284,6 @@
       "blk" : "it_m60a1_ariete",
       "title" : "M60A1 \"D.C.Ariete\""
     }, {
-      "blk" : "it_aubl_74_60_70m",
-      "title" : "AUBL/74 HVG"
-    }, {
       "blk" : "it_of_40_mtca",
       "title" : "OF-40 (MTCA)"
     }, {
@@ -297,7 +294,7 @@
       "title" : "Centauro RGO"
     }, {
       "blk" : "it_c1_ariete_certezza",
-      "title" : "Ariete Сertezza"
+      "title" : "Ariete Certezza"
     } ]
   }, {
     "cellList" : [ {
@@ -318,6 +315,15 @@
     }, {
       "blk" : "it_fiat_6614_firos",
       "title" : "FIROS 6"
+    }, {
+      "blk" : "it_aubl_74_60_70m",
+      "title" : "AUBL/74 HVG"
+    }, {
+      "blk" : "it_c13_tua",
+      "title" : "C13/TUA"
+    }, {
+      "blk" : "it_freccia_hitfist_ows",
+      "title" : "Freccia OWS 30"
     } ]
   } ]
 }

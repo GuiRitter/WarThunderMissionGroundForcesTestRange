@@ -63,7 +63,7 @@ public class WarThunderQAGenerator {
 
 		String line = "";
 		var reader = Files.newBufferedReader(listDiffFile.toPath());
-		boolean isAfterLinesOnlyInNew = false;
+		int amountOfHeaderToRead = 2;
 		var map = new HashMap<String, List<String>>();
 		String treeBlk;
 
@@ -72,13 +72,13 @@ public class WarThunderQAGenerator {
 		}
 
 		while ((line = reader.readLine()) != null) {
-			if (isAfterLinesOnlyInNew) {
+			if (amountOfHeaderToRead == 0) {
 				if (!line.trim().isEmpty()) {
 					treeBlk = getTreeBlk(line);
 					map.get(treeBlk).add(line);
 				}
-			} else if (line.compareToIgnoreCase("lines only in new:") == 0) {
-				isAfterLinesOnlyInNew = true;
+			} else if (line.contains("lines only in")) {
+				amountOfHeaderToRead--;
 			}
 		}
 

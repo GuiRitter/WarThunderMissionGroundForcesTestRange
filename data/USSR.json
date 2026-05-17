@@ -34,6 +34,9 @@
       "lowerField" : "ussr_t_34_85_zis_53",
       "upperField" : "T-34-85"
     }, {
+      "lowerField" : "ussr_t_34_85_stp_s53",
+      "upperField" : "T-34-85 STP-S-53"
+    }, {
       "lowerField" : "ussr_t_44",
       "upperField" : "T-44"
     }, {
@@ -268,6 +271,9 @@
       "lowerField" : "ussr_9p149",
       "upperField" : "9P149 Shturm-S"
     }, {
+      "lowerField" : "ussr_btr_82at",
+      "upperField" : "BTR-82AT"
+    }, {
       "lowerField" : "ussr_object_775",
       "upperField" : "Object 775"
     }, {
@@ -431,14 +437,8 @@
       "lowerField" : "ussr_t_55_am",
       "upperField" : "T-55AM-1"
     }, {
-      "lowerField" : "ussr_bmd_4",
-      "upperField" : "BMD-4"
-    }, {
       "lowerField" : "ussr_bmd_4m",
       "upperField" : "BMD-4M"
-    }, {
-      "lowerField" : "ussr_bmp_2m",
-      "upperField" : "BMP-2M"
     }, {
       "lowerField" : "ussr_2s38",
       "upperField" : "2S38"
@@ -451,6 +451,9 @@
     }, {
       "lowerField" : "ussr_t_80ue1",
       "upperField" : "T-80U-E1"
+    }, {
+      "lowerField" : "ussr_t_80ue1_sm",
+      "upperField" : "⛈T-80U-E1"
     } ]
   }, {
     "cellList" : [ {
@@ -534,6 +537,12 @@
     }, {
       "lowerField" : "ussr_object_279",
       "upperField" : "Object 279"
+    }, {
+      "lowerField" : "ussr_bmd_4",
+      "upperField" : "BMD-4"
+    }, {
+      "lowerField" : "ussr_bmp_2m",
+      "upperField" : "BMP-2M"
     }, {
       "lowerField" : "ussr_object_292",
       "upperField" : "Object 292"

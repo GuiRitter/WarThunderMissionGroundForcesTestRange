@@ -28,6 +28,9 @@
       "lowerField" : "fr_panhard_ebr_1951",
       "upperField" : "Panhard E.B.R (1951)"
     }, {
+      "lowerField" : "fr_amx_elc_bis",
+      "upperField" : "AMX ELC bis (1961)"
+    }, {
       "lowerField" : "fr_amx_13_75",
       "upperField" : "AMX-13"
     }, {
@@ -231,23 +234,23 @@
       "lowerField" : "fr_lorraine_100",
       "upperField" : "Canon d'assault Lorraine de 100mm"
     }, {
-      "lowerField" : "fr_amx_elc_bis",
-      "upperField" : "AMX ELC bis (1961)"
-    }, {
       "lowerField" : "fr_amx_30_auf_1",
       "upperField" : "Canon de 155 Automoteur Modèle F1"
     }, {
-      "lowerField" : "fr_amx_10m_acra",
-      "upperField" : "Chasseur de char AMX-10M"
-    }, {
       "lowerField" : "fr_amx_50_foch",
       "upperField" : "Canon automoteur AMX-50 Foch"
+    }, {
+      "lowerField" : "fr_amx_10m_acra",
+      "upperField" : "Chasseur de char AMX-10M"
     }, {
       "lowerField" : "fr_amx_30_ACRA",
       "upperField" : "AMX-30 ACRA"
     }, {
       "lowerField" : "fr_vcac_mephisto",
       "upperField" : "MEPHISTO"
+    }, {
+      "lowerField" : "fr_jaguar_ebrc",
+      "upperField" : "EBRC Jaguar"
     } ]
   }, {
     "cellList" : [ {
@@ -303,6 +306,9 @@
     }, {
       "lowerField" : "fr_lorraine_155",
       "upperField" : "Lorraine 155 Mle.50"
+    }, {
+      "lowerField" : "fr_amx_elc_901",
+      "upperField" : ""
     }, {
       "lowerField" : "fr_panhard_ebr_1954",
       "upperField" : "E.B.R. (1954)"

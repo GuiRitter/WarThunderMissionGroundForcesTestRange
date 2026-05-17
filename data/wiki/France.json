@@ -28,6 +28,9 @@
       "blk" : "fr_panhard_ebr_1951",
       "title" : "E.B.R. (1951)"
     }, {
+      "blk" : "fr_amx_elc_bis",
+      "title" : "ELC bis"
+    }, {
       "blk" : "fr_amx_13_75",
       "title" : "AMX-13"
     }, {
@@ -231,23 +234,23 @@
       "blk" : "fr_lorraine_100",
       "title" : "CA Lorraine"
     }, {
-      "blk" : "fr_amx_elc_bis",
-      "title" : "ELC bis"
-    }, {
       "blk" : "fr_amx_30_auf_1",
       "title" : "AuF1"
     }, {
-      "blk" : "fr_amx_10m_acra",
-      "title" : "AMX-10M"
-    }, {
       "blk" : "fr_amx_50_foch",
       "title" : "AMX-50 Foch"
+    }, {
+      "blk" : "fr_amx_10m_acra",
+      "title" : "AMX-10M"
     }, {
       "blk" : "fr_amx_30_acra",
       "title" : "AMX-30 ACRA"
     }, {
       "blk" : "fr_vcac_mephisto",
       "title" : "MEPHISTO"
+    }, {
+      "blk" : "fr_jaguar_ebrc",
+      "title" : "EBRC Jaguar"
     } ]
   }, {
     "cellList" : [ {
@@ -303,6 +306,9 @@
     }, {
       "blk" : "fr_lorraine_155",
       "title" : "Lorraine 155 Mle.50"
+    }, {
+      "blk" : "fr_amx_elc_901",
+      "title" : "ELC 901"
     }, {
       "blk" : "fr_panhard_ebr_1954",
       "title" : "E.B.R. (1954)"

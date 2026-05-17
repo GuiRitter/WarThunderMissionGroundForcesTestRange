@@ -4,9 +4,33 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
+			"label": "bridge",
+			"type": "shell",
+			"command": ".\\Java\\bridger.bat",
+			"problemMatcher": []
+		},
+		{
+			"label": "build publish",
+			"type": "shell",
+			"command": ".\\publish\\build.bat",
+			"problemMatcher": []
+		},
+		{
 			"label": "get list",
 			"type": "shell",
 			"command": ".\\list\\getList.bat ${input:pid}",
+			"problemMatcher": []
+		},
+		{
+			"label": "generate missions",
+			"type": "shell",
+			"command": ".\\Java\\generator.bat",
+			"problemMatcher": []
+		},
+		{
+			"label": "generate QA",
+			"type": "shell",
+			"command": ".\\Java\\generator_qa.bat",
 			"problemMatcher": []
 		}
 	],

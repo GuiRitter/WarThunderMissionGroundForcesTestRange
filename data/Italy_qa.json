@@ -1,14 +1,8 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "it_m55",
-      "upperField" : "it_m55"
-    }, {
-      "lowerField" : "it_samp_t_fcs",
-      "upperField" : "it_samp_t_fcs"
-    }, {
-      "lowerField" : "it_samp_t_launcher",
-      "upperField" : "it_samp_t_launcher"
+      "lowerField" : "it_c13_tua",
+      "upperField" : "it_c13_tua"
     } ]
   } ]
 }

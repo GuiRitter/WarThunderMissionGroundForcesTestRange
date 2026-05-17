@@ -40,6 +40,9 @@
       "blk" : "us_m3a3_bradley",
       "title" : "M3A3 Bradley"
     }, {
+      "blk" : "us_m10_booker_late",
+      "title" : "M10 Booker"
+    }, {
       "blk" : "us_hstv_l",
       "title" : "HSTV-L"
     } ]
@@ -222,6 +225,12 @@
     }, {
       "blk" : "us_sl_amraam_launcher",
       "title" : "CLAWS (TEL)"
+    }, {
+      "blk" : "us_nasams_fcs",
+      "title" : "NASAMS 3 (TADS)"
+    }, {
+      "blk" : "us_nasams_launcher",
+      "title" : "NASAMS 3 (TEL)"
     } ]
   }, {
     "cellList" : [ {
@@ -286,6 +295,9 @@
     }, {
       "blk" : "us_mk1_grant",
       "title" : "▃Grant I"
+    }, {
+      "blk" : "us_lvt_a1_m24",
+      "title" : "LVT(A)(1) (M24)"
     }, {
       "blk" : "us_m4a5_ram_2",
       "title" : "M4A5"
@@ -362,6 +374,9 @@
       "blk" : "us_m1a1_hc_usmc",
       "title" : "M1A1 Click-Bait"
     }, {
+      "blk" : "us_m1a1_hc_usmc_sm",
+      "title" : "◍M1A1 HC"
+    }, {
       "blk" : "us_rdf_lt",
       "title" : "RDF/LT"
     } ]
@@ -417,6 +432,9 @@
     }, {
       "blk" : "us_magach_3",
       "title" : "▃Magach 3 (ERA)"
+    }, {
+      "blk" : "us_efv_p1",
+      "title" : "EFV"
     }, {
       "blk" : "us_merkava_mk_1",
       "title" : "▃Merkava Mk.1"

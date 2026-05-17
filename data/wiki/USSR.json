@@ -34,6 +34,9 @@
       "blk" : "ussr_t_34_85_zis_53",
       "title" : "T-34-85"
     }, {
+      "blk" : "ussr_t_34_85_stp_s53",
+      "title" : "T-34-85 (STP)"
+    }, {
       "blk" : "ussr_t_44",
       "title" : "T-44"
     }, {
@@ -71,7 +74,7 @@
       "title" : "T-72B (1989)"
     }, {
       "blk" : "ussr_t_90a",
-      "title" : "Т-90А"
+      "title" : "T-90A"
     }, {
       "blk" : "ussr_t_72b3_2011",
       "title" : "T-72B3"
@@ -268,11 +271,17 @@
       "blk" : "ussr_9p149",
       "title" : "Shturm-S"
     }, {
+      "blk" : "ussr_btr_82at",
+      "title" : "BTR-82AT"
+    }, {
       "blk" : "ussr_object_775",
       "title" : "Object 775"
     }, {
       "blk" : "ussr_9p157",
       "title" : "Khrizantema-S"
+    }, {
+      "blk" : "ussr_bmpt",
+      "title" : "BMPT"
     } ]
   }, {
     "cellList" : [ {
@@ -329,6 +338,9 @@
     }, {
       "blk" : "ussr_zprk_2s6",
       "title" : "2S6"
+    }, {
+      "blk" : "ussr_tor_m1",
+      "title" : "Tor-M1"
     }, {
       "blk" : "ussr_pantsyr_s1",
       "title" : "Pantsir-S1"
@@ -431,14 +443,8 @@
       "blk" : "ussr_t_55_am",
       "title" : "T-55AM-1"
     }, {
-      "blk" : "ussr_bmd_4",
-      "title" : "BMD-4"
-    }, {
       "blk" : "ussr_bmd_4m",
       "title" : "BMD-4M"
-    }, {
-      "blk" : "ussr_bmp_2m",
-      "title" : "BMP-2M"
     }, {
       "blk" : "ussr_2s38",
       "title" : "2S38"
@@ -446,11 +452,17 @@
       "blk" : "ussr_t_72av_turms",
       "title" : "T-72AV (TURMS-T)"
     }, {
+      "blk" : "ussr_bmpt_72",
+      "title" : "BMPT-72"
+    }, {
       "blk" : "ussr_t_80ud",
       "title" : "T-80UD"
     }, {
       "blk" : "ussr_t_80ue1",
-      "title" : "Т-80U-Е1"
+      "title" : "T-80U-E1"
+    }, {
+      "blk" : "ussr_t_80ue1_sm",
+      "title" : "◍Т-80U-Е1"
     } ]
   }, {
     "cellList" : [ {
@@ -482,7 +494,7 @@
       "title" : "▂MK-II \"Matilda\""
     }, {
       "blk" : "ussr_valentine_mk_9",
-      "title" : "▂МК-IX \"Valentine\""
+      "title" : "▂MK-IX \"Valentine\""
     }, {
       "blk" : "ussr_su_85a",
       "title" : "SU-85A"
@@ -535,11 +547,20 @@
       "blk" : "ussr_object_279",
       "title" : "Object 279"
     }, {
+      "blk" : "ussr_bmd_4",
+      "title" : "BMD-4"
+    }, {
+      "blk" : "ussr_bmp_2m",
+      "title" : "BMP-2M"
+    }, {
       "blk" : "ussr_object_292",
       "title" : "Object 292"
     }, {
       "blk" : "ussr_t_72m2_moderna",
       "title" : "T-72M2 Moderna"
+    }, {
+      "blk" : "ussr_t_72b3_arena",
+      "title" : "T-72B3 \"Arena\""
     }, {
       "blk" : "ussr_t_80u_yt_cup_2019",
       "title" : "␙T-80U"
