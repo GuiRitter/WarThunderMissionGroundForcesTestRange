@@ -1,0 +1,27 @@
+lines only in 2.51:
+
+lines only in 2.53:
+
+cn_hq_11
+cn_m1a2t
+fr_amx_elc_901
+germ_jaguar_2
+germ_th_400
+il_merkava_mk_1
+it_freccia_hitfist_ows
+jp_type_03_chusam_fcs
+jp_type_03_chusam_launcher
+jp_type_61_mod
+sw_nasams_fcs
+sw_nasams_launcher
+uk_ajax
+uk_boxer_crv_block2
+us_m10_booker_late
+us_m8_scott_snowball
+us_nasams_fcs
+us_nasams_launcher
+ussr_bmpt
+ussr_bmpt_72
+ussr_t_72b3_arena
+ussr_tor_m1
+
