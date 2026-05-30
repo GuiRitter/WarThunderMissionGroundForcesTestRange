@@ -1,11 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "uk_ai_sam_rapier",
-      "upperField" : "uk_ai_sam_rapier"
+      "lowerField" : "uk_ajax",
+      "upperField" : "uk_ajax"
     }, {
-      "lowerField" : "uk_chieftain_900",
-      "upperField" : "uk_chieftain_900"
+      "lowerField" : "uk_boxer_crv_block2",
+      "upperField" : "uk_boxer_crv_block2"
     } ]
   } ]
 }

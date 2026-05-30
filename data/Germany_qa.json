@@ -1,8 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "germ_leopard_2a4m_can_sm",
-      "upperField" : "germ_leopard_2a4m_can_sm"
+      "lowerField" : "germ_jaguar_2",
+      "upperField" : "germ_jaguar_2"
+    }, {
+      "lowerField" : "germ_th_400",
+      "upperField" : "germ_th_400"
     } ]
   } ]
 }

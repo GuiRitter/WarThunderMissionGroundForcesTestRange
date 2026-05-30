@@ -182,4 +182,6 @@ Now, for the update itself, I noticed several props added as vehicles, like dest
 
 One thing I found funny was about one of these props, in the UK tech tree: the Rapier SAM. It can be destroyed normally by tank shots. But it can't be destroyed by machine gun fire or smaller bombs. It did got destroyed by the FAB-5000, though.
 
+After 2.53: still playing catch-up to the version numbers.
+
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

@@ -1,17 +1,17 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "us_efv_p1",
-      "upperField" : "us_efv_p1"
+      "lowerField" : "us_m10_booker_late",
+      "upperField" : "us_m10_booker_late"
     }, {
-      "lowerField" : "us_lvt_a1_m24",
-      "upperField" : "us_lvt_a1_m24"
+      "lowerField" : "us_m8_scott_snowball",
+      "upperField" : "us_m8_scott_snowball"
     }, {
-      "lowerField" : "us_m1a1_abrams_destroyed_unit",
-      "upperField" : "us_m1a1_abrams_destroyed_unit"
+      "lowerField" : "us_nasams_fcs",
+      "upperField" : "us_nasams_fcs"
     }, {
-      "lowerField" : "us_m1a1_hc_usmc_sm",
-      "upperField" : "us_m1a1_hc_usmc_sm"
+      "lowerField" : "us_nasams_launcher",
+      "upperField" : "us_nasams_launcher"
     } ]
   } ]
 }

@@ -310,7 +310,7 @@ units{
   tankModels{
     name:t="tank_0_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [-200, 0.01, 0.0]]
-    unit_class:t="uk_ai_sam_rapier"
+    unit_class:t="uk_ajax"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -341,7 +341,7 @@ units{
   tankModels{
     name:t="tank_0_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [200, 0.01, 0.0]]
-    unit_class:t="uk_chieftain_900"
+    unit_class:t="uk_boxer_crv_block2"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
