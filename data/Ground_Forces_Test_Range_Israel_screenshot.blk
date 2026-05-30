@@ -1843,7 +1843,7 @@ units{
 areas{
   area_for_cutscene_0{
     type:t="Point"
-    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7965, 22, 8192]]
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7950, 22, 8192]]
     objLayer:i=0
 
     props{
