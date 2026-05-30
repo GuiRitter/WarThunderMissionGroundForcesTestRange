@@ -1,11 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "cn_cm_34",
-      "upperField" : "cn_cm_34"
+      "lowerField" : "cn_hq_11",
+      "upperField" : "cn_hq_11"
     }, {
-      "lowerField" : "cn_oplot_t",
-      "upperField" : "cn_oplot_t"
+      "lowerField" : "cn_m1a2t",
+      "upperField" : "cn_m1a2t"
     } ]
   } ]
 }

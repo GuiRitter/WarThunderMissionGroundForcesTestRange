@@ -37,6 +37,9 @@
       "blk" : "uk_centurion_mk_1",
       "title" : "Centurion Mk 1"
     }, {
+      "blk" : "uk_fv4004_conway",
+      "title" : "Conway"
+    }, {
       "blk" : "uk_centurion_mk_3",
       "title" : "Centurion Mk 3"
     }, {
@@ -175,9 +178,6 @@
     }, {
       "blk" : "uk_a39_tortoise",
       "title" : "Tortoise"
-    }, {
-      "blk" : "uk_fv4004_conway",
-      "title" : "Conway"
     }, {
       "blk" : "uk_fv438_swingfire",
       "title" : "Swingfire"

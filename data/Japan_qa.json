@@ -1,17 +1,14 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "jp_m163_vulcan",
-      "upperField" : "jp_m163_vulcan"
+      "lowerField" : "jp_type_03_chusam_fcs",
+      "upperField" : "jp_type_03_chusam_fcs"
     }, {
-      "lowerField" : "jp_m60a3_tts",
-      "upperField" : "jp_m60a3_tts"
+      "lowerField" : "jp_type_03_chusam_launcher",
+      "upperField" : "jp_type_03_chusam_launcher"
     }, {
-      "lowerField" : "jp_oplot_t",
-      "upperField" : "jp_oplot_t"
-    }, {
-      "lowerField" : "jp_stingray",
-      "upperField" : "jp_stingray"
+      "lowerField" : "jp_type_61_mod",
+      "upperField" : "jp_type_61_mod"
     } ]
   } ]
 }

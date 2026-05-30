@@ -321,6 +321,9 @@
     }, {
       "lowerField" : "it_c13_tua",
       "upperField" : "OTO C13/TUA"
+    }, {
+      "lowerField" : "it_freccia_hitfist_ows",
+      "upperField" : "Veicolo Blindato Medio 8x8 Freccia, HITFIST OWS 30"
     } ]
   } ]
 }

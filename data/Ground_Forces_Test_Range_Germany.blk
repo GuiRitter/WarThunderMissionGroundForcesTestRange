@@ -3575,6 +3575,37 @@ units{
   tankModels{
     name:t="tank_4_22"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8276, 1, 8194.5]]
+    unit_class:t="germ_jaguar_2"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_23"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8288, 1, 8194.5]]
     unit_class:t="germ_wiesel_1_tow"
     objLayer:i=1
     closed_waypoints:b=no
@@ -5373,7 +5404,7 @@ units{
   tankModels{
     name:t="tank_6_26"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8324, 1, 8204.5]]
-    unit_class:t="germ_leopard_2av"
+    unit_class:t="germ_th_400"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -5404,7 +5435,7 @@ units{
   tankModels{
     name:t="tank_6_27"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8336, 1, 8204.5]]
-    unit_class:t="germ_leopard_2_pt14"
+    unit_class:t="germ_leopard_2av"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -5435,6 +5466,37 @@ units{
   tankModels{
     name:t="tank_6_28"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8348, 1, 8204.5]]
+    unit_class:t="germ_leopard_2_pt14"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_6_29"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8360, 1, 8204.5]]
     unit_class:t="germ_leopard_2a4_pzbtl_123"
     objLayer:i=1
     closed_waypoints:b=no

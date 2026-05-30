@@ -1,38 +1,17 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "ussr_bmp_2_destroyed_unit",
-      "upperField" : "ussr_bmp_2_destroyed_unit"
+      "lowerField" : "ussr_bmpt",
+      "upperField" : "ussr_bmpt"
     }, {
-      "lowerField" : "ussr_btr_82at",
-      "upperField" : "ussr_btr_82at"
+      "lowerField" : "ussr_bmpt_72",
+      "upperField" : "ussr_bmpt_72"
     }, {
-      "lowerField" : "ussr_gaz_233034_tiger_a_destroyed_unit",
-      "upperField" : "ussr_gaz_233034_tiger_a_destroyed_unit"
+      "lowerField" : "ussr_t_72b3_arena",
+      "upperField" : "ussr_t_72b3_arena"
     }, {
-      "lowerField" : "ussr_gaz_233034_tiger_burnt_a_destroyed_unit",
-      "upperField" : "ussr_gaz_233034_tiger_burnt_a_destroyed_unit"
-    }, {
-      "lowerField" : "ussr_gaz_233034_tiger_burnt_b_destroyed_unit",
-      "upperField" : "ussr_gaz_233034_tiger_burnt_b_destroyed_unit"
-    }, {
-      "lowerField" : "ussr_railway_freight_car_green_snow",
-      "upperField" : "ussr_railway_freight_car_green_snow"
-    }, {
-      "lowerField" : "ussr_railway_low_freight_car_green_snow",
-      "upperField" : "ussr_railway_low_freight_car_green_snow"
-    }, {
-      "lowerField" : "ussr_railway_tank_wagon_1931_snow",
-      "upperField" : "ussr_railway_tank_wagon_1931_snow"
-    }, {
-      "lowerField" : "ussr_t_34_85_stp_s53",
-      "upperField" : "ussr_t_34_85_stp_s53"
-    }, {
-      "lowerField" : "ussr_t_80u_destroyed_unit",
-      "upperField" : "ussr_t_80u_destroyed_unit"
-    }, {
-      "lowerField" : "ussr_t_80ue1_sm",
-      "upperField" : "ussr_t_80ue1_sm"
+      "lowerField" : "ussr_tor_m1",
+      "upperField" : "ussr_tor_m1"
     } ]
   } ]
 }

@@ -1,8 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "sw_cv_90105",
-      "upperField" : "sw_cv_90105"
+      "lowerField" : "sw_nasams_fcs",
+      "upperField" : "sw_nasams_fcs"
+    }, {
+      "lowerField" : "sw_nasams_launcher",
+      "upperField" : "sw_nasams_launcher"
     } ]
   } ]
 }

@@ -1,29 +1,35 @@
 package io.github.guiritter.war_thunder.list_differ;
 
+import static java.nio.file.StandardOpenOption.CREATE;
+import static java.nio.file.StandardOpenOption.TRUNCATE_EXISTING;
+import static javax.swing.JFileChooser.APPROVE_OPTION;
+import static javax.swing.JFileChooser.FILES_ONLY;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
-import static java.nio.file.StandardOpenOption.CREATE;
-import static java.nio.file.StandardOpenOption.TRUNCATE_EXISTING;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
+
 import javax.swing.JFileChooser;
-import static javax.swing.JFileChooser.APPROVE_OPTION;
-import static javax.swing.JFileChooser.FILES_ONLY;
+
+import static java.lang.System.out;
 
 public final class WarThunderListDiffer {
 
     private static String line;
 
+    private static String versionNew;
+    private static String versionOld;
+
     public static final void addLine(BufferedReader reader, List<String> list) throws IOException {
         while ((line = reader.readLine()) != null) {
-            if (!line.startsWith("String")) {
+            if (line.isBlank()) {
                 continue;
             }
-            line = line.substring(20);
             if (!list.contains(line)) {
                 list.add(line);
             }
@@ -41,6 +47,7 @@ public final class WarThunderListDiffer {
         if (file == null) {
             return;
         }
+        versionOld = file.getName().replaceAll("list (.+)[.]txt", "$1");
         BufferedReader readerOld = Files.newBufferedReader(file.toPath());
         chooser.setDialogTitle("Choose the current version file");
         if (chooser.showOpenDialog(null) != APPROVE_OPTION) {
@@ -50,6 +57,7 @@ public final class WarThunderListDiffer {
         if (file == null) {
             return;
         }
+        versionNew = file.getName().replaceAll("list (.+)[.]txt", "$1");
         BufferedReader readerNew = Files.newBufferedReader(file.toPath());
         chooser.setDialogTitle(null);
         if (chooser.showSaveDialog(null) != APPROVE_OPTION) {
@@ -76,20 +84,35 @@ public final class WarThunderListDiffer {
             List<String> linesOnlyOld = new LinkedList<>();
             List<String> linesOnlyNew = new LinkedList<>();
             int compare;
+            String entryOld;
+            String entryNew;
             while ((indexOld < linesOld.size()) || (indexNew < linesNew.size())) {
+                entryOld = indexOld < linesOld.size() ? linesOld.get(indexOld) : null;
+                entryNew = indexNew < linesNew.size() ? linesNew.get(indexNew) : null;
+
+                // print a 80 characters line starting with entryOld and ending with entryNew
+                // Copilot didn't do what I wanted but this is good enough
+                if (entryOld != null && entryNew != null) {
+                    out.println(String.format("%-80s", entryOld) + " | " + String.format("%-80s", entryNew));
+                } else if (entryOld != null) {
+                    out.println(String.format("%-80s", entryOld) + " | " + String.format("%-80s", ""));
+                } else if (entryNew != null) {
+                    out.println(String.format("%-80s", "") + " | " + String.format("%-80s", entryNew));
+                }
+
                 if (indexOld == linesOld.size()) {
-                    linesOnlyNew.add(linesNew.get(indexNew));
+                    linesOnlyNew.add(entryNew);
                     indexNew++;
                 } else if (indexNew == linesNew.size()) {
-                    linesOnlyOld.add(linesOld.get(indexOld));
+                    linesOnlyOld.add(entryOld);
                     indexOld++;
                 } else {
-                    compare = linesOld.get(indexOld).compareToIgnoreCase(linesNew.get(indexNew));
+                    compare = entryOld.compareToIgnoreCase(entryNew);
                     if (compare < 0) {
-                        linesOnlyOld.add(linesOld.get(indexOld));
+                        linesOnlyOld.add(entryOld);
                         indexOld++;
                     } else if (compare > 0) {
-                        linesOnlyNew.add(linesNew.get(indexNew));
+                        linesOnlyNew.add(entryNew);
                         indexNew++;
                     } else {
                         indexOld++;
@@ -97,26 +120,26 @@ public final class WarThunderListDiffer {
                     }
                 }
             }
-            if (linesOnlyOld.isEmpty()) {
-                writer.write("no lines only in old\n\n");
-            } else {
-                writer.write("lines only in old:\n\n");
+            writer.write("lines only in " + versionOld + ":\n\n");
+
+            if (!linesOnlyOld.isEmpty()) {
                 for (String line : linesOnlyOld) {
                     writer.write(line);
                     writer.write("\n");
                 }
                 writer.write("\n");
             }
-            if (linesOnlyNew.isEmpty()) {
-                writer.write("no lines only in new\n\n");
-            } else {
-                writer.write("lines only in new:\n\n");
+
+            writer.write("lines only in " + versionNew + ":\n\n");
+
+            if (!linesOnlyNew.isEmpty()) {
                 for (String line : linesOnlyNew) {
                     writer.write(line);
                     writer.write("\n");
                 }
                 writer.write("\n");
             }
+
             writer.flush();
         }
     }

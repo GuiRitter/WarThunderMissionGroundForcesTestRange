@@ -31,14 +31,11 @@
       "blk" : "us_xm_800t",
       "title" : "XM800T"
     }, {
-      "blk" : "us_m3_bradley",
-      "title" : "M3 Bradley"
-    }, {
       "blk" : "us_stingray",
       "title" : "Stingray"
     }, {
-      "blk" : "us_m3a3_bradley",
-      "title" : "M3A3 Bradley"
+      "blk" : "us_m1128_mgs",
+      "title" : "M1128"
     }, {
       "blk" : "us_m10_booker_late",
       "title" : "M10 Booker"
@@ -276,8 +273,11 @@
       "blk" : "us_m60a2",
       "title" : "M60A2"
     }, {
-      "blk" : "us_m1128_mgs",
-      "title" : "M1128"
+      "blk" : "us_m3_bradley",
+      "title" : "M3 Bradley"
+    }, {
+      "blk" : "us_m3a3_bradley",
+      "title" : "M3A3 Bradley"
     } ]
   }, {
     "cellList" : [ {

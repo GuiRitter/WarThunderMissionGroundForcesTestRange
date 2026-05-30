@@ -165,7 +165,7 @@ units{
   tankModels{
     name:t="tank_0_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8192.0]]
-    unit_class:t="us_efv_p1"
+    unit_class:t="us_m10_booker_late"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -196,7 +196,7 @@ units{
   tankModels{
     name:t="tank_0_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8192.0]]
-    unit_class:t="us_lvt_a1_m24"
+    unit_class:t="us_m8_scott_snowball"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -227,7 +227,7 @@ units{
   tankModels{
     name:t="tank_0_2"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8192.0]]
-    unit_class:t="us_m1a1_abrams_destroyed_unit"
+    unit_class:t="us_nasams_fcs"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -258,7 +258,7 @@ units{
   tankModels{
     name:t="tank_0_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8192.0]]
-    unit_class:t="us_m1a1_hc_usmc_sm"
+    unit_class:t="us_nasams_launcher"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""

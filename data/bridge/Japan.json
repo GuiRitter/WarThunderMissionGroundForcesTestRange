@@ -191,10 +191,10 @@
       "upperField" : "Tan-SAM Kai, Transporter erector launcher"
     }, {
       "lowerField" : "jp_type_03_chusam_fcs",
-      "upperField" : ""
+      "upperField" : "Type 03 Chu-SAM, Target acquisition and designation system"
     }, {
       "lowerField" : "jp_type_03_chusam_launcher",
-      "upperField" : ""
+      "upperField" : "Type 03 Chu-SAM, Transporter erector launcher"
     } ]
   }, {
     "cellList" : [ {
@@ -225,7 +225,7 @@
       "upperField" : "Heavy Tank No.6"
     }, {
       "lowerField" : "jp_type_61_mod",
-      "upperField" : ""
+      "upperField" : "Type 61 (B)"
     }, {
       "lowerField" : "jp_type_5_ho_ri_prototype",
       "upperField" : "Type 5 Ho-Ri Prototype"

@@ -144,10 +144,10 @@
       "upperField" : "EldEnhet 98"
     }, {
       "lowerField" : "sw_nasams_fcs",
-      "upperField" : ""
+      "upperField" : "NASAMS 3, Traget acquisition and designation system"
     }, {
       "lowerField" : "sw_nasams_launcher",
-      "upperField" : ""
+      "upperField" : "NASAMS 3, Transporter erector launcher"
     } ]
   }, {
     "cellList" : [ {

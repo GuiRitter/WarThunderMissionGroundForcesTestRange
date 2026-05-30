@@ -339,6 +339,9 @@
       "lowerField" : "germ_raketenjagdpanzer_2_hot",
       "upperField" : "Raketenjagdpanzer 2 HOT"
     }, {
+      "lowerField" : "germ_jaguar_2",
+      "upperField" : "Raketenjagdpanzer Jaguar 2"
+    }, {
       "lowerField" : "germ_wiesel_1_tow",
       "upperField" : "Waffenträger Wiesel 1A2 TOW"
     } ]
@@ -516,6 +519,9 @@
     }, {
       "lowerField" : "germ_th_800_bismark",
       "upperField" : "Class 3 (P)"
+    }, {
+      "lowerField" : "germ_th_400",
+      "upperField" : "R400"
     }, {
       "lowerField" : "germ_leopard_2av",
       "upperField" : "KPz Leopard 2AV, PT-19/T19-AV"
