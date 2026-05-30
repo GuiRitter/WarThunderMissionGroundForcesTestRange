@@ -31,14 +31,14 @@
       "lowerField" : "us_xm_800t",
       "upperField" : "Armored Reconnaissance Scout Vehicle XM800T"
     }, {
-      "lowerField" : "us_m3_bradley",
-      "upperField" : "Fighting Vehicle, Cavalry, M3"
-    }, {
       "lowerField" : "us_stingray",
       "upperField" : "Stingray"
     }, {
-      "lowerField" : "us_m3a3_bradley",
-      "upperField" : "Fighting Vehicle, Cavalry, M3A3"
+      "lowerField" : "us_m1128_mgs",
+      "upperField" : "M1128"
+    }, {
+      "lowerField" : "us_m10_booker_late",
+      "upperField" : "M10 Booker"
     }, {
       "lowerField" : "us_hstv_l",
       "upperField" : "High Survivability Test Vehicle - Lightweight"
@@ -222,6 +222,12 @@
     }, {
       "lowerField" : "us_sl_amraam_launcher",
       "upperField" : "M1097A2 CLAWS Transporter erector launcher"
+    }, {
+      "lowerField" : "us_nasams_fcs",
+      "upperField" : "NASAMS 3, Target acquisition and designation system"
+    }, {
+      "lowerField" : "us_nasams_launcher",
+      "upperField" : "NASAMS 3, Transporter erector launcher"
     } ]
   }, {
     "cellList" : [ {
@@ -267,8 +273,11 @@
       "lowerField" : "us_m60a2",
       "upperField" : "152 mm Gun Tank M60A2"
     }, {
-      "lowerField" : "us_m1128_mgs",
-      "upperField" : "M1128"
+      "lowerField" : "us_m3_bradley",
+      "upperField" : "M3 Bradley"
+    }, {
+      "lowerField" : "us_m3a3_bradley",
+      "upperField" : "M3A3 Bradley"
     } ]
   }, {
     "cellList" : [ {
@@ -481,6 +490,9 @@
       "upperField" : "M4A2 (76) W"
     }, {
       "lowerField" : "us_m551_football",
+      "upperField" : ""
+    }, {
+      "lowerField" : "us_m8_scott_snowball",
       "upperField" : ""
     }, {
       "lowerField" : "us_t32_tutorial",

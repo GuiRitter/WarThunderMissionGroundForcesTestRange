@@ -37,6 +37,9 @@
       "lowerField" : "uk_centurion_mk_1",
       "upperField" : "Centurion Mk 1"
     }, {
+      "lowerField" : "uk_fv4004_conway",
+      "upperField" : "Conway"
+    }, {
       "lowerField" : "uk_centurion_mk_3",
       "upperField" : "Centurion Mk.3"
     }, {
@@ -176,9 +179,6 @@
       "lowerField" : "uk_a39_tortoise",
       "upperField" : "A39 Tortoise"
     }, {
-      "lowerField" : "uk_fv4004_conway",
-      "upperField" : "FV4004 Conway"
-    }, {
       "lowerField" : "uk_fv438_swingfire",
       "upperField" : "FV438 Swingfire"
     }, {
@@ -304,7 +304,7 @@
       "upperField" : "Rooikat MTTD"
     }, {
       "lowerField" : "uk_ajax",
-      "upperField" : ""
+      "upperField" : "Ajax AFV"
     } ]
   }, {
     "cellList" : [ {
@@ -422,7 +422,7 @@
       "upperField" : "T-90S Bhishma TWMP"
     }, {
       "lowerField" : "uk_boxer_crv_block2",
-      "upperField" : ""
+      "upperField" : "Boxer CRV Block 2"
     }, {
       "lowerField" : "uk_challenger_II_yt_cup_2019",
       "upperField" : "\uD83C\uDFC6Challenger 2"

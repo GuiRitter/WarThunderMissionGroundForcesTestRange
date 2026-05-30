@@ -49,14 +49,11 @@
       "lowerField" : "cn_vt_4",
       "upperField" : "VT4"
     }, {
-      "lowerField" : "cn_wz_1001",
-      "upperField" : "WZ1001(E) LCT"
-    }, {
       "lowerField" : "cn_vt_4b",
       "upperField" : "VT-4A1"
     }, {
       "lowerField" : "cn_m1a2t",
-      "upperField" : ""
+      "upperField" : "M1A2T"
     } ]
   }, {
     "cellList" : [ {
@@ -120,6 +117,9 @@
       "lowerField" : "cn_ztz_99_w",
       "upperField" : "ZTZ99 Stage III"
     }, {
+      "lowerField" : "cn_wz_1001",
+      "upperField" : "WZ1001(E) LCT"
+    }, {
       "lowerField" : "cn_ztz_99a",
       "upperField" : "ZTZ99A"
     } ]
@@ -165,7 +165,7 @@
       "upperField" : "CS/SA5"
     }, {
       "lowerField" : "cn_hq_11",
-      "upperField" : ""
+      "upperField" : "HQ11"
     } ]
   }, {
     "cellList" : [ {
