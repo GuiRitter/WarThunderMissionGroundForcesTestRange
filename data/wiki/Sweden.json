@@ -283,6 +283,9 @@
       "blk" : "sw_pbil_m40",
       "title" : "Pbil m/40"
     }, {
+      "blk" : "sw_t_50_fin",
+      "title" : "▄T-50"
+    }, {
       "blk" : "sw_kv_1_1942_fin",
       "title" : "▄KV-1 m1942"
     }, {

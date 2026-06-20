@@ -350,6 +350,9 @@
     }, {
       "blk" : "ussr_buk_m3_launcher",
       "title" : "9K317M \"BUK-M3\" (TELAR)"
+    }, {
+      "blk" : "ussr_pantsyr_sm_sv",
+      "title" : "Pantsir SM-SV"
     } ]
   }, {
     "cellList" : [ {
@@ -489,6 +492,9 @@
     }, {
       "blk" : "ussr_bm_13n",
       "title" : "BM-13N"
+    }, {
+      "blk" : "ussr_kv_8",
+      "title" : "KV-8"
     }, {
       "blk" : "ussr_a_12_mk_2_matilda_2a_f96",
       "title" : "▂MK-II \"Matilda\""

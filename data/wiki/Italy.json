@@ -51,6 +51,9 @@
     }, {
       "blk" : "it_centauro_mgs_120",
       "title" : "Centauro I 120"
+    }, {
+      "blk" : "it_centauro_2",
+      "title" : "Centauro II (P)"
     } ]
   }, {
     "cellList" : [ {

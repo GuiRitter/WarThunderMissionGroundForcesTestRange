@@ -179,6 +179,9 @@
       "blk" : "uk_a39_tortoise",
       "title" : "Tortoise"
     }, {
+      "blk" : "uk_as_90_mk_2",
+      "title" : "AS90"
+    }, {
       "blk" : "uk_fv438_swingfire",
       "title" : "Swingfire"
     }, {
@@ -346,6 +349,9 @@
     }, {
       "blk" : "uk_ram_90mm_aa",
       "title" : "QF 3.7 Ram"
+    }, {
+      "blk" : "uk_vickers_gbt_155",
+      "title" : "GBT 155"
     }, {
       "blk" : "uk_centurion_mk_3_ss11",
       "title" : "▄Strv 81 (RB 52)"

@@ -113,6 +113,9 @@
       "blk" : "jp_type_4_ho_ro",
       "title" : "Ho-Ro"
     }, {
+      "blk" : "jp_type_2_ho_ni_2",
+      "title" : "Ho-Ni II"
+    }, {
       "blk" : "jp_hiro_sha",
       "title" : "Ro-Go Exp."
     }, {
@@ -198,6 +201,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "blk" : "jp_btr_3e1",
+      "title" : "BTR-3E1"
+    }, {
       "blk" : "jp_m60a3_tts",
       "title" : "▄M60A3 TTS"
     }, {

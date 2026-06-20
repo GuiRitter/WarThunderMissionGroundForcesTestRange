@@ -273,6 +273,9 @@
       "blk" : "cn_vt_5",
       "title" : "VT5"
     }, {
+      "blk" : "cn_ztz_96b",
+      "title" : "ZTZ96B"
+    }, {
       "blk" : "cn_oplot_t",
       "title" : "Oplot-M"
     } ]

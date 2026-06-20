@@ -344,6 +344,9 @@
     }, {
       "blk" : "germ_wiesel_1_tow",
       "title" : "Wiesel 1A2"
+    }, {
+      "blk" : "germ_boxer_swatrinf",
+      "title" : "sWaTrgInf"
     } ]
   }, {
     "cellList" : [ {
@@ -367,6 +370,9 @@
     }, {
       "blk" : "germ_pzkpfw_iii_ausf_n",
       "title" : "Pz.III N"
+    }, {
+      "blk" : "germ_sdkfz_234_2_mod",
+      "title" : "Sd.Kfz.234/2 \"Biene\""
     }, {
       "blk" : "germ_kv_2_754r",
       "title" : "▀KW II 754 (r)"
