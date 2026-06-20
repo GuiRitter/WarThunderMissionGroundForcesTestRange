@@ -283,8 +283,11 @@
       "lowerField" : "sw_pbil_m40",
       "upperField" : "Pbil m/40"
     }, {
+      "lowerField" : "sw_t_50_fin",
+      "upperField" : "🇬🇷T-50"
+    }, {
       "lowerField" : "sw_kv_1_1942_fin",
-      "upperField" : "⦿KV-1 m1942"
+      "upperField" : "🇬🇷KV-1 m1942"
     }, {
       "lowerField" : "sw_k9_vidar",
       "upperField" : "Versatile InDirect ARTillery"

@@ -350,6 +350,9 @@
     }, {
       "lowerField" : "ussr_buk_m3_launcher",
       "upperField" : "9K317M \"BUK-M3\", Transporter erector launcher"
+    }, {
+      "lowerField" : "ussr_pantsyr_sm_sv",
+      "upperField" : "Pantsir SM-SV"
     } ]
   }, {
     "cellList" : [ {
@@ -489,6 +492,9 @@
     }, {
       "lowerField" : "ussr_bm_13n",
       "upperField" : "BM-13N"
+    }, {
+      "lowerField" : "ussr_kv_8",
+      "upperField" : "KV-8"
     }, {
       "lowerField" : "ussr_a_12_mk_2_matilda_2A_F96",
       "upperField" : "★Tank MK-II «Matilda» (F-96)"

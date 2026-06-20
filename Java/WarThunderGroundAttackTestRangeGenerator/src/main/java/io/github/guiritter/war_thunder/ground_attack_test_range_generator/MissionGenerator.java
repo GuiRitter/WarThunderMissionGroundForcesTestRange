@@ -48,6 +48,7 @@ public final class MissionGenerator {
 	public static final String ISRAEL = "Israel";
 	public static final String OTHER = "other";
 	public static final String TRAIN = "train";
+	public static final String GHOST = "ghost";
 
 	// get X distance based on faction
 	public static final int getDistanceX(String faction) {
@@ -126,7 +127,7 @@ public final class MissionGenerator {
 			inputFolder = chooser.getSelectedFile();
 		}
 		final String forces[] = {AIR, GROUND};
-		final String factions[] = {USSR, GERMANY, US, UK, JAPAN, ITALY, FRANCE, CHINA, SWEDEN, ISRAEL, OTHER, TRAIN};
+		final String factions[] = {USSR, GERMANY, US, UK, JAPAN, ITALY, FRANCE, CHINA, SWEDEN, ISRAEL, OTHER, TRAIN, GHOST};
 		final String scenarios[] = {SCENARIO_RELEASE, SCENARIO_SCREENSHOT, SCENARIO_QA};
 		final LinkedList<String> lines = new LinkedList<>();
 		Cell fields[];

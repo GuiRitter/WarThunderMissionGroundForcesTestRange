@@ -1,17 +1,35 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "ussr_bmpt",
-      "upperField" : "ussr_bmpt"
+      "lowerField" : "ussr_ai_aew_radar_55j6",
+      "upperField" : "ussr_ai_aew_radar_55j6"
     }, {
-      "lowerField" : "ussr_bmpt_72",
-      "upperField" : "ussr_bmpt_72"
+      "lowerField" : "ussr_ai_mlrs_9a52_2_smerch",
+      "upperField" : "ussr_ai_mlrs_9a52_2_smerch"
     }, {
-      "lowerField" : "ussr_t_72b3_arena",
-      "upperField" : "ussr_t_72b3_arena"
+      "lowerField" : "ussr_ai_sam_launcher_5p85se",
+      "upperField" : "ussr_ai_sam_launcher_5p85se"
     }, {
-      "lowerField" : "ussr_tor_m1",
-      "upperField" : "ussr_tor_m1"
+      "lowerField" : "ussr_ai_sam_launcher_9a310",
+      "upperField" : "ussr_ai_sam_launcher_9a310"
+    }, {
+      "lowerField" : "ussr_ai_sam_radar_5n63s",
+      "upperField" : "ussr_ai_sam_radar_5n63s"
+    }, {
+      "lowerField" : "ussr_ai_sam_radar_5n64s",
+      "upperField" : "ussr_ai_sam_radar_5n64s"
+    }, {
+      "lowerField" : "ussr_ai_sam_radar_9s18",
+      "upperField" : "ussr_ai_sam_radar_9s18"
+    }, {
+      "lowerField" : "ussr_ai_tbm_9k79_tochka",
+      "upperField" : "ussr_ai_tbm_9k79_tochka"
+    }, {
+      "lowerField" : "ussr_kv_8",
+      "upperField" : "ussr_kv_8"
+    }, {
+      "lowerField" : "ussr_pantsyr_sm_sv",
+      "upperField" : "ussr_pantsyr_sm_sv"
     } ]
   } ]
 }

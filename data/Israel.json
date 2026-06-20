@@ -139,6 +139,9 @@
       "lowerField" : "il_namer_rcws_30",
       "upperField" : "Namer RCWS-30"
     }, {
+      "lowerField" : "il_eitan",
+      "upperField" : "Eitan Prototype"
+    }, {
       "lowerField" : "il_namer_tsrikhon",
       "upperField" : "Namer Tsrikhon"
     } ]

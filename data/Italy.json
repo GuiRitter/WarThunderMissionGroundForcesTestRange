@@ -51,6 +51,9 @@
     }, {
       "lowerField" : "it_centauro_mgs_120",
       "upperField" : "Blindo Pesante Centauro, 120 mm"
+    }, {
+      "lowerField" : "it_centauro_2",
+      "upperField" : "Blindo pesante Centauro II, Prototipo"
     } ]
   }, {
     "cellList" : [ {

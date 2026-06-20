@@ -1,11 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "germ_jaguar_2",
-      "upperField" : "germ_jaguar_2"
+      "lowerField" : "germ_boxer_swatrinf",
+      "upperField" : "germ_boxer_swatrinf"
     }, {
-      "lowerField" : "germ_th_400",
-      "upperField" : "germ_th_400"
+      "lowerField" : "germ_sdkfz_234_2_mod",
+      "upperField" : "germ_sdkfz_234_2_mod"
     } ]
   } ]
 }

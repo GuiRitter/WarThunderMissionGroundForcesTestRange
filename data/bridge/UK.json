@@ -179,6 +179,9 @@
       "lowerField" : "uk_a39_tortoise",
       "upperField" : "A39 Tortoise"
     }, {
+      "lowerField" : "uk_as_90_mk_2",
+      "upperField" : "AS90 Mk.2"
+    }, {
       "lowerField" : "uk_fv438_swingfire",
       "upperField" : "FV438 Swingfire"
     }, {
@@ -346,6 +349,9 @@
     }, {
       "lowerField" : "uk_ram_90mm_aa",
       "upperField" : "OQF 3.7-inch AA on Ram Mounting"
+    }, {
+      "lowerField" : "uk_vickers_gbt_155",
+      "upperField" : "VSEL GBT 155"
     }, {
       "lowerField" : "uk_centurion_mk_3_ss11",
       "upperField" : "Strv 81"

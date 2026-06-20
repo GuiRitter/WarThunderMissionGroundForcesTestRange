@@ -1,0 +1,42 @@
+{
+  "columnList" : [
+    {
+      "cellList" : [
+        {
+          "lowerField" : "cn_pgz_88",
+          "upperField" : ""
+        }, {
+          "lowerField" : "destroyer_heavy_tank_h",
+          "upperField" : ""
+        }, {
+          "lowerField" : "us_hummer_hmmwv_burned_b_destroyed_unit",
+          "upperField" : ""
+        }, {
+          "lowerField" : "us_hummer_hmmwv_damaged_a_destroyed_unit",
+          "upperField" : ""
+        }, {
+          "lowerField" : "us_m1a1_abrams_destroyed_unit",
+          "upperField" : ""
+        }, {
+          "lowerField" : "ussr_bmp_2_destroyed_unit",
+          "upperField" : ""
+        }, {
+          "lowerField" : "ussr_gaz_233034_tiger_a_destroyed_unit",
+          "upperField" : ""
+        }, {
+          "lowerField" : "ussr_gaz_233034_tiger_burnt_a_destroyed_unit",
+          "upperField" : ""
+        }, {
+          "lowerField" : "ussr_gaz_233034_tiger_burnt_b_destroyed_unit",
+          "upperField" : ""
+        }, {
+          "lowerField" : "ussr_t_80u_destroyed_unit",
+          "upperField" : ""
+        }, {
+          "lowerField" : "space_rocket_launcher",
+          "upperField" : ""
+        }
+      ]
+    }
+  ]
+}

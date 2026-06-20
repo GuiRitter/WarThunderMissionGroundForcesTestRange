@@ -1,14 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "jp_type_03_chusam_fcs",
-      "upperField" : "jp_type_03_chusam_fcs"
+      "lowerField" : "jp_btr_3e1",
+      "upperField" : "jp_btr_3e1"
     }, {
-      "lowerField" : "jp_type_03_chusam_launcher",
-      "upperField" : "jp_type_03_chusam_launcher"
-    }, {
-      "lowerField" : "jp_type_61_mod",
-      "upperField" : "jp_type_61_mod"
+      "lowerField" : "jp_type_2_ho_ni_2",
+      "upperField" : "jp_type_2_ho_ni_2"
     } ]
   } ]
 }

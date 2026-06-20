@@ -34,6 +34,9 @@
       "lowerField" : "us_stingray",
       "upperField" : "Stingray"
     }, {
+      "lowerField" : "us_m1296_dragoon",
+      "upperField" : "M1296 Infantry Carrier Vehicle Dragoon"
+    }, {
       "lowerField" : "us_m1128_mgs",
       "upperField" : "M1128"
     }, {
@@ -462,6 +465,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "sample_m60a1",
+      "upperField" : ""
+    }, {
       "lowerField" : "us_amx_13_75",
       "upperField" : "AMX-13"
     }, {
@@ -470,9 +476,6 @@
     }, {
       "lowerField" : "us_apc_m113",
       "upperField" : "M113"
-    }, {
-      "lowerField" : "us_at_m40",
-      "upperField" : "106 mm anti-tank gun M40"
     }, {
       "lowerField" : "us_m18_hellcat_black_cat_race",
       "upperField" : "“The Hellcat”"

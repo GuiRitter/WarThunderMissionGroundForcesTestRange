@@ -113,6 +113,9 @@
       "lowerField" : "jp_type_4_ho_ro",
       "upperField" : "Type 4 Ho-Ro"
     }, {
+      "lowerField" : "jp_type_2_ho_ni_2",
+      "upperField" : "Type 2 Ho-Ni II"
+    }, {
       "lowerField" : "jp_hiro_sha",
       "upperField" : "Ji-Ro"
     }, {
@@ -198,6 +201,9 @@
     } ]
   }, {
     "cellList" : [ {
+      "lowerField" : "jp_btr_3e1",
+      "upperField" : "BTR-3E1"
+    }, {
       "lowerField" : "jp_m60a3_tts",
       "upperField" : "☀105 mm Gun Tank M60A3 TTS"
     }, {

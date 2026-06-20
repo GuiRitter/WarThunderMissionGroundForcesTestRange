@@ -34,6 +34,9 @@
       "lowerField" : "us_stingray",
       "upperField" : "Stingray"
     }, {
+      "lowerField" : "us_m1296_dragoon",
+      "upperField" : "M1296 Infantry Carrier Vehicle Dragoon"
+    }, {
       "lowerField" : "us_m1128_mgs",
       "upperField" : "M1128"
     }, {

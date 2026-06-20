@@ -344,6 +344,9 @@
     }, {
       "lowerField" : "germ_wiesel_1_tow",
       "upperField" : "Waffenträger Wiesel 1A2 TOW"
+    }, {
+      "lowerField" : "germ_boxer_swatrinf",
+      "upperField" : "Boxer Schwerer Waffenträger Infanterie"
     } ]
   }, {
     "cellList" : [ {
@@ -367,6 +370,9 @@
     }, {
       "lowerField" : "germ_pzkpfw_iii_ausf_n",
       "upperField" : "Pz.Kpfw. III Ausf. N"
+    }, {
+      "lowerField" : "germ_sdkfz_234_2_mod",
+      "upperField" : "s.Pz.Sp.Wg. (5 cm 39/1 L60) \"Biene\" Sd.Kfz.234/2"
     }, {
       "lowerField" : "germ_kv_2_754r",
       "upperField" : "✙KV-II 754r"

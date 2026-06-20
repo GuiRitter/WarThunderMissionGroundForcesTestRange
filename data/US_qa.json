@@ -1,17 +1,44 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "us_m10_booker_late",
-      "upperField" : "us_m10_booker_late"
+      "lowerField" : "us_ai_aew_radar_tps_59",
+      "upperField" : "us_ai_aew_radar_tps_59"
     }, {
-      "lowerField" : "us_m8_scott_snowball",
-      "upperField" : "us_m8_scott_snowball"
+      "lowerField" : "us_ai_mlrs_m270",
+      "upperField" : "us_ai_mlrs_m270"
     }, {
-      "lowerField" : "us_nasams_fcs",
-      "upperField" : "us_nasams_fcs"
+      "lowerField" : "us_ai_sam_launcher_m192",
+      "upperField" : "us_ai_sam_launcher_m192"
     }, {
-      "lowerField" : "us_nasams_launcher",
-      "upperField" : "us_nasams_launcher"
+      "lowerField" : "us_ai_sam_launcher_m901",
+      "upperField" : "us_ai_sam_launcher_m901"
+    }, {
+      "lowerField" : "us_ai_sam_radar_an_mpq_46",
+      "upperField" : "us_ai_sam_radar_an_mpq_46"
+    }, {
+      "lowerField" : "us_ai_sam_radar_an_mpq_53",
+      "upperField" : "us_ai_sam_radar_an_mpq_53"
+    }, {
+      "lowerField" : "us_ai_sam_radar_cwar",
+      "upperField" : "us_ai_sam_radar_cwar"
+    }, {
+      "lowerField" : "us_ai_tbm_m752_lance",
+      "upperField" : "us_ai_tbm_m752_lance"
+    }, {
+      "lowerField" : "us_bulldozer_caterpillar_d7",
+      "upperField" : "us_bulldozer_caterpillar_d7"
+    }, {
+      "lowerField" : "us_bulldozer_caterpillar_d7_armored",
+      "upperField" : "us_bulldozer_caterpillar_d7_armored"
+    }, {
+      "lowerField" : "us_hummer_hmmwv_burned_b_destroyed_unit",
+      "upperField" : "us_hummer_hmmwv_burned_b_destroyed_unit"
+    }, {
+      "lowerField" : "us_hummer_hmmwv_damaged_a_destroyed_unit",
+      "upperField" : "us_hummer_hmmwv_damaged_a_destroyed_unit"
+    }, {
+      "lowerField" : "us_m1296_dragoon",
+      "upperField" : "us_m1296_dragoon"
     } ]
   } ]
 }

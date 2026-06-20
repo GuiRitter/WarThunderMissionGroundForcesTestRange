@@ -1,11 +1,11 @@
 {
   "columnList" : [ {
     "cellList" : [ {
-      "lowerField" : "uk_ajax",
-      "upperField" : "uk_ajax"
+      "lowerField" : "uk_as_90_mk_2",
+      "upperField" : "uk_as_90_mk_2"
     }, {
-      "lowerField" : "uk_boxer_crv_block2",
-      "upperField" : "uk_boxer_crv_block2"
+      "lowerField" : "uk_vickers_gbt_155",
+      "upperField" : "uk_vickers_gbt_155"
     } ]
   } ]
 }

@@ -273,6 +273,9 @@
       "lowerField" : "cn_vt_5",
       "upperField" : "VT5"
     }, {
+      "lowerField" : "cn_ztz_96b",
+      "upperField" : "ZhuangJia Tanke ZhuZhan 96B"
+    }, {
       "lowerField" : "cn_oplot_t",
       "upperField" : "Oplot-M"
     } ]
@@ -297,9 +300,6 @@
     "cellList" : [ {
       "lowerField" : "cn_bt_5",
       "upperField" : "BT-5"
-    }, {
-      "lowerField" : "cn_dodge_m37",
-      "upperField" : "cn_dodge_m37"
     }, {
       "lowerField" : "cn_type_95_ha_go",
       "upperField" : "Ha-Go"
