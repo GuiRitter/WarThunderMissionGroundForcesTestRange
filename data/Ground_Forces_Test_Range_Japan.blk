@@ -1281,7 +1281,7 @@ units{
   tankModels{
     name:t="tank_2_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8187.0]]
-    unit_class:t="jp_hiro_sha"
+    unit_class:t="jp_type_2_ho_ni_2"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1312,7 +1312,7 @@ units{
   tankModels{
     name:t="tank_2_2"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8187.0]]
-    unit_class:t="jp_type_3_ho_ni_i"
+    unit_class:t="jp_hiro_sha"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1343,7 +1343,7 @@ units{
   tankModels{
     name:t="tank_2_3"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8187.0]]
-    unit_class:t="jp_type_3_ho_ni_iii"
+    unit_class:t="jp_type_3_ho_ni_i"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1374,7 +1374,7 @@ units{
   tankModels{
     name:t="tank_2_4"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8114, 1, 8187.0]]
-    unit_class:t="jp_navy_120mm_spg"
+    unit_class:t="jp_type_3_ho_ni_iii"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1405,7 +1405,7 @@ units{
   tankModels{
     name:t="tank_2_5"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8126, 1, 8187.0]]
-    unit_class:t="jp_type_5_na_to"
+    unit_class:t="jp_navy_120mm_spg"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1436,7 +1436,7 @@ units{
   tankModels{
     name:t="tank_2_6"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8138, 1, 8187.0]]
-    unit_class:t="jp_m44"
+    unit_class:t="jp_type_5_na_to"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1467,7 +1467,7 @@ units{
   tankModels{
     name:t="tank_2_7"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8150, 1, 8187.0]]
-    unit_class:t="jp_m36b2_jgsdf"
+    unit_class:t="jp_m44"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1498,7 +1498,7 @@ units{
   tankModels{
     name:t="tank_2_8"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8162, 1, 8187.0]]
-    unit_class:t="jp_type_75"
+    unit_class:t="jp_m36b2_jgsdf"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1529,7 +1529,7 @@ units{
   tankModels{
     name:t="tank_2_9"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8174, 1, 8187.0]]
-    unit_class:t="jp_type_99"
+    unit_class:t="jp_type_75"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1560,7 +1560,7 @@ units{
   tankModels{
     name:t="tank_2_10"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8186, 1, 8187.0]]
-    unit_class:t="jp_type_5_ho_ri_production"
+    unit_class:t="jp_type_99"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1591,7 +1591,7 @@ units{
   tankModels{
     name:t="tank_2_11"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8198, 1, 8187.0]]
-    unit_class:t="jp_type_16_mcv_prot"
+    unit_class:t="jp_type_5_ho_ri_production"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -1622,6 +1622,37 @@ units{
   tankModels{
     name:t="tank_2_12"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8210, 1, 8187.0]]
+    unit_class:t="jp_type_16_mcv_prot"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_2_13"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8222, 1, 8187.0]]
     unit_class:t="jp_type_16"
     objLayer:i=1
     closed_waypoints:b=no
@@ -2118,7 +2149,7 @@ units{
   tankModels{
     name:t="tank_4_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8066, 1, 8197.0]]
-    unit_class:t="jp_m60a3_tts"
+    unit_class:t="jp_btr_3e1"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2149,7 +2180,7 @@ units{
   tankModels{
     name:t="tank_4_1"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8078, 1, 8197.0]]
-    unit_class:t="jp_stingray"
+    unit_class:t="jp_m60a3_tts"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -2180,6 +2211,37 @@ units{
   tankModels{
     name:t="tank_4_2"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8090, 1, 8197.0]]
+    unit_class:t="jp_stingray"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_3"
+    tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8102, 1, 8197.0]]
     unit_class:t="jp_oplot_t"
     objLayer:i=1
     closed_waypoints:b=no

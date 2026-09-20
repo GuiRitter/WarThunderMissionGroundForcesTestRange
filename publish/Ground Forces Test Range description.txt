@@ -196,4 +196,18 @@ One thing I found funny was about one of these props, in the UK tech tree: the R
 
 After 2.53: still playing catch-up to the version numbers.
 
+After 2.55: lots of non-playable vehicles were added. So, I created a separate mission, called "ghost", to include all vehicles that can be added to missions but don't actually spawn or render within a mission. Since I removed these from the "other" mission, and because of the "NPC" additions, I greatly reorganized the "other" mission.
+
+Also, as you can see, I didn't think it would take this long for me to be able to continue updating this but it did. Actually, I didn't finish the other higher-priority things yet. I just rushed this because 2.59 came out with absolutely no warning. I open the launcher everyday and I was expecting some news like "planned technical maintenance" or something like that but I was flabbergasted by opening the launcher already on the newer version. As a consequence, I didn't capture the vehicle list for 2.57.
+
+After 2.59: speaking of which, for 2.55 I couldn't test the mission or update the screenshot for UK because the mission is no longer launching. The game is stuck in loading, still responding, changing those messages that appear below, but nothing else happens. I don't know if it is because of some vehicle that worked in 2.55 but not anymore in 2.59.
+
+Also, the CDK updated and the old CDK no longer works. I was using a CDK that is now 2 versions older than the current because the middle one was not working with my automation tools to capture the vehicle list. Now I'm forced to use the new one. However, the new one is not showing the vehicle list. It only shows custom vehicles.
+
+Because I don't have the time to figure out an alternative to accomplish this, I must sadly declare that I'm abandoning this user mission. I've tried to keep up as I could, regardless of how late that would be, but I'm just too overwhelmed. It looks like a good time to pass on the mantle if anyone is interested.
+
+For this reason, I have opened to the public the project which I created with all of the tools (and most of the instructions) that I used to help build this. It would be nice if someone could continue this legacy and even improve on it. It only goes up to 2.53. 2.55 is in a separate branch because I couldn't take the UK screenshot. It's available here: https://github.com/GuiRitter/WarThunderMissionGroundForcesTestRange
+
+So long, and thanks for all the support.
+
 #GuiRitter #groundattack #ground_attack #ground #attack #attacker #bomber #tanks #mission #usermission #user_mission

@@ -1,197 +1,174 @@
 {
-  "columnList": [
-    {
-      "cellList": [
-        {
-          "lowerField": "germ_at_gun_flak36",
-          "upperField": "3.7 cm FlaK 36"
-        }, {
-          "lowerField": "germ_at_gun_pak36",
-          "upperField": "3.7 cm anti-tank gun mod. 1935/1936 (PaK)"
-        }, {
-          "lowerField": "germ_at_gun_pak38",
-          "upperField": "5 cm anti-tank gun PaK 38"
-        }, {
-          "lowerField": "germ_at_gun_pak40",
-          "upperField": "7.5 cm PaK 40"
-        }, {
-          "lowerField" : "germ_machinegun_mg_08",
-          "upperField" : "MG08"
-        }, {
-          "lowerField": "jp_at_37mm_type_1",
-          "upperField": "37 mm anti-tank gun Type 1"
-        }, {
-          "lowerField": "jp_at_47mm_type_1",
-          "upperField": "jp_at_47mm_type_1"
-        }, {
-          "lowerField" : "uk_ai_sam_rapier",
-          "upperField" : "Rapier SAM System"
-        }, {
-          "lowerField" : "uk_at_gun_qf17pounder",
-          "upperField" : "17-pounder anti-tank gun"
-        }, {
-          "lowerField" : "uk_at_gun_qf6pounder",
-          "upperField" : "6-pounder anti-tank gun"
-        }, {
-          "lowerField" : "uk_machinegun_hotchkiss_mle_1914",
-          "upperField" : "Hotchkiss Mle 1909"
-        }, {
-          "lowerField" : "us_at_gun_m1",
-          "upperField" : "57 mm anti-tank gun M1"
-        }, {
-          "lowerField" : "us_at_m40",
-          "upperField" : "106 mm anti-tank gun M40"
-        }, {
-          "lowerField" : "ussr_at_gun_53k",
-          "upperField" : "45 mm anti-tank gun mod. 1937 (53-K)"
-        }
-      ]
-    },
-    {
-      "cellList": [
-        {
-          "lowerField": "us_ai_aew_radar_tps_59",
-          "upperField": "AN/TPS-59 acquisition radar"
-        },
-        {
-          "lowerField": "us_ai_mlrs_m270",
-          "upperField": "M270 MLRS"
-        },
-        {
-          "lowerField": "us_ai_sam_launcher_m192",
-          "upperField": "\"Hawk\" SAM M192 Launcher"
-        },
-        {
-          "lowerField": "us_ai_sam_launcher_m901",
-          "upperField": "\"Patriot\" SAM M901 launcher"
-        },
-        {
-          "lowerField": "us_ai_sam_radar_an_mpq_46",
-          "upperField": "AN/MPQ-46 SAM \"Hawk\" target tracking radar"
-        },
-        {
-          "lowerField": "us_ai_sam_radar_an_mpq_53",
-          "upperField": "AN/MPQ-53 SAM \"Patriot\" target tracking radar"
-        },
-        {
-          "lowerField": "us_ai_sam_radar_cwar",
-          "upperField": "\"CWAR\" SAM \"HAWK\" acquisition radar"
-        },
-        {
-          "lowerField": "us_ai_tbm_m752_lance",
-          "upperField": "MGM-52 \"Lance\" tactical ballistic missile"
-        }
-      ]
-    },
-    {
-      "cellList": [
-        {
-          "lowerField": "",
-          "upperField": ""
-        }
-      ]
-    },
-    {
-      "cellList": [
-        {
-          "lowerField": "germ_leichter_ladungstrager_303a",
-          "upperField": "Goliath 303a"
-        },
-        {
-          "lowerField": "us_bulldozer_caterpillar_d7",
-          "upperField": ""
-        },
-        {
-          "lowerField": "us_bulldozer_caterpillar_d7_armored",
-          "upperField": ""
-        },
-        {
-          "lowerField": "us_m4_sherman_fake",
-          "upperField": ""
-        },
-        {
-          "lowerField": "ussr_sht_1_2",
-          "upperField": ""
-        },
-        {
-          "lowerField": "cn_dodge_m37",
-          "upperField": "cn_dodge_m37"
-        },
-        {
-          "lowerField": "germ_launcher_vertical",
-          "upperField": "germ_launcher_vertical"
-        }
-      ]
-    },
-    {
-      "cellList": [
-        {
-          "lowerField": "",
-          "upperField": ""
-        }
-      ]
-    },
-    {
-      "cellList": [
-        {
-          "lowerField": "ussr_ai_aew_radar_55j6",
-          "upperField": "55Zh6 \"Nebo\" acquisition radar"
-        },
-        {
-          "lowerField": "ussr_ai_mlrs_9a52_2_smerch",
-          "upperField": "9A52-2 \"Smerch\" MLRS"
-        },
-        {
-          "lowerField": "ussr_ai_sam_launcher_5p85se",
-          "upperField": "\"S-300\" SAM 5P85SE launcher"
-        },
-        {
-          "lowerField": "ussr_ai_sam_launcher_9a310",
-          "upperField": "9K37 \"BUK\", Transporter erector launcher and radar 9A310"
-        },
-        {
-          "lowerField": "ussr_ai_sam_radar_5n63s",
-          "upperField": "5N63S \"S-300\" SAM target tracking radar"
-        },
-        {
-          "lowerField": "ussr_ai_sam_radar_5n64s",
-          "upperField": "5N64S SAM \"S-300\" acquisition radar"
-        },
-        {
-          "lowerField": "ussr_ai_sam_radar_9s18",
-          "upperField": "9K37 \"BUK\", Target acquisition and designation system 9S18"
-        },
-        {
-          "lowerField": "ussr_ai_tbm_9k79_tochka",
-          "upperField": "9K79 \"Tochka\" tactical ballistic missile"
-        }
-      ]
-    },
-    {
-      "cellList": [
-        {
-          "lowerField" : "germ_truck_sdkfz_6_2_tent",
-          "upperField" : "Sd.Kfz. 6"
-        }, {
-          "lowerField": "jp_truck_type_94_isuzu",
-          "upperField": "Isuzu Type 94"
-        }, {
-          "lowerField" : "uk_truck_us6_studebaker_board",
-          "upperField" : "Studebaker US6"
-        }, {
-          "lowerField" : "uk_truck_us6_studebaker_tent",
-          "upperField" : "Studebaker US6"
-        }, {
-          "lowerField" : "us_truck_us6_studebaker_board",
-          "upperField" : "Studebaker US6"
-        }, {
-          "lowerField" : "us_truck_us6_studebaker_tent",
-          "upperField" : "Studebaker US6"
-        }, {
-          "lowerField" : "ussr_truck_gaz_aaa",
-          "upperField" : "GAZ-AAA"
-        }
-      ]
-    }
-  ]
+  "columnList": [ {
+    "cellList": [ {
+      "lowerField" : "germ_launcher_vertical",
+      "upperField" : "germ_launcher_vertical"
+    } ]
+  }, {
+    "cellList": [ {
+      "lowerField" : "",
+      "upperField" : ""
+    } ]
+  }, {
+    "cellList": [ {
+      "lowerField" : "germ_leichter_ladungstrager_303a",
+      "upperField" : "Goliath 303a"
+    }, {
+      "lowerField" : "us_bulldozer_caterpillar_d7",
+      "upperField" : ""
+    }, {
+      "lowerField" : "us_bulldozer_caterpillar_d7_armored",
+      "upperField" : ""
+    }, {
+      "lowerField" : "us_m4_sherman_fake",
+      "upperField" : ""
+    }, {
+      "lowerField" : "ussr_sht_1_2",
+      "upperField" : ""
+    }, {
+      "lowerField" : "cn_dodge_m37",
+      "upperField" : "cn_dodge_m37"
+    } ]
+  }, {
+    "cellList": [ {
+      "lowerField" : "",
+      "upperField" : ""
+    } ]
+  }, {
+    "cellList": [ {
+      "lowerField" : "germ_truck_sdkfz_6_2_tent",
+      "upperField" : "Sd.Kfz. 6"
+    }, {
+      "lowerField" : "jp_truck_type_94_isuzu",
+      "upperField" : "Isuzu Type 94"
+    }, {
+      "lowerField" : "uk_truck_us6_studebaker_board",
+      "upperField" : "Studebaker US6"
+    }, {
+      "lowerField" : "uk_truck_us6_studebaker_tent",
+      "upperField" : "Studebaker US6"
+    }, {
+      "lowerField" : "us_truck_us6_studebaker_board",
+      "upperField" : "Studebaker US6"
+    }, {
+      "lowerField" : "us_truck_us6_studebaker_tent",
+      "upperField" : "Studebaker US6"
+    }, {
+      "lowerField" : "ussr_truck_gaz_aaa",
+      "upperField" : "GAZ-AAA"
+    } ]
+  }, {
+    "cellList": [ {
+      "lowerField" : "germ_at_gun_flak36",
+      "upperField" : "3.7 cm FlaK 36"
+    }, {
+      "lowerField" : "germ_at_gun_pak36",
+      "upperField" : "3.7 cm anti-tank gun mod. 1935/1936 (PaK)"
+    }, {
+      "lowerField" : "germ_at_gun_pak38",
+      "upperField" : "5 cm anti-tank gun PaK 38"
+    }, {
+      "lowerField" : "germ_at_gun_pak40",
+      "upperField" : "7.5 cm PaK 40"
+    }, {
+      "lowerField" : "germ_machinegun_mg_08",
+      "upperField" : "MG08"
+    }, {
+      "lowerField" : "jp_at_37mm_type_1",
+      "upperField" : "37 mm anti-tank gun Type 1"
+    }, {
+      "lowerField" : "jp_at_47mm_type_1",
+      "upperField" : "jp_at_47mm_type_1"
+    } ]
+  }, {
+    "cellList": [ {
+      "lowerField" : "uk_ai_sam_rapier",
+      "upperField" : "Rapier SAM System"
+    }, {
+      "lowerField" : "uk_at_gun_qf17pounder",
+      "upperField" : "17-pounder anti-tank gun"
+    }, {
+      "lowerField" : "uk_at_gun_qf6pounder",
+      "upperField" : "6-pounder anti-tank gun"
+    }, {
+      "lowerField" : "uk_machinegun_hotchkiss_mle_1914",
+      "upperField" : "Hotchkiss Mle 1909"
+    }, {
+      "lowerField" : "us_at_gun_m1",
+      "upperField" : "57 mm anti-tank gun M1"
+    }, {
+      "lowerField" : "us_at_m40",
+      "upperField" : "106 mm anti-tank gun M40"
+    }, {
+      "lowerField" : "ussr_at_gun_53k",
+      "upperField" : "45 mm anti-tank gun mod. 1937 (53-K)"
+    } ]
+  }, {
+    "cellList": [ {
+      "lowerField" : "",
+      "upperField" : ""
+    } ]
+  }, {
+    "cellList": [ {
+      "lowerField" : "us_ai_aew_radar_tps_59",
+      "upperField" : "AN/TPS-59 acquisition radar"
+    }, {
+      "lowerField" : "us_ai_mlrs_m270",
+      "upperField" : "M270 MLRS"
+    }, {
+      "lowerField" : "us_ai_sam_launcher_m192",
+      "upperField" : "\"Hawk\" SAM M192 Launcher"
+    }, {
+      "lowerField" : "us_ai_sam_launcher_m901",
+      "upperField" : "\"Patriot\" SAM M901 launcher"
+    }, {
+      "lowerField" : "us_ai_sam_radar_an_mpq_46",
+      "upperField" : "AN/MPQ-46 SAM \"Hawk\" target tracking radar"
+    }, {
+      "lowerField" : "us_ai_sam_radar_an_mpq_53",
+      "upperField" : "AN/MPQ-53 SAM \"Patriot\" target tracking radar"
+    }, {
+      "lowerField" : "us_ai_sam_radar_cwar",
+      "upperField" : "\"CWAR\" SAM \"HAWK\" acquisition radar"
+    }, {
+      "lowerField" : "us_ai_tbm_m752_lance",
+      "upperField" : "MGM-52 \"Lance\" tactical ballistic missile"
+    } ]
+  }, {
+    "cellList": [ {
+      "lowerField" : "",
+      "upperField" : ""
+    } ]
+  }, {
+    "cellList": [ {
+      "lowerField" : "",
+      "upperField" : ""
+    } ]
+  }, {
+    "cellList": [ {
+      "lowerField" : "ussr_ai_aew_radar_55j6",
+      "upperField" : "55Zh6 \"Nebo\" acquisition radar"
+    }, {
+      "lowerField" : "ussr_ai_mlrs_9a52_2_smerch",
+      "upperField" : "9A52-2 \"Smerch\" MLRS"
+    }, {
+      "lowerField" : "ussr_ai_sam_launcher_5p85se",
+      "upperField" : "\"S-300\" SAM 5P85SE launcher"
+    }, {
+      "lowerField" : "ussr_ai_sam_launcher_9a310",
+      "upperField" : "9K37 \"BUK\", Transporter erector launcher and radar 9A310"
+    }, {
+      "lowerField" : "ussr_ai_sam_radar_5n63s",
+      "upperField" : "5N63S \"S-300\" SAM target tracking radar"
+    }, {
+      "lowerField" : "ussr_ai_sam_radar_5n64s",
+      "upperField" : "5N64S SAM \"S-300\" acquisition radar"
+    }, {
+      "lowerField" : "ussr_ai_sam_radar_9s18",
+      "upperField" : "9K37 \"BUK\", Target acquisition and designation system 9S18"
+    }, {
+      "lowerField" : "ussr_ai_tbm_9k79_tochka",
+      "upperField" : "9K79 \"Tochka\" tactical ballistic missile"
+    } ]
+  } ]
 }

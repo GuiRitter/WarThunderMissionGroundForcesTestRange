@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WarThunderListDiffer",
+            "request": "launch",
+            "mainClass": "io.github.guiritter.war_thunder.list_differ.WarThunderListDiffer",
+            "projectName": "war-thunder-list-differ"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WarThunderListDiffer",
+            "request": "launch",
+            "mainClass": "io.github.guiritter.war_thunder.list_differ.WarThunderListDiffer",
+            "projectName": "war-thunder-tree-table-manager"
+        }
+    ]
+}

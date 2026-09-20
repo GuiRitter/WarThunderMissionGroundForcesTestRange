@@ -7,6 +7,9 @@ using System.Windows.Automation;
 
 namespace WarThunderModelLister
 {
+    /// <summary>
+    /// Written entirely by Copilot after several rounds of prompting for code to inspect the UI.
+    /// </summary>
     internal class Program
     {
         static void Main(string[] args)

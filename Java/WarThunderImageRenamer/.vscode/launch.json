@@ -1,0 +1,25 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "no args",
+			"request": "launch",
+			"mainClass": "io.github.guiritter.war_thunder_image_renamer.WarThunderImageRenamer",
+			"projectName": "war-thunder-image-renamer"
+		},
+		{
+			"type": "java",
+			"name": "2.45",
+			"request": "launch",
+			"mainClass": "io.github.guiritter.war_thunder_image_renamer.WarThunderImageRenamer",
+			"projectName": "war-thunder-image-renamer",
+			"args": [
+				"C:\\jogo\\War Thunder\\MISSIONS\\WarThunderMissionGroundForcesTestRange\\image\\2.45\\"
+			]
+		}
+	]
+}

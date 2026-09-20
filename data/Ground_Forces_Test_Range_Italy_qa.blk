@@ -165,7 +165,7 @@ units{
   tankModels{
     name:t="tank_0_0"
     tm:m=[[-1, 0, 0] [0, 1, 0] [0, 0, -1] [8192, 1, 8192.0]]
-    unit_class:t="it_freccia_hitfist_ows"
+    unit_class:t="it_centauro_2"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""

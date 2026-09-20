@@ -164,7 +164,7 @@ units{
 
   tankModels{
     name:t="tank_0_0"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8168.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8160.0]]
     unit_class:t="germ_panzerzug_bp_44_locomotive"
     objLayer:i=1
     closed_waypoints:b=no
@@ -195,7 +195,7 @@ units{
 
   tankModels{
     name:t="tank_0_1"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8136, 1, 8168.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8136, 1, 8160.0]]
     unit_class:t="germ_panzerzug_bp_44_wagon_a"
     objLayer:i=1
     closed_waypoints:b=no
@@ -226,7 +226,7 @@ units{
 
   tankModels{
     name:t="tank_0_2"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8152, 1, 8168.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8152, 1, 8160.0]]
     unit_class:t="germ_panzerzug_bp_44_wagon_b"
     objLayer:i=1
     closed_waypoints:b=no
@@ -257,7 +257,7 @@ units{
 
   tankModels{
     name:t="tank_0_3"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8168, 1, 8168.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8168, 1, 8160.0]]
     unit_class:t="germ_panzerzug_bp_44_wagon_c"
     objLayer:i=1
     closed_waypoints:b=no
@@ -288,7 +288,7 @@ units{
 
   tankModels{
     name:t="tank_0_4"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8184, 1, 8168.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8184, 1, 8160.0]]
     unit_class:t="germ_railway_tram_a"
     objLayer:i=1
     closed_waypoints:b=no
@@ -319,7 +319,7 @@ units{
 
   tankModels{
     name:t="tank_1_0"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8184.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8176.0]]
     unit_class:t="railway_covered_bcna"
     objLayer:i=1
     closed_waypoints:b=no
@@ -350,7 +350,7 @@ units{
 
   tankModels{
     name:t="tank_1_1"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8136, 1, 8184.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8136, 1, 8176.0]]
     unit_class:t="railway_diesel_locomotive_te1"
     objLayer:i=1
     closed_waypoints:b=no
@@ -381,7 +381,7 @@ units{
 
   tankModels{
     name:t="tank_1_2"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8152, 1, 8184.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8152, 1, 8176.0]]
     unit_class:t="railway_hopper_bobr"
     objLayer:i=1
     closed_waypoints:b=no
@@ -412,7 +412,7 @@ units{
 
   tankModels{
     name:t="tank_1_3"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8168, 1, 8184.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8168, 1, 8176.0]]
     unit_class:t="railway_wam_4_locomotive"
     objLayer:i=1
     closed_waypoints:b=no
@@ -443,8 +443,8 @@ units{
 
   tankModels{
     name:t="tank_2_0"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8200.0]]
-    unit_class:t="ussr_freight_car_1926_a"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8192.0]]
+    unit_class:t="us_railway_boxcar_wagon"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -474,8 +474,8 @@ units{
 
   tankModels{
     name:t="tank_2_1"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8136, 1, 8200.0]]
-    unit_class:t="ussr_railway_freight_car_green"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8136, 1, 8192.0]]
+    unit_class:t="us_railway_carriage"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -505,8 +505,8 @@ units{
 
   tankModels{
     name:t="tank_2_2"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8152, 1, 8200.0]]
-    unit_class:t="ussr_railway_freight_car_green_snow"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8152, 1, 8192.0]]
+    unit_class:t="us_railway_gondola_wagon"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -536,8 +536,8 @@ units{
 
   tankModels{
     name:t="tank_2_3"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8168, 1, 8200.0]]
-    unit_class:t="ussr_railway_freight_car_red"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8168, 1, 8192.0]]
+    unit_class:t="us_railway_locomotive"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -567,101 +567,8 @@ units{
 
   tankModels{
     name:t="tank_2_4"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8184, 1, 8200.0]]
-    unit_class:t="ussr_railway_hopper_wagon_green"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_2_5"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8200, 1, 8200.0]]
-    unit_class:t="ussr_railway_hopper_wagon_red"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_2_6"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8216, 1, 8200.0]]
-    unit_class:t="ussr_railway_low_freight_car_borderless_box_blue"
-    objLayer:i=1
-    closed_waypoints:b=no
-    weapons:t=""
-    bullets0:t=""
-    bullets1:t=""
-    bullets2:t=""
-    bullets3:t=""
-    bulletsCount0:i=0
-    bulletsCount1:i=0
-    bulletsCount2:i=0
-    bulletsCount3:i=0
-
-    props{
-      army:i=2
-      count:i=1
-      formation_type:t="rows"
-      formation_div:i=3
-      formation_step:p2=2.5, 2
-      formation_noise:p2=0.1, 0.1
-      uniqueName:t=""
-      attack_type:t="hold_fire"
-    }
-
-    way{
-    }
-  }
-
-  tankModels{
-    name:t="tank_2_7"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8232, 1, 8200.0]]
-    unit_class:t="ussr_railway_low_freight_car_borderless_box_red"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8184, 1, 8192.0]]
+    unit_class:t="us_railway_passenger_wagon"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -691,8 +598,8 @@ units{
 
   tankModels{
     name:t="tank_3_0"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8216.0]]
-    unit_class:t="ussr_railway_low_freight_car_borderless_green"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8208.0]]
+    unit_class:t="ussr_freight_car_1926_a"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -722,8 +629,8 @@ units{
 
   tankModels{
     name:t="tank_3_1"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8136, 1, 8216.0]]
-    unit_class:t="ussr_railway_low_freight_car_borderless_red"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8136, 1, 8208.0]]
+    unit_class:t="ussr_railway_freight_car_green"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -753,8 +660,8 @@ units{
 
   tankModels{
     name:t="tank_3_2"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8152, 1, 8216.0]]
-    unit_class:t="ussr_railway_low_freight_car_green"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8152, 1, 8208.0]]
+    unit_class:t="ussr_railway_freight_car_green_snow"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -784,8 +691,8 @@ units{
 
   tankModels{
     name:t="tank_3_3"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8168, 1, 8216.0]]
-    unit_class:t="ussr_railway_low_freight_car_green_snow"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8168, 1, 8208.0]]
+    unit_class:t="ussr_railway_freight_car_red"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -815,8 +722,8 @@ units{
 
   tankModels{
     name:t="tank_3_4"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8184, 1, 8216.0]]
-    unit_class:t="ussr_railway_low_freight_car_red"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8184, 1, 8208.0]]
+    unit_class:t="ussr_railway_hopper_wagon_green"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -846,8 +753,8 @@ units{
 
   tankModels{
     name:t="tank_3_5"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8200, 1, 8216.0]]
-    unit_class:t="ussr_railway_sleeping_car_green"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8200, 1, 8208.0]]
+    unit_class:t="ussr_railway_hopper_wagon_red"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -877,8 +784,8 @@ units{
 
   tankModels{
     name:t="tank_3_6"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8216, 1, 8216.0]]
-    unit_class:t="ussr_railway_sleeping_car_red"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8216, 1, 8208.0]]
+    unit_class:t="ussr_railway_low_freight_car_borderless_box_blue"
     objLayer:i=1
     closed_waypoints:b=no
     weapons:t=""
@@ -908,7 +815,255 @@ units{
 
   tankModels{
     name:t="tank_3_7"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8232, 1, 8216.0]]
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8232, 1, 8208.0]]
+    unit_class:t="ussr_railway_low_freight_car_borderless_box_red"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_0"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8120, 1, 8224.0]]
+    unit_class:t="ussr_railway_low_freight_car_borderless_green"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_1"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8136, 1, 8224.0]]
+    unit_class:t="ussr_railway_low_freight_car_borderless_red"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_2"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8152, 1, 8224.0]]
+    unit_class:t="ussr_railway_low_freight_car_green"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_3"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8168, 1, 8224.0]]
+    unit_class:t="ussr_railway_low_freight_car_green_snow"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_4"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8184, 1, 8224.0]]
+    unit_class:t="ussr_railway_low_freight_car_red"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_5"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8200, 1, 8224.0]]
+    unit_class:t="ussr_railway_sleeping_car_green"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_6"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8216, 1, 8224.0]]
+    unit_class:t="ussr_railway_sleeping_car_red"
+    objLayer:i=1
+    closed_waypoints:b=no
+    weapons:t=""
+    bullets0:t=""
+    bullets1:t=""
+    bullets2:t=""
+    bullets3:t=""
+    bulletsCount0:i=0
+    bulletsCount1:i=0
+    bulletsCount2:i=0
+    bulletsCount3:i=0
+
+    props{
+      army:i=2
+      count:i=1
+      formation_type:t="rows"
+      formation_div:i=3
+      formation_step:p2=2.5, 2
+      formation_noise:p2=0.1, 0.1
+      uniqueName:t=""
+      attack_type:t="hold_fire"
+    }
+
+    way{
+    }
+  }
+
+  tankModels{
+    name:t="tank_4_7"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8232, 1, 8224.0]]
     unit_class:t="ussr_railway_tank_wagon_1931"
     objLayer:i=1
     closed_waypoints:b=no
@@ -938,8 +1093,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_3_8"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8248, 1, 8216.0]]
+    name:t="tank_4_8"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8248, 1, 8224.0]]
     unit_class:t="ussr_railway_tank_wagon_1931_snow"
     objLayer:i=1
     closed_waypoints:b=no
@@ -969,8 +1124,8 @@ units{
   }
 
   tankModels{
-    name:t="tank_3_9"
-    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8264, 1, 8216.0]]
+    name:t="tank_4_9"
+    tm:m=[[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107] [8264, 1, 8224.0]]
     unit_class:t="ussr_railway_tram_x"
     objLayer:i=1
     closed_waypoints:b=no
@@ -1004,7 +1159,7 @@ units{
 areas{
   area_for_cutscene_0{
     type:t="Point"
-    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7775, 90, 8192]]
+    tm:m=[[1, 0, 0] [0, 1, 0] [0, 0, 1] [7650, 150, 8192]]
     objLayer:i=0
 
     props{

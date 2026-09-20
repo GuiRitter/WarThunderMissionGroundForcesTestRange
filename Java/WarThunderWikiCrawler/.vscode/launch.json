@@ -1,0 +1,19 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "WarThunderWikiCrawler",
+			"request": "launch",
+			"mainClass": "io.github.guiritter.war_thunder_wiki_crawler.WarThunderWikiCrawler",
+			"projectName": "war-thunder-wiki-crawler",
+			"args": [
+				"\"C:\\jogo\\War Thunder\\MISSIONS\\WarThunderMissionGroundForcesTestRange\\data\\wiki\"",
+				"\"C:\\jogo\\War Thunder\\MISSIONS\\WarThunderMissionGroundForcesTestRange\\data\\bridge\\map.json\""
+			]
+		}
+	]
+}

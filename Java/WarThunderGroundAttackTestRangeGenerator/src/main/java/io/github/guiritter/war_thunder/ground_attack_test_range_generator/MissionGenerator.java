@@ -70,7 +70,7 @@ public final class MissionGenerator {
 
 	// get orientation based on faction
 	public static final String getOrientation(String faction) {
-		if (faction == TRAIN) {
+		if ((faction == OTHER) || (faction == TRAIN)) {
 			return "[-0.707107, 0, 0.707107] [0, 1, 0] [-0.707107, 0, -0.707107]";
 		} else {
 			return "[-1, 0, 0] [0, 1, 0] [0, 0, -1]";
